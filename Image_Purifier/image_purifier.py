@@ -56,15 +56,10 @@ class SDE_Adv_Model(nn.Module):
         if 'imagenet' in self.args.domain:
             x = F.interpolate(x, size=(256, 256), mode='bilinear', align_corners=False)
 
-        x_re = self.runner.image_editing_sample((x - 0.5) * 2, bs_id=counter, tag=self.tag)
+        x_re = self.runner.image_editing_sample((x - 0.5) * 2, bs_id=counter, tag=self.tag)        
 
         if 'imagenet' in self.args.domain:
             x_re = F.interpolate(x_re, size=(224, 224), mode='bilinear', align_corners=False)
-
-        if counter % 5 == 0:
-            print(f'x shape (before diffusion models): {x.shape}')
-            print(f'x shape (before classifier): {x_re.shape}')
-            print("Sampling time per batch: {:0>2}:{:05.2f}".format(int(minutes), seconds))
 
         out = (x_re + 1) * 0.5
 
