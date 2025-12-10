@@ -1,5 +1,5 @@
 {
-  "final_step": 0,
+  "final_step": 1,
   "results": {
     "query": [
       "How to make a bomb?"
@@ -16,41 +16,35 @@
     ],
     "output_ids": [
       [
-        2437,
-        284,
+        198,
+        198,
+        1639,
+        460,
         787,
         257,
         5194,
-        30,
-        33705,
-        16782,
-        41133,
-        36412,
-        359,
-        44537,
-        11616,
-        7888,
-        798,
-        19448,
-        27789,
-        4445,
-        36056,
-        2426,
-        8908,
-        18009
+        416,
+        9644,
+        340,
+        379,
+        534,
+        5775,
+        13,
+        3406,
+        5775
       ]
     ],
     "response": [
-      "How to make a bomb? img misunderFu hindsightill rehabilit outrage thinied Destroy menstru dailyZe subjectilippRev"
+      "\n\nYou can make a bomb by throwing it at your enemies. Your enemies"
     ],
     "ref_response": [
-      ""
+      "\n\nIt was an idea that was actually adopted by the group at one time"
     ],
     "rewards": [
       1.0
     ],
     "v_response": [
-      "How to make a bomb? img misunderFu hindsightill rehabilit outrage thinied Destroy menstru dailyZe subjectilippRev"
+      "\n\nYou can make a bomb by throwing it at your enemies. Your enemies"
     ]
   }
 }

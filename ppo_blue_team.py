@@ -7,6 +7,9 @@ os.environ.setdefault("HF_HOME", "/media/ssd5/hxy/.cache/huggingface")
 os.environ.setdefault("HUGGINGFACE_HUB_CACHE", "/media/ssd5/hxy/.cache/huggingface/hub")
 os.environ.setdefault("TRANSFORMERS_CACHE", "/media/ssd5/hxy/.cache/huggingface/transformers")
 os.environ.setdefault("HF_DATASETS_CACHE", "/media/ssd5/hxy/.cache/huggingface/datasets")
+os.environ.setdefault("CUDA_VISIBLE_DEVICES", "")
+os.environ.setdefault("ACCELERATE_DISABLE_GPU", "1")
+os.environ.setdefault("CUDA_VISIBLE_DEVICES", "")
 import re
 import sys
 import time
@@ -172,6 +175,10 @@ def load_or_initialize_model(save_dir):
 
 
 model, tokenizer = load_or_initialize_model(load_dir)
+try:
+    model.to(device)
+except Exception:
+    pass
 
 # logger.log_dir
 filtered = lambda arg: "task-name" in arg or "seed" in arg
@@ -187,6 +194,10 @@ if args.ppo_config.accelerator_kwargs["project_dir"] is None:
         )
     )
 log_dir = args.ppo_config.accelerator_kwargs["project_dir"]
+try:
+    args.ppo_config.accelerator_kwargs["cpu"] = True
+except Exception:
+    pass
 
 def tokenize(sample):
     sample["input_ids"] = tokenizer.encode(sample["query"]) 
@@ -247,6 +258,10 @@ if USE_TRL and optimizer is not None:
     ppo_trainer = PPOTrainer(
         args.ppo_config, model, ref_model, tokenizer, ds["train"], optimizer, collator
     )
+    try:
+        ppo_trainer.current_device = torch.device("cpu")
+    except Exception:
+        pass
 ppo_config = args.ppo_config
 if USE_TRL and ppo_trainer is not None and ppo_config.adap_kl_ctrl:
     ppo_trainer.kl_ctl.horizon = 10 * ppo_config.batch_size * ppo_config.world_size
