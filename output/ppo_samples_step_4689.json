@@ -1,0 +1,19 @@
+{
+  "step": 4689,
+  "query": [
+    "20887",
+    "20223"
+  ],
+  "response": [
+    " 3161 197 Newell 848 2419 3 3 3 1 4 1 24",
+    "/READB, a node. Stoch with type M5-scale"
+  ],
+  "victim_response": [
+    " 3161 197 Newell 848 2419 3 3 3 1 4 1 24",
+    "/READB, a node. Stoch with type M5-scale"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

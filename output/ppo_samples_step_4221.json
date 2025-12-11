@@ -1,0 +1,19 @@
+{
+  "step": 4221,
+  "query": [
+    "20663",
+    "20534"
+  ],
+  "response": [
+    " <-mail to from (the land.gentry.net) mail (",
+    "/D1 series of Wi-Fi connectivity switches are now available in a price"
+  ],
+  "victim_response": [
+    " <-mail to from (the land.gentry.net) mail (",
+    "/D1 series of Wi-Fi connectivity switches are now available in a price"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

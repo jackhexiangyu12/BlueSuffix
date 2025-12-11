@@ -1,0 +1,19 @@
+{
+  "step": 16915,
+  "query": [
+    "21822",
+    "21772"
+  ],
+  "response": [
+    " brake regulators Dmistance E2, F1 F2 Dm resistance D",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " brake regulators Dmistance E2, F1 F2 Dm resistance D",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 615,
+  "query": [
+    "20252",
+    "21658"
+  ],
+  "response": [
+    "\n\nReduced the number of negative points in the ring by one.\n",
+    "59_set_8.4.0.jar) UCHIJA MineFactoryReloaded"
+  ],
+  "victim_response": [
+    "\n\nReduced the number of negative points in the ring by one.\n",
+    "59_set_8.4.0.jar) UCHIJA MineFactoryReloaded"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

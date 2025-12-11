@@ -1,0 +1,19 @@
+{
+  "step": 5260,
+  "query": [
+    "20993",
+    "20042"
+  ],
+  "response": [
+    " x 2 3 1 2 1 1 1 2 1 2 2 1 1 1 1",
+    "1094423112\" \"models_security_type \"acc\", \""
+  ],
+  "victim_response": [
+    " x 2 3 1 2 1 1 1 2 1 2 2 1 1 1 1",
+    "1094423112\" \"models_security_type \"acc\", \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

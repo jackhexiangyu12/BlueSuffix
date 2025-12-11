@@ -1,0 +1,19 @@
+{
+  "step": 879,
+  "query": [
+    "20403",
+    "21810"
+  ],
+  "response": [
+    "::d_wait_mode: wait for the pending process to wait for a",
+    "505089, the program could be a matter of speculation, but it is"
+  ],
+  "victim_response": [
+    "::d_wait_mode: wait for the pending process to wait for a",
+    "505089, the program could be a matter of speculation, but it is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

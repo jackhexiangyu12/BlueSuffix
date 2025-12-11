@@ -1,0 +1,19 @@
+{
+  "step": 5130,
+  "query": [
+    "21608",
+    "20403"
+  ],
+  "response": [
+    "03be99f7f8dfd72f7d0e04",
+    " ppm (a \u03bb ppm) (1) (3) is not the"
+  ],
+  "victim_response": [
+    "03be99f7f8dfd72f7d0e04",
+    " ppm (a \u03bb ppm) (1) (3) is not the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

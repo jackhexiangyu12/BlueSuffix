@@ -1,0 +1,19 @@
+{
+  "step": 297,
+  "query": [
+    "20158",
+    "20396"
+  ],
+  "response": [
+    "\n\nNotes\n\nThe text of this part is in the Appendix section.",
+    ".95\n\n\nFor the most part, they are great. They have"
+  ],
+  "victim_response": [
+    "\n\nNotes\n\nThe text of this part is in the Appendix section.",
+    ".95\n\n\nFor the most part, they are great. They have"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

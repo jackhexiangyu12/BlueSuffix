@@ -1,0 +1,19 @@
+{
+  "step": 1034,
+  "query": [
+    "20925",
+    "21543"
+  ],
+  "response": [
+    ")\n[1]\n\nFacts:\n\nThe media has been",
+    " and the\n\n1931 D.C.M.F.O."
+  ],
+  "victim_response": [
+    ")\n[1]\n\nFacts:\n\nThe media has been",
+    " and the\n\n1931 D.C.M.F.O."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

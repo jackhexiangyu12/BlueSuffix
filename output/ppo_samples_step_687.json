@@ -1,0 +1,19 @@
+{
+  "step": 687,
+  "query": [
+    "20192",
+    "21090"
+  ],
+  "response": [
+    "\",\"image_url\":\"https://imgv2-2.files.net",
+    "\":{\"ame\":\"/wp-content/uploads/2016/04/Screenshots"
+  ],
+  "victim_response": [
+    "\",\"image_url\":\"https://imgv2-2.files.net",
+    "\":{\"ame\":\"/wp-content/uploads/2016/04/Screenshots"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

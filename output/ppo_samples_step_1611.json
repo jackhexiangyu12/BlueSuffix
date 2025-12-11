@@ -1,0 +1,19 @@
+{
+  "step": 1611,
+  "query": [
+    "20295",
+    "21435"
+  ],
+  "response": [
+    "-1.00000000-3,5,2,3,3,6",
+    ".0:8310@gnu/compactors.scandt."
+  ],
+  "victim_response": [
+    "-1.00000000-3,5,2,3,3,6",
+    ".0:8310@gnu/compactors.scandt."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

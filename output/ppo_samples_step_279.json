@@ -1,0 +1,19 @@
+{
+  "step": 279,
+  "query": [
+    "21269",
+    "20750"
+  ],
+  "response": [
+    "/u/deck/attachments/0,0,0,3,",
+    ".\n\n2.5.2.2.2.3.3"
+  ],
+  "victim_response": [
+    "/u/deck/attachments/0,0,0,3,",
+    ".\n\n2.5.2.2.2.3.3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

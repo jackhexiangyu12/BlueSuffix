@@ -1,0 +1,19 @@
+{
+  "step": 2276,
+  "query": [
+    "21541",
+    "20934"
+  ],
+  "response": [
+    " = 0,\n\n202 = 50,\n\n203 = 55,\n",
+    "E01\" ; type 8\n\n\n\"my_county_of_"
+  ],
+  "victim_response": [
+    " = 0,\n\n202 = 50,\n\n203 = 55,\n",
+    "E01\" ; type 8\n\n\n\"my_county_of_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

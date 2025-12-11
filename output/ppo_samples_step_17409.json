@@ -1,0 +1,19 @@
+{
+  "step": 17409,
+  "query": [
+    "20800",
+    "20612"
+  ],
+  "response": [
+    " watts 6 Cable frequencies 1 Sleepwave Frequency 3 Cable Frequency 6 Cable Frequency 1 Cable",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " watts 6 Cable frequencies 1 Sleepwave Frequency 3 Cable Frequency 6 Cable Frequency 1 Cable",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

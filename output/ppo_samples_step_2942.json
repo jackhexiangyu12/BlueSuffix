@@ -1,0 +1,19 @@
+{
+  "step": 2942,
+  "query": [
+    "21393",
+    "20257"
+  ],
+  "response": [
+    "-10.\n\nThe next stage is a recent development that will have a",
+    "k\n\n21.00"
+  ],
+  "victim_response": [
+    "-10.\n\nThe next stage is a recent development that will have a",
+    "k\n\n21.00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

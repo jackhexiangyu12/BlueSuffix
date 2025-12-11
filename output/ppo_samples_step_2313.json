@@ -1,0 +1,19 @@
+{
+  "step": 2313,
+  "query": [
+    "21368",
+    "21692"
+  ],
+  "response": [
+    ",1.9572F-16_sparx_t31_",
+    ",5\n\n\nhttp://www.malkov.net/reporter"
+  ],
+  "victim_response": [
+    ",1.9572F-16_sparx_t31_",
+    ",5\n\n\nhttp://www.malkov.net/reporter"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

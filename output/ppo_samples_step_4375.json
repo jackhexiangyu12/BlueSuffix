@@ -1,0 +1,19 @@
+{
+  "step": 4375,
+  "query": [
+    "21634",
+    "20224"
+  ],
+  "response": [
+    "6663 (in, had power 1383) \"s2d 4b",
+    " (C4D10) headPLD4D4 (D10)"
+  ],
+  "victim_response": [
+    "6663 (in, had power 1383) \"s2d 4b",
+    " (C4D10) headPLD4D4 (D10)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

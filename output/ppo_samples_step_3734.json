@@ -1,0 +1,19 @@
+{
+  "step": 3734,
+  "query": [
+    "20846",
+    "20396"
+  ],
+  "response": [
+    "E0 +2 In the protocol received from NewSpirion, it was",
+    "3 50 M100304860687 M100307280B M100"
+  ],
+  "victim_response": [
+    "E0 +2 In the protocol received from NewSpirion, it was",
+    "3 50 M100304860687 M100307280B M100"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

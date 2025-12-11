@@ -1,0 +1,19 @@
+{
+  "step": 19226,
+  "query": [
+    "21483",
+    "20106"
+  ],
+  "response": [
+    " F F 01 F 00 00 F 00 F 01 F 00 01 F 00 F",
+    "Ar BBC British television will broadcast the BBC's Six-Show Dynasty Programme and its"
+  ],
+  "victim_response": [
+    " F F 01 F 00 00 F 00 F 01 F 00 01 F 00 F",
+    "Ar BBC British television will broadcast the BBC's Six-Show Dynasty Programme and its"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

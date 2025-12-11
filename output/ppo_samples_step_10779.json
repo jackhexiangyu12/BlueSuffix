@@ -1,0 +1,19 @@
+{
+  "step": 10779,
+  "query": [
+    "21191",
+    "20534"
+  ],
+  "response": [
+    " mb \"calc\" mbrc \"mbncbfm\"",
+    "D ID Moblock 8D ID Moblock 6D ID Moblock 7D"
+  ],
+  "victim_response": [
+    " mb \"calc\" mbrc \"mbncbfm\"",
+    "D ID Moblock 8D ID Moblock 6D ID Moblock 7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3292,
+  "query": [
+    "20908",
+    "20341"
+  ],
+  "response": [
+    "-149, Cha : Lactisii, any of the following species:",
+    " \"a fat\" (19150192) call.02.x86"
+  ],
+  "victim_response": [
+    "-149, Cha : Lactisii, any of the following species:",
+    " \"a fat\" (19150192) call.02.x86"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

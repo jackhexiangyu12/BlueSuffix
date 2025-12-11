@@ -1,0 +1,19 @@
+{
+  "step": 6605,
+  "query": [
+    "20771",
+    "21938"
+  ],
+  "response": [
+    "7F7D7D7D7D7D7D7D",
+    " CVE 46122cvvodefa31b8007f01b9"
+  ],
+  "victim_response": [
+    "7F7D7D7D7D7D7D7D",
+    " CVE 46122cvvodefa31b8007f01b9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

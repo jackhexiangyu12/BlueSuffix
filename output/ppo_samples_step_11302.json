@@ -1,0 +1,19 @@
+{
+  "step": 11302,
+  "query": [
+    "20331",
+    "21938"
+  ],
+  "response": [
+    "d8a08d7d7d7d7d7d7",
+    "492 serialized DasiThreadPowerCheckDUnplockDaliCheck flag"
+  ],
+  "victim_response": [
+    "d8a08d7d7d7d7d7d7",
+    "492 serialized DasiThreadPowerCheckDUnplockDaliCheck flag"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

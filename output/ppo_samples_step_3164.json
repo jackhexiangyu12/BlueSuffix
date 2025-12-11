@@ -1,0 +1,19 @@
+{
+  "step": 3164,
+  "query": [
+    "21709",
+    "21796"
+  ],
+  "response": [
+    "6, et al. (2009), Schoenf et al., 2010.",
+    "1/matcher \"\n\n\n\" </sv2>\n\n\n(1"
+  ],
+  "victim_response": [
+    "6, et al. (2009), Schoenf et al., 2010.",
+    "1/matcher \"\n\n\n\" </sv2>\n\n\n(1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

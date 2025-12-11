@@ -1,0 +1,19 @@
+{
+  "step": 14870,
+  "query": [
+    "20846",
+    "20968"
+  ],
+  "response": [
+    " producer c2 DNFD02D02D02D02D02D",
+    "7D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " producer c2 DNFD02D02D02D02D02D",
+    "7D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

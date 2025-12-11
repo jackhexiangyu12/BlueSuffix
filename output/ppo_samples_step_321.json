@@ -1,0 +1,19 @@
+{
+  "step": 321,
+  "query": [
+    "21496",
+    "21822"
+  ],
+  "response": [
+    "/10-19-13-93-1.html\n\nhttp://",
+    "//i/x/index.html\n\nThe first two lines are"
+  ],
+  "victim_response": [
+    "/10-19-13-93-1.html\n\nhttp://",
+    "//i/x/index.html\n\nThe first two lines are"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14594,
+  "query": [
+    "20812",
+    "20762"
+  ],
+  "response": [
+    " female cancer cancer cell cancers 10 g Chinese diplants Chinese clinical trials Chinese pathology",
+    " drug level 6 man 23 Child drug dosage level 5 male 7 female child drug level"
+  ],
+  "victim_response": [
+    " female cancer cancer cell cancers 10 g Chinese diplants Chinese clinical trials Chinese pathology",
+    " drug level 6 man 23 Child drug dosage level 5 male 7 female child drug level"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1065,
+  "query": [
+    "20062",
+    "21938"
+  ],
+  "response": [
+    ".\n\nmoule-discover-and-garden-201",
+    ", which provides a way to query parameters on a Redundet (or a"
+  ],
+  "victim_response": [
+    ".\n\nmoule-discover-and-garden-201",
+    ", which provides a way to query parameters on a Redundet (or a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

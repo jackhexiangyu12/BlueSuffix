@@ -1,0 +1,19 @@
+{
+  "step": 12945,
+  "query": [
+    "20224",
+    "20067"
+  ],
+  "response": [
+    "_DATSoft 00 00 00 00 00 00 00 00 00 00 00 00",
+    "D7DF7DF7DF7DF7DF7DF7DF7"
+  ],
+  "victim_response": [
+    "_DATSoft 00 00 00 00 00 00 00 00 00 00 00 00",
+    "D7DF7DF7DF7DF7DF7DF7DF7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

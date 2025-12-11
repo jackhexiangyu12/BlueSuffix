@@ -1,0 +1,19 @@
+{
+  "step": 11865,
+  "query": [
+    "20411",
+    "21267"
+  ],
+  "response": [
+    "057 17 Fax 70577987F7777 77D",
+    "00000Z chipsetD2DCCDLL 00 00 00 00 00 00"
+  ],
+  "victim_response": [
+    "057 17 Fax 70577987F7777 77D",
+    "00000Z chipsetD2DCCDLL 00 00 00 00 00 00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

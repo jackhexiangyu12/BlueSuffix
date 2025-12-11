@@ -1,0 +1,19 @@
+{
+  "step": 15294,
+  "query": [
+    "21041",
+    "21541"
+  ],
+  "response": [
+    "DDDDDDD D D D D D D D D D",
+    " Cannata production car\n\nEl Dorado production in El Dorados, California"
+  ],
+  "victim_response": [
+    "DDDDDDD D D D D D D D D D",
+    " Cannata production car\n\nEl Dorado production in El Dorados, California"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

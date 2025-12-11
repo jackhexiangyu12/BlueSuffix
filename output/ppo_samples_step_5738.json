@@ -1,0 +1,19 @@
+{
+  "step": 5738,
+  "query": [
+    "20993",
+    "21441"
+  ],
+  "response": [
+    ", 863 0 0.453 A low B-def hash table appears to",
+    "e98fced7e8c5d9a6d8"
+  ],
+  "victim_response": [
+    ", 863 0 0.453 A low B-def hash table appears to",
+    "e98fced7e8c5d9a6d8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

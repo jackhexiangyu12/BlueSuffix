@@ -1,0 +1,19 @@
+{
+  "step": 2553,
+  "query": [
+    "20925",
+    "21392"
+  ],
+  "response": [
+    "F1E1D5BE80F5C7CEA9C",
+    " (from 90.4% to 93.3%) between the age of 15"
+  ],
+  "victim_response": [
+    "F1E1D5BE80F5C7CEA9C",
+    " (from 90.4% to 93.3%) between the age of 15"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

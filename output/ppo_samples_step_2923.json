@@ -1,0 +1,19 @@
+{
+  "step": 2923,
+  "query": [
+    "21974",
+    "21608"
+  ],
+  "response": [
+    "25\n\n\nWhat is the original name of this this, this?\n\n\n",
+    "d2f7d33c746b9f5ea5bd"
+  ],
+  "victim_response": [
+    "25\n\n\nWhat is the original name of this this, this?\n\n\n",
+    "d2f7d33c746b9f5ea5bd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

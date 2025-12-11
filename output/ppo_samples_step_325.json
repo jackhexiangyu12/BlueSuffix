@@ -1,0 +1,19 @@
+{
+  "step": 325,
+  "query": [
+    "20593",
+    "20750"
+  ],
+  "response": [
+    ".056.64.0 [English] (Stmt) Aug 17",
+    "6\",\"id\":\"http://www.st-mcgillin.com"
+  ],
+  "victim_response": [
+    ".056.64.0 [English] (Stmt) Aug 17",
+    "6\",\"id\":\"http://www.st-mcgillin.com"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

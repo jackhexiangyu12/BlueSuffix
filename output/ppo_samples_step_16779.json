@@ -1,0 +1,19 @@
+{
+  "step": 16779,
+  "query": [
+    "21529",
+    "21291"
+  ],
+  "response": [
+    "23D D D D D D D D D D D D D D D",
+    " X cat Serial FCC D DPN DPN DPN DPN DPN D"
+  ],
+  "victim_response": [
+    "23D D D D D D D D D D D D D D D",
+    " X cat Serial FCC D DPN DPN DPN DPN DPN D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

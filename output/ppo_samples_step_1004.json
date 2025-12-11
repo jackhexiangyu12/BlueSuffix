@@ -1,0 +1,19 @@
+{
+  "step": 1004,
+  "query": [
+    "20670",
+    "21709"
+  ],
+  "response": [
+    ":0004:0008:0008:0008:0008:",
+    "636_df\", \"ItemThumbnailImage\"\"]=> \"/wcsstore//wcsstore/null/"
+  ],
+  "victim_response": [
+    ":0004:0008:0008:0008:0008:",
+    "636_df\", \"ItemThumbnailImage\"\"]=> \"/wcsstore//wcsstore/null/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

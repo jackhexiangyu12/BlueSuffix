@@ -1,0 +1,19 @@
+{
+  "step": 256,
+  "query": [
+    "21839",
+    "21895"
+  ],
+  "response": [
+    " and the \"incompare to the current\" (\n\nAnd the \"",
+    ".\n\nThere is a wealth of evidence supporting the theory that the web is"
+  ],
+  "victim_response": [
+    " and the \"incompare to the current\" (\n\nAnd the \"",
+    ".\n\nThere is a wealth of evidence supporting the theory that the web is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

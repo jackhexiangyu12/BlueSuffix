@@ -1,0 +1,19 @@
+{
+  "step": 15198,
+  "query": [
+    "20593",
+    "21709"
+  ],
+  "response": [
+    " D-NFD DNF DNFD DNFDD DNFD",
+    "\" and \"hmpqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    " D-NFD DNF DNFD DNFDD DNFD",
+    "\" and \"hmpqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

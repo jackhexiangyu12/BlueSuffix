@@ -1,0 +1,19 @@
+{
+  "step": 858,
+  "query": [
+    "21909",
+    "21634"
+  ],
+  "response": [
+    "] [-CURRENT_SECOND] Package: C:\\Program Files (",
+    " | Zig:1 | Entered the level 1x11x25-filled square"
+  ],
+  "victim_response": [
+    "] [-CURRENT_SECOND] Package: C:\\Program Files (",
+    " | Zig:1 | Entered the level 1x11x25-filled square"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

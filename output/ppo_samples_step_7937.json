@@ -1,0 +1,19 @@
+{
+  "step": 7937,
+  "query": [
+    "21707",
+    "20916"
+  ],
+  "response": [
+    "2115txlctctctctctctctctctctctct",
+    ":719764 Computing access zero virtual memory at e3025d7df"
+  ],
+  "victim_response": [
+    "2115txlctctctctctctctctctctctct",
+    ":719764 Computing access zero virtual memory at e3025d7df"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

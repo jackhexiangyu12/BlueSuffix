@@ -1,0 +1,19 @@
+{
+  "step": 17951,
+  "query": [
+    "20000",
+    "21000"
+  ],
+  "response": [
+    " 007c7ca7ca7ca7ca7ca7ca7",
+    " 6 cells Heat cells cell heat cell number cell heat cell number cell heat cell heat"
+  ],
+  "victim_response": [
+    " 007c7ca7ca7ca7ca7ca7ca7",
+    " 6 cells Heat cells cell heat cell number cell heat cell number cell heat cell heat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

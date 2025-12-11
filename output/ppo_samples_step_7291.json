@@ -1,0 +1,19 @@
+{
+  "step": 7291,
+  "query": [
+    "20178",
+    "20639"
+  ],
+  "response": [
+    "010 Hydra: No amount Hydra: No Hydra: 1 Hydra",
+    "d7d7d7d7d7d7d7d7"
+  ],
+  "victim_response": [
+    "010 Hydra: No amount Hydra: No Hydra: 1 Hydra",
+    "d7d7d7d7d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

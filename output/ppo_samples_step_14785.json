@@ -1,0 +1,19 @@
+{
+  "step": 14785,
+  "query": [
+    "21483",
+    "20090"
+  ],
+  "response": [
+    " the tumor is more likely to cause a cancer the tumor is more likely to cause",
+    "D3D0D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " the tumor is more likely to cause a cancer the tumor is more likely to cause",
+    "D3D0D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

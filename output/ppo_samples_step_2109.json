@@ -1,0 +1,19 @@
+{
+  "step": 2109,
+  "query": [
+    "20908",
+    "21233"
+  ],
+  "response": [
+    ",0,71,107 +907,728,22,57",
+    "82. The City of California,\n\n1-5. San Diego,"
+  ],
+  "victim_response": [
+    ",0,71,107 +907,728,22,57",
+    "82. The City of California,\n\n1-5. San Diego,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6012,
+  "query": [
+    "20010",
+    "20178"
+  ],
+  "response": [
+    "a7bd69d7bd3ad3d5b8d",
+    ", the following the pattern of the next 26+25 is the pattern of the"
+  ],
+  "victim_response": [
+    "a7bd69d7bd3ad3d5b8d",
+    ", the following the pattern of the next 26+25 is the pattern of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

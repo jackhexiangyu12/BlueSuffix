@@ -1,0 +1,19 @@
+{
+  "step": 414,
+  "query": [
+    "21181",
+    "20757"
+  ],
+  "response": [
+    ":FINISHED_H:07:12:300:FINISHISH",
+    "2528_DL_F_Z_Z_2_2_2"
+  ],
+  "victim_response": [
+    ":FINISHED_H:07:12:300:FINISHISH",
+    "2528_DL_F_Z_Z_2_2_2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

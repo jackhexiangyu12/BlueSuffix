@@ -1,0 +1,19 @@
+{
+  "step": 7136,
+  "query": [
+    "21356",
+    "20396"
+  ],
+  "response": [
+    "0001 [Plant for Zuirius addd_9db8",
+    "dDBDDBDBDBDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "victim_response": [
+    "0001 [Plant for Zuirius addd_9db8",
+    "dDBDDBDBDBDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14081,
+  "query": [
+    "21090",
+    "21767"
+  ],
+  "response": [
+    "DDDDDDDDDDDDDDDD",
+    " wirelessnetwork router at 10.00000000 00 00 00 00 00 00 00 00 00"
+  ],
+  "victim_response": [
+    "DDDDDDDDDDDDDDDD",
+    " wirelessnetwork router at 10.00000000 00 00 00 00 00 00 00 00 00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

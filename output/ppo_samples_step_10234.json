@@ -1,0 +1,19 @@
+{
+  "step": 10234,
+  "query": [
+    "20360",
+    "21125"
+  ],
+  "response": [
+    "D6DdDdDdDdDdDdDd",
+    "695 (D row header = request cpu idx unicode func winb "
+  ],
+  "victim_response": [
+    "D6DdDdDdDdDdDdDd",
+    "695 (D row header = request cpu idx unicode func winb "
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

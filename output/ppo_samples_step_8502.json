@@ -1,0 +1,19 @@
+{
+  "step": 8502,
+  "query": [
+    "20030",
+    "20281"
+  ],
+  "response": [
+    "3001 d9b7d9d7 d9cb7d7",
+    " Source: cyaoctan hash phash hash hash hash hash hash hash hash"
+  ],
+  "victim_response": [
+    "3001 d9b7d9d7 d9cb7d7",
+    " Source: cyaoctan hash phash hash hash hash hash hash hash hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

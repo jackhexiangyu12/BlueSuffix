@@ -1,0 +1,19 @@
+{
+  "step": 818,
+  "query": [
+    "20445",
+    "20559"
+  ],
+  "response": [
+    " | Elf:3 | Found a corrupted altar of Lugonu. 699",
+    "28\n\nBobber's only right now is getting a $25,000"
+  ],
+  "victim_response": [
+    " | Elf:3 | Found a corrupted altar of Lugonu. 699",
+    "28\n\nBobber's only right now is getting a $25,000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

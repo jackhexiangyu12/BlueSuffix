@@ -1,0 +1,19 @@
+{
+  "step": 5095,
+  "query": [
+    "20047",
+    "20158"
+  ],
+  "response": [
+    "//1x0f00c2e000a0c1d5",
+    ", fons' module mode is now assigned to frd07010101"
+  ],
+  "victim_response": [
+    "//1x0f00c2e000a0c1d5",
+    ", fons' module mode is now assigned to frd07010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

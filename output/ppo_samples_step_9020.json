@@ -1,0 +1,19 @@
+{
+  "step": 9020,
+  "query": [
+    "21950",
+    "20401"
+  ],
+  "response": [
+    "21b1df7df7dfdfd7df7dfdfd",
+    "0101D MtexCoelLensChannel lens 21d60010101"
+  ],
+  "victim_response": [
+    "21b1df7df7dfdfd7df7dfdfd",
+    "0101D MtexCoelLensChannel lens 21d60010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

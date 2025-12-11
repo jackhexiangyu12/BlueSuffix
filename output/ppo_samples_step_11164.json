@@ -1,0 +1,19 @@
+{
+  "step": 11164,
+  "query": [
+    "21303",
+    "20252"
+  ],
+  "response": [
+    "D02D00D003D7D001D001D001D001",
+    " 179787 Dattaca MugPadsDattaca19000DM8"
+  ],
+  "victim_response": [
+    "D02D00D003D7D001D001D001D001",
+    " 179787 Dattaca MugPadsDattaca19000DM8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 492,
+  "query": [
+    "20360",
+    "20871"
+  ],
+  "response": [
+    "76404040404040404040404040404040",
+    ") from Removedpixel atlas.n.logging.OfflineLogger ("
+  ],
+  "victim_response": [
+    "76404040404040404040404040404040",
+    ") from Removedpixel atlas.n.logging.OfflineLogger ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

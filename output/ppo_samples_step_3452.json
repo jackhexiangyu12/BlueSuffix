@@ -1,0 +1,19 @@
+{
+  "step": 3452,
+  "query": [
+    "20257",
+    "21938"
+  ],
+  "response": [
+    "2486, v0, Chhine, Rnark.\n\n",
+    "&tx_id=1&b8dee-19c7dd"
+  ],
+  "victim_response": [
+    "2486, v0, Chhine, Rnark.\n\n",
+    "&tx_id=1&b8dee-19c7dd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

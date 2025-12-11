@@ -1,0 +1,19 @@
+{
+  "step": 1318,
+  "query": [
+    "21160",
+    "21845"
+  ],
+  "response": [
+    "\n\nQA: When the seller came to make a sale to me what",
+    "46\" in the text, \"in\" would appear to be that of \""
+  ],
+  "victim_response": [
+    "\n\nQA: When the seller came to make a sale to me what",
+    "46\" in the text, \"in\" would appear to be that of \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

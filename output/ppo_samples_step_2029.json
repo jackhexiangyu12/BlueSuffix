@@ -1,0 +1,19 @@
+{
+  "step": 2029,
+  "query": [
+    "20403",
+    "20401"
+  ],
+  "response": [
+    "\n\n20403\n\n\n20403\n\n20401\n\n20",
+    "b3a6a7a7d8d9ac1d9"
+  ],
+  "victim_response": [
+    "\n\n20403\n\n\n20403\n\n20401\n\n20",
+    "b3a6a7a7d8d9ac1d9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

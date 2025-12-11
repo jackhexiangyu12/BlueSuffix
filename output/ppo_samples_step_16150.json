@@ -1,0 +1,19 @@
+{
+  "step": 16150,
+  "query": [
+    "21608",
+    "20509"
+  ],
+  "response": [
+    " D catspap D catpap D catspap D catsp cats",
+    "001D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " D catspap D catpap D catspap D catsp cats",
+    "001D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

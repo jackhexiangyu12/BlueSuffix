@@ -1,0 +1,19 @@
+{
+  "step": 2567,
+  "query": [
+    "20144",
+    "20120"
+  ],
+  "response": [
+    ".2 [4] c@c0a29c39a2 2",
+    "4641$ to https://www.galadrid.com/ash7"
+  ],
+  "victim_response": [
+    ".2 [4] c@c0a29c39a2 2",
+    "4641$ to https://www.galadrid.com/ash7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

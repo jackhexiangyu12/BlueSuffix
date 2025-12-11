@@ -1,0 +1,19 @@
+{
+  "step": 740,
+  "query": [
+    "20223",
+    "20418"
+  ],
+  "response": [
+    "-1\n\n1\n\n1\n\n3\n\n1\n\n",
+    "33, which is a large amount of revenue to be made in the same way"
+  ],
+  "victim_response": [
+    "-1\n\n1\n\n1\n\n3\n\n1\n\n",
+    "33, which is a large amount of revenue to be made in the same way"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

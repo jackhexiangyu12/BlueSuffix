@@ -1,0 +1,19 @@
+{
+  "step": 20350,
+  "query": [
+    "21160",
+    "20626"
+  ],
+  "response": [
+    " D cell phone charger charging had failed successful charging target D cell charging failed charging failed",
+    "qqqqqqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    " D cell phone charger charging had failed successful charging target D cell charging failed charging failed",
+    "qqqqqqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

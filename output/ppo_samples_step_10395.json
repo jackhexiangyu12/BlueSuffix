@@ -1,0 +1,19 @@
+{
+  "step": 10395,
+  "query": [
+    "20047",
+    "20224"
+  ],
+  "response": [
+    " 1 Ford Ford scooter and a Chevy Campbell car 3 Ford car with Toyota Toyota",
+    " is wired into the TCP for a test rate of 100,000Mbps will allow"
+  ],
+  "victim_response": [
+    " 1 Ford Ford scooter and a Chevy Campbell car 3 Ford car with Toyota Toyota",
+    " is wired into the TCP for a test rate of 100,000Mbps will allow"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 163,
+  "query": [
+    "20559",
+    "21496"
+  ],
+  "response": [
+    "] [058E9E9] [0E9E9E",
+    "0\n\n[01:08:07] [Client thread/INFO]"
+  ],
+  "victim_response": [
+    "] [058E9E9] [0E9E9E",
+    "0\n\n[01:08:07] [Client thread/INFO]"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

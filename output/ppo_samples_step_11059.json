@@ -1,0 +1,19 @@
+{
+  "step": 11059,
+  "query": [
+    "21938",
+    "21262"
+  ],
+  "response": [
+    " nm HHz TDP Thermal temperature temperature chip Intel Xeon P7 765 PCI",
+    " key failure handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake"
+  ],
+  "victim_response": [
+    " nm HHz TDP Thermal temperature temperature chip Intel Xeon P7 765 PCI",
+    " key failure handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake handshake"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

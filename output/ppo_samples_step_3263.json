@@ -1,0 +1,19 @@
+{
+  "step": 3263,
+  "query": [
+    "21541",
+    "20887"
+  ],
+  "response": [
+    " $2.09 $4 $2.0936 $2.09 $",
+    "\\ The last bits of the disk that we are interested in are represented by a"
+  ],
+  "victim_response": [
+    " $2.09 $4 $2.0936 $2.09 $",
+    "\\ The last bits of the disk that we are interested in are represented by a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

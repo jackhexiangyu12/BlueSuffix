@@ -1,0 +1,19 @@
+{
+  "step": 517,
+  "query": [
+    "21392",
+    "21543"
+  ],
+  "response": [
+    ".\n\nThe following table shows the total number of votes cast in the election",
+    " and a few minutes later, I am able to track down that one from the"
+  ],
+  "victim_response": [
+    ".\n\nThe following table shows the total number of votes cast in the election",
+    " and a few minutes later, I am able to track down that one from the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

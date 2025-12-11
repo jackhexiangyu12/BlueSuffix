@@ -1,0 +1,19 @@
+{
+  "step": 7985,
+  "query": [
+    "21292",
+    "20993"
+  ],
+  "response": [
+    ", the model is more likely to be missing than the null model. The models",
+    " lnTn is the bp (dbc in the data) type"
+  ],
+  "victim_response": [
+    ", the model is more likely to be missing than the null model. The models",
+    " lnTn is the bp (dbc in the data) type"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

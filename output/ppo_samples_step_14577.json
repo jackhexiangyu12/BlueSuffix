@@ -1,0 +1,19 @@
+{
+  "step": 14577,
+  "query": [
+    "20178",
+    "20252"
+  ],
+  "response": [
+    "0105020101 01000000030101010101010201",
+    " Robert Genf could be found here His brother Robert Genf was found here Robert"
+  ],
+  "victim_response": [
+    "0105020101 01000000030101010101010201",
+    " Robert Genf could be found here His brother Robert Genf was found here Robert"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

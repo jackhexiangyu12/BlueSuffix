@@ -1,0 +1,19 @@
+{
+  "step": 1988,
+  "query": [
+    "21160",
+    "21810"
+  ],
+  "response": [
+    ": /usr/lib/systemd/boot/parallel-libraries",
+    ".1 --5,9 -1.1 -5.2 -"
+  ],
+  "victim_response": [
+    ": /usr/lib/systemd/boot/parallel-libraries",
+    ".1 --5,9 -1.1 -5.2 -"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

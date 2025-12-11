@@ -1,0 +1,19 @@
+{
+  "step": 8642,
+  "query": [
+    "20224",
+    "21418"
+  ],
+  "response": [
+    ".063033001010 ds wips 019pwfrw",
+    " 0x0000000 7xb6a7a7c7c7c7"
+  ],
+  "victim_response": [
+    ".063033001010 ds wips 019pwfrw",
+    " 0x0000000 7xb6a7a7c7c7c7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

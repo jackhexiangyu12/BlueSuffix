@@ -1,0 +1,19 @@
+{
+  "step": 11086,
+  "query": [
+    "20697",
+    "21984"
+  ],
+  "response": [
+    "DDDDDDDDDDDDDDDD",
+    "-5 Duquesco-Mechanical, Chemical Engineering, Mechanical Engineering,"
+  ],
+  "victim_response": [
+    "DDDDDDDDDDDDDDDD",
+    "-5 Duquesco-Mechanical, Chemical Engineering, Mechanical Engineering,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

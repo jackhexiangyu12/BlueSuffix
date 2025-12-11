@@ -1,0 +1,19 @@
+{
+  "step": 1191,
+  "query": [
+    "20925",
+    "20934"
+  ],
+  "response": [
+    " (25)\n\nDodging a Sleeping Bag: I know that sleeping",
+    "(42), 37, 3, (9), (45),"
+  ],
+  "victim_response": [
+    " (25)\n\nDodging a Sleeping Bag: I know that sleeping",
+    "(42), 37, 3, (9), (45),"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

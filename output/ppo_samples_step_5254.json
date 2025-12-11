@@ -1,0 +1,19 @@
+{
+  "step": 5254,
+  "query": [
+    "21292",
+    "20908"
+  ],
+  "response": [
+    "_composer45/1c51d25d3f2d",
+    "577780426631e9bb8e6d4d7de"
+  ],
+  "victim_response": [
+    "_composer45/1c51d25d3f2d",
+    "577780426631e9bb8e6d4d7de"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2774,
+  "query": [
+    "20257",
+    "20504"
+  ],
+  "response": [
+    "_11.user_id and the userid to which the log logs are",
+    " is a potentially dangerous system. The code takes too long to register and/or"
+  ],
+  "victim_response": [
+    "_11.user_id and the userid to which the log logs are",
+    " is a potentially dangerous system. The code takes too long to register and/or"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

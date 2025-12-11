@@ -1,0 +1,19 @@
+{
+  "step": 2789,
+  "query": [
+    "20341",
+    "20697"
+  ],
+  "response": [
+    "\n\nAndroid5, 5.1.2 on linux AOSP 6 on",
+    "-03937::2.0\n\nThe list of options is the"
+  ],
+  "victim_response": [
+    "\n\nAndroid5, 5.1.2 on linux AOSP 6 on",
+    "-03937::2.0\n\nThe list of options is the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

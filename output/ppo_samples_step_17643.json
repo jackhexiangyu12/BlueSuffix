@@ -1,0 +1,19 @@
+{
+  "step": 17643,
+  "query": [
+    "20908",
+    "20787"
+  ],
+  "response": [
+    "7D DBus common 7D DBus common DBus DBus DBus",
+    " F7 F7 F7 F7 F7 F7 F7 F7"
+  ],
+  "victim_response": [
+    "7D DBus common 7D DBus common DBus DBus DBus",
+    " F7 F7 F7 F7 F7 F7 F7 F7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

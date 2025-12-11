@@ -1,0 +1,19 @@
+{
+  "step": 918,
+  "query": [
+    "21041",
+    "21974"
+  ],
+  "response": [
+    "\n\n1.0\n\n10.0/3/2016 14:",
+    "205612342968343250\n\n- Turbynamic version"
+  ],
+  "victim_response": [
+    "\n\n1.0\n\n10.0/3/2016 14:",
+    "205612342968343250\n\n- Turbynamic version"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2489,
+  "query": [
+    "20887",
+    "21658"
+  ],
+  "response": [
+    " (3.9) 0:19-9 (0.6) 1",
+    ",\"cording id f2fb57b9c2d6d0"
+  ],
+  "victim_response": [
+    " (3.9) 0:19-9 (0.6) 1",
+    ",\"cording id f2fb57b9c2d6d0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

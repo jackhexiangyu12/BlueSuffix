@@ -1,0 +1,19 @@
+{
+  "step": 4233,
+  "query": [
+    "21267",
+    "20583"
+  ],
+  "response": [
+    "89\" my_diancet => \"bound a\" my_sub_",
+    "\\.png 73\n\n---\nTandi, a blurring of one"
+  ],
+  "victim_response": [
+    "89\" my_diancet => \"bound a\" my_sub_",
+    "\\.png 73\n\n---\nTandi, a blurring of one"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8821,
+  "query": [
+    "21974",
+    "21520"
+  ],
+  "response": [
+    " 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+    " Wireless Adapter Router is the fastest wireless router in the world, is also the fastest"
+  ],
+  "victim_response": [
+    " 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+    " Wireless Adapter Router is the fastest wireless router in the world, is also the fastest"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

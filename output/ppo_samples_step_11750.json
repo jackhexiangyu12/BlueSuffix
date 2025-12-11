@@ -1,0 +1,19 @@
+{
+  "step": 11750,
+  "query": [
+    "21081",
+    "20836"
+  ],
+  "response": [
+    "m 2NP ITC WZTERTcTTnTeTNtTT",
+    "> hottest target aircraft 0071873707 7D7DBD7DB"
+  ],
+  "victim_response": [
+    "m 2NP ITC WZTERTcTTnTeTNtTT",
+    "> hottest target aircraft 0071873707 7D7DBD7DB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

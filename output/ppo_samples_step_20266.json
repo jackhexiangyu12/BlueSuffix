@@ -1,0 +1,19 @@
+{
+  "step": 20266,
+  "query": [
+    "20401",
+    "20504"
+  ],
+  "response": [
+    " 01 F different crops vis watch 00 01 F change 01 F different crops vis 00",
+    "D D The information on the cell block gene D7D D D D D"
+  ],
+  "victim_response": [
+    " 01 F different crops vis watch 00 01 F change 01 F different crops vis 00",
+    "D D The information on the cell block gene D7D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

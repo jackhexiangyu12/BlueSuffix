@@ -1,0 +1,19 @@
+{
+  "step": 15876,
+  "query": [
+    "21550",
+    "20360"
+  ],
+  "response": [
+    " of Scharf wasn't born in New York, we are born in Dallas.\"",
+    " they were at the laboratory, right away. And they were in their lab room"
+  ],
+  "victim_response": [
+    " of Scharf wasn't born in New York, we are born in Dallas.\"",
+    " they were at the laboratory, right away. And they were in their lab room"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

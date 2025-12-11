@@ -1,0 +1,19 @@
+{
+  "step": 5613,
+  "query": [
+    "21125",
+    "20245"
+  ],
+  "response": [
+    "11 DCT l1-xlp1xb0 = 0D0",
+    "\" \"this\" would be \"false\" if we are running the program \""
+  ],
+  "victim_response": [
+    "11 DCT l1-xlp1xb0 = 0D0",
+    "\" \"this\" would be \"false\" if we are running the program \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

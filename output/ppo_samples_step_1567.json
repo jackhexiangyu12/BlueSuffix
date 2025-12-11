@@ -1,0 +1,19 @@
+{
+  "step": 1567,
+  "query": [
+    "20030",
+    "20750"
+  ],
+  "response": [
+    "f.\n\n###In the following images and annotations, for more information,",
+    "5: 1.8, 1920x1080x1704: 3.5"
+  ],
+  "victim_response": [
+    "f.\n\n###In the following images and annotations, for more information,",
+    "5: 1.8, 1920x1080x1704: 3.5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

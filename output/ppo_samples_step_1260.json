@@ -1,0 +1,19 @@
+{
+  "step": 1260,
+  "query": [
+    "20282",
+    "20871"
+  ],
+  "response": [
+    "] [0x700000000] C:\\Users\\mylittlelittlepony",
+    " 1,0,0.08,0.02,0.03,"
+  ],
+  "victim_response": [
+    "] [0x700000000] C:\\Users\\mylittlelittlepony",
+    " 1,0,0.08,0.02,0.03,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

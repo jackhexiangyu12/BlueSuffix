@@ -1,0 +1,19 @@
+{
+  "step": 809,
+  "query": [
+    "21550",
+    "21226"
+  ],
+  "response": [
+    "%\n\nLocation: 1230 E. College Ave.\n\nDetroit,",
+    "100+00:00:00 UTC+00:00+00:00"
+  ],
+  "victim_response": [
+    "%\n\nLocation: 1230 E. College Ave.\n\nDetroit,",
+    "100+00:00:00 UTC+00:00+00:00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

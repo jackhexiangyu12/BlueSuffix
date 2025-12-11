@@ -1,0 +1,19 @@
+{
+  "step": 11017,
+  "query": [
+    "20396",
+    "20010"
+  ],
+  "response": [
+    "d7d7d7d77d7d7d7d",
+    " model is a normal cellphone model, which is now the same model for much cheaper"
+  ],
+  "victim_response": [
+    "d7d7d7d77d7d7d7d",
+    " model is a normal cellphone model, which is now the same model for much cheaper"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

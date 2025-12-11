@@ -1,0 +1,19 @@
+{
+  "step": 10545,
+  "query": [
+    "21406",
+    "21541"
+  ],
+  "response": [
+    "D masked fox dragon mask mask mask mask mask mask mask mask mask mask mask mask",
+    "FMBagfvmnybhzndjmq3djmnyw"
+  ],
+  "victim_response": [
+    "D masked fox dragon mask mask mask mask mask mask mask mask mask mask mask mask",
+    "FMBagfvmnybhzndjmq3djmnyw"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

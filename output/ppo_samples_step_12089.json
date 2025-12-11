@@ -1,0 +1,19 @@
+{
+  "step": 12089,
+  "query": [
+    "21739",
+    "21888"
+  ],
+  "response": [
+    "00110703018G0180601905D5D012D019001",
+    "719BrainksMsDCA cable information is being the following file information from"
+  ],
+  "victim_response": [
+    "00110703018G0180601905D5D012D019001",
+    "719BrainksMsDCA cable information is being the following file information from"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

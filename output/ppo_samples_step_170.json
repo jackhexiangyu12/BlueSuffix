@@ -1,0 +1,19 @@
+{
+  "step": 170,
+  "query": [
+    "20295",
+    "20653"
+  ],
+  "response": [
+    ".\n\nThe original source is from the following:\nhttp://www.",
+    ", 0.03, 0.02, 0.02, 0.02"
+  ],
+  "victim_response": [
+    ".\n\nThe original source is from the following:\nhttp://www.",
+    ", 0.03, 0.02, 0.02, 0.02"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

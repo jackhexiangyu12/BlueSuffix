@@ -1,0 +1,19 @@
+{
+  "step": 15311,
+  "query": [
+    "20559",
+    "21267"
+  ],
+  "response": [
+    "78 DATT2 robot factoryworker DATTATTATTATTATTATTATTATT",
+    " D DCCD 05, DCCDCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    "78 DATT2 robot factoryworker DATTATTATTATTATTATTATTATT",
+    " D DCCD 05, DCCDCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

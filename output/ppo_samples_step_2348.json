@@ -1,0 +1,19 @@
+{
+  "step": 2348,
+  "query": [
+    "21125",
+    "21126"
+  ],
+  "response": [
+    "3375\" tax-2.0\" = $2.0-1",
+    "\n\n\"A big part of this is the length of the world is the"
+  ],
+  "victim_response": [
+    "3375\" tax-2.0\" = $2.0-1",
+    "\n\n\"A big part of this is the length of the world is the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

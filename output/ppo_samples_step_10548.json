@@ -1,0 +1,19 @@
+{
+  "step": 10548,
+  "query": [
+    "21760",
+    "21214"
+  ],
+  "response": [
+    " 802en3 Block fefffffffffffffffffffffffffeefffffeeffffffff",
+    "952D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " 802en3 Block fefffffffffffffffffffffffffeefffffeeffffffff",
+    "952D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

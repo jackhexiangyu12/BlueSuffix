@@ -1,0 +1,19 @@
+{
+  "step": 9691,
+  "query": [
+    "20120",
+    "20750"
+  ],
+  "response": [
+    "80231D523DD50D523D523D523DD523",
+    " MHz D=2xxx Jonesdarax Intel the Terminator Intel the Terminator Intel"
+  ],
+  "victim_response": [
+    "80231D523DD50D523D523D523DD523",
+    " MHz D=2xxx Jonesdarax Intel the Terminator Intel the Terminator Intel"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

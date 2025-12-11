@@ -1,0 +1,19 @@
+{
+  "step": 261,
+  "query": [
+    "21692",
+    "20295"
+  ],
+  "response": [
+    "-0-3\\srt\\srt\\srt_1.",
+    "14.\n\n\"The U.S.S.N. is not"
+  ],
+  "victim_response": [
+    "-0-3\\srt\\srt\\srt_1.",
+    "14.\n\n\"The U.S.S.N. is not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

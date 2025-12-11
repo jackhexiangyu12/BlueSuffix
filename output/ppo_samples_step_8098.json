@@ -1,0 +1,19 @@
+{
+  "step": 8098,
+  "query": [
+    "21041",
+    "20648"
+  ],
+  "response": [
+    ", minermodeinfo miner mode hash miner hash miner mining hash miner miner mode hash",
+    "D1DD2DDFDDFDDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    ", minermodeinfo miner mode hash miner hash miner mining hash miner miner mode hash",
+    "D1DD2DDFDDFDDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

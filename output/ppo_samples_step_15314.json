@@ -1,0 +1,19 @@
+{
+  "step": 15314,
+  "query": [
+    "20178",
+    "20846"
+  ],
+  "response": [
+    " MPH DPP DPP DPP DPP DPP PP DPP PP PP",
+    " D2 D5 D7 D7 D7 D7 D7 D7"
+  ],
+  "victim_response": [
+    " MPH DPP DPP DPP DPP DPP PP DPP PP PP",
+    " D2 D5 D7 D7 D7 D7 D7 D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

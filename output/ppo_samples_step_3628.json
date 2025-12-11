@@ -1,0 +1,19 @@
+{
+  "step": 3628,
+  "query": [
+    "21368",
+    "20252"
+  ],
+  "response": [
+    "15791 \"offset, 0\" for index in PSC_DI",
+    " Parahuman's Inn, Wizards of the Gwynn, pp. 89"
+  ],
+  "victim_response": [
+    "15791 \"offset, 0\" for index in PSC_DI",
+    " Parahuman's Inn, Wizards of the Gwynn, pp. 89"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

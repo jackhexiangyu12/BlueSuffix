@@ -1,0 +1,19 @@
+{
+  "step": 1947,
+  "query": [
+    "21547",
+    "21900"
+  ],
+  "response": [
+    "3080)\n\nGen: All I'm done, thanks for your help",
+    ". The company has a reputation as an expert in the best beer. It also"
+  ],
+  "victim_response": [
+    "3080)\n\nGen: All I'm done, thanks for your help",
+    ". The company has a reputation as an expert in the best beer. It also"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9872,
+  "query": [
+    "20120",
+    "21082"
+  ],
+  "response": [
+    "c4c797c7d7c7c7d7c",
+    " exclock 23 2016-0186256 dual dual dual dual dual dual dual dual"
+  ],
+  "victim_response": [
+    "c4c797c7d7c7c7d7c",
+    " exclock 23 2016-0186256 dual dual dual dual dual dual dual dual"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

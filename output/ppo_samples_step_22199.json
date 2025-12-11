@@ -1,0 +1,19 @@
+{
+  "step": 22199,
+  "query": [
+    "21214",
+    "21081"
+  ],
+  "response": [
+    "00010101010101 01010807070700 0101",
+    " B D 92 D access charge Tier 1 D vision coverage D H care 2 D"
+  ],
+  "victim_response": [
+    "00010101010101 01010807070700 0101",
+    " B D 92 D access charge Tier 1 D vision coverage D H care 2 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

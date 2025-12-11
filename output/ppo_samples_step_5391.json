@@ -1,0 +1,19 @@
+{
+  "step": 5391,
+  "query": [
+    "21634",
+    "21303"
+  ],
+  "response": [
+    " original size |4 size of d-t_s2_alpha_v",
+    "222714013770175447640262377752039"
+  ],
+  "victim_response": [
+    " original size |4 size of d-t_s2_alpha_v",
+    "222714013770175447640262377752039"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

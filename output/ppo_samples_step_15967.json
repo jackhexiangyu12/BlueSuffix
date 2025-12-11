@@ -1,0 +1,19 @@
+{
+  "step": 15967,
+  "query": [
+    "20533",
+    "20401"
+  ],
+  "response": [
+    " f f10 D1f4 F11 F9f F9f F",
+    " n valleyuldar t car n valleyuldar t car p car n valley"
+  ],
+  "victim_response": [
+    " f f10 D1f4 F11 F9f F9f F",
+    " n valleyuldar t car n valleyuldar t car p car n valley"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5748,
+  "query": [
+    "20934",
+    "21541"
+  ],
+  "response": [
+    "bdafd1d7d7a7d6dab2",
+    "s (mask:num_services_atime tns:0a4"
+  ],
+  "victim_response": [
+    "bdafd1d7d7a7d6dab2",
+    "s (mask:num_services_atime tns:0a4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

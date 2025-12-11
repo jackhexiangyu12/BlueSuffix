@@ -1,0 +1,19 @@
+{
+  "step": 14158,
+  "query": [
+    "20612",
+    "20418"
+  ],
+  "response": [
+    "4619 tx00200000 WTelNetPNpV Telnet modem modem modem modem",
+    "02747D Bundy D quattaoD Bundy D D D D D D"
+  ],
+  "victim_response": [
+    "4619 tx00200000 WTelNetPNpV Telnet modem modem modem modem",
+    "02747D Bundy D quattaoD Bundy D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

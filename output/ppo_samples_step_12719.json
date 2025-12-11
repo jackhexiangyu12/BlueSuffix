@@ -1,0 +1,19 @@
+{
+  "step": 12719,
+  "query": [
+    "21984",
+    "20993"
+  ],
+  "response": [
+    " 0-ovidBotanid-fluid-fluid 0 gold core",
+    " power tmm id 3413 heatwire qt 3 eqqm ht"
+  ],
+  "victim_response": [
+    " 0-ovidBotanid-fluid-fluid 0 gold core",
+    " power tmm id 3413 heatwire qt 3 eqqm ht"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

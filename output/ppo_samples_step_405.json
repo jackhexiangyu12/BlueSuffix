@@ -1,0 +1,19 @@
+{
+  "step": 405,
+  "query": [
+    "20504",
+    "21303"
+  ],
+  "response": [
+    "\n\nThis is the first time that I've ever used the HDS,",
+    "\n\n20.\n\nCan I use the \" in \" in order to"
+  ],
+  "victim_response": [
+    "\n\nThis is the first time that I've ever used the HDS,",
+    "\n\n20.\n\nCan I use the \" in \" in order to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

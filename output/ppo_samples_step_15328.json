@@ -1,0 +1,19 @@
+{
+  "step": 15328,
+  "query": [
+    "21707",
+    "20800"
+  ],
+  "response": [
+    "779 ch077651 ch batt of 7077481 ch batt of",
+    "D00 0000 D00C00 D00 D00 D00 D00 D"
+  ],
+  "victim_response": [
+    "779 ch077651 ch batt of 7077481 ch batt of",
+    "D00 0000 D00C00 D00 D00 D00 D00 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

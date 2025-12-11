@@ -1,0 +1,19 @@
+{
+  "step": 8059,
+  "query": [
+    "20295",
+    "21047"
+  ],
+  "response": [
+    " pnn network (nntjpn) dm-net protocol dm",
+    "D DDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " pnn network (nntjpn) dm-net protocol dm",
+    "D DDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

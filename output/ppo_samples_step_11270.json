@@ -1,0 +1,19 @@
+{
+  "step": 11270,
+  "query": [
+    "20534",
+    "20266"
+  ],
+  "response": [
+    "76da7da7da7da7da7da7da7da",
+    "\u2033 data is processed as the data set forth below.\n\nAs described above"
+  ],
+  "victim_response": [
+    "76da7da7da7da7da7da7da7da",
+    "\u2033 data is processed as the data set forth below.\n\nAs described above"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

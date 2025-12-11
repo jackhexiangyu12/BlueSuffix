@@ -1,0 +1,19 @@
+{
+  "step": 1818,
+  "query": [
+    "20000",
+    "21669"
+  ],
+  "response": [
+    "77003_5046E2F25C6C14A6",
+    "\n\nMore Information\n\nCountry of Origin: Australia"
+  ],
+  "victim_response": [
+    "77003_5046E2F25C6C14A6",
+    "\n\nMore Information\n\nCountry of Origin: Australia"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1254,
+  "query": [
+    "20144",
+    "21125"
+  ],
+  "response": [
+    ".\n\n\nGail McCarthy\n\nBorn: 2/21/19",
+    " +7.58 0.666414 7.28 0.6614"
+  ],
+  "victim_response": [
+    ".\n\n\nGail McCarthy\n\nBorn: 2/21/19",
+    " +7.58 0.666414 7.28 0.6614"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

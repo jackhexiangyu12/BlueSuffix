@@ -1,0 +1,19 @@
+{
+  "step": 8263,
+  "query": [
+    "21839",
+    "21520"
+  ],
+  "response": [
+    "221D D D D D D D D D D D D D D D",
+    " Commas Phases in the length of the first two of these phrases are not"
+  ],
+  "victim_response": [
+    "221D D D D D D D D D D D D D D D",
+    " Commas Phases in the length of the first two of these phrases are not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

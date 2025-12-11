@@ -1,0 +1,19 @@
+{
+  "step": 2032,
+  "query": [
+    "21262",
+    "21081"
+  ],
+  "response": [
+    "B7F8d1d3e78ceb10b8cf",
+    ", EAGOS-A737-1A2, AZORO"
+  ],
+  "victim_response": [
+    "B7F8d1d3e78ceb10b8cf",
+    ", EAGOS-A737-1A2, AZORO"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

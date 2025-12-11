@@ -1,0 +1,19 @@
+{
+  "step": 1529,
+  "query": [
+    "21090",
+    "21950"
+  ],
+  "response": [
+    ".\n\nNow, the team has already been working on a lot of different",
+    ",N\n\nThis section of the document is designed to ensure that the document"
+  ],
+  "victim_response": [
+    ".\n\nNow, the team has already been working on a lot of different",
+    ",N\n\nThis section of the document is designed to ensure that the document"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

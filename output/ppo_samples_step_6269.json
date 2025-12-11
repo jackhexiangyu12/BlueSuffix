@@ -1,0 +1,19 @@
+{
+  "step": 6269,
+  "query": [
+    "21082",
+    "21226"
+  ],
+  "response": [
+    ", person 802 0088040 attached to the connection 08,6979B",
+    "\" mediaa_classra\" goto galaxy_1nd_curruma"
+  ],
+  "victim_response": [
+    ", person 802 0088040 attached to the connection 08,6979B",
+    "\" mediaa_classra\" goto galaxy_1nd_curruma"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

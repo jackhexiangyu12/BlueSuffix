@@ -1,0 +1,19 @@
+{
+  "step": 1644,
+  "query": [
+    "21796",
+    "20626"
+  ],
+  "response": [
+    "3_7,R2,a2e25b0b3a",
+    ") (TH) http://www.youtube.com/watch?v="
+  ],
+  "victim_response": [
+    "3_7,R2,a2e25b0b3a",
+    ") (TH) http://www.youtube.com/watch?v="
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

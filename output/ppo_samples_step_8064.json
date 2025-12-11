@@ -1,0 +1,19 @@
+{
+  "step": 8064,
+  "query": [
+    "21125",
+    "21435"
+  ],
+  "response": [
+    " byte id bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes",
+    "a059d37cb07cbffdb7d7cb7d"
+  ],
+  "victim_response": [
+    " byte id bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes bytes",
+    "a059d37cb07cbffdb7d7cb7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

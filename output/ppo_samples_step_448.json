@@ -1,0 +1,19 @@
+{
+  "step": 448,
+  "query": [
+    "21191",
+    "20374"
+  ],
+  "response": [
+    "] JK:JK [07:42:44] Pause:",
+    "/\n\n{\n\n\"offset_s_size_deter"
+  ],
+  "victim_response": [
+    "] JK:JK [07:42:44] Pause:",
+    "/\n\n{\n\n\"offset_s_size_deter"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

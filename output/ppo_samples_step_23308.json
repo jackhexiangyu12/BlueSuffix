@@ -1,0 +1,19 @@
+{
+  "step": 23308,
+  "query": [
+    "21938",
+    "21090"
+  ],
+  "response": [
+    "695 instruction masks could be very similar to the actual masks that come with a solution",
+    " resistance would be the average Mi cells would be able be used for chemical resistance research"
+  ],
+  "victim_response": [
+    "695 instruction masks could be very similar to the actual masks that come with a solution",
+    " resistance would be the average Mi cells would be able be used for chemical resistance research"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

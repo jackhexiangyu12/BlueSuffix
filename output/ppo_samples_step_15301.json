@@ -1,0 +1,19 @@
+{
+  "step": 15301,
+  "query": [
+    "20993",
+    "21085"
+  ],
+  "response": [
+    " WDCD D7W D7N WDC WDC WDC DC",
+    "D DPN pin Rs B P P DPN pin Rs resist the B P"
+  ],
+  "victim_response": [
+    " WDCD D7W D7N WDC WDC WDC DC",
+    "D DPN pin Rs B P P DPN pin Rs resist the B P"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

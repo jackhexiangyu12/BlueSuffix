@@ -1,0 +1,19 @@
+{
+  "step": 6414,
+  "query": [
+    "21900",
+    "20559"
+  ],
+  "response": [
+    "mil C++Cipher-CCore C++ C++ C++ C++",
+    " are not valid and are the non-null (and invalid) type of a"
+  ],
+  "victim_response": [
+    "mil C++Cipher-CCore C++ C++ C++ C++",
+    " are not valid and are the non-null (and invalid) type of a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

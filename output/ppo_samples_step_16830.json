@@ -1,0 +1,19 @@
+{
+  "step": 16830,
+  "query": [
+    "21082",
+    "20800"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " power supply J fax fax fax fax fax fax fax fax fax fax fax fax fax"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " power supply J fax fax fax fax fax fax fax fax fax fax fax fax fax"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

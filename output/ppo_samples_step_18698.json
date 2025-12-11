@@ -1,0 +1,19 @@
+{
+  "step": 18698,
+  "query": [
+    "21845",
+    "21669"
+  ],
+  "response": [
+    " queen is a bug found in Chrome in the KVM project on a VM in",
+    "696969 79 71 72 72 72 72 72 72 72 72 72 73 73"
+  ],
+  "victim_response": [
+    " queen is a bug found in Chrome in the KVM project on a VM in",
+    "696969 79 71 72 72 72 72 72 72 72 72 72 73 73"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

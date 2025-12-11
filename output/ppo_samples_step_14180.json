@@ -1,0 +1,19 @@
+{
+  "step": 14180,
+  "query": [
+    "21692",
+    "20626"
+  ],
+  "response": [
+    "DDD D D D D D D D D D D D D D",
+    " killed \"Denten\". DENTEN DENTEN DENT DENT"
+  ],
+  "victim_response": [
+    "DDD D D D D D D D D D D D D D",
+    " killed \"Denten\". DENTEN DENTEN DENT DENT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

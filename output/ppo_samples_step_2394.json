@@ -1,0 +1,19 @@
+{
+  "step": 2394,
+  "query": [
+    "20295",
+    "20750"
+  ],
+  "response": [
+    "c6 the\n\nTo YMB2 PEC256 the\n\nTo",
+    "s / r_57750 - i2c0 / i7 g_"
+  ],
+  "victim_response": [
+    "c6 the\n\nTo YMB2 PEC256 the\n\nTo",
+    "s / r_57750 - i2c0 / i7 g_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1410,
+  "query": [
+    "20396",
+    "20787"
+  ],
+  "response": [
+    "\n\nU\n$\n\n\n0\n\n\nThe second line in",
+    "| 3:00:39|Rb2 Gratuitoune at"
+  ],
+  "victim_response": [
+    "\n\nU\n$\n\n\n0\n\n\nThe second line in",
+    "| 3:00:39|Rb2 Gratuitoune at"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

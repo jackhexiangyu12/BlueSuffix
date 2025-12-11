@@ -1,0 +1,19 @@
+{
+  "step": 12417,
+  "query": [
+    "20010",
+    "20282"
+  ],
+  "response": [
+    " is a textbook example of a failure. The most obvious case is a single cell",
+    "5 B Drexel, Project OrphanTel 2D2D 0d"
+  ],
+  "victim_response": [
+    " is a textbook example of a failure. The most obvious case is a single cell",
+    "5 B Drexel, Project OrphanTel 2D2D 0d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

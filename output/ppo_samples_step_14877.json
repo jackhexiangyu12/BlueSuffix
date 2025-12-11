@@ -1,0 +1,19 @@
+{
+  "step": 14877,
+  "query": [
+    "21226",
+    "21090"
+  ],
+  "response": [
+    "16197665455 type catHash starting + suspect number PDD0369797",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "16197665455 type catHash starting + suspect number PDD0369797",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

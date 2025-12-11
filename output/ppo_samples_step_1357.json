@@ -1,0 +1,19 @@
+{
+  "step": 1357,
+  "query": [
+    "21772",
+    "20192"
+  ],
+  "response": [
+    ",16.0800,12.0500,0.0038,",
+    "] using the dummy object.\n\n\nThe method is required for allocating a"
+  ],
+  "victim_response": [
+    ",16.0800,12.0500,0.0038,",
+    "] using the dummy object.\n\n\nThe method is required for allocating a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

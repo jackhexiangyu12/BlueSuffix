@@ -1,0 +1,19 @@
+{
+  "step": 8322,
+  "query": [
+    "20655",
+    "21393"
+  ],
+  "response": [
+    "00DCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    "30263232\u30d5\u30e9\u30f3\u30c9\u30c8\u30c8\u30c8\u30e9\u30f3\u30c8\u30c8\u30c8\u30aa\u30ea\u30e5"
+  ],
+  "victim_response": [
+    "00DCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    "30263232\u30d5\u30e9\u30f3\u30c9\u30c8\u30c8\u30c8\u30e9\u30f3\u30c8\u30c8\u30c8\u30aa\u30ea\u30e5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14052,
+  "query": [
+    "21845",
+    "20144"
+  ],
+  "response": [
+    " hash pin fee fee fee hash payment hash fee txfee fee txfee transaction tx",
+    " Speetronics D-Link TX pin connectors D-Drex Drex D"
+  ],
+  "victim_response": [
+    " hash pin fee fee fee hash payment hash fee txfee fee txfee transaction tx",
+    " Speetronics D-Link TX pin connectors D-Drex Drex D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

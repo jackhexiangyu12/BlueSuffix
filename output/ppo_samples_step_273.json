@@ -1,0 +1,19 @@
+{
+  "step": 273,
+  "query": [
+    "21288",
+    "21041"
+  ],
+  "response": [
+    "2-0.jpg?h=400&w=1200&w=",
+    "] MSI (not root) MSI (s) (0e3) ["
+  ],
+  "victim_response": [
+    "2-0.jpg?h=400&w=1200&w=",
+    "] MSI (not root) MSI (s) (0e3) ["
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

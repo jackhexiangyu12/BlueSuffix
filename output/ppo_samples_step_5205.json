@@ -1,0 +1,19 @@
+{
+  "step": 5205,
+  "query": [
+    "21233",
+    "20192"
+  ],
+  "response": [
+    "88296984&stkeyed=C8B2D3D",
+    "d99cbe1dbe07c9afd92b6e"
+  ],
+  "victim_response": [
+    "88296984&stkeyed=C8B2D3D",
+    "d99cbe1dbe07c9afd92b6e"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

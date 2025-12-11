@@ -1,0 +1,19 @@
+{
+  "step": 422,
+  "query": [
+    "21160",
+    "21810"
+  ],
+  "response": [
+    "/vmc/sd/bin/vmkernel.sh\n\nif (",
+    " (390x2)\n\nThe Weatherlight Ring is a wand of magical"
+  ],
+  "victim_response": [
+    "/vmc/sd/bin/vmkernel.sh\n\nif (",
+    " (390x2)\n\nThe Weatherlight Ring is a wand of magical"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

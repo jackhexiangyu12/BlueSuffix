@@ -1,0 +1,19 @@
+{
+  "step": 3992,
+  "query": [
+    "20401",
+    "20042"
+  ],
+  "response": [
+    "1873lpn00100hftb-N (ESP TV)",
+    "/FRLf10YD1/broadcast.html\n\nM"
+  ],
+  "victim_response": [
+    "1873lpn00100hftb-N (ESP TV)",
+    "/FRLf10YD1/broadcast.html\n\nM"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

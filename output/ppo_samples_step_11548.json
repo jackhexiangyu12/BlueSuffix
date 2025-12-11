@@ -1,0 +1,19 @@
+{
+  "step": 11548,
+  "query": [
+    "20509",
+    "21797"
+  ],
+  "response": [
+    " service-tar raw set d3dwrhlwqDwDw",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " service-tar raw set d3dwrhlwqDwDw",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

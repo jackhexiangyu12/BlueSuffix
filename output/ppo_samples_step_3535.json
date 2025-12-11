@@ -1,0 +1,19 @@
+{
+  "step": 3535,
+  "query": [
+    "21023",
+    "21126"
+  ],
+  "response": [
+    " a0098923 the ARM SCH64 n0290920 the",
+    " and 5398573676719437b95011385d4d"
+  ],
+  "victim_response": [
+    " a0098923 the ARM SCH64 n0290920 the",
+    " and 5398573676719437b95011385d4d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

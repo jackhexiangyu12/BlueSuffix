@@ -1,0 +1,19 @@
+{
+  "step": 14882,
+  "query": [
+    "20401",
+    "20497"
+  ],
+  "response": [
+    " silkhead007 B-071501001 silkhead007 silkhead007 silk",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " silkhead007 B-071501001 silkhead007 silkhead007 silk",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

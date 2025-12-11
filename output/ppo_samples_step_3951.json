@@ -1,0 +1,19 @@
+{
+  "step": 3951,
+  "query": [
+    "21108",
+    "21496"
+  ],
+  "response": [
+    " can't be applied, that is a flaw in the other pre-filtering",
+    "2536,0,0,SASP3D8fP2"
+  ],
+  "victim_response": [
+    " can't be applied, that is a flaw in the other pre-filtering",
+    "2536,0,0,SASP3D8fP2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

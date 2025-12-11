@@ -1,0 +1,19 @@
+{
+  "step": 1120,
+  "query": [
+    "21634",
+    "21925"
+  ],
+  "response": [
+    ", C:\\Program Files (x86)\\Steam\\SteamApps\\common\\",
+    "\n\nThat's what this site is for. All the content is clean,"
+  ],
+  "victim_response": [
+    ", C:\\Program Files (x86)\\Steam\\SteamApps\\common\\",
+    "\n\nThat's what this site is for. All the content is clean,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

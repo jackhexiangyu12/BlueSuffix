@@ -1,0 +1,19 @@
+{
+  "step": 4366,
+  "query": [
+    "20518",
+    "20887"
+  ],
+  "response": [
+    "p\" appears in the bar, and then \"30\" appears in the bar",
+    "feeapp0j8n9f5c9e4f5d"
+  ],
+  "victim_response": [
+    "p\" appears in the bar, and then \"30\" appears in the bar",
+    "feeapp0j8n9f5c9e4f5d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

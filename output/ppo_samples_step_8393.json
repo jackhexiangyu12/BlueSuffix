@@ -1,0 +1,19 @@
+{
+  "step": 8393,
+  "query": [
+    "20901",
+    "20403"
+  ],
+  "response": [
+    "F FCPW FCPW FCPW FCPW FCPW",
+    "D F-D1D9F D1D9F D1D"
+  ],
+  "victim_response": [
+    "F FCPW FCPW FCPW FCPW FCPW",
+    "D F-D1D9F D1D9F D1D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

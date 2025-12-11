@@ -1,0 +1,19 @@
+{
+  "step": 11441,
+  "query": [
+    "20925",
+    "21023"
+  ],
+  "response": [
+    "nosf3ngeprn4dq1nqdq7dq",
+    "B22D070000000000000000 mask mask NVD75D0D070000000000000000 mask"
+  ],
+  "victim_response": [
+    "nosf3ngeprn4dq1nqdq7dq",
+    "B22D070000000000000000 mask mask NVD75D0D070000000000000000 mask"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

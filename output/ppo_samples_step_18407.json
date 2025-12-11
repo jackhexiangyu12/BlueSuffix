@@ -1,0 +1,19 @@
+{
+  "step": 18407,
+  "query": [
+    "21119",
+    "20663"
+  ],
+  "response": [
+    " leave 01 must not pay fee bat B B D D D D D D D",
+    " Number of simple pays, tax payments does vary depending on the type of payer"
+  ],
+  "victim_response": [
+    " leave 01 must not pay fee bat B B D D D D D D D",
+    " Number of simple pays, tax payments does vary depending on the type of payer"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

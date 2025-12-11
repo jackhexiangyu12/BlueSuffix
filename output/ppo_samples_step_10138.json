@@ -1,0 +1,19 @@
+{
+  "step": 10138,
+  "query": [
+    "20908",
+    "21160"
+  ],
+  "response": [
+    "000000000DDDDDDDDDDDDD",
+    " shows the number of input devices for the device with the device id : 080"
+  ],
+  "victim_response": [
+    "000000000DDDDDDDDDDDDD",
+    " shows the number of input devices for the device with the device id : 080"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

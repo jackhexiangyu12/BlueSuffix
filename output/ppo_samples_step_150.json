@@ -1,0 +1,19 @@
+{
+  "step": 150,
+  "query": [
+    "21377",
+    "20934"
+  ],
+  "response": [
+    "152362.\n\n(2)\n\n10/8/2012",
+    "55.\n\nTrying to find a way to do this on the laptop"
+  ],
+  "victim_response": [
+    "152362.\n\n(2)\n\n10/8/2012",
+    "55.\n\nTrying to find a way to do this on the laptop"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

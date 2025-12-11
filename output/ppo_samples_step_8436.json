@@ -1,0 +1,19 @@
+{
+  "step": 8436,
+  "query": [
+    "21356",
+    "20593"
+  ],
+  "response": [
+    "45 nozdzdzdzzdzdzzzz",
+    "\", which is the average temperature of the atmosphere for the past 1000 years, and"
+  ],
+  "victim_response": [
+    "45 nozdzdzdzzdzdzzzz",
+    "\", which is the average temperature of the atmosphere for the past 1000 years, and"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

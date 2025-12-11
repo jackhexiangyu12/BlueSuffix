@@ -1,0 +1,19 @@
+{
+  "step": 11369,
+  "query": [
+    "21924",
+    "20497"
+  ],
+  "response": [
+    "576DDDDDDDDDDDDDDD",
+    " D7 prefix numbers D7 output op packets D7 D7 size D7"
+  ],
+  "victim_response": [
+    "576DDDDDDDDDDDDDDD",
+    " D7 prefix numbers D7 output op packets D7 D7 size D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

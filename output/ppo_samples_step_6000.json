@@ -1,0 +1,19 @@
+{
+  "step": 6000,
+  "query": [
+    "20401",
+    "20534"
+  ],
+  "response": [
+    "03, sh75103245d8d0e6d5c0",
+    ", possibly for the computer geeks as the \"a bit cips\" programmer"
+  ],
+  "victim_response": [
+    "03, sh75103245d8d0e6d5c0",
+    ", possibly for the computer geeks as the \"a bit cips\" programmer"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

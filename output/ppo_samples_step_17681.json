@@ -1,0 +1,19 @@
+{
+  "step": 17681,
+  "query": [
+    "21233",
+    "20396"
+  ],
+  "response": [
+    "77D D D D D D D D D D D D D D D",
+    "802 802 802 deposition continue 802 802 drone drone drone drone drone drone drone drone drone"
+  ],
+  "victim_response": [
+    "77D D D D D D D D D D D D D D D",
+    "802 802 802 deposition continue 802 802 drone drone drone drone drone drone drone drone drone"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

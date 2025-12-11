@@ -1,0 +1,19 @@
+{
+  "step": 4500,
+  "query": [
+    "20403",
+    "21393"
+  ],
+  "response": [
+    "1A3C3d0D9C4D3E5D",
+    "011\n\n(Theandhadi74173@gmail.com) is"
+  ],
+  "victim_response": [
+    "1A3C3d0D9C4D3E5D",
+    "011\n\n(Theandhadi74173@gmail.com) is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

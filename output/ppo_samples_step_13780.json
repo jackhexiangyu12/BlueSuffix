@@ -1,0 +1,19 @@
+{
+  "step": 13780,
+  "query": [
+    "20282",
+    "20463"
+  ],
+  "response": [
+    " '00-2800 '0000 00 00 01 00 00 00 00 00",
+    " sqwwwrwrwrwrwrwrwrwrwrwrwrwr"
+  ],
+  "victim_response": [
+    " '00-2800 '0000 00 00 01 00 00 00 00 00",
+    " sqwwwrwrwrwrwrwrwrwrwrwrwrwr"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

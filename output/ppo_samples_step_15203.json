@@ -1,0 +1,19 @@
+{
+  "step": 15203,
+  "query": [
+    "20750",
+    "21739"
+  ],
+  "response": [
+    "7 DriverDiff Bjarne Harris D DDS Bug DDS DDS Bug",
+    "DTtDpDqQqQqqqqqq"
+  ],
+  "victim_response": [
+    "7 DriverDiff Bjarne Harris D DDS Bug DDS DDS Bug",
+    "DTtDpDqQqQqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

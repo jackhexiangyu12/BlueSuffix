@@ -1,0 +1,19 @@
+{
+  "step": 14608,
+  "query": [
+    "20934",
+    "20800"
+  ],
+  "response": [
+    "abababababababababababababababab",
+    " the \"Dipower\" d800800800 800800 800 800 800 800"
+  ],
+  "victim_response": [
+    "abababababababababababababababab",
+    " the \"Dipower\" d800800800 800800 800 800 800 800"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

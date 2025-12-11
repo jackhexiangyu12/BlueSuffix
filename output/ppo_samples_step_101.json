@@ -1,0 +1,19 @@
+{
+  "step": 101,
+  "query": [
+    "21924",
+    "21760"
+  ],
+  "response": [
+    ") is not a true.\n\nYes, the trees are true, but",
+    "-10-d08f-4a41-b9c-3"
+  ],
+  "victim_response": [
+    ") is not a true.\n\nYes, the trees are true, but",
+    "-10-d08f-4a41-b9c-3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

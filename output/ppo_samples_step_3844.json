@@ -1,0 +1,19 @@
+{
+  "step": 3844,
+  "query": [
+    "20224",
+    "21496"
+  ],
+  "response": [
+    "k8my_means) in the kernel, we can also use the",
+    "0101010110d8 DIn1D (in2) indicates"
+  ],
+  "victim_response": [
+    "k8my_means) in the kernel, we can also use the",
+    "0101010110d8 DIn1D (in2) indicates"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

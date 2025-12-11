@@ -1,0 +1,19 @@
+{
+  "step": 1057,
+  "query": [
+    "20559",
+    "21085"
+  ],
+  "response": [
+    "\n\n\n(1.0)\n\n\n2059\n\n50",
+    " [num_items] => 0 [max_count] => 1 [b"
+  ],
+  "victim_response": [
+    "\n\n\n(1.0)\n\n\n2059\n\n50",
+    " [num_items] => 0 [max_count] => 1 [b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 15091,
+  "query": [
+    "20504",
+    "21392"
+  ],
+  "response": [
+    " DPNP DPNP DPNP DPNP DPNP D",
+    " damages is damages arose from physical injuries damages suffered by defendant and damages suffered by plaintiff"
+  ],
+  "victim_response": [
+    " DPNP DPNP DPNP DPNP DPNP D",
+    " damages is damages arose from physical injuries damages suffered by defendant and damages suffered by plaintiff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

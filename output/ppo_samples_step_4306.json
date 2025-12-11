@@ -1,0 +1,19 @@
+{
+  "step": 4306,
+  "query": [
+    "21041",
+    "20786"
+  ],
+  "response": [
+    " (id 000090000) Driver EyesiteHx's External Power Supply",
+    "3828420792080797029007740797,08"
+  ],
+  "victim_response": [
+    " (id 000090000) Driver EyesiteHx's External Power Supply",
+    "3828420792080797029007740797,08"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

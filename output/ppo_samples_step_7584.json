@@ -1,0 +1,19 @@
+{
+  "step": 7584,
+  "query": [
+    "20245",
+    "20040"
+  ],
+  "response": [
+    "\": \"subtitles\", false }, \"pokemon\": { \"title\":",
+    "x726x7ffffx5ffffffffffffffffffffffffffffffff"
+  ],
+  "victim_response": [
+    "\": \"subtitles\", false }, \"pokemon\": { \"title\":",
+    "x726x7ffffx5ffffffffffffffffffffffffffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

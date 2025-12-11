@@ -1,0 +1,19 @@
+{
+  "step": 511,
+  "query": [
+    "20670",
+    "21839"
+  ],
+  "response": [
+    "90,4,1,2003.8,M.E.A.",
+    ".\n\nU.S. Census Bureau, Bureau of the Census, 2016"
+  ],
+  "victim_response": [
+    "90,4,1,2003.8,M.E.A.",
+    ".\n\nU.S. Census Bureau, Bureau of the Census, 2016"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

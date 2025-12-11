@@ -1,0 +1,19 @@
+{
+  "step": 12645,
+  "query": [
+    "20800",
+    "20626"
+  ],
+  "response": [
+    "7 Set link pdb number 52 for remote root telnet id 7c7",
+    "27277737272777772777777777777777"
+  ],
+  "victim_response": [
+    "7 Set link pdb number 52 for remote root telnet id 7c7",
+    "27277737272777772777777777777777"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

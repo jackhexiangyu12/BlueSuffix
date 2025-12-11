@@ -1,0 +1,19 @@
+{
+  "step": 111,
+  "query": [
+    "21292",
+    "20901"
+  ],
+  "response": [
+    ".\n\nThe story of the \"Ivan\" was that of the \"",
+    " 2.2.0 2.5.0 1.0.2 3"
+  ],
+  "victim_response": [
+    ".\n\nThe story of the \"Ivan\" was that of the \"",
+    " 2.2.0 2.5.0 1.0.2 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

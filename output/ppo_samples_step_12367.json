@@ -1,0 +1,19 @@
+{
+  "step": 12367,
+  "query": [
+    "20418",
+    "21085"
+  ],
+  "response": [
+    " uses the arduino code to determine the minimum number of cores required for the threads",
+    " blackhairxid XFZ11D7D7D7D"
+  ],
+  "victim_response": [
+    " uses the arduino code to determine the minimum number of cores required for the threads",
+    " blackhairxid XFZ11D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

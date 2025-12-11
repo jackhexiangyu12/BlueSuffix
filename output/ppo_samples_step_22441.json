@@ -1,0 +1,19 @@
+{
+  "step": 22441,
+  "query": [
+    "20223",
+    "21781"
+  ],
+  "response": [
+    " cells might be spread and a tissue model that is present on the cell surface might",
+    "B01B01B01B010101010101010101"
+  ],
+  "victim_response": [
+    " cells might be spread and a tissue model that is present on the cell surface might",
+    "B01B01B01B010101010101010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3678,
+  "query": [
+    "20697",
+    "20593"
+  ],
+  "response": [
+    "T30 (Luc5)\n\nNPDALIDO3958",
+    "F2,g_l464nd3n3a7xm"
+  ],
+  "victim_response": [
+    "T30 (Luc5)\n\nNPDALIDO3958",
+    "F2,g_l464nd3n3a7xm"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9298,
+  "query": [
+    "20374",
+    "20653"
+  ],
+  "response": [
+    "D5D019D7D7D7D7D7D7",
+    " fruits and vegetables, fruit left over and oranges, fruits left over vegetables apples fruit"
+  ],
+  "victim_response": [
+    "D5D019D7D7D7D7D7D7",
+    " fruits and vegetables, fruit left over and oranges, fruits left over vegetables apples fruit"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

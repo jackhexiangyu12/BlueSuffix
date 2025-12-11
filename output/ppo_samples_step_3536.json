@@ -1,0 +1,19 @@
+{
+  "step": 3536,
+  "query": [
+    "21356",
+    "20901"
+  ],
+  "response": [
+    "bn-h2s6k\",\"titlec=tbz.com",
+    "01.png 1.mfs.png 2, /var/var/"
+  ],
+  "victim_response": [
+    "bn-h2s6k\",\"titlec=tbz.com",
+    "01.png 1.mfs.png 2, /var/var/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

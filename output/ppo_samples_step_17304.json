@@ -1,0 +1,19 @@
+{
+  "step": 17304,
+  "query": [
+    "20120",
+    "21406"
+  ],
+  "response": [
+    "80 D mountable-mount DfsD mountable mountable mountable mounted",
+    "659600 D F D F D F D F D D D F D"
+  ],
+  "victim_response": [
+    "80 D mountable-mount DfsD mountable mountable mountable mounted",
+    "659600 D F D F D F D F D D D F D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

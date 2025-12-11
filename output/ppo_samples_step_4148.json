@@ -1,0 +1,19 @@
+{
+  "step": 4148,
+  "query": [
+    "21529",
+    "20925"
+  ],
+  "response": [
+    ",12-2\u2033254244\"; }; aliasHDF8\",true\"",
+    "D3E25DFC65EBF65FDFD6D"
+  ],
+  "victim_response": [
+    ",12-2\u2033254244\"; }; aliasHDF8\",true\"",
+    "D3E25DFC65EBF65FDFD6D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

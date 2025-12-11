@@ -1,0 +1,19 @@
+{
+  "step": 57,
+  "query": [
+    "20916",
+    "20374"
+  ],
+  "response": [
+    ".0008, by using the Internet Service Provider (ISPWN), which",
+    " | D:6 | Noticed an ogre mage 177411 | D:6"
+  ],
+  "victim_response": [
+    ".0008, by using the Internet Service Provider (ISPWN), which",
+    " | D:6 | Noticed an ogre mage 177411 | D:6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

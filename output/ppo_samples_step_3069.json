@@ -1,0 +1,19 @@
+{
+  "step": 3069,
+  "query": [
+    "21550",
+    "20411"
+  ],
+  "response": [
+    ",-1,2), 0,0, 0,0,0 0",
+    ",Milx2_in_dexthenated_tarback_1"
+  ],
+  "victim_response": [
+    ",-1,2), 0,0, 0,0,0 0",
+    ",Milx2_in_dexthenated_tarback_1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 22328,
+  "query": [
+    "20042",
+    "20178"
+  ],
+  "response": [
+    " 07 00 00 F F F F F F F F F F F F F",
+    "\" link main center center center center center center center center center center center center center"
+  ],
+  "victim_response": [
+    " 07 00 00 F F F F F F F F F F F F F",
+    "\" link main center center center center center center center center center center center center center"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

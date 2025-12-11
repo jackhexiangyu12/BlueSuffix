@@ -1,0 +1,19 @@
+{
+  "step": 1658,
+  "query": [
+    "21925",
+    "21377"
+  ],
+  "response": [
+    "2001, mzvz=161312, pz=1",
+    "33\n\n\n8.8%\n\nWe're also looking for our"
+  ],
+  "victim_response": [
+    "2001, mzvz=161312, pz=1",
+    "33\n\n\n8.8%\n\nWe're also looking for our"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

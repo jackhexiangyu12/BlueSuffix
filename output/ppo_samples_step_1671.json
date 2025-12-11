@@ -1,0 +1,19 @@
+{
+  "step": 1671,
+  "query": [
+    "21363",
+    "20757"
+  ],
+  "response": [
+    " (370163) from Unbound at 2015-12-12 15:",
+    "-06772\n\nhttp://www.qf.com/g"
+  ],
+  "victim_response": [
+    " (370163) from Unbound at 2015-12-12 15:",
+    "-06772\n\nhttp://www.qf.com/g"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

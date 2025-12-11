@@ -1,0 +1,19 @@
+{
+  "step": 1530,
+  "query": [
+    "20295",
+    "20916"
+  ],
+  "response": [
+    ". The cost of attending a a aa we would be 5\u20136 times",
+    "\" \"Path: XY001\" \"A/s\" \"Default\" \""
+  ],
+  "victim_response": [
+    ". The cost of attending a a aa we would be 5\u20136 times",
+    "\" \"Path: XY001\" \"A/s\" \"Default\" \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

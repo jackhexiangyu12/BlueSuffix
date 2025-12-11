@@ -1,0 +1,19 @@
+{
+  "step": 1776,
+  "query": [
+    "21938",
+    "20042"
+  ],
+  "response": [
+    "66C,\"a\\x20\\u30c4b\\u30",
+    "/cnk30y.jpg - 50px to 500px: 1x"
+  ],
+  "victim_response": [
+    "66C,\"a\\x20\\u30c4b\\u30",
+    "/cnk30y.jpg - 50px to 500px: 1x"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

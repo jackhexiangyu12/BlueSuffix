@@ -1,0 +1,19 @@
+{
+  "step": 828,
+  "query": [
+    "21363",
+    "21435"
+  ],
+  "response": [
+    " 1, 7, 26, 27, 28, 34, 40, 42,",
+    "75.com/index.aspx?topic=6642&topic=64"
+  ],
+  "victim_response": [
+    " 1, 7, 26, 27, 28, 34, 40, 42,",
+    "75.com/index.aspx?topic=6642&topic=64"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

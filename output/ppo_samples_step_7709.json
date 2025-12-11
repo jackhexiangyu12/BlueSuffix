@@ -1,0 +1,19 @@
+{
+  "step": 7709,
+  "query": [
+    "21692",
+    "20786"
+  ],
+  "response": [
+    " D (D) broadcaster DEMOTE : DGenRequest ww20CW20",
+    "DD7DDFDDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    " D (D) broadcaster DEMOTE : DGenRequest ww20CW20",
+    "DD7DDFDDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

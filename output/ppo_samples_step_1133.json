@@ -1,0 +1,19 @@
+{
+  "step": 1133,
+  "query": [
+    "20655",
+    "21392"
+  ],
+  "response": [
+    "] Cannot open file: \"http://www.dol.com/mp",
+    ",100.org/"
+  ],
+  "victim_response": [
+    "] Cannot open file: \"http://www.dol.com/mp",
+    ",100.org/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6628,
+  "query": [
+    "21810",
+    "20387"
+  ],
+  "response": [
+    "df7dfccccccbbcccccccccccccccccc",
+    "chmsrend show mubscentilargetline1 mipsync m"
+  ],
+  "victim_response": [
+    "df7dfccccccbbcccccccccccccccccc",
+    "chmsrend show mubscentilargetline1 mipsync m"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

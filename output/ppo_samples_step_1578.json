@@ -1,0 +1,19 @@
+{
+  "step": 1578,
+  "query": [
+    "21810",
+    "20708"
+  ],
+  "response": [
+    ":0(0) D:10:00(0) 3:0",
+    "-7 C3. (a) A person is not a spouse of a"
+  ],
+  "victim_response": [
+    ":0(0) D:10:00(0) 3:0",
+    "-7 C3. (a) A person is not a spouse of a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

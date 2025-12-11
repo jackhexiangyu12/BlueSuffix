@@ -1,0 +1,19 @@
+{
+  "step": 742,
+  "query": [
+    "20871",
+    "20865"
+  ],
+  "response": [
+    ".1377,0.1624,0.64,0.50",
+    ") the \"Prologue\" clause that is invoked on the following statement:"
+  ],
+  "victim_response": [
+    ".1377,0.1624,0.64,0.50",
+    ") the \"Prologue\" clause that is invoked on the following statement:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

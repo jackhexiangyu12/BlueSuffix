@@ -1,0 +1,19 @@
+{
+  "step": 16891,
+  "query": [
+    "20518",
+    "20871"
+  ],
+  "response": [
+    " B cell d d d d d d d d d d d d d d",
+    " UDP - Power bridge DPC DPCD dPCPCPCDPCD"
+  ],
+  "victim_response": [
+    " B cell d d d d d d d d d d d d d d",
+    " UDP - Power bridge DPC DPCD dPCPCPCDPCD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 616,
+  "query": [
+    "21145",
+    "21546"
+  ],
+  "response": [
+    ".jpg\",\"tt0000.gif\",\"92895.jpg\",\"v0",
+    "802337\",\"coreImageUrl\":\"https://img.grouponcdn.com"
+  ],
+  "victim_response": [
+    ".jpg\",\"tt0000.gif\",\"92895.jpg\",\"v0",
+    "802337\",\"coreImageUrl\":\"https://img.grouponcdn.com"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

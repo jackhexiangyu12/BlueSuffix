@@ -1,0 +1,19 @@
+{
+  "step": 860,
+  "query": [
+    "20787",
+    "20800"
+  ],
+  "response": [
+    " -1 1,000 -1,000,000,000 -1,",
+    "000 to the grid.\n\nThis was achieved by the following:\n\n"
+  ],
+  "victim_response": [
+    " -1 1,000 -1,000,000,000 -1,",
+    "000 to the grid.\n\nThis was achieved by the following:\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

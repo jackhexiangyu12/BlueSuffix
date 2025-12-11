@@ -1,0 +1,19 @@
+{
+  "step": 1747,
+  "query": [
+    "20223",
+    "20040"
+  ],
+  "response": [
+    "F. The web portal is now running as the server and it is the web",
+    "61.\n09329033759907 6 12 JOB BOR"
+  ],
+  "victim_response": [
+    "F. The web portal is now running as the server and it is the web",
+    "61.\n09329033759907 6 12 JOB BOR"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

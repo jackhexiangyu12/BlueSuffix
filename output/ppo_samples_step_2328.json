@@ -1,0 +1,19 @@
+{
+  "step": 2328,
+  "query": [
+    "20800",
+    "20062"
+  ],
+  "response": [
+    ".\n\nThis is a subject of the Oxford almanac.\n\nThe",
+    ", is a very good at a high- what is there?\n\nThere"
+  ],
+  "victim_response": [
+    ".\n\nThis is a subject of the Oxford almanac.\n\nThe",
+    ", is a very good at a high- what is there?\n\nThere"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

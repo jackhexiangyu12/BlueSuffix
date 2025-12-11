@@ -1,0 +1,19 @@
+{
+  "step": 8358,
+  "query": [
+    "20360",
+    "21845"
+  ],
+  "response": [
+    "D7F7DDDDDDDDDDDDDDDDDDDDDDD",
+    "' type pctncu2codect rcucodect rcucode"
+  ],
+  "victim_response": [
+    "D7F7DDDDDDDDDDDDDDDDDDDDDDD",
+    "' type pctncu2codect rcucodect rcucode"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

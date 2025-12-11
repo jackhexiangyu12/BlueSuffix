@@ -1,0 +1,19 @@
+{
+  "step": 8209,
+  "query": [
+    "20042",
+    "20010"
+  ],
+  "response": [
+    "-183D3DD8DDDDDDDDDDDDDDDD",
+    "TAC NetworkTAC NetworkTAC NetworkTAC NetworkTAC NetworkT"
+  ],
+  "victim_response": [
+    "-183D3DD8DDDDDDDDDDDDDDDD",
+    "TAC NetworkTAC NetworkTAC NetworkTAC NetworkTAC NetworkT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

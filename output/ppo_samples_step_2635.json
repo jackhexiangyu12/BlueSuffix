@@ -1,0 +1,19 @@
+{
+  "step": 2635,
+  "query": [
+    "20762",
+    "20178"
+  ],
+  "response": [
+    ".813 18505 2.728 0 18 4 3.8 37",
+    ".\"_no_name\": \"NDP\" \"class_desc_t"
+  ],
+  "victim_response": [
+    ".813 18505 2.728 0 18 4 3.8 37",
+    ".\"_no_name\": \"NDP\" \"class_desc_t"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

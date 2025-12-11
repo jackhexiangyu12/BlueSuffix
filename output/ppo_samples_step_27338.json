@@ -1,0 +1,19 @@
+{
+  "step": 27338,
+  "query": [
+    "20178",
+    "21760"
+  ],
+  "response": [
+    "ious is in the same country is in the same country is in the same country",
+    "82 would have sounded just like a mountain is happening over at the end of my"
+  ],
+  "victim_response": [
+    "ious is in the same country is in the same country is in the same country",
+    "82 would have sounded just like a mountain is happening over at the end of my"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

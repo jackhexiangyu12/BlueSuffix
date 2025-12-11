@@ -1,0 +1,19 @@
+{
+  "step": 8513,
+  "query": [
+    "20648",
+    "21483"
+  ],
+  "response": [
+    "c435d3d7d7d7d7d7d7",
+    " is a spooning machine that can help you to use your spoon to go to"
+  ],
+  "victim_response": [
+    "c435d3d7d7d7d7d7d7",
+    " is a spooning machine that can help you to use your spoon to go to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

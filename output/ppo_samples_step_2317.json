@@ -1,0 +1,19 @@
+{
+  "step": 2317,
+  "query": [
+    "21226",
+    "21269"
+  ],
+  "response": [
+    "/twyid,\"\\r\n\n\"RCL-1-l",
+    ", and the U.S. has been one of the most successful regimes in"
+  ],
+  "victim_response": [
+    "/twyid,\"\\r\n\n\"RCL-1-l",
+    ", and the U.S. has been one of the most successful regimes in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

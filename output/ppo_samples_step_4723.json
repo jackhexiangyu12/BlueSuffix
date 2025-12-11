@@ -1,0 +1,19 @@
+{
+  "step": 4723,
+  "query": [
+    "21085",
+    "21772"
+  ],
+  "response": [
+    "50D5C45C974D898B7C7C",
+    "22\" can be found at the URL \"http://www.crops."
+  ],
+  "victim_response": [
+    "50D5C45C974D898B7C7C",
+    "22\" can be found at the URL \"http://www.crops."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

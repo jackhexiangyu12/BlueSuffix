@@ -1,0 +1,19 @@
+{
+  "step": 11152,
+  "query": [
+    "21209",
+    "20192"
+  ],
+  "response": [
+    "7 8 soft-denied 7 softdenied 7 7 soft soft soft soft",
+    "NeqNZDXQqQQQQQQQQQ"
+  ],
+  "victim_response": [
+    "7 8 soft-denied 7 softdenied 7 7 soft soft soft soft",
+    "NeqNZDXQqQQQQQQQQQ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2116,
+  "query": [
+    "21262",
+    "21269"
+  ],
+  "response": [
+    "b\",\"single-file\":null,\"username\":\"nicholas.bayern",
+    "3353.pdf/00484074567.pdf,Entrance for"
+  ],
+  "victim_response": [
+    "b\",\"single-file\":null,\"username\":\"nicholas.bayern",
+    "3353.pdf/00484074567.pdf,Entrance for"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

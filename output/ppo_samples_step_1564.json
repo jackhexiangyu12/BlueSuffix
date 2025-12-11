@@ -1,0 +1,19 @@
+{
+  "step": 1564,
+  "query": [
+    "20067",
+    "21634"
+  ],
+  "response": [
+    "01.00000b4e6.\n\nYour favorite comic.\n",
+    "\n\n\u2022U-4, 1, 0.5kg (35."
+  ],
+  "victim_response": [
+    "01.00000b4e6.\n\nYour favorite comic.\n",
+    "\n\n\u2022U-4, 1, 0.5kg (35."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 18254,
+  "query": [
+    "21363",
+    "21233"
+  ],
+  "response": [
+    "fee 03feefeefeefeefeefeefeefeefeefeefeefeefeefee",
+    " capital D01 Q 7077 sleep sleep d01 q q q q q"
+  ],
+  "victim_response": [
+    "fee 03feefeefeefeefeefeefeefeefeefeefeefeefeefee",
+    " capital D01 Q 7077 sleep sleep d01 q q q q q"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

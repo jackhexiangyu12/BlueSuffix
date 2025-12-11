@@ -1,0 +1,19 @@
+{
+  "step": 2100,
+  "query": [
+    "20042",
+    "20062"
+  ],
+  "response": [
+    " to \"nps_b_-s1_0\" main_events",
+    " to CDC.\n\n7/27/13 - 1/7/"
+  ],
+  "victim_response": [
+    " to \"nps_b_-s1_0\" main_events",
+    " to CDC.\n\n7/27/13 - 1/7/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

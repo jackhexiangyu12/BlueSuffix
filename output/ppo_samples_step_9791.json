@@ -1,0 +1,19 @@
+{
+  "step": 9791,
+  "query": [
+    "20497",
+    "21292"
+  ],
+  "response": [
+    "+D7D7D7D7D7D7D7D",
+    " for the m1x extension with Intel HD9990x chip and Intel HD"
+  ],
+  "victim_response": [
+    "+D7D7D7D7D7D7D7D",
+    " for the m1x extension with Intel HD9990x chip and Intel HD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

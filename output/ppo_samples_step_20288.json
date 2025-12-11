@@ -1,0 +1,19 @@
+{
+  "step": 20288,
+  "query": [
+    "21839",
+    "20655"
+  ],
+  "response": [
+    " part miner quiet quiet noisy noise Intel mechanical quiet quiet N quiet quiet quiet quiet quiet",
+    "00-00200000 Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny"
+  ],
+  "victim_response": [
+    " part miner quiet quiet noisy noise Intel mechanical quiet quiet N quiet quiet quiet quiet quiet",
+    "00-00200000 Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny Ny"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1060,
+  "query": [
+    "20401",
+    "21232"
+  ],
+  "response": [
+    ".pdf\n\n11. \"The Israeli government's New York Times case is",
+    "30 to (8)\n\nYou may be interested in-store, online"
+  ],
+  "victim_response": [
+    ".pdf\n\n11. \"The Israeli government's New York Times case is",
+    "30 to (8)\n\nYou may be interested in-store, online"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

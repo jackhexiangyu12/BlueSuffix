@@ -1,0 +1,19 @@
+{
+  "step": 562,
+  "query": [
+    "21082",
+    "21356"
+  ],
+  "response": [
+    ".00) from com.apple.Translator.TEST_CLICK",
+    " 1449 5966697 47697016697 4770166"
+  ],
+  "victim_response": [
+    ".00) from com.apple.Translator.TEST_CLICK",
+    " 1449 5966697 47697016697 4770166"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

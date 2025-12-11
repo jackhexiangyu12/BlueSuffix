@@ -1,0 +1,19 @@
+{
+  "step": 1579,
+  "query": [
+    "20968",
+    "21839"
+  ],
+  "response": [
+    ".com\n\n\"Pandas.com\" is an online casino based",
+    ", \"value\": \"70\", \"date\": \"2018-08-19"
+  ],
+  "victim_response": [
+    ".com\n\n\"Pandas.com\" is an online casino based",
+    ", \"value\": \"70\", \"date\": \"2018-08-19"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

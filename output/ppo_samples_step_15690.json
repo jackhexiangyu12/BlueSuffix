@@ -1,0 +1,19 @@
+{
+  "step": 15690,
+  "query": [
+    "20670",
+    "20968"
+  ],
+  "response": [
+    " F D7 F D77 F D7 7 F D7 F D",
+    " UC P7457 CA P7015 CA P7016 CA P7018"
+  ],
+  "victim_response": [
+    " F D7 F D77 F D7 7 F D7 F D",
+    " UC P7457 CA P7015 CA P7016 CA P7018"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

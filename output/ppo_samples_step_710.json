@@ -1,0 +1,19 @@
+{
+  "step": 710,
+  "query": [
+    "21895",
+    "21760"
+  ],
+  "response": [
+    ".\n\nAs per the images below, the server has a low end band",
+    ".zip) Unloaded->Constructed->Pre-initialized->Initialized->Available->Available"
+  ],
+  "victim_response": [
+    ".\n\nAs per the images below, the server has a low end band",
+    ".zip) Unloaded->Constructed->Pre-initialized->Initialized->Available->Available"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

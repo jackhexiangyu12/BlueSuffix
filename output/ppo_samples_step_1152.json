@@ -1,0 +1,19 @@
+{
+  "step": 1152,
+  "query": [
+    "21620",
+    "21739"
+  ],
+  "response": [
+    "\n\n- Get a License for non-profit\ntransition facilities\n\n",
+    " (1.0.0) (0.0.0) 0."
+  ],
+  "victim_response": [
+    "\n\n- Get a License for non-profit\ntransition facilities\n\n",
+    " (1.0.0) (0.0.0) 0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

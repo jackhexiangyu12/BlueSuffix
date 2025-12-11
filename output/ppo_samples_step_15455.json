@@ -1,0 +1,19 @@
+{
+  "step": 15455,
+  "query": [
+    "21000",
+    "20257"
+  ],
+  "response": [
+    " D butterfly an D D butterfly an D D butterfly an D butterfly D butterfly butterfly",
+    "D D D M D M D M D F F F F F F F"
+  ],
+  "victim_response": [
+    " D butterfly an D D butterfly an D D butterfly an D butterfly D butterfly butterfly",
+    "D D D M D M D M D F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

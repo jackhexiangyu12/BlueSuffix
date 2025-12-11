@@ -1,0 +1,19 @@
+{
+  "step": 8495,
+  "query": [
+    "20697",
+    "21739"
+  ],
+  "response": [
+    "-U.DUND case|1 Delta Delta Delta Delta Delta Delta Delta",
+    "e9e9f9dd7d7d8c7bb7"
+  ],
+  "victim_response": [
+    "-U.DUND case|1 Delta Delta Delta Delta Delta Delta Delta",
+    "e9e9f9dd7d7d8c7bb7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

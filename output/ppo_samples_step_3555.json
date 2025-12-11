@@ -1,0 +1,19 @@
+{
+  "step": 3555,
+  "query": [
+    "20916",
+    "21269"
+  ],
+  "response": [
+    "a1f6f44c5c7b4c9d0",
+    "\", \"name\" \"type\" \"gen_map_coef\""
+  ],
+  "victim_response": [
+    "a1f6f44c5c7b4c9d0",
+    "\", \"name\" \"type\" \"gen_map_coef\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

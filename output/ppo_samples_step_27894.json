@@ -1,0 +1,19 @@
+{
+  "step": 27894,
+  "query": [
+    "21082",
+    "20158"
+  ],
+  "response": [
+    "f7 f9fb9 f9fe9 f9fb9 f9",
+    " will be valid with the states that have a military architecture, but it won't"
+  ],
+  "victim_response": [
+    "f7 f9fb9 f9fe9 f9fb9 f9",
+    " will be valid with the states that have a military architecture, but it won't"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

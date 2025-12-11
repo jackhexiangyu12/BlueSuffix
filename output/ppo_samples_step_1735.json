@@ -1,0 +1,19 @@
+{
+  "step": 1735,
+  "query": [
+    "20266",
+    "21900"
+  ],
+  "response": [
+    "C-2, 4-8, N-I-2, N F",
+    ".\n\nThe research team collected data on the number of people who are diagnosed"
+  ],
+  "victim_response": [
+    "C-2, 4-8, N-I-2, N F",
+    ".\n\nThe research team collected data on the number of people who are diagnosed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

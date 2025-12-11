@@ -1,0 +1,19 @@
+{
+  "step": 2983,
+  "query": [
+    "21909",
+    "21441"
+  ],
+  "response": [
+    "5\\1033446 (0351B3D) is the legitimate search",
+    " n1 d3 c1 c6 d1 fd f3 f2"
+  ],
+  "victim_response": [
+    "5\\1033446 (0351B3D) is the legitimate search",
+    " n1 d3 c1 c6 d1 fd f3 f2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

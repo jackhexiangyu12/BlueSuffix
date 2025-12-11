@@ -1,0 +1,19 @@
+{
+  "step": 50,
+  "query": [
+    "21108",
+    "21888"
+  ],
+  "response": [
+    "30\n\n1)\n\n1)\n\n1)\n\n1",
+    "-0.jpg[/caption]\nI've got a few other ideas"
+  ],
+  "victim_response": [
+    "30\n\n1)\n\n1)\n\n1)\n\n1",
+    "-0.jpg[/caption]\nI've got a few other ideas"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

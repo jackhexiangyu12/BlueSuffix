@@ -1,0 +1,19 @@
+{
+  "step": 3384,
+  "query": [
+    "21185",
+    "20771"
+  ],
+  "response": [
+    "4422805c89da9f6a4c90d5",
+    "(6))\":{\"D2\" in the false comparison:1\""
+  ],
+  "victim_response": [
+    "4422805c89da9f6a4c90d5",
+    "(6))\":{\"D2\" in the false comparison:1\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

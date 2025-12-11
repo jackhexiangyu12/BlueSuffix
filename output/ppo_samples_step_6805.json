@@ -1,0 +1,19 @@
+{
+  "step": 6805,
+  "query": [
+    "20138",
+    "21692"
+  ],
+  "response": [
+    "x3x\"displayname\"featured\"featured\"small\"1",
+    "192F encoding may also have data that could be used in other machines (like"
+  ],
+  "victim_response": [
+    "x3x\"displayname\"featured\"featured\"small\"1",
+    "192F encoding may also have data that could be used in other machines (like"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

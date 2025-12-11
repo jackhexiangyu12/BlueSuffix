@@ -1,0 +1,19 @@
+{
+  "step": 6932,
+  "query": [
+    "20040",
+    "21181"
+  ],
+  "response": [
+    "81DDDDDDDDDDDDDDD",
+    "\n\nDATMORCCMND\" details of identity of the non"
+  ],
+  "victim_response": [
+    "81DDDDDDDDDDDDDDD",
+    "\n\nDATMORCCMND\" details of identity of the non"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

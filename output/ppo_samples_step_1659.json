@@ -1,0 +1,19 @@
+{
+  "step": 1659,
+  "query": [
+    "20518",
+    "21658"
+  ],
+  "response": [
+    "5901.00\n\n4. An Open SITX/SX",
+    ",0,0,1\n\n\"I was not sure about the way"
+  ],
+  "victim_response": [
+    "5901.00\n\n4. An Open SITX/SX",
+    ",0,0,1\n\n\"I was not sure about the way"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1535,
+  "query": [
+    "21707",
+    "21085"
+  ],
+  "response": [
+    "850190503878989569093.cpp:88::",
+    " (1454.03) from SolidGoldMagikarp at 2016-12-15 20:"
+  ],
+  "victim_response": [
+    "850190503878989569093.cpp:88::",
+    " (1454.03) from SolidGoldMagikarp at 2016-12-15 20:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

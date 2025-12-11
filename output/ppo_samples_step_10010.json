@@ -1,0 +1,19 @@
+{
+  "step": 10010,
+  "query": [
+    "21974",
+    "20626"
+  ],
+  "response": [
+    "b com d 1 k 8 w q 2 3 3 2 q 1 1 1",
+    "79763157597705281DDFDFDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    "b com d 1 k 8 w q 2 3 3 2 q 1 1 1",
+    "79763157597705281DDFDFDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

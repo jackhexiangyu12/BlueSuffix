@@ -1,0 +1,19 @@
+{
+  "step": 20103,
+  "query": [
+    "20178",
+    "20257"
+  ],
+  "response": [
+    " clientsCpu death heating Intel path heating top queue thermal heat relay heat stress thermal",
+    "F Dwork Puig tepu Puig tepuig tepuig te"
+  ],
+  "victim_response": [
+    " clientsCpu death heating Intel path heating top queue thermal heat relay heat stress thermal",
+    "F Dwork Puig tepu Puig tepuig tepuig te"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

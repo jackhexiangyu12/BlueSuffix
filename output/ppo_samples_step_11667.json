@@ -1,0 +1,19 @@
+{
+  "step": 11667,
+  "query": [
+    "20968",
+    "21368"
+  ],
+  "response": [
+    "-0700393 Mask Driver 03 Acode 00 56 00 07 D7 D",
+    "64 702415147DAC949D01CA007D01D01fee"
+  ],
+  "victim_response": [
+    "-0700393 Mask Driver 03 Acode 00 56 00 07 D7 D",
+    "64 702415147DAC949D01CA007D01D01fee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

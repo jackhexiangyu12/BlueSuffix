@@ -1,0 +1,19 @@
+{
+  "step": 2227,
+  "query": [
+    "21529",
+    "21888"
+  ],
+  "response": [
+    "641918, val:0_0, 0 [iCitizen]",
+    ", click=\"1\", click to remove mmasquerade\n\n[3018"
+  ],
+  "victim_response": [
+    "641918, val:0_0, 0 [iCitizen]",
+    ", click=\"1\", click to remove mmasquerade\n\n[3018"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

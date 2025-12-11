@@ -1,0 +1,19 @@
+{
+  "step": 4068,
+  "query": [
+    "21839",
+    "20708"
+  ],
+  "response": [
+    "66 a2b3e4daf5d0af1def",
+    "147583-close\n\n\n3\n\n7\nHenderz"
+  ],
+  "victim_response": [
+    "66 a2b3e4daf5d0af1def",
+    "147583-close\n\n\n3\n\n7\nHenderz"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 23856,
+  "query": [
+    "21652",
+    "21119"
+  ],
+  "response": [
+    " trials cancer cancer cancer cancer cell carcin cancer cell death cells cancer cell cell cancer cell",
+    " dhCCA dhCCCCaCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    " trials cancer cancer cancer cancer cell carcin cancer cell death cells cancer cell cell cancer cell",
+    " dhCCA dhCCCCaCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

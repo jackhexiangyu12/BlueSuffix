@@ -1,0 +1,19 @@
+{
+  "step": 21476,
+  "query": [
+    "21483",
+    "20401"
+  ],
+  "response": [
+    " would be a starting position at the top of the planet.\n\nFris",
+    "10010101010101010101010101010101"
+  ],
+  "victim_response": [
+    " would be a starting position at the top of the planet.\n\nFris",
+    "10010101010101010101010101010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

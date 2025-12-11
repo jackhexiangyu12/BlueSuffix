@@ -1,0 +1,19 @@
+{
+  "step": 369,
+  "query": [
+    "20155",
+    "21634"
+  ],
+  "response": [
+    "30 -4.000.000.000.000 -0.000.",
+    ", 2016\n\n<url=https://www.google.com/url"
+  ],
+  "victim_response": [
+    "30 -4.000.000.000.000 -0.000.",
+    ", 2016\n\n<url=https://www.google.com/url"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

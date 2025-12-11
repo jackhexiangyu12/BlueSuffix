@@ -1,0 +1,19 @@
+{
+  "step": 2306,
+  "query": [
+    "20245",
+    "20396"
+  ],
+  "response": [
+    "), zuma (0,2.1), dt (2,0",
+    " MELDF_TELL 0.00 MELDF_TELL 0"
+  ],
+  "victim_response": [
+    "), zuma (0,2.1), dt (2,0",
+    " MELDF_TELL 0.00 MELDF_TELL 0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

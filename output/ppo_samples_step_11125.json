@@ -1,0 +1,19 @@
+{
+  "step": 11125,
+  "query": [
+    "21085",
+    "20138"
+  ],
+  "response": [
+    "ch-product-model 1 Bericch Caldera Caldera de Carlos Calder",
+    "N Chaudre WT $38N N 07 N06N Global W"
+  ],
+  "victim_response": [
+    "ch-product-model 1 Bericch Caldera Caldera de Carlos Calder",
+    "N Chaudre WT $38N N 07 N06N Global W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

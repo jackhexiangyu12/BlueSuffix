@@ -1,0 +1,19 @@
+{
+  "step": 5379,
+  "query": [
+    "21888",
+    "20771"
+  ],
+  "response": [
+    "892\" disk/computeextras?\" care\" ips\" \"",
+    "x57f4c9fbd70bf7d9f2d"
+  ],
+  "victim_response": [
+    "892\" disk/computeextras?\" care\" ips\" \"",
+    "x57f4c9fbd70bf7d9f2d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

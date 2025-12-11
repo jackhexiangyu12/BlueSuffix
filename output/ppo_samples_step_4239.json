@@ -1,0 +1,19 @@
+{
+  "step": 4239,
+  "query": [
+    "21796",
+    "21041"
+  ],
+  "response": [
+    "1x17767/vcom-3d9szk0c",
+    "g1.4B4C93E4D2d7F4"
+  ],
+  "victim_response": [
+    "1x17767/vcom-3d9szk0c",
+    "g1.4B4C93E4D2d7F4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3901,
+  "query": [
+    "20812",
+    "21292"
+  ],
+  "response": [
+    "1057188 7f7 M ICIDO-00140D6 00000000",
+    "a7c9b4d35fa7dba5a14d"
+  ],
+  "victim_response": [
+    "1057188 7f7 M ICIDO-00140D6 00000000",
+    "a7c9b4d35fa7dba5a14d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

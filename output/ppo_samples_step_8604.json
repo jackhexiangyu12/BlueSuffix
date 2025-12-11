@@ -1,0 +1,19 @@
+{
+  "step": 8604,
+  "query": [
+    "21145",
+    "20905"
+  ],
+  "response": [
+    "DMC at 00dacbc1CC8CCCCCCCCCCCC",
+    "7D01D7DDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "DMC at 00dacbc1CC8CCCCCCCCCCCC",
+    "7D01D7DDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

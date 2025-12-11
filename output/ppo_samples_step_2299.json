@@ -1,0 +1,19 @@
+{
+  "step": 2299,
+  "query": [
+    "20836",
+    "21760"
+  ],
+  "response": [
+    "39 I am not a lawyer and I do not represent myself. I am a",
+    " -.8.7M,0.3G,0.8W"
+  ],
+  "victim_response": [
+    "39 I am not a lawyer and I do not represent myself. I am a",
+    " -.8.7M,0.3G,0.8W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11029,
+  "query": [
+    "20648",
+    "21126"
+  ],
+  "response": [
+    " takes the dpn offset out of the average deviation of the Upps data grid",
+    "18904756805777211077018697973805687"
+  ],
+  "victim_response": [
+    " takes the dpn offset out of the average deviation of the Upps data grid",
+    "18904756805777211077018697973805687"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 232,
+  "query": [
+    "21845",
+    "20158"
+  ],
+  "response": [
+    ",41096] <matthew_babe> nope that is",
+    ",1779,1778,1779,1781,1779,"
+  ],
+  "victim_response": [
+    ",41096] <matthew_babe> nope that is",
+    ",1779,1778,1779,1781,1779,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

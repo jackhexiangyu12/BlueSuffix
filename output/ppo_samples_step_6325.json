@@ -1,0 +1,19 @@
+{
+  "step": 6325,
+  "query": [
+    "20757",
+    "21126"
+  ],
+  "response": [
+    "68 (standard computer 1) idenchantd chime2 chime1",
+    "accfdfcdfc9b34ca21d7d9d"
+  ],
+  "victim_response": [
+    "68 (standard computer 1) idenchantd chime2 chime1",
+    "accfdfcdfc9b34ca21d7d9d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

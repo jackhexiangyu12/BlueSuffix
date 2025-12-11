@@ -1,0 +1,19 @@
+{
+  "step": 17593,
+  "query": [
+    "21822",
+    "20252"
+  ],
+  "response": [
+    " Note shaders are shaders that you can adjust and apply to your shader in",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " Note shaders are shaders that you can adjust and apply to your shader in",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

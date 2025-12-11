@@ -1,0 +1,19 @@
+{
+  "step": 10530,
+  "query": [
+    "21392",
+    "20158"
+  ],
+  "response": [
+    " CplexNetNet pci 00 00 Ccpv0Netbus 00 00 Network",
+    " mid suppress n bt n bt n bt nbt n b"
+  ],
+  "victim_response": [
+    " CplexNetNet pci 00 00 Ccpv0Netbus 00 00 Network",
+    " mid suppress n bt n bt n bt nbt n b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

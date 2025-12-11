@@ -1,0 +1,19 @@
+{
+  "step": 8802,
+  "query": [
+    "20993",
+    "20445"
+  ],
+  "response": [
+    "-1 no woman, I am a computer scientist. The science does not end",
+    "678's epramfication is controlled by an encryption attack algorithm known as \""
+  ],
+  "victim_response": [
+    "-1 no woman, I am a computer scientist. The science does not end",
+    "678's epramfication is controlled by an encryption attack algorithm known as \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

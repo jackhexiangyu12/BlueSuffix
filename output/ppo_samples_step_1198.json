@@ -1,0 +1,19 @@
+{
+  "step": 1198,
+  "query": [
+    "21288",
+    "21181"
+  ],
+  "response": [
+    "97,6)\n\nSlayer (x3)\n\nMage",
+    " (2)\n\n2)\n\n2)\n3)\n\n"
+  ],
+  "victim_response": [
+    "97,6)\n\nSlayer (x3)\n\nMage",
+    " (2)\n\n2)\n\n2)\n3)\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

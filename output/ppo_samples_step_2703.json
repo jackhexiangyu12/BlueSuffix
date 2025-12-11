@@ -1,0 +1,19 @@
+{
+  "step": 2703,
+  "query": [
+    "20708",
+    "21974"
+  ],
+  "response": [
+    "\" T_CY_DELPX=EDM_M1",
+    "\" much more. The wine was in the fridge for 1-2 weeks,"
+  ],
+  "victim_response": [
+    "\" T_CY_DELPX=EDM_M1",
+    "\" much more. The wine was in the fridge for 1-2 weeks,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

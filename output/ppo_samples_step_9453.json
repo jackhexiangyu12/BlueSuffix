@@ -1,0 +1,19 @@
+{
+  "step": 9453,
+  "query": [
+    "21233",
+    "21291"
+  ],
+  "response": [
+    "DCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDC",
+    "120010000001 21 2021 DTV2025011100101001 C"
+  ],
+  "victim_response": [
+    "DCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDC",
+    "120010000001 21 2021 DTV2025011100101001 C"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 16751,
+  "query": [
+    "20583",
+    "21392"
+  ],
+  "response": [
+    "242 DMSN DATT lab DMSN DMSN DMSN DMSN DMSN",
+    "d d d d d d d d d d d d d d d d"
+  ],
+  "victim_response": [
+    "242 DMSN DATT lab DMSN DMSN DMSN DMSN DMSN",
+    "d d d d d d d d d d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

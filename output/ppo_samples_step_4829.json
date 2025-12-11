@@ -1,0 +1,19 @@
+{
+  "step": 4829,
+  "query": [
+    "21845",
+    "20387"
+  ],
+  "response": [
+    "707\" \"Slybot\" \"TheCog1\" \"Deep Blue",
+    "6775a0023897d8dbe90b5d1"
+  ],
+  "victim_response": [
+    "707\" \"Slybot\" \"TheCog1\" \"Deep Blue",
+    "6775a0023897d8dbe90b5d1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2877,
+  "query": [
+    "21760",
+    "20245"
+  ],
+  "response": [
+    "350/147340/b3c938e5b0d",
+    "t/gtl_atm_arm.htm <block at hv"
+  ],
+  "victim_response": [
+    "350/147340/b3c938e5b0d",
+    "t/gtl_atm_arm.htm <block at hv"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

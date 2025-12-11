@@ -1,0 +1,19 @@
+{
+  "step": 4431,
+  "query": [
+    "20901",
+    "20120"
+  ],
+  "response": [
+    "d, et al.\n\nMunich, Karabas and Andreas",
+    "d0bef01b75b06acb24b26d8"
+  ],
+  "victim_response": [
+    "d, et al.\n\nMunich, Karabas and Andreas",
+    "d0bef01b75b06acb24b26d8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

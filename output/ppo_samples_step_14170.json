@@ -1,0 +1,19 @@
+{
+  "step": 14170,
+  "query": [
+    "20800",
+    "20871"
+  ],
+  "response": [
+    "D modem: CCPCASK modem modem in case of RX modem RX modem",
+    " 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802"
+  ],
+  "victim_response": [
+    "D modem: CCPCASK modem modem in case of RX modem RX modem",
+    " 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

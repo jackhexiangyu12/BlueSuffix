@@ -1,0 +1,19 @@
+{
+  "step": 13097,
+  "query": [
+    "20090",
+    "20663"
+  ],
+  "response": [
+    "702 find parking data to return the parking cell numbers and the location of the parking",
+    "\u30c8\u30d5\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8"
+  ],
+  "victim_response": [
+    "702 find parking data to return the parking cell numbers and the location of the parking",
+    "\u30c8\u30d5\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8\u30c8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

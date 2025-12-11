@@ -1,0 +1,19 @@
+{
+  "step": 8712,
+  "query": [
+    "21796",
+    "20010"
+  ],
+  "response": [
+    "00 2700 0 F906NCCCCCCCCCCCCCCCC",
+    "iahare-xhot00takm5a00lqnnnn"
+  ],
+  "victim_response": [
+    "00 2700 0 F906NCCCCCCCCCCCCCCCC",
+    "iahare-xhot00takm5a00lqnnnn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

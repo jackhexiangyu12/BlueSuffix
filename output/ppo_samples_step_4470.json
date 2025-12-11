@@ -1,0 +1,19 @@
+{
+  "step": 4470,
+  "query": [
+    "20387",
+    "20836"
+  ],
+  "response": [
+    "666977864033643739113119070011809",
+    "\" table length 1d_token = \"fint1\" table lint"
+  ],
+  "victim_response": [
+    "666977864033643739113119070011809",
+    "\" table length 1d_token = \"fint1\" table lint"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

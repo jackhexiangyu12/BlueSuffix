@@ -1,0 +1,19 @@
+{
+  "step": 21428,
+  "query": [
+    "20045",
+    "21652"
+  ],
+  "response": [
+    " F F F F F F F F F F F F F F F F",
+    " cells novel heaps of a different size have been applied to the surface of the"
+  ],
+  "victim_response": [
+    " F F F F F F F F F F F F F F F F",
+    " cells novel heaps of a different size have been applied to the surface of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

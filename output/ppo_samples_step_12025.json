@@ -1,0 +1,19 @@
+{
+  "step": 12025,
+  "query": [
+    "21938",
+    "21974"
+  ],
+  "response": [
+    "DDDDDDDDDDDDDDDD",
+    ",740 patients were treated with NSAID treatments in our hospital intensive care unit ("
+  ],
+  "victim_response": [
+    "DDDDDDDDDDDDDDDD",
+    ",740 patients were treated with NSAID treatments in our hospital intensive care unit ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 36,
+  "query": [
+    "21292",
+    "20787"
+  ],
+  "response": [
+    ".0,0.5,5,9,11,9,5",
+    "\n20798 (1)\n\nThe following is a list of all the"
+  ],
+  "victim_response": [
+    ".0,0.5,5,9,11,9,5",
+    "\n20798 (1)\n\nThe following is a list of all the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1098,
+  "query": [
+    "20786",
+    "21288"
+  ],
+  "response": [
+    "] C T: 0 D: 0 C: 0 D: 0 D:",
+    ",NFC,C,Z,Z,W,W,W,"
+  ],
+  "victim_response": [
+    "] C T: 0 D: 0 C: 0 D: 0 D:",
+    ",NFC,C,Z,Z,W,W,W,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

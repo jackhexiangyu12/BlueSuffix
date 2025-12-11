@@ -1,0 +1,19 @@
+{
+  "step": 20805,
+  "query": [
+    "21900",
+    "21047"
+  ],
+  "response": [
+    " fees sales tax \u00a3fee fee fee fees fees fees fees fees fees fees fees fees",
+    "01fee7fee7fee7fee7fee7feefeefeefeefee"
+  ],
+  "victim_response": [
+    " fees sales tax \u00a3fee fee fee fees fees fees fees fees fees fees fees fees",
+    "01fee7fee7fee7fee7fee7feefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

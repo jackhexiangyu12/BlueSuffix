@@ -1,0 +1,19 @@
+{
+  "step": 11546,
+  "query": [
+    "21226",
+    "21435"
+  ],
+  "response": [
+    " D031125 D031D031D D031D031D031D D",
+    "\" id \"active drone chassis\" \"drone_test01\" \"active"
+  ],
+  "victim_response": [
+    " D031125 D031D031D D031D031D031D D",
+    "\" id \"active drone chassis\" \"drone_test01\" \"active"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

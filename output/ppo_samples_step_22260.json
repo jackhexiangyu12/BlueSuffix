@@ -1,0 +1,19 @@
+{
+  "step": 22260,
+  "query": [
+    "20266",
+    "20062"
+  ],
+  "response": [
+    "RC the lab where I work will be working on their best hwr at the",
+    " Qualcomm QGP-FER Heat Cell XR Ext Cell XR F Cell DT"
+  ],
+  "victim_response": [
+    "RC the lab where I work will be working on their best hwr at the",
+    " Qualcomm QGP-FER Heat Cell XR Ext Cell XR F Cell DT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21433,
+  "query": [
+    "20846",
+    "20418"
+  ],
+  "response": [
+    "7 F F F F F F F F F F F F F F F",
+    "01 F cells cells would be cold f cells would be in apopt cell to the"
+  ],
+  "victim_response": [
+    "7 F F F F F F F F F F F F F F F",
+    "01 F cells cells would be cold f cells would be in apopt cell to the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

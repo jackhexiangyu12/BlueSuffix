@@ -1,0 +1,19 @@
+{
+  "step": 356,
+  "query": [
+    "21797",
+    "20871"
+  ],
+  "response": [
+    "298726,C3,3,37,3737,C3",
+    ".11.14/\n\nYou can also download the free version of the"
+  ],
+  "victim_response": [
+    "298726,C3,3,37,3737,C3",
+    ".11.14/\n\nYou can also download the free version of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

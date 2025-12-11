@@ -1,0 +1,19 @@
+{
+  "step": 2308,
+  "query": [
+    "20786",
+    "20307"
+  ],
+  "response": [
+    " 1.5 M. at 45 1 0/1 12-18 0/",
+    ".\n\nThe last two standard_spaces are a function which returns the"
+  ],
+  "victim_response": [
+    " 1.5 M. at 45 1 0/1 12-18 0/",
+    ".\n\nThe last two standard_spaces are a function which returns the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7201,
+  "query": [
+    "20010",
+    "20993"
+  ],
+  "response": [
+    "26, the \"original\" NXDB serial code of AqDAL",
+    "-14001f800000fsfsfsfsfsfsfsfsfsfs"
+  ],
+  "victim_response": [
+    "26, the \"original\" NXDB serial code of AqDAL",
+    "-14001f800000fsfsfsfsfsfsfsfsfsfs"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

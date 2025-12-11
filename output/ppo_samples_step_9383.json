@@ -1,0 +1,19 @@
+{
+  "step": 9383,
+  "query": [
+    "21288",
+    "20901"
+  ],
+  "response": [
+    "\"\", \"type1\", \"ncsccsuccsDnsD",
+    "497 Fish & Chips Chipped Fish & Chips Eats and Chips Fish Chips Fish"
+  ],
+  "victim_response": [
+    "\"\", \"type1\", \"ncsccsuccsDnsD",
+    "497 Fish & Chips Chipped Fish & Chips Eats and Chips Fish Chips Fish"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

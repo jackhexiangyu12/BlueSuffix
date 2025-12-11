@@ -1,0 +1,19 @@
+{
+  "step": 7733,
+  "query": [
+    "20655",
+    "21090"
+  ],
+  "response": [
+    "246240672476DDFDDFDFDFDFDFDFDF",
+    "%Frame rateFlicker durationHoverdriveFlicker speedFlipSpeedFl"
+  ],
+  "victim_response": [
+    "246240672476DDFDDFDFDFDFDFDFDF",
+    "%Frame rateFlicker durationHoverdriveFlicker speedFlipSpeedFl"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1840,
+  "query": [
+    "21041",
+    "21529"
+  ],
+  "response": [
+    "\n\n\nThe, like, like, like, the like, the,",
+    "(6) 56.696729667086(5) 7."
+  ],
+  "victim_response": [
+    "\n\n\nThe, like, like, like, the like, the,",
+    "(6) 56.696729667086(5) 7."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

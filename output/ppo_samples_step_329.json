@@ -1,0 +1,19 @@
+{
+  "step": 329,
+  "query": [
+    "21041",
+    "21023"
+  ],
+  "response": [
+    " for the photo of a woman who died in the hospital after a bus crashed into",
+    ", 7:19, 6:21, 5:19, 5:19"
+  ],
+  "victim_response": [
+    " for the photo of a woman who died in the hospital after a bus crashed into",
+    ", 7:19, 6:21, 5:19, 5:19"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1206,
+  "query": [
+    "21085",
+    "20045"
+  ],
+  "response": [
+    "-67d.html\n\nThe content of the article is the following:",
+    ".\n\nIn the first in a series of articles, which will be published"
+  ],
+  "victim_response": [
+    "-67d.html\n\nThe content of the article is the following:",
+    ".\n\nIn the first in a series of articles, which will be published"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

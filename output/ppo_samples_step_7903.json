@@ -1,0 +1,19 @@
+{
+  "step": 7903,
+  "query": [
+    "20307",
+    "20042"
+  ],
+  "response": [
+    " Type the fact the US is a Commonwealth country, it is a state, it",
+    "D7D7C7CC7CC7CC7CCCCCCCC"
+  ],
+  "victim_response": [
+    " Type the fact the US is a Commonwealth country, it is a state, it",
+    "D7D7C7CC7CC7CC7CCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

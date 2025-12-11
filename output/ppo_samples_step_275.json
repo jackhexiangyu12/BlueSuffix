@@ -1,0 +1,19 @@
+{
+  "step": 275,
+  "query": [
+    "20812",
+    "20800"
+  ],
+  "response": [
+    "] \"Correlation\" : [0.000000,0.000000,0",
+    "-4000-byte-parallel-binary\n\nA, \"byte\","
+  ],
+  "victim_response": [
+    "] \"Correlation\" : [0.000000,0.000000,0",
+    "-4000-byte-parallel-binary\n\nA, \"byte\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

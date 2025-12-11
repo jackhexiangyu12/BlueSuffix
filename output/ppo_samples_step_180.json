@@ -1,0 +1,19 @@
+{
+  "step": 180,
+  "query": [
+    "20374",
+    "20887"
+  ],
+  "response": [
+    "-0x1.5.1.t.x1.0.",
+    ".1087] [01:18:29] [Server thread/WARN"
+  ],
+  "victim_response": [
+    "-0x1.5.1.t.x1.0.",
+    ".1087] [01:18:29] [Server thread/WARN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 151,
+  "query": [
+    "21888",
+    "21608"
+  ],
+  "response": [
+    "/msmt/16225532\n\nThis is the second time I",
+    "4E-8E6C1-3E7F-20-"
+  ],
+  "victim_response": [
+    "/msmt/16225532\n\nThis is the second time I",
+    "4E-8E6C1-3E7F-20-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

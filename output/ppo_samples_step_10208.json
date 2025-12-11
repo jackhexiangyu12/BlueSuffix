@@ -1,0 +1,19 @@
+{
+  "step": 10208,
+  "query": [
+    "20155",
+    "20030"
+  ],
+  "response": [
+    "x200x72x74x149ns000 01239p mask mask mask",
+    "KiZBMBBMBMBMBMBMBMBMBMBMBMBM"
+  ],
+  "victim_response": [
+    "x200x72x74x149ns000 01239p mask mask mask",
+    "KiZBMBBMBMBMBMBMBMBMBMBMBMBM"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

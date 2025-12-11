@@ -1,0 +1,19 @@
+{
+  "step": 1821,
+  "query": [
+    "21608",
+    "21291"
+  ],
+  "response": [
+    "2/applications/\n\nhttp://www.mak_cat",
+    "G1K3A3.jpg }\n\nRed: (X)"
+  ],
+  "victim_response": [
+    "2/applications/\n\nhttp://www.mak_cat",
+    "G1K3A3.jpg }\n\nRed: (X)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

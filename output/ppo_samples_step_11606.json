@@ -1,0 +1,19 @@
+{
+  "step": 11606,
+  "query": [
+    "20925",
+    "20846"
+  ],
+  "response": [
+    "301 Bermelterold Rax93030101301 Bermelterold",
+    "00007 locwxtakkkkkkkkkkkkkkkkkkkkk"
+  ],
+  "victim_response": [
+    "301 Bermelterold Rax93030101301 Bermelterold",
+    "00007 locwxtakkkkkkkkkkkkkkkkkkkkk"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7980,
+  "query": [
+    "21767",
+    "21418"
+  ],
+  "response": [
+    " HSCPFTDLTMIPD1HATDDDDDDDDD",
+    "\", \"NCCDCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    " HSCPFTDLTMIPD1HATDDDDDDDDD",
+    "\", \"NCCDCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

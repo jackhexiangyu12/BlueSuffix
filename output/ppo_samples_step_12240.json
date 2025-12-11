@@ -1,0 +1,19 @@
+{
+  "step": 12240,
+  "query": [
+    "20000",
+    "21209"
+  ],
+  "response": [
+    " Cell0 704000 Cell7000 Cell007 Cell008 Cell007 Cell7",
+    "6b7cfe7da7da7da7da7da7"
+  ],
+  "victim_response": [
+    " Cell0 704000 Cell7000 Cell007 Cell008 Cell007 Cell7",
+    "6b7cfe7da7da7da7da7da7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

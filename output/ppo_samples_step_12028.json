@@ -1,0 +1,19 @@
+{
+  "step": 12028,
+  "query": [
+    "21368",
+    "21709"
+  ],
+  "response": [
+    "F269D8C897D7D7D7D7D",
+    "40 driving legal car activity 0 benzene drivers driving 0 motorcycle driving 6 cannabis driving"
+  ],
+  "victim_response": [
+    "F269D8C897D7D7D7D7D",
+    "40 driving legal car activity 0 benzene drivers driving 0 motorcycle driving 6 cannabis driving"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

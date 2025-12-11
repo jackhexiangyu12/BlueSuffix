@@ -1,0 +1,19 @@
+{
+  "step": 14369,
+  "query": [
+    "20106",
+    "21658"
+  ],
+  "response": [
+    "osa0300200902023 Dhotther02 Datt07000001",
+    "706 ops 7 25 dentb1d0d02d035DDD"
+  ],
+  "victim_response": [
+    "osa0300200902023 Dhotther02 Datt07000001",
+    "706 ops 7 25 dentb1d0d02d035DDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

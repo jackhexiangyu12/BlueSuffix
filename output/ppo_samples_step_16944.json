@@ -1,0 +1,19 @@
+{
+  "step": 16944,
+  "query": [
+    "20905",
+    "20360"
+  ],
+  "response": [
+    "288D D D D D D D D D D D D D D D",
+    "9 D flat cell D Div grid D cell D cell D Cell D Cell D"
+  ],
+  "victim_response": [
+    "288D D D D D D D D D D D D D D D",
+    "9 D flat cell D Div grid D cell D cell D Cell D Cell D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

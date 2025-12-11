@@ -1,0 +1,19 @@
+{
+  "step": 1690,
+  "query": [
+    "21267",
+    "21303"
+  ],
+  "response": [
+    ",0,0,35.00,543.0000,0,",
+    "\n\n|http://www.invisible.com/node/indep"
+  ],
+  "victim_response": [
+    ",0,0,35.00,543.0000,0,",
+    "\n\n|http://www.invisible.com/node/indep"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

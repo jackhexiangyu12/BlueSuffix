@@ -1,0 +1,19 @@
+{
+  "step": 6860,
+  "query": [
+    "20787",
+    "21709"
+  ],
+  "response": [
+    "d7d1d7d7d7d7d7d7",
+    "00\" we put you in the following section:\n\nUse a public key"
+  ],
+  "victim_response": [
+    "d7d1d7d7d7d7d7d7",
+    "00\" we put you in the following section:\n\nUse a public key"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

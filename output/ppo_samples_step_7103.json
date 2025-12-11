@@ -1,0 +1,19 @@
+{
+  "step": 7103,
+  "query": [
+    "21620",
+    "20295"
+  ],
+  "response": [
+    "h \"key count of the stalker\" is 37h; this is a",
+    "43W01b1ddd7d0d8d8d8"
+  ],
+  "victim_response": [
+    "h \"key count of the stalker\" is 37h; this is a",
+    "43W01b1ddd7d0d8d8d8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

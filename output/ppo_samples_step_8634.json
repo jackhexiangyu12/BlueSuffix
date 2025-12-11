@@ -1,0 +1,19 @@
+{
+  "step": 8634,
+  "query": [
+    "21126",
+    "20307"
+  ],
+  "response": [
+    "17827707942773201709623414727571167",
+    "> network protocol does not support the HTTP protocol, the protocol does not support the"
+  ],
+  "victim_response": [
+    "17827707942773201709623414727571167",
+    "> network protocol does not support the HTTP protocol, the protocol does not support the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

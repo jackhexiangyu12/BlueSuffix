@@ -1,0 +1,19 @@
+{
+  "step": 15808,
+  "query": [
+    "20639",
+    "20403"
+  ],
+  "response": [
+    "23 conn conn conn conn conn conn conn conn conn conn conn conn conn conn conn",
+    " DowfastP DOWF WPN WPN WPN WPN W"
+  ],
+  "victim_response": [
+    "23 conn conn conn conn conn conn conn conn conn conn conn conn conn conn conn",
+    " DowfastP DOWF WPN WPN WPN WPN W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

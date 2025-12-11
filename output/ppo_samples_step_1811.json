@@ -1,0 +1,19 @@
+{
+  "step": 1811,
+  "query": [
+    "20252",
+    "21356"
+  ],
+  "response": [
+    "-A\", \"ra/inter/A\", \"1xpress/A",
+    "B6D90(S): h9b836b3e3"
+  ],
+  "victim_response": [
+    "-A\", \"ra/inter/A\", \"1xpress/A",
+    "B6D90(S): h9b836b3e3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

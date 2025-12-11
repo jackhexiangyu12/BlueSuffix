@@ -1,0 +1,19 @@
+{
+  "step": 5472,
+  "query": [
+    "21126",
+    "21796"
+  ],
+  "response": [
+    "67kt7D6247d7df5F35Bd",
+    "12\", \"references_iradon\", \"name\", \"references"
+  ],
+  "victim_response": [
+    "67kt7D6247d7df5F35Bd",
+    "12\", \"references_iradon\", \"name\", \"references"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

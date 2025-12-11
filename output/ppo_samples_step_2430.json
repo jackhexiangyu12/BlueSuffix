@@ -1,0 +1,19 @@
+{
+  "step": 2430,
+  "query": [
+    "21181",
+    "20653"
+  ],
+  "response": [
+    "/57.74 0 F6 C2 \"NICI INSI N",
+    "-L6-F-M2-DHAC\n\nEb"
+  ],
+  "victim_response": [
+    "/57.74 0 F6 C2 \"NICI INSI N",
+    "-L6-F-M2-DHAC\n\nEb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

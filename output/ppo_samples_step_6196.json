@@ -1,0 +1,19 @@
+{
+  "step": 6196,
+  "query": [
+    "20445",
+    "20757"
+  ],
+  "response": [
+    "< mb variant is selected, then the next one is chosen and the first",
+    "19 4050097499C Scust m s mol m m s m"
+  ],
+  "victim_response": [
+    "< mb variant is selected, then the next one is chosen and the first",
+    "19 4050097499C Scust m s mol m m s m"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

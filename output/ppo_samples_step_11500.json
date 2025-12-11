@@ -1,0 +1,19 @@
+{
+  "step": 11500,
+  "query": [
+    "20865",
+    "20708"
+  ],
+  "response": [
+    "F2D9D7D7D7D7D7D7",
+    "k = SHA1-SHA256 hash hash hash hash hash hash hash hash hash"
+  ],
+  "victim_response": [
+    "F2D9D7D7D7D7D7D7",
+    "k = SHA1-SHA256 hash hash hash hash hash hash hash hash hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

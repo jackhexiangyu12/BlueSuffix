@@ -1,0 +1,19 @@
+{
+  "step": 7293,
+  "query": [
+    "20307",
+    "20547"
+  ],
+  "response": [
+    "DDDBDDBDBDBDDBDBDBDBDBDBDBDB",
+    ") Telmi is a tall black farmer wearing a big white hat. He is"
+  ],
+  "victim_response": [
+    "DDDBDDBDBDBDDBDBDBDBDBDBDBDB",
+    ") Telmi is a tall black farmer wearing a big white hat. He is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

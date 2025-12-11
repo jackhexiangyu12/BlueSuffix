@@ -1,0 +1,19 @@
+{
+  "step": 3609,
+  "query": [
+    "21126",
+    "20144"
+  ],
+  "response": [
+    "22,1 web_helpss_login.ch4=4412722",
+    ", 2009-09 005-LLLH5B6A 4242"
+  ],
+  "victim_response": [
+    "22,1 web_helpss_login.ch4=4412722",
+    ", 2009-09 005-LLLH5B6A 4242"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

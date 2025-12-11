@@ -1,0 +1,19 @@
+{
+  "step": 5992,
+  "query": [
+    "20655",
+    "21529"
+  ],
+  "response": [
+    ", firmware: C1.0.1beefonC020005000",
+    "279249d4c19d7a7d7c9d7"
+  ],
+  "victim_response": [
+    ", firmware: C1.0.1beefonC020005000",
+    "279249d4c19d7a7d7c9d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

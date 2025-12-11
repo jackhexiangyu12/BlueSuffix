@@ -1,0 +1,19 @@
+{
+  "step": 1626,
+  "query": [
+    "20223",
+    "20504"
+  ],
+  "response": [
+    "11E.jpg</a>\n\n<a href=\"http://w",
+    "a0 :\n\n/nfs/l/d/* /n"
+  ],
+  "victim_response": [
+    "11E.jpg</a>\n\n<a href=\"http://w",
+    "a0 :\n\n/nfs/l/d/* /n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

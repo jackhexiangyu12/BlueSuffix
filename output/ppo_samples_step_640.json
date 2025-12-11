@@ -1,0 +1,19 @@
+{
+  "step": 640,
+  "query": [
+    "20223",
+    "21160"
+  ],
+  "response": [
+    "16.6\n\n[23] Enabling the following permissions:\n\n",
+    "42123460383797485058452112369954"
+  ],
+  "victim_response": [
+    "16.6\n\n[23] Enabling the following permissions:\n\n",
+    "42123460383797485058452112369954"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

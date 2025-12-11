@@ -1,0 +1,19 @@
+{
+  "step": 12335,
+  "query": [
+    "20653",
+    "20626"
+  ],
+  "response": [
+    " and \"Netrate\" location and rate transfer fees are charged for the location in",
+    "CCDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " and \"Netrate\" location and rate transfer fees are charged for the location in",
+    "CCDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

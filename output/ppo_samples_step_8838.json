@@ -1,0 +1,19 @@
+{
+  "step": 8838,
+  "query": [
+    "21739",
+    "21652"
+  ],
+  "response": [
+    "001\" id = \"attachment 1qf7d04a5d",
+    " d02d0 d0101 d01d d01d d01 d"
+  ],
+  "victim_response": [
+    "001\" id = \"attachment 1qf7d04a5d",
+    " d02d0 d0101 d01d d01d d01 d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

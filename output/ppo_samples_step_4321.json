@@ -1,0 +1,19 @@
+{
+  "step": 4321,
+  "query": [
+    "21925",
+    "20865"
+  ],
+  "response": [
+    " (28,58) 11th of the17 (19,20) 13",
+    "1ffff_{3301000000000000000067d7ffffd7bffffffff"
+  ],
+  "victim_response": [
+    " (28,58) 11th of the17 (19,20) 13",
+    "1ffff_{3301000000000000000067d7ffffd7bffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

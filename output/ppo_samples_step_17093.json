@@ -1,0 +1,19 @@
+{
+  "step": 17093,
+  "query": [
+    "20331",
+    "20786"
+  ],
+  "response": [
+    " attacks has a common target number, which means that the more physical attackers may not",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " attacks has a common target number, which means that the more physical attackers may not",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

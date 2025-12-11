@@ -1,0 +1,19 @@
+{
+  "step": 11582,
+  "query": [
+    "21520",
+    "21082"
+  ],
+  "response": [
+    "21 is a tx size blocks NkB UC byte offset is the NkB byte",
+    "Z9Z9Z9Z9ZZ9Z9Z9Z"
+  ],
+  "victim_response": [
+    "21 is a tx size blocks NkB UC byte offset is the NkB byte",
+    "Z9Z9Z9Z9ZZ9Z9Z9Z"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

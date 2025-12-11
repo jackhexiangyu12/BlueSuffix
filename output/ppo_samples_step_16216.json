@@ -1,0 +1,19 @@
+{
+  "step": 16216,
+  "query": [
+    "20387",
+    "21160"
+  ],
+  "response": [
+    "703D D D D D D D D D D D D D D D",
+    " DFA saltend lab shutdown DFA dent dent d dent d d dent dent"
+  ],
+  "victim_response": [
+    "703D D D D D D D D D D D D D D D",
+    " DFA saltend lab shutdown DFA dent dent d dent d d dent dent"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6642,
+  "query": [
+    "20223",
+    "20411"
+  ],
+  "response": [
+    ".1911 on TCP-xbrejX 7d9m247b",
+    "M' (1027m10s)', numberOf'2D'"
+  ],
+  "victim_response": [
+    ".1911 on TCP-xbrejX 7d9m247b",
+    "M' (1027m10s)', numberOf'2D'"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

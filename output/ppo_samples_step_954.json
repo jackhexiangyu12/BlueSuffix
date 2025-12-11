@@ -1,0 +1,19 @@
+{
+  "step": 954,
+  "query": [
+    "20144",
+    "21125"
+  ],
+  "response": [
+    "28.\n\n[16] Back to top\n\n(2) BACK",
+    "\n\nJohannsson, J. 1984. The structure of the D"
+  ],
+  "victim_response": [
+    "28.\n\n[16] Back to top\n\n(2) BACK",
+    "\n\nJohannsson, J. 1984. The structure of the D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

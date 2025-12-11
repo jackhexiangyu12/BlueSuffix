@@ -1,0 +1,19 @@
+{
+  "step": 10561,
+  "query": [
+    "20871",
+    "20178"
+  ],
+  "response": [
+    " -0-7ada7a5d9a7d7d7",
+    " is a reference tool for software developers. It is used by various software developers to"
+  ],
+  "victim_response": [
+    " -0-7ada7a5d9a7d7d7",
+    " is a reference tool for software developers. It is used by various software developers to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

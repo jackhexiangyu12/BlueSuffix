@@ -1,0 +1,19 @@
+{
+  "step": 10451,
+  "query": [
+    "21900",
+    "21608"
+  ],
+  "response": [
+    " bus based the 19900 bus is \"the fastest bus available\" bus bus bus",
+    "000 FNodeShakabDhqqDhqqDh"
+  ],
+  "victim_response": [
+    " bus based the 19900 bus is \"the fastest bus available\" bus bus bus",
+    "000 FNodeShakabDhqqDhqqDh"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1502,
+  "query": [
+    "20993",
+    "21288"
+  ],
+  "response": [
+    "d1, Rommel\n\nMysterious, New York, 3/",
+    ": 0.291888 (8)\n\n18.98800"
+  ],
+  "victim_response": [
+    "d1, Rommel\n\nMysterious, New York, 3/",
+    ": 0.291888 (8)\n\n18.98800"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

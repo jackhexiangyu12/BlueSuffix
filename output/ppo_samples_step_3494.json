@@ -1,0 +1,19 @@
+{
+  "step": 3494,
+  "query": [
+    "20266",
+    "20010"
+  ],
+  "response": [
+    ", 1 -A (24.8 g/m)2: 0.",
+    "-1\n\n1 a. Internet A Site is not linked to an Internet"
+  ],
+  "victim_response": [
+    ", 1 -A (24.8 g/m)2: 0.",
+    "-1\n\n1 a. Internet A Site is not linked to an Internet"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2066,
+  "query": [
+    "21669",
+    "21974"
+  ],
+  "response": [
+    " MB/D. It was a hard disk failure (I wrote to the kernel",
+    ": sys.exe (6.8.1) 5.7.0"
+  ],
+  "victim_response": [
+    " MB/D. It was a hard disk failure (I wrote to the kernel",
+    ": sys.exe (6.8.1) 5.7.0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

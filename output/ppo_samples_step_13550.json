@@ -1,0 +1,19 @@
+{
+  "step": 13550,
+  "query": [
+    "21023",
+    "20067"
+  ],
+  "response": [
+    "FE cell fusion protein expression is a kinase pathway that increases cell proliferation and migration",
+    " Gilbert Zuchenarne Zarou is a French court case, not a"
+  ],
+  "victim_response": [
+    "FE cell fusion protein expression is a kinase pathway that increases cell proliferation and migration",
+    " Gilbert Zuchenarne Zarou is a French court case, not a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

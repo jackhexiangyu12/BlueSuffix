@@ -1,0 +1,19 @@
+{
+  "step": 17261,
+  "query": [
+    "21707",
+    "20257"
+  ],
+  "response": [
+    "7 D7678 D7695 D7679695695 D7695695",
+    "30 D request moved sched d motionmaker D motion D motion coordinate D motion coordinate"
+  ],
+  "victim_response": [
+    "7 D7678 D7695 D7679695695 D7695695",
+    "30 D request moved sched d motionmaker D motion D motion coordinate D motion coordinate"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

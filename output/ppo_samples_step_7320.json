@@ -1,0 +1,19 @@
+{
+  "step": 7320,
+  "query": [
+    "20224",
+    "20360"
+  ],
+  "response": [
+    "\" Wednesday\" Monday\" Saturday morning\" Tuesday\" Tuesday\" Saturday\" Sunday\"",
+    "F\".\n\nFrequency the WIPOCD holds that \"1D"
+  ],
+  "victim_response": [
+    "\" Wednesday\" Monday\" Saturday morning\" Tuesday\" Tuesday\" Saturday\" Sunday\"",
+    "F\".\n\nFrequency the WIPOCD holds that \"1D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

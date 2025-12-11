@@ -1,0 +1,19 @@
+{
+  "step": 1277,
+  "query": [
+    "20559",
+    "21441"
+  ],
+  "response": [
+    ": 66517 -> 1060\n\nPilot: 6\n\n\n",
+    ",D9A6C5A01F6F6E1D"
+  ],
+  "victim_response": [
+    ": 66517 -> 1060\n\nPilot: 6\n\n\n",
+    ",D9A6C5A01F6F6E1D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

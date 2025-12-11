@@ -1,0 +1,19 @@
+{
+  "step": 18545,
+  "query": [
+    "20757",
+    "21126"
+  ],
+  "response": [
+    "0007 Solar assembly Lam cell has a power cell unit witness witness on the witness",
+    "27774 Dhatrex on mfsetag charges matronDFetag"
+  ],
+  "victim_response": [
+    "0007 Solar assembly Lam cell has a power cell unit witness witness on the witness",
+    "27774 Dhatrex on mfsetag charges matronDFetag"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

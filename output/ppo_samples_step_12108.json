@@ -1,0 +1,19 @@
+{
+  "step": 12108,
+  "query": [
+    "21547",
+    "20905"
+  ],
+  "response": [
+    "86 2 quake power low oil 6453238 calpean dsl moon di",
+    "01077377907727906107577521907707"
+  ],
+  "victim_response": [
+    "86 2 quake power low oil 6453238 calpean dsl moon di",
+    "01077377907727906107577521907707"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

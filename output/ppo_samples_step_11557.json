@@ -1,0 +1,19 @@
+{
+  "step": 11557,
+  "query": [
+    "20887",
+    "21781"
+  ],
+  "response": [
+    " danrow 0D7D7D7D7D7D7D",
+    " DHCP DHCPATIP IPA IPTCID RADCID RADCID RADC"
+  ],
+  "victim_response": [
+    " danrow 0D7D7D7D7D7D7D",
+    " DHCP DHCPATIP IPA IPTCID RADCID RADCID RADC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

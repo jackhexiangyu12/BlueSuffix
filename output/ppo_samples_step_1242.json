@@ -1,0 +1,19 @@
+{
+  "step": 1242,
+  "query": [
+    "21772",
+    "20612"
+  ],
+  "response": [
+    ".\n\nAnonymous 03/12/2017 11:04:39 Sat 10",
+    "52\", \"b1\": \"none\", \"name\": \"invalid\","
+  ],
+  "victim_response": [
+    ".\n\nAnonymous 03/12/2017 11:04:39 Sat 10",
+    "52\", \"b1\": \"none\", \"name\": \"invalid\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

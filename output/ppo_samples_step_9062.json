@@ -1,0 +1,19 @@
+{
+  "step": 9062,
+  "query": [
+    "21739",
+    "20762"
+  ],
+  "response": [
+    " Honeybeans 90540 Honeybees study 600007 Honeybees study 719",
+    " \"init argfe3d1D2D001D001DDD"
+  ],
+  "victim_response": [
+    " Honeybeans 90540 Honeybees study 600007 Honeybees study 719",
+    " \"init argfe3d1D2D001D001DDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

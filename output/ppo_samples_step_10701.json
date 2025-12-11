@@ -1,0 +1,19 @@
+{
+  "step": 10701,
+  "query": [
+    "21392",
+    "20360"
+  ],
+  "response": [
+    "nvidia-nvidia-NVvidia GTX NVIDIA GTX GPU GPU GPU GPU GPU",
+    "7D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "nvidia-nvidia-NVvidia GTX NVIDIA GTX GPU GPU GPU GPU GPU",
+    "7D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

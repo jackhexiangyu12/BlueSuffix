@@ -1,0 +1,19 @@
+{
+  "step": 6787,
+  "query": [
+    "20106",
+    "20360"
+  ],
+  "response": [
+    "3CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " FTelis MCP3F86/MCP3B3C3"
+  ],
+  "victim_response": [
+    "3CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " FTelis MCP3F86/MCP3B3C3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

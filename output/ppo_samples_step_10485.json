@@ -1,0 +1,19 @@
+{
+  "step": 10485,
+  "query": [
+    "20887",
+    "21888"
+  ],
+  "response": [
+    " Company unknown $28Am,1m2,3 $20Am",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " Company unknown $28Am,1m2,3 $20Am",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

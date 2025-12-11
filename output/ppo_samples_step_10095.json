@@ -1,0 +1,19 @@
+{
+  "step": 10095,
+  "query": [
+    "21267",
+    "20401"
+  ],
+  "response": [
+    "augancoffee tiramucada nobach rojo sunnier coffee",
+    "50000000000000000010000000C0100000000001C01001D00000000001D"
+  ],
+  "victim_response": [
+    "augancoffee tiramucada nobach rojo sunnier coffee",
+    "50000000000000000010000000C0100000000001C01001D00000000001D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

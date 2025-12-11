@@ -1,0 +1,19 @@
+{
+  "step": 676,
+  "query": [
+    "21709",
+    "21781"
+  ],
+  "response": [
+    "7 [19:03:13.921] [097397",
+    "\n\nBy the one-minute mark\n\nBy the two-minute mark"
+  ],
+  "victim_response": [
+    "7 [19:03:13.921] [097397",
+    "\n\nBy the one-minute mark\n\nBy the two-minute mark"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

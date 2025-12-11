@@ -1,0 +1,19 @@
+{
+  "step": 10278,
+  "query": [
+    "21441",
+    "21232"
+  ],
+  "response": [
+    "-sprk 2201781 New vehicle (2201781) wtch",
+    " 1 dduelanp feildjr alrasat mrwrw"
+  ],
+  "victim_response": [
+    "-sprk 2201781 New vehicle (2201781) wtch",
+    " 1 dduelanp feildjr alrasat mrwrw"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

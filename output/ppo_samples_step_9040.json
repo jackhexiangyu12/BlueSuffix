@@ -1,0 +1,19 @@
+{
+  "step": 9040,
+  "query": [
+    "20401",
+    "21085"
+  ],
+  "response": [
+    "01010101010101010101010101010101",
+    " as a driver of a cattle-company having a 21-year PTO with"
+  ],
+  "victim_response": [
+    "01010101010101010101010101010101",
+    " as a driver of a cattle-company having a 21-year PTO with"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

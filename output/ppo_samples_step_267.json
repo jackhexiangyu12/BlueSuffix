@@ -1,0 +1,19 @@
+{
+  "step": 267,
+  "query": [
+    "20192",
+    "20245"
+  ],
+  "response": [
+    "a6a8b4cfd0e6d7c3e",
+    "\n\nThe number of subjects who completed the study was compared with the mean number"
+  ],
+  "victim_response": [
+    "a6a8b4cfd0e6d7c3e",
+    "\n\nThe number of subjects who completed the study was compared with the mean number"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

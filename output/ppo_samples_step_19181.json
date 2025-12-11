@@ -1,0 +1,19 @@
+{
+  "step": 19181,
+  "query": [
+    "20387",
+    "20360"
+  ],
+  "response": [
+    "F F F F F F F F F F F F F F F F",
+    "\" is a prison cell count that could not be counted because of the multiplication factor"
+  ],
+  "victim_response": [
+    "F F F F F F F F F F F F F F F F",
+    "\" is a prison cell count that could not be counted because of the multiplication factor"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10152,
+  "query": [
+    "21483",
+    "20648"
+  ],
+  "response": [
+    " control\n\n--------------------------- pne.sm shpw SM-SHP",
+    "-to 75961 D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " control\n\n--------------------------- pne.sm shpw SM-SHP",
+    "-to 75961 D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

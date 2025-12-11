@@ -1,0 +1,19 @@
+{
+  "step": 1868,
+  "query": [
+    "21707",
+    "21233"
+  ],
+  "response": [
+    ", the number of the number of planets in the solar system.\n\nThe",
+    "3451) is_null (2193139340,1) ;"
+  ],
+  "victim_response": [
+    ", the number of the number of planets in the solar system.\n\nThe",
+    "3451) is_null (2193139340,1) ;"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

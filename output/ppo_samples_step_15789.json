@@ -1,0 +1,19 @@
+{
+  "step": 15789,
+  "query": [
+    "20192",
+    "21900"
+  ],
+  "response": [
+    "10609077Wa23D7D7D7D7D",
+    " Dcpu09 driver driver type Xeon driver driver OCom memory regulator PSY vendor"
+  ],
+  "victim_response": [
+    "10609077Wa23D7D7D7D7D",
+    " Dcpu09 driver driver type Xeon driver driver OCom memory regulator PSY vendor"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6280,
+  "query": [
+    "21709",
+    "20401"
+  ],
+  "response": [
+    "246004aedf8b9b7b9f7d3",
+    "-0 Ptolendlas/cs3.de Ptolend"
+  ],
+  "victim_response": [
+    "246004aedf8b9b7b9f7d3",
+    "-0 Ptolendlas/cs3.de Ptolend"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

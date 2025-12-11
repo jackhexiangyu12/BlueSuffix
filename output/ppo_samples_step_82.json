@@ -1,0 +1,19 @@
+{
+  "step": 82,
+  "query": [
+    "21950",
+    "20968"
+  ],
+  "response": [
+    "a9e6f7c6d7a0e7d0",
+    "\n\n2.1.1.1. The second way to the first"
+  ],
+  "victim_response": [
+    "a9e6f7c6d7a0e7d0",
+    "\n\n2.1.1.1. The second way to the first"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

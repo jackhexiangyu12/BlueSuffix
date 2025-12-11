@@ -1,0 +1,19 @@
+{
+  "step": 17984,
+  "query": [
+    "21888",
+    "21363"
+  ],
+  "response": [
+    " 2 piano piano Z bass piano Z bass piano piano piano Z bass piano Z piano",
+    " D0 D1 D1 D1 D1 D1 D1 D D"
+  ],
+  "victim_response": [
+    " 2 piano piano Z bass piano Z bass piano piano piano Z bass piano Z piano",
+    " D0 D1 D1 D1 D1 D1 D1 D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

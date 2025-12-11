@@ -1,0 +1,19 @@
+{
+  "step": 17254,
+  "query": [
+    "20800",
+    "21233"
+  ],
+  "response": [
+    " Queen Alox King Alox Queen Alox Queen Alox Queen Alox Queen",
+    "01feefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " Queen Alox King Alox Queen Alox Queen Alox Queen Alox Queen",
+    "01feefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

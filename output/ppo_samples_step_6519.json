@@ -1,0 +1,19 @@
+{
+  "step": 6519,
+  "query": [
+    "20750",
+    "21672"
+  ],
+  "response": [
+    "77266 A S 5 3 GHz 5 T 7 m 7 m 7 m",
+    "124209CCCA687D7D5D7D9F7DF"
+  ],
+  "victim_response": [
+    "77266 A S 5 3 GHz 5 T 7 m 7 m 7 m",
+    "124209CCCA687D7D5D7D9F7DF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

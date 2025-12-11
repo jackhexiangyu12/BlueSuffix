@@ -1,0 +1,19 @@
+{
+  "step": 2287,
+  "query": [
+    "20360",
+    "20800"
+  ],
+  "response": [
+    "3/la-bene/doljegr00",
+    ".jpg\n\nResolution: 1280x800\n\nSize: 60mb"
+  ],
+  "victim_response": [
+    "3/la-bene/doljegr00",
+    ".jpg\n\nResolution: 1280x800\n\nSize: 60mb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

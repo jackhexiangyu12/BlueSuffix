@@ -1,0 +1,19 @@
+{
+  "step": 22305,
+  "query": [
+    "20787",
+    "20762"
+  ],
+  "response": [
+    " number is truck number is satellite number is GPS number is phone number number is postal",
+    "D024D024D024D024D024D024D024D024"
+  ],
+  "victim_response": [
+    " number is truck number is satellite number is GPS number is phone number number is postal",
+    "D024D024D024D024D024D024D024D024"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

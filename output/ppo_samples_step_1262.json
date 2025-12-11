@@ -1,0 +1,19 @@
+{
+  "step": 1262,
+  "query": [
+    "21262",
+    "20771"
+  ],
+  "response": [
+    ". This is a very high rate of the low rate, but it does mean",
+    "\n\nBookseller\n\nOne of the best books on the web.\n"
+  ],
+  "victim_response": [
+    ". This is a very high rate of the low rate, but it does mean",
+    "\n\nBookseller\n\nOne of the best books on the web.\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8700,
+  "query": [
+    "21550",
+    "20968"
+  ],
+  "response": [
+    "MHz means that modulation frequency, and the C01 signal was required to transmit the",
+    "7034787CCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    "MHz means that modulation frequency, and the C01 signal was required to transmit the",
+    "7034787CCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

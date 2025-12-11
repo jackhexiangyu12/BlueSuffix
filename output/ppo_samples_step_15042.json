@@ -1,0 +1,19 @@
+{
+  "step": 15042,
+  "query": [
+    "21739",
+    "21658"
+  ],
+  "response": [
+    "000 (ATTATTATTATTATTATTATTATTATTATTATTATTATTATT",
+    " Chinese dentor license number 525750101D D D 01 PP023D"
+  ],
+  "victim_response": [
+    "000 (ATTATTATTATTATTATTATTATTATTATTATTATTATTATT",
+    " Chinese dentor license number 525750101D D D 01 PP023D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

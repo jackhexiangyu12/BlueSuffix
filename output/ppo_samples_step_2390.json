@@ -1,0 +1,19 @@
+{
+  "step": 2390,
+  "query": [
+    "20547",
+    "20374"
+  ],
+  "response": [
+    "80&msa,a4 y_pow=700000003&",
+    " is a raw pointer. It's only needs to be set in the chain of"
+  ],
+  "victim_response": [
+    "80&msa,a4 y_pow=700000003&",
+    " is a raw pointer. It's only needs to be set in the chain of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

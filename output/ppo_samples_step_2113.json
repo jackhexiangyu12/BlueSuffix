@@ -1,0 +1,19 @@
+{
+  "step": 2113,
+  "query": [
+    "21520",
+    "21839"
+  ],
+  "response": [
+    ".\n\nc_1\n\n8\n\nc_N\n8",
+    "] Unlogic. found at 5, and is being used as a texture"
+  ],
+  "victim_response": [
+    ".\n\nc_1\n\n8\n\nc_N\n8",
+    "] Unlogic. found at 5, and is being used as a texture"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

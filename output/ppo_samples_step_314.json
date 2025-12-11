@@ -1,0 +1,19 @@
+{
+  "step": 314,
+  "query": [
+    "20547",
+    "21303"
+  ],
+  "response": [
+    ".\n\n11.27.6.1.1.4.2",
+    ".981.8901.playlist.com/album/the-"
+  ],
+  "victim_response": [
+    ".\n\n11.27.6.1.1.4.2",
+    ".981.8901.playlist.com/album/the-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

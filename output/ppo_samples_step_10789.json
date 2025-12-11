@@ -1,0 +1,19 @@
+{
+  "step": 10789,
+  "query": [
+    "21634",
+    "21377"
+  ],
+  "response": [
+    "66RNACAb CTRMBPrMQQQQQQQQ",
+    "77QuuxDuxuxQuuxQuuxQuuxQuuxQuux"
+  ],
+  "victim_response": [
+    "66RNACAb CTRMBPrMQQQQQQQQ",
+    "77QuuxDuxuxQuuxQuuxQuuxQuuxQuux"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

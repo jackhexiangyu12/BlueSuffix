@@ -1,0 +1,19 @@
+{
+  "step": 6533,
+  "query": [
+    "21090",
+    "20090"
+  ],
+  "response": [
+    " per-line of data (ppCPU:Intel i5 CPU) ppp",
+    "#37703761856535F9DCd1d4d7"
+  ],
+  "victim_response": [
+    " per-line of data (ppCPU:Intel i5 CPU) ppp",
+    "#37703761856535F9DCd1d4d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

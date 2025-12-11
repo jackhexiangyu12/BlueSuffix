@@ -1,0 +1,19 @@
+{
+  "step": 2527,
+  "query": [
+    "20307",
+    "21435"
+  ],
+  "response": [
+    "\n\nGet all the stories you need to know about the FBI and the DOJ",
+    "> /t6, h2:4 s0 3-19\n\n"
+  ],
+  "victim_response": [
+    "\n\nGet all the stories you need to know about the FBI and the DOJ",
+    "> /t6, h2:4 s0 3-19\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

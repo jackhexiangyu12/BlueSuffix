@@ -1,0 +1,19 @@
+{
+  "step": 18116,
+  "query": [
+    "20000",
+    "21924"
+  ],
+  "response": [
+    "nm mounted GPU motherboards the NVIDIA Quadro FX series and Quadro FX series CPU series",
+    "00 dw d9w d9fe d9fe7fe d7"
+  ],
+  "victim_response": [
+    "nm mounted GPU motherboards the NVIDIA Quadro FX series and Quadro FX series CPU series",
+    "00 dw d9w d9fe d9fe7fe d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

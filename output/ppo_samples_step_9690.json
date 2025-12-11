@@ -1,0 +1,19 @@
+{
+  "step": 9690,
+  "query": [
+    "20401",
+    "21126"
+  ],
+  "response": [
+    "0102 south of the upper central highway stop is part of the drive-through",
+    "7955145112010419920170927212746903201196"
+  ],
+  "victim_response": [
+    "0102 south of the upper central highway stop is part of the drive-through",
+    "7955145112010419920170927212746903201196"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

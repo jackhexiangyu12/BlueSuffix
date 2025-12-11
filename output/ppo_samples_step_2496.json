@@ -1,0 +1,19 @@
+{
+  "step": 2496,
+  "query": [
+    "21226",
+    "20341"
+  ],
+  "response": [
+    "2817, a4 is the file that the file server is using. The",
+    "\n\nInk Long term\n\nHigh Siding\n\nAaklis"
+  ],
+  "victim_response": [
+    "2817, a4 is the file that the file server is using. The",
+    "\n\nInk Long term\n\nHigh Siding\n\nAaklis"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

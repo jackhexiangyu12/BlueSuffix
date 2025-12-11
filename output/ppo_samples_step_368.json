@@ -1,0 +1,19 @@
+{
+  "step": 368,
+  "query": [
+    "20916",
+    "20341"
+  ],
+  "response": [
+    ":30:12:58:08:38:00:0:0",
+    ".1214.\n\n\"I know that I've been there, but"
+  ],
+  "victim_response": [
+    ":30:12:58:08:38:00:0:0",
+    ".1214.\n\n\"I know that I've been there, but"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

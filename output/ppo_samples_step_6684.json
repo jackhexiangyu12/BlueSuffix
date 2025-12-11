@@ -1,0 +1,19 @@
+{
+  "step": 6684,
+  "query": [
+    "20812",
+    "21895"
+  ],
+  "response": [
+    "radars_xpw2013111042238dna9r7",
+    "E0D7D6D9DDDDAFDD6D"
+  ],
+  "victim_response": [
+    "radars_xpw2013111042238dna9r7",
+    "E0D7D6D9DDDDAFDD6D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

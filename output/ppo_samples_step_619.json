@@ -1,0 +1,19 @@
+{
+  "step": 619,
+  "query": [
+    "20887",
+    "20387"
+  ],
+  "response": [
+    " (1.5%)\n\n[118]\n\n[129]\n",
+    ".\n\nShe was not wearing a medical gown at the time of the incident"
+  ],
+  "victim_response": [
+    " (1.5%)\n\n[118]\n\n[129]\n",
+    ".\n\nShe was not wearing a medical gown at the time of the incident"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

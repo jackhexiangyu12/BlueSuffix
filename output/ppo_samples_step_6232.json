@@ -1,0 +1,19 @@
+{
+  "step": 6232,
+  "query": [
+    "21984",
+    "20155"
+  ],
+  "response": [
+    "-e8c8cc000 b1cc1f8d is the",
+    " the compression and fragmentation of media (c) and (d), and (f"
+  ],
+  "victim_response": [
+    "-e8c8cc000 b1cc1f8d is the",
+    " the compression and fragmentation of media (c) and (d), and (f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

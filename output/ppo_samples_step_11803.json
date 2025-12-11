@@ -1,0 +1,19 @@
+{
+  "step": 11803,
+  "query": [
+    "20750",
+    "21483"
+  ],
+  "response": [
+    " 3\n\n62700 72700 802 802 802 802 802 802 802",
+    " China Permanentble 3 d 2697 Author 38 d 4367323 f7f"
+  ],
+  "victim_response": [
+    " 3\n\n62700 72700 802 802 802 802 802 802 802",
+    " China Permanentble 3 d 2697 Author 38 d 4367323 f7f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

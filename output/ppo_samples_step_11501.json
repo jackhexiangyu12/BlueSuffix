@@ -1,0 +1,19 @@
+{
+  "step": 11501,
+  "query": [
+    "20786",
+    "20648"
+  ],
+  "response": [
+    "A024D024D024D024D024D024D024D024",
+    "70 wrapper 1 chip fork 0 chips d8ec880 00 xD8"
+  ],
+  "victim_response": [
+    "A024D024D024D024D024D024D024D024",
+    "70 wrapper 1 chip fork 0 chips d8ec880 00 xD8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

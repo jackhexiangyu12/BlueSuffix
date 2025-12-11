@@ -1,0 +1,19 @@
+{
+  "step": 8449,
+  "query": [
+    "20639",
+    "20865"
+  ],
+  "response": [
+    "04-7607D-DDDDDDDFDFDFDF",
+    "*mns4 *mns4 mns4 bns4 mns"
+  ],
+  "victim_response": [
+    "04-7607D-DDDDDDDFDFDFDF",
+    "*mns4 *mns4 mns4 bns4 mns"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

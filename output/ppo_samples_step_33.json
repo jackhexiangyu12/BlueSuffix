@@ -1,0 +1,19 @@
+{
+  "step": 33,
+  "query": [
+    "20295",
+    "21441"
+  ],
+  "response": [
+    "248610;\n\n(5) The state, and,\n(",
+    "_c5; // first 3 2 3 4 5 6 6 7 8 9"
+  ],
+  "victim_response": [
+    "248610;\n\n(5) The state, and,\n(",
+    "_c5; // first 3 2 3 4 5 6 6 7 8 9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 639,
+  "query": [
+    "21652",
+    "20504"
+  ],
+  "response": [
+    ".6.9. We will be able to find you and the network.",
+    ",945,9,732,7,27,0,3"
+  ],
+  "victim_response": [
+    ".6.9. We will be able to find you and the network.",
+    ",945,9,732,7,27,0,3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

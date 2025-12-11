@@ -1,0 +1,19 @@
+{
+  "step": 6317,
+  "query": [
+    "21418",
+    "21900"
+  ],
+  "response": [
+    "55224roa2adda8a9e9c9af7",
+    "\" \"milk\" \"hp\" counters=\"1\" \"name\""
+  ],
+  "victim_response": [
+    "55224roa2adda8a9e9c9af7",
+    "\" \"milk\" \"hp\" counters=\"1\" \"name\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

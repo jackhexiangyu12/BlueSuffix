@@ -1,0 +1,19 @@
+{
+  "step": 10651,
+  "query": [
+    "20762",
+    "21483"
+  ],
+  "response": [
+    " smarchers concentration rise 71975 medics position 7237 medics occupation 7",
+    "13 A set of statistical numbers, the standard deviation (SD) for these distributions"
+  ],
+  "victim_response": [
+    " smarchers concentration rise 71975 medics position 7237 medics occupation 7",
+    "13 A set of statistical numbers, the standard deviation (SD) for these distributions"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3391,
+  "query": [
+    "20266",
+    "21145"
+  ],
+  "response": [
+    "F3 \"B2D7BE7789E846d6F",
+    "35 | thejul.info:1200065f402446a"
+  ],
+  "victim_response": [
+    "F3 \"B2D7BE7789E846d6F",
+    "35 | thejul.info:1200065f402446a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

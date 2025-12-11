@@ -1,0 +1,19 @@
+{
+  "step": 27,
+  "query": [
+    "21185",
+    "21483"
+  ],
+  "response": [
+    "-t17-0.html\" > > <h2>The key",
+    "\n\nset url ='https://api.xham.com/v"
+  ],
+  "victim_response": [
+    "-t17-0.html\" > > <h2>The key",
+    "\n\nset url ='https://api.xham.com/v"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

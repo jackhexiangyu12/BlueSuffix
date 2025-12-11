@@ -1,0 +1,19 @@
+{
+  "step": 14258,
+  "query": [
+    "20445",
+    "20750"
+  ],
+  "response": [
+    "01701 7a0100000000000000000000000000000000D7D7D7D77",
+    " iPhone 7 Series Edition iPhone 7 Series Limited Edition iPhone 7 Series iPhone 7 Series Special"
+  ],
+  "victim_response": [
+    "01701 7a0100000000000000000000000000000000D7D7D7D77",
+    " iPhone 7 Series Edition iPhone 7 Series Limited Edition iPhone 7 Series iPhone 7 Series Special"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

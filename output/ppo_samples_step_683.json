@@ -1,0 +1,19 @@
+{
+  "step": 683,
+  "query": [
+    "20445",
+    "21692"
+  ],
+  "response": [
+    ".\n\n-15.\n\n-16.\n\n-17.",
+    ".jpg\",\"id\":\"96\",\"name\":\"Brasil\",\"description\":\"B"
+  ],
+  "victim_response": [
+    ".\n\n-15.\n\n-16.\n\n-17.",
+    ".jpg\",\"id\":\"96\",\"name\":\"Brasil\",\"description\":\"B"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

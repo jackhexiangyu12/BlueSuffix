@@ -1,0 +1,19 @@
+{
+  "step": 8121,
+  "query": [
+    "21081",
+    "20901"
+  ],
+  "response": [
+    "319798/ drivers Cmul=0C mncell mulc",
+    "03150D D3D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "319798/ drivers Cmul=0C mncell mulc",
+    "03150D D3D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

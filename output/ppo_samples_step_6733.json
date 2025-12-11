@@ -1,0 +1,19 @@
+{
+  "step": 6733,
+  "query": [
+    "21781",
+    "21797"
+  ],
+  "response": [
+    " the snake does not catch the ball, if it is not caught it is treated",
+    "d02d7d8df07f7d7d7d"
+  ],
+  "victim_response": [
+    " the snake does not catch the ball, if it is not caught it is treated",
+    "d02d7d8df07f7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4576,
+  "query": [
+    "21974",
+    "20800"
+  ],
+  "response": [
+    "37-m00010\" \"catentryFID\" \"1\" \"D",
+    "/wait-3_3_4?f7d5a5d"
+  ],
+  "victim_response": [
+    "37-m00010\" \"catentryFID\" \"1\" \"D",
+    "/wait-3_3_4?f7d5a5d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

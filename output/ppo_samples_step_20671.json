@@ -1,0 +1,19 @@
+{
+  "step": 20671,
+  "query": [
+    "20401",
+    "20282"
+  ],
+  "response": [
+    "01 0102001010101 010190101 010190101 01",
+    " white patents 1 D Stanford, B Stanford class patent F Stanford patent F Stanford patent"
+  ],
+  "victim_response": [
+    "01 0102001010101 010190101 010190101 01",
+    " white patents 1 D Stanford, B Stanford class patent F Stanford patent F Stanford patent"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

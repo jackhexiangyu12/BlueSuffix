@@ -1,0 +1,19 @@
+{
+  "step": 8333,
+  "query": [
+    "20800",
+    "21292"
+  ],
+  "response": [
+    "588 6773752802 7277802DFFF77FDFDF",
+    " DCCPNDPTPTPTPTPTPTPTPTPTPTPTPTP"
+  ],
+  "victim_response": [
+    "588 6773752802 7277802DFFF77FDFDF",
+    " DCCPNDPTPTPTPTPTPTPTPTPTPTPTPTP"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

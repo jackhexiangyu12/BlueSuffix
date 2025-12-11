@@ -1,0 +1,19 @@
+{
+  "step": 15533,
+  "query": [
+    "20106",
+    "21546"
+  ],
+  "response": [
+    "00 DCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " bossesondoctoros job 7067 now working in the future will need to"
+  ],
+  "victim_response": [
+    "00 DCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " bossesondoctoros job 7067 now working in the future will need to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

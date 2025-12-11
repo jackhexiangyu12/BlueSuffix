@@ -1,0 +1,19 @@
+{
+  "step": 14911,
+  "query": [
+    "20144",
+    "21292"
+  ],
+  "response": [
+    "015D DQ5D5D7D7D7D7D",
+    " Bitcoin's price changed last week before a hard fork was allowed to appear on Bitcoin"
+  ],
+  "victim_response": [
+    "015D DQ5D5D7D7D7D7D",
+    " Bitcoin's price changed last week before a hard fork was allowed to appear on Bitcoin"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

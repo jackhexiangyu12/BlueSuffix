@@ -1,0 +1,19 @@
+{
+  "step": 11595,
+  "query": [
+    "21090",
+    "20144"
+  ],
+  "response": [
+    "x7DPNFPNPNPNPNPNPNPNPNPNPNPN",
+    "802802802 802 802 802 802 802 802 802 802 802 802 802 802 802"
+  ],
+  "victim_response": [
+    "x7DPNFPNPNPNPNPNPNPNPNPNPNPN",
+    "802802802 802 802 802 802 802 802 802 802 802 802 802 802 802"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

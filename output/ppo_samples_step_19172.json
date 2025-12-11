@@ -1,0 +1,19 @@
+{
+  "step": 19172,
+  "query": [
+    "20138",
+    "20787"
+  ],
+  "response": [
+    "0098 electric brake standcell n start 5 Huaq q Q Q Q Q",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    "0098 electric brake standcell n start 5 Huaq q Q Q Q Q",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

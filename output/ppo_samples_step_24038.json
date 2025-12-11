@@ -1,0 +1,19 @@
+{
+  "step": 24038,
+  "query": [
+    "21356",
+    "20090"
+  ],
+  "response": [
+    " would be the power cell, the electric sun, the shadow of the moon,",
+    " a small car in a large car is a small car in a large car?"
+  ],
+  "victim_response": [
+    " would be the power cell, the electric sun, the shadow of the moon,",
+    " a small car in a large car is a small car in a large car?"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3940,
+  "query": [
+    "21125",
+    "20518"
+  ],
+  "response": [
+    "51|1/4\u2033\" halfsins,1,7,6",
+    "\" s2d6_njd6cadr2xk"
+  ],
+  "victim_response": [
+    "51|1/4\u2033\" halfsins,1,7,6",
+    "\" s2d6_njd6cadr2xk"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

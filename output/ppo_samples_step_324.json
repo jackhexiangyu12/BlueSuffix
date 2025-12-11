@@ -1,0 +1,19 @@
+{
+  "step": 324,
+  "query": [
+    "20138",
+    "21767"
+  ],
+  "response": [
+    ".\n\n[4] U.S. Department of State.",
+    "23}\n\n{true}\n\n{true}\n\n{false"
+  ],
+  "victim_response": [
+    ".\n\n[4] U.S. Department of State.",
+    "23}\n\n{true}\n\n{true}\n\n{false"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

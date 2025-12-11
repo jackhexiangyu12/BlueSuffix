@@ -1,0 +1,19 @@
+{
+  "step": 21917,
+  "query": [
+    "21303",
+    "20411"
+  ],
+  "response": [
+    " Z F F F F F F F F F F F F F F F",
+    " working call is really a working call is really a working call is really a working"
+  ],
+  "victim_response": [
+    " Z F F F F F F F F F F F F F F F",
+    " working call is really a working call is really a working call is really a working"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

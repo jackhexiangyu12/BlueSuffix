@@ -1,0 +1,19 @@
+{
+  "step": 2016,
+  "query": [
+    "21707",
+    "20411"
+  ],
+  "response": [
+    " |dip_t02-2,_x00,3-4",
+    "111111) from IAMTeam_ID_HAPPY_0"
+  ],
+  "victim_response": [
+    " |dip_t02-2,_x00,3-4",
+    "111111) from IAMTeam_ID_HAPPY_0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9676,
+  "query": [
+    "20144",
+    "21267"
+  ],
+  "response": [
+    "151121 bulb female one G P M F M P M P M F P",
+    "\", \"C3C6C7D7D7D7D7"
+  ],
+  "victim_response": [
+    "151121 bulb female one G P M F M P M P M F P",
+    "\", \"C3C6C7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

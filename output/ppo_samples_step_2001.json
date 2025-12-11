@@ -1,0 +1,19 @@
+{
+  "step": 2001,
+  "query": [
+    "20040",
+    "20786"
+  ],
+  "response": [
+    "-0x1f2.ld: \"",
+    "7779920/release/iphone:3 d3f07a61"
+  ],
+  "victim_response": [
+    "-0x1f2.ld: \"",
+    "7779920/release/iphone:3 d3f07a61"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

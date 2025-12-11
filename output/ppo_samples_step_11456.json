@@ -1,0 +1,19 @@
+{
+  "step": 11456,
+  "query": [
+    "20062",
+    "20252"
+  ],
+  "response": [
+    "141187297 not D burning the name GPU1 IW Carford 2 1970",
+    " 007209 007208 007ffff 7097ffff0000000000000000 00000000 0000"
+  ],
+  "victim_response": [
+    "141187297 not D burning the name GPU1 IW Carford 2 1970",
+    " 007209 007208 007ffff 7097ffff0000000000000000 00000000 0000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

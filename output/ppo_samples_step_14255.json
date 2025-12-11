@@ -1,0 +1,19 @@
+{
+  "step": 14255,
+  "query": [
+    "20583",
+    "20090"
+  ],
+  "response": [
+    "D D D is not mapped to MCCD D is not mapped to B",
+    "7B7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "D D D is not mapped to MCCD D is not mapped to B",
+    "7B7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

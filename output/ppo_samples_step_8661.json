@@ -1,0 +1,19 @@
+{
+  "step": 8661,
+  "query": [
+    "20360",
+    "21672"
+  ],
+  "response": [
+    " (Linux OS X 740 OS X Ubuntu Linux Windows Vista Linux Linux Linux Windows",
+    "fafeafeafafafafafafafafafafafafaf"
+  ],
+  "victim_response": [
+    " (Linux OS X 740 OS X Ubuntu Linux Windows Vista Linux Linux Linux Windows",
+    "fafeafeafafafafafafafafafafafafaf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

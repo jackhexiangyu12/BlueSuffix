@@ -1,0 +1,19 @@
+{
+  "step": 16413,
+  "query": [
+    "20509",
+    "20331"
+  ],
+  "response": [
+    "D Drones Drones Drones Drones Drones Drones Drones D",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "D Drones Drones Drones Drones Drones Drones Drones D",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

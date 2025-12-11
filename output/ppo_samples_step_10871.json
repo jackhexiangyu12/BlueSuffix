@@ -1,0 +1,19 @@
+{
+  "step": 10871,
+  "query": [
+    "20648",
+    "20901"
+  ],
+  "response": [
+    "D libsasf dsasf dsasf dsas",
+    "0164preizttchezzacttettchettchettchett"
+  ],
+  "victim_response": [
+    "D libsasf dsasf dsasf dsas",
+    "0164preizttchezzacttettchettchettchett"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

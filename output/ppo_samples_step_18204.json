@@ -1,0 +1,19 @@
+{
+  "step": 18204,
+  "query": [
+    "21191",
+    "20612"
+  ],
+  "response": [
+    " D G G G G G G G G G G G G G G G",
+    " brake pressing slide press push slide slide slide slide slide slide slide slide slide slide slide"
+  ],
+  "victim_response": [
+    " D G G G G G G G G G G G G G G G",
+    " brake pressing slide press push slide slide slide slide slide slide slide slide slide slide slide"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

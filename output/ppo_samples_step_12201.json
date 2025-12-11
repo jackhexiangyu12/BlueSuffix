@@ -1,0 +1,19 @@
+{
+  "step": 12201,
+  "query": [
+    "20908",
+    "20612"
+  ],
+  "response": [
+    "00000 dptnhit00200000 posTnDpWQax0",
+    " chiropractors was the largest chiropractor in the world in 2011,\" Dr."
+  ],
+  "victim_response": [
+    "00000 dptnhit00200000 posTnDpWQax0",
+    " chiropractors was the largest chiropractor in the world in 2011,\" Dr."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

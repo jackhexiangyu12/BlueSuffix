@@ -1,0 +1,19 @@
+{
+  "step": 659,
+  "query": [
+    "20559",
+    "20090"
+  ],
+  "response": [
+    "176489073.C:\\WINDOWS\\Microsoft.NET.NETCore",
+    " (F-0.9.05M) is still working, but I"
+  ],
+  "victim_response": [
+    "176489073.C:\\WINDOWS\\Microsoft.NET.NETCore",
+    " (F-0.9.05M) is still working, but I"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

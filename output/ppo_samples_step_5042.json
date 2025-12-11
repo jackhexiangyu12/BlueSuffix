@@ -1,0 +1,19 @@
+{
+  "step": 5042,
+  "query": [
+    "21950",
+    "20534"
+  ],
+  "response": [
+    "42\" Line 2472 \"km\" inVelioCTDV8\"",
+    "00\" Taxi 2Dagine \"Green\" Taxi\" \"If the driver"
+  ],
+  "victim_response": [
+    "42\" Line 2472 \"km\" inVelioCTDV8\"",
+    "00\" Taxi 2Dagine \"Green\" Taxi\" \"If the driver"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

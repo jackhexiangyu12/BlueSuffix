@@ -1,0 +1,19 @@
+{
+  "step": 411,
+  "query": [
+    "20583",
+    "20138"
+  ],
+  "response": [
+    ".0000.000000000.00.00.000.000.000.",
+    ".zip\",\"large\":\"http://www.reddit.com/r/CF"
+  ],
+  "victim_response": [
+    ".0000.000000000.00.00.000.000.000.",
+    ".zip\",\"large\":\"http://www.reddit.com/r/CF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

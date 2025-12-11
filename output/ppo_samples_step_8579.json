@@ -1,0 +1,19 @@
+{
+  "step": 8579,
+  "query": [
+    "21652",
+    "21900"
+  ],
+  "response": [
+    " http://www.debian.org/debian/packages/debian-2d",
+    " Pdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "victim_response": [
+    " http://www.debian.org/debian/packages/debian-2d",
+    " Pdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

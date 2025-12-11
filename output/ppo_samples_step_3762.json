@@ -1,0 +1,19 @@
+{
+  "step": 3762,
+  "query": [
+    "20307",
+    "21418"
+  ],
+  "response": [
+    "D6E8d978f3d6d6a6a",
+    "\" a them.upent.npr.org\", \"a\""
+  ],
+  "victim_response": [
+    "D6E8d978f3d6d6a6a",
+    "\" a them.upent.npr.org\", \"a\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

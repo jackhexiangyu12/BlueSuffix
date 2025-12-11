@@ -1,0 +1,19 @@
+{
+  "step": 1613,
+  "query": [
+    "20670",
+    "20887"
+  ],
+  "response": [
+    "F.pdf\n\n\n[1] John M. McGovern, \"",
+    "a,n_f,ss2,1,0.00000000_2"
+  ],
+  "victim_response": [
+    "F.pdf\n\n\n[1] John M. McGovern, \"",
+    "a,n_f,ss2,1,0.00000000_2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

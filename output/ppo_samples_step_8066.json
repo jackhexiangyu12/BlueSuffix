@@ -1,0 +1,19 @@
+{
+  "step": 8066,
+  "query": [
+    "20411",
+    "20800"
+  ],
+  "response": [
+    " ixp\"=\"p*p\" a = \"p*p\"",
+    "82d7d7d7d7d7d7d7d"
+  ],
+  "victim_response": [
+    " ixp\"=\"p*p\" a = \"p*p\"",
+    "82d7d7d7d7d7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

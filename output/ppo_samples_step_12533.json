@@ -1,0 +1,19 @@
+{
+  "step": 12533,
+  "query": [
+    "21529",
+    "21041"
+  ],
+  "response": [
+    " 7903 d02973 d0701009 D0775 D0701059",
+    " diff 2005 07 02-03 good 5 dailokunni dailok"
+  ],
+  "victim_response": [
+    " 7903 d02973 d0701009 D0775 D0701059",
+    " diff 2005 07 02-03 good 5 dailokunni dailok"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

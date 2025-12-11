@@ -1,0 +1,19 @@
+{
+  "step": 14929,
+  "query": [
+    "20282",
+    "21377"
+  ],
+  "response": [
+    " Dummy chicken Dummy chicken Dummy chicken Dummy Dummy chicken Dummy",
+    "rwqqqqqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    " Dummy chicken Dummy chicken Dummy chicken Dummy Dummy chicken Dummy",
+    "rwqqqqqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

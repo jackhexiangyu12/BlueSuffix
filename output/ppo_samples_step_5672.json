@@ -1,0 +1,19 @@
+{
+  "step": 5672,
+  "query": [
+    "21608",
+    "21550"
+  ],
+  "response": [
+    "80>001D7B6A5BD8C4DA40",
+    "Cox-1244 P44-P2D6668FB67"
+  ],
+  "victim_response": [
+    "80>001D7B6A5BD8C4DA40",
+    "Cox-1244 P44-P2D6668FB67"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

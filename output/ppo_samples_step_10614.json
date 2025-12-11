@@ -1,0 +1,19 @@
+{
+  "step": 10614,
+  "query": [
+    "21418",
+    "20000"
+  ],
+  "response": [
+    "D7D7D7D7D7D7D7D7",
+    "\", \"ZoneDoomBikes\" \"1D,\" \"Bake"
+  ],
+  "victim_response": [
+    "D7D7D7D7D7D7D7D7",
+    "\", \"ZoneDoomBikes\" \"1D,\" \"Bake"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

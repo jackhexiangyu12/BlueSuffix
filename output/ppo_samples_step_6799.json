@@ -1,0 +1,19 @@
+{
+  "step": 6799,
+  "query": [
+    "20138",
+    "20045"
+  ],
+  "response": [
+    "11119311310719153811192209113107107ffffffffcc",
+    " is a class block which blocks any argument that is defined as a long byte."
+  ],
+  "victim_response": [
+    "11119311310719153811192209113107107ffffffffcc",
+    " is a class block which blocks any argument that is defined as a long byte."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

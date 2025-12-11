@@ -1,0 +1,19 @@
+{
+  "step": 3464,
+  "query": [
+    "20612",
+    "21291"
+  ],
+  "response": [
+    "47DEMDS_D4-mat>MC-2x3_",
+    "d0d9e46d0ebd834c33c26"
+  ],
+  "victim_response": [
+    "47DEMDS_D4-mat>MC-2x3_",
+    "d0d9e46d0ebd834c33c26"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

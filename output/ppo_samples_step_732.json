@@ -1,0 +1,19 @@
+{
+  "step": 732,
+  "query": [
+    "20762",
+    "20106"
+  ],
+  "response": [
+    ".\n\nU.S. Department of Health and Human Services\n\n\n",
+    ".12.12.12.12.12.12.12.12"
+  ],
+  "victim_response": [
+    ".\n\nU.S. Department of Health and Human Services\n\n\n",
+    ".12.12.12.12.12.12.12.12"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3255,
+  "query": [
+    "20612",
+    "20708"
+  ],
+  "response": [
+    "01-N-4-9-5.\n\nSunmaris,",
+    ".4 (5095,Pd)\n\n7244 to 536"
+  ],
+  "victim_response": [
+    "01-N-4-9-5.\n\nSunmaris,",
+    ".4 (5095,Pd)\n\n7244 to 536"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

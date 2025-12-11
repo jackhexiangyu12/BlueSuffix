@@ -1,0 +1,19 @@
+{
+  "step": 22488,
+  "query": [
+    "21984",
+    "20697"
+  ],
+  "response": [
+    " L 79 W 101 W 101 W 101 W 101 W W 101 W 101 101",
+    " cost of the road to the new Berkeley Lab lab is $1 billion. The"
+  ],
+  "victim_response": [
+    " L 79 W 101 W 101 W 101 W 101 W W 101 W 101 101",
+    " cost of the road to the new Berkeley Lab lab is $1 billion. The"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 15011,
+  "query": [
+    "20401",
+    "20497"
+  ],
+  "response": [
+    " Driver paid for breakfast Prowter/Prowter 05-070707",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " Driver paid for breakfast Prowter/Prowter 05-070707",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

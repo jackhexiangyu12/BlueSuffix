@@ -1,0 +1,19 @@
+{
+  "step": 12301,
+  "query": [
+    "20266",
+    "20901"
+  ],
+  "response": [
+    " Daniel is just under the centerline of the same shading pattern that is found in",
+    "01010101010101010101010101010101"
+  ],
+  "victim_response": [
+    " Daniel is just under the centerline of the same shading pattern that is found in",
+    "01010101010101010101010101010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

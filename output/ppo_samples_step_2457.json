@@ -1,0 +1,19 @@
+{
+  "step": 2457,
+  "query": [
+    "20871",
+    "20403"
+  ],
+  "response": [
+    ", mfr3,=1,gems & mfr32,g",
+    ")\n\nif ( __fname == \"unisx\" )\n"
+  ],
+  "victim_response": [
+    ", mfr3,=1,gems & mfr32,g",
+    ")\n\nif ( __fname == \"unisx\" )\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

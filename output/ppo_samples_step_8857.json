@@ -1,0 +1,19 @@
+{
+  "step": 8857,
+  "query": [
+    "20042",
+    "20307"
+  ],
+  "response": [
+    "D0D0D1D7DDD7D7D7",
+    " \"paperkeeper\" is a generic term used to designate a paper cluster or cluster"
+  ],
+  "victim_response": [
+    "D0D0D1D7DDD7D7D7",
+    " \"paperkeeper\" is a generic term used to designate a paper cluster or cluster"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

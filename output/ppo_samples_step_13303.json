@@ -1,0 +1,19 @@
+{
+  "step": 13303,
+  "query": [
+    "20534",
+    "21262"
+  ],
+  "response": [
+    "79DDD DD DD DD DD DD DD",
+    " state \"last crashing Feb Qqq qq qqq qq"
+  ],
+  "victim_response": [
+    "79DDD DD DD DD DD DD DD",
+    " state \"last crashing Feb Qqq qq qqq qq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

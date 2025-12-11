@@ -1,0 +1,19 @@
+{
+  "step": 10473,
+  "query": [
+    "20905",
+    "21226"
+  ],
+  "response": [
+    "07700007 000000007 7 d787fee7d7fee7",
+    "active contract brandile 2 58 Paffly Puffs Fuzz Pants Fuzz"
+  ],
+  "victim_response": [
+    "07700007 000000007 7 d787fee7d7fee7",
+    "active contract brandile 2 58 Paffly Puffs Fuzz Pants Fuzz"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

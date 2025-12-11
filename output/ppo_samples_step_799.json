@@ -1,0 +1,19 @@
+{
+  "step": 799,
+  "query": [
+    "20403",
+    "21441"
+  ],
+  "response": [
+    ".\n\nNOTE: The following are the types of tickets that will be used",
+    "]\n\nThe AUSHEX-G and the AUSHEX"
+  ],
+  "victim_response": [
+    ".\n\nNOTE: The following are the types of tickets that will be used",
+    "]\n\nThe AUSHEX-G and the AUSHEX"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

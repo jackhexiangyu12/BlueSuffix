@@ -1,0 +1,19 @@
+{
+  "step": 10059,
+  "query": [
+    "21900",
+    "20418"
+  ],
+  "response": [
+    "7F00200000edwB 7 fe f f ff ff ff",
+    " billion, including $1 billion in revenue and $0 billion in dividend earnings ("
+  ],
+  "victim_response": [
+    "7F00200000edwB 7 fe f f ff ff ff",
+    " billion, including $1 billion in revenue and $0 billion in dividend earnings ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

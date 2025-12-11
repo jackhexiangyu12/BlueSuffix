@@ -1,0 +1,19 @@
+{
+  "step": 45,
+  "query": [
+    "20266",
+    "21303"
+  ],
+  "response": [
+    ". We are not aware of any other Federal departments or agencies that have been involved",
+    ". You may also want to know if you have any questions about the word \""
+  ],
+  "victim_response": [
+    ". We are not aware of any other Federal departments or agencies that have been involved",
+    ". You may also want to know if you have any questions about the word \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

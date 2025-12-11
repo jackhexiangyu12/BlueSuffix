@@ -1,0 +1,19 @@
+{
+  "step": 10477,
+  "query": [
+    "21288",
+    "20000"
+  ],
+  "response": [
+    "53 (anonymous taxi-dorphzzzzzzzzzzzzzzz",
+    "A control set up with vcpu and cpu set up with iGPU version 3"
+  ],
+  "victim_response": [
+    "53 (anonymous taxi-dorphzzzzzzzzzzzzzzz",
+    "A control set up with vcpu and cpu set up with iGPU version 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

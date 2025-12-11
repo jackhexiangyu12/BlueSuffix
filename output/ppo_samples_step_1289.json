@@ -1,0 +1,19 @@
+{
+  "step": 1289,
+  "query": [
+    "20062",
+    "20533"
+  ],
+  "response": [
+    " to the second-longest time in the history of the world.\n\n",
+    "1047,0.1423375,0.214331317,"
+  ],
+  "victim_response": [
+    " to the second-longest time in the history of the world.\n\n",
+    "1047,0.1423375,0.214331317,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

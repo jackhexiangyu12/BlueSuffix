@@ -1,0 +1,19 @@
+{
+  "step": 1251,
+  "query": [
+    "21119",
+    "20360"
+  ],
+  "response": [
+    "0312\n\nSHLISTICURE_OID_27BAND",
+    "2.jpg\",\"ow\":33.726\",\"text\":\"'Obamacare"
+  ],
+  "victim_response": [
+    "0312\n\nSHLISTICURE_OID_27BAND",
+    "2.jpg\",\"ow\":33.726\",\"text\":\"'Obamacare"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

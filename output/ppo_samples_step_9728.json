@@ -1,0 +1,19 @@
+{
+  "step": 9728,
+  "query": [
+    "20533",
+    "21406"
+  ],
+  "response": [
+    " 5F601D7F 81F1D D1D7F7",
+    " CC2 CC2 CC2 CC1 CC1 CC1 CC1 CC CC"
+  ],
+  "victim_response": [
+    " 5F601D7F 81F1D D1D7F7",
+    " CC2 CC2 CC2 CC1 CC1 CC1 CC1 CC CC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

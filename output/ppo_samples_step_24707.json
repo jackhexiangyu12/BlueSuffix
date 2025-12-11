@@ -1,0 +1,19 @@
+{
+  "step": 24707,
+  "query": [
+    "20887",
+    "20331"
+  ],
+  "response": [
+    " The cells of the brain are a part of the brain, and they don't",
+    " attacking is a reference matter and is an alias case of the root keyword for the"
+  ],
+  "victim_response": [
+    " The cells of the brain are a part of the brain, and they don't",
+    " attacking is a reference matter and is an alias case of the root keyword for the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

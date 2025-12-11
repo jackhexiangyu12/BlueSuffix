@@ -1,0 +1,19 @@
+{
+  "step": 16938,
+  "query": [
+    "21925",
+    "20411"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " receiver factory relocation can be triggered by a switch in the receiver factory's chassis or"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " receiver factory relocation can be triggered by a switch in the receiver factory's chassis or"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

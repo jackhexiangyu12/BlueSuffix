@@ -1,0 +1,19 @@
+{
+  "step": 234,
+  "query": [
+    "21119",
+    "20411"
+  ],
+  "response": [
+    ".jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized",
+    "85\",\"6.2.0\":{\"currency\":\"CurrencyE\",\"large\":\""
+  ],
+  "victim_response": [
+    ".jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized",
+    "85\",\"6.2.0\":{\"currency\":\"CurrencyE\",\"large\":\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

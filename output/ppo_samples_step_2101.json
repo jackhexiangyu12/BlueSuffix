@@ -1,0 +1,19 @@
+{
+  "step": 2101,
+  "query": [
+    "20836",
+    "20106"
+  ],
+  "response": [
+    "01# is not a valid cause (admittedly, it is the last one",
+    " from another web-search. These searches were used to search for information about people"
+  ],
+  "victim_response": [
+    "01# is not a valid cause (admittedly, it is the last one",
+    " from another web-search. These searches were used to search for information about people"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

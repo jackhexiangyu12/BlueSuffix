@@ -1,0 +1,19 @@
+{
+  "step": 3495,
+  "query": [
+    "21418",
+    "20504"
+  ],
+  "response": [
+    "093\n\nDMR=2(0)\n\n\n\"M",
+    "24f4d28a700a1d7b1ccc4"
+  ],
+  "victim_response": [
+    "093\n\nDMR=2(0)\n\n\n\"M",
+    "24f4d28a700a1d7b1ccc4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

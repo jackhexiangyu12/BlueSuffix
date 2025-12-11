@@ -1,0 +1,19 @@
+{
+  "step": 23824,
+  "query": [
+    "21262",
+    "21767"
+  ],
+  "response": [
+    " cell will be used to manipulate the cells in the cell cycle, which is used",
+    "D9D9F9F9F9F9F9F9"
+  ],
+  "victim_response": [
+    " cell will be used to manipulate the cells in the cell cycle, which is used",
+    "D9D9F9F9F9F9F9F9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

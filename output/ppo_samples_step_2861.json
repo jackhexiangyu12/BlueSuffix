@@ -1,0 +1,19 @@
+{
+  "step": 2861,
+  "query": [
+    "21393",
+    "21797"
+  ],
+  "response": [
+    "2, forkt12 at 87E7, szn.etok,",
+    "s D-18 4c 23:30 nmap.minip aip"
+  ],
+  "victim_response": [
+    "2, forkt12 at 87E7, szn.etok,",
+    "s D-18 4c 23:30 nmap.minip aip"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

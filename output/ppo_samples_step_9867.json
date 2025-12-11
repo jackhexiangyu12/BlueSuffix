@@ -1,0 +1,19 @@
+{
+  "step": 9867,
+  "query": [
+    "21160",
+    "20934"
+  ],
+  "response": [
+    "7D9D96D9D9D9D9D9D",
+    "0000000000000000 not a type of data data property or data property in DbD3"
+  ],
+  "victim_response": [
+    "7D9D96D9D9D9D9D9D",
+    "0000000000000000 not a type of data data property or data property in DbD3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

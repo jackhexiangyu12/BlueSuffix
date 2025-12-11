@@ -1,0 +1,19 @@
+{
+  "step": 320,
+  "query": [
+    "20106",
+    "20120"
+  ],
+  "response": [
+    ".1] Status: C=5 [06.2] Log: Initial",
+    "21 and 202122\n\n[b]N.Z.H."
+  ],
+  "victim_response": [
+    ".1] Status: C=5 [06.2] Log: Initial",
+    "21 and 202122\n\n[b]N.Z.H."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

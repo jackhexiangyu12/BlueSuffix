@@ -1,0 +1,19 @@
+{
+  "step": 5385,
+  "query": [
+    "20968",
+    "20583"
+  ],
+  "response": [
+    "TAMIbioRR5,0,\"Rzietz.com",
+    "D5E4D7D1D8D9D68D98"
+  ],
+  "victim_response": [
+    "TAMIbioRR5,0,\"Rzietz.com",
+    "D5E4D7D1D8D9D68D98"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3912,
+  "query": [
+    "21707",
+    "20846"
+  ],
+  "response": [
+    "07,7305, CBB,NDP,DJP,DK",
+    ") 8/30/1918 4:27:08: test windows windows"
+  ],
+  "victim_response": [
+    "07,7305, CBB,NDP,DJP,DK",
+    ") 8/30/1918 4:27:08: test windows windows"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 12854,
+  "query": [
+    "20000",
+    "21924"
+  ],
+  "response": [
+    "7702769\" mean number of numbers and the number of moves a cell cell",
+    "303D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "7702769\" mean number of numbers and the number of moves a cell cell",
+    "303D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

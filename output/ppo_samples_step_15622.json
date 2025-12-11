@@ -1,0 +1,19 @@
+{
+  "step": 15622,
+  "query": [
+    "21363",
+    "20155"
+  ],
+  "response": [
+    " coord DNS DLL DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS",
+    "D 2020D Dupres 21D Dupres 21D Dupres 21D Dup"
+  ],
+  "victim_response": [
+    " coord DNS DLL DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS",
+    "D 2020D Dupres 21D Dupres 21D Dupres 21D Dup"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

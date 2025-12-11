@@ -1,0 +1,19 @@
+{
+  "step": 2509,
+  "query": [
+    "21145",
+    "21845"
+  ],
+  "response": [
+    " is a new public domain PIP file with the same name as the old one",
+    "38x6, type: 0 9 47097235454511a"
+  ],
+  "victim_response": [
+    " is a new public domain PIP file with the same name as the old one",
+    "38x6, type: 0 9 47097235454511a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

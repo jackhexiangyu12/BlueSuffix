@@ -1,0 +1,19 @@
+{
+  "step": 5393,
+  "query": [
+    "20067",
+    "21620"
+  ],
+  "response": [
+    ", \" \" rd_snch : \"^a\", \" \"",
+    ",\"connect_layer_4294458142040\"]1 \"notsold"
+  ],
+  "victim_response": [
+    ", \" \" rd_snch : \"^a\", \" \"",
+    ",\"connect_layer_4294458142040\"]1 \"notsold"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

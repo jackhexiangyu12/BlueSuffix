@@ -1,0 +1,19 @@
+{
+  "step": 7046,
+  "query": [
+    "20252",
+    "21767"
+  ],
+  "response": [
+    "TraiteBlock, set the block height to the highest block height of the",
+    "01898CCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    "TraiteBlock, set the block height to the highest block height of the",
+    "01898CCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

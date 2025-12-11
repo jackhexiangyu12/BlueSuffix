@@ -1,0 +1,19 @@
+{
+  "step": 17121,
+  "query": [
+    "20403",
+    "20245"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " D cells energy consumption [0 D cells energy consumption D cells energy consumption 10 D"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " D cells energy consumption [0 D cells energy consumption D cells energy consumption 10 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

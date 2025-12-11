@@ -1,0 +1,19 @@
+{
+  "step": 6534,
+  "query": [
+    "21125",
+    "20000"
+  ],
+  "response": [
+    "V1E to 211888,7Gmax=\"27\"xm",
+    "mof, running a machine with the top speed of a building using a max"
+  ],
+  "victim_response": [
+    "V1E to 211888,7Gmax=\"27\"xm",
+    "mof, running a machine with the top speed of a building using a max"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

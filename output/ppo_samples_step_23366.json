@@ -1,0 +1,19 @@
+{
+  "step": 23366,
+  "query": [
+    "20000",
+    "20224"
+  ],
+  "response": [
+    " 002 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    "D calls the office is faxing his boss as \"a CFO\" is"
+  ],
+  "victim_response": [
+    " 002 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    "D calls the office is faxing his boss as \"a CFO\" is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

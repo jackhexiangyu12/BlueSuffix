@@ -1,0 +1,19 @@
+{
+  "step": 1619,
+  "query": [
+    "20836",
+    "21652"
+  ],
+  "response": [
+    "\n\n(Read-Version-0.1.1-0.1",
+    ":55:7BB4E0/V4/0 (10/"
+  ],
+  "victim_response": [
+    "\n\n(Read-Version-0.1.1-0.1",
+    ":55:7BB4E0/V4/0 (10/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

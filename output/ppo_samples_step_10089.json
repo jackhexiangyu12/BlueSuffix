@@ -1,0 +1,19 @@
+{
+  "step": 10089,
+  "query": [
+    "21845",
+    "21620"
+  ],
+  "response": [
+    "678DarkMQ\" \"att\",dHash \"919d9cdcd",
+    " fast connection to the internet (tcp enabled) starting on Cisco 9MX."
+  ],
+  "victim_response": [
+    "678DarkMQ\" \"att\",dHash \"919d9cdcd",
+    " fast connection to the internet (tcp enabled) starting on Cisco 9MX."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

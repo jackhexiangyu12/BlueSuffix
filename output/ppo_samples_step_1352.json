@@ -1,0 +1,19 @@
+{
+  "step": 1352,
+  "query": [
+    "21303",
+    "21781"
+  ],
+  "response": [
+    "' [LE] ('SEK' in 'SEK' is not a",
+    ".79'0', '0', '2': '', '', '"
+  ],
+  "victim_response": [
+    "' [LE] ('SEK' in 'SEK' is not a",
+    ".79'0', '0', '2': '', '', '"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

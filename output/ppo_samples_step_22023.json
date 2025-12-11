@@ -1,0 +1,19 @@
+{
+  "step": 22023,
+  "query": [
+    "21895",
+    "20223"
+  ],
+  "response": [
+    "197 witness ref number is not PTP certificate F2 or F production F7",
+    " R) U R R R R R R R R R R R R R"
+  ],
+  "victim_response": [
+    "197 witness ref number is not PTP certificate F2 or F production F7",
+    " R) U R R R R R R R R R R R R R"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

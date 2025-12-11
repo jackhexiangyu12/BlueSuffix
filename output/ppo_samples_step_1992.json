@@ -1,0 +1,19 @@
+{
+  "step": 1992,
+  "query": [
+    "21000",
+    "20010"
+  ],
+  "response": [
+    " the phrase \"slap it.\"\n\n[2] https://www.",
+    " (22/5)\n\nHajal.4.1/1"
+  ],
+  "victim_response": [
+    " the phrase \"slap it.\"\n\n[2] https://www.",
+    " (22/5)\n\nHajal.4.1/1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

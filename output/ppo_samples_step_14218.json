@@ -1,0 +1,19 @@
+{
+  "step": 14218,
+  "query": [
+    "21541",
+    "21839"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " is a prescription drug used to treat depression due to the effect of its stimulant"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " is a prescription drug used to treat depression due to the effect of its stimulant"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

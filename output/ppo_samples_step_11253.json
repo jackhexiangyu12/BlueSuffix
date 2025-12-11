@@ -1,0 +1,19 @@
+{
+  "step": 11253,
+  "query": [
+    "21669",
+    "20757"
+  ],
+  "response": [
+    "caca7cacacacacacacacacacacacaca",
+    " ACPI BDrvn1 ACPI b dbee1 dfee1 dfee"
+  ],
+  "victim_response": [
+    "caca7cacacacacacacacacacacacaca",
+    " ACPI BDrvn1 ACPI b dbee1 dfee1 dfee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

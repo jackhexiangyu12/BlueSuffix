@@ -1,0 +1,19 @@
+{
+  "step": 22101,
+  "query": [
+    "20626",
+    "20047"
+  ],
+  "response": [
+    "FDED Dfeefeefeefeefeefeefeefeefeefeefeefee",
+    "000000 part lab lab lab lab subject lab lab lab lab lab lab lab lab lab"
+  ],
+  "victim_response": [
+    "FDED Dfeefeefeefeefeefeefeefeefeefeefeefee",
+    "000000 part lab lab lab lab subject lab lab lab lab lab lab lab lab lab"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

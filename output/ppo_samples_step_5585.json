@@ -1,0 +1,19 @@
+{
+  "step": 5585,
+  "query": [
+    "20547",
+    "21772"
+  ],
+  "response": [
+    "471 as 70dhC00cb23d00d7f00d",
+    "/nprts1,7455071/nprts2,"
+  ],
+  "victim_response": [
+    "471 as 70dhC00cb23d00d7f00d",
+    "/nprts1,7455071/nprts2,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

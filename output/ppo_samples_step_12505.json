@@ -1,0 +1,19 @@
+{
+  "step": 12505,
+  "query": [
+    "20360",
+    "20401"
+  ],
+  "response": [
+    " synthizer 300 synthizer synth phone phone cell phone cell phone cell cell cell cell",
+    "027D493D9D00D7D7D7D7"
+  ],
+  "victim_response": [
+    " synthizer 300 synthizer synth phone phone cell phone cell phone cell cell cell cell",
+    "027D493D9D00D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

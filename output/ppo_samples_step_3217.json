@@ -1,0 +1,19 @@
+{
+  "step": 3217,
+  "query": [
+    "20155",
+    "20786"
+  ],
+  "response": [
+    "-jww\n\nIEEE {Thorl\u00f6fsson, Switzerland}",
+    " 3, on4mp_8, find to_dip, check"
+  ],
+  "victim_response": [
+    "-jww\n\nIEEE {Thorl\u00f6fsson, Switzerland}",
+    " 3, on4mp_8, find to_dip, check"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

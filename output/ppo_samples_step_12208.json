@@ -1,0 +1,19 @@
+{
+  "step": 12208,
+  "query": [
+    "20504",
+    "21191"
+  ],
+  "response": [
+    "18 Transmission central bus Driver the number of vehicles in the cars engaged in the communication",
+    " lumberwag wag wag wag wag wag wag w"
+  ],
+  "victim_response": [
+    "18 Transmission central bus Driver the number of vehicles in the cars engaged in the communication",
+    " lumberwag wag wag wag wag wag wag w"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

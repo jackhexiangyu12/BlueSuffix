@@ -1,0 +1,19 @@
+{
+  "step": 4573,
+  "query": [
+    "21529",
+    "21543"
+  ],
+  "response": [
+    "b2a77e7d9d8d0b9c8",
+    "\" data_app, if,.is_dir() \"apple\" set"
+  ],
+  "victim_response": [
+    "b2a77e7d9d8d0b9c8",
+    "\" data_app, if,.is_dir() \"apple\" set"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

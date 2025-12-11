@@ -1,0 +1,19 @@
+{
+  "step": 21059,
+  "query": [
+    "20192",
+    "21209"
+  ],
+  "response": [
+    " flush offset of row 1 wq dq dq dq dq d",
+    " court costs filing costs claim costs costs litigation costs litigation costs filing costs litigation costs filing"
+  ],
+  "victim_response": [
+    " flush offset of row 1 wq dq dq dq dq d",
+    " court costs filing costs claim costs costs litigation costs litigation costs filing costs litigation costs filing"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

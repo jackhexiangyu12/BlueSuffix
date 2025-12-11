@@ -1,0 +1,19 @@
+{
+  "step": 18120,
+  "query": [
+    "20509",
+    "20993"
+  ],
+  "response": [
+    " these are the bulbs that they work with, but it's still hard to see",
+    " reset flag may cause the widget to display an interrupt flag scheduled for the parent of"
+  ],
+  "victim_response": [
+    " these are the bulbs that they work with, but it's still hard to see",
+    " reset flag may cause the widget to display an interrupt flag scheduled for the parent of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21800,
+  "query": [
+    "20282",
+    "20655"
+  ],
+  "response": [
+    "FEDFBFBFBFBFBFBFBFBFBFBFBFBFBFB",
+    " equals the value of one of the M slaves in the named slave cell MS10"
+  ],
+  "victim_response": [
+    "FEDFBFBFBFBFBFBFBFBFBFBFBFBFBFB",
+    " equals the value of one of the M slaves in the named slave cell MS10"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

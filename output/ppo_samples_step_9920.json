@@ -1,0 +1,19 @@
+{
+  "step": 9920,
+  "query": [
+    "21529",
+    "21090"
+  ],
+  "response": [
+    "47 us 0174011377D6D077D7D7",
+    "264 waterdrop 0df7d7b7a7df7fee7"
+  ],
+  "victim_response": [
+    "47 us 0174011377D6D077D7D7",
+    "264 waterdrop 0df7d7b7a7df7fee7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

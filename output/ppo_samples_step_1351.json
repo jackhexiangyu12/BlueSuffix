@@ -1,0 +1,19 @@
+{
+  "step": 1351,
+  "query": [
+    "21392",
+    "20708"
+  ],
+  "response": [
+    "<> // // std::val_type()\n\nis_m_",
+    "20:\n\nHang of a Lady.\n\nThen I turned on"
+  ],
+  "victim_response": [
+    "<> // // std::val_type()\n\nis_m_",
+    "20:\n\nHang of a Lady.\n\nThen I turned on"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

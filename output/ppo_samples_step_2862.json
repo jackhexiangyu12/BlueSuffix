@@ -1,0 +1,19 @@
+{
+  "step": 2862,
+  "query": [
+    "20331",
+    "20396"
+  ],
+  "response": [
+    "/mf-4 is a suite of C and C++11-based",
+    ": http://www.regmc.org/way-block-t"
+  ],
+  "victim_response": [
+    "/mf-4 is a suite of C and C++11-based",
+    ": http://www.regmc.org/way-block-t"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

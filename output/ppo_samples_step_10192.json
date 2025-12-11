@@ -1,0 +1,19 @@
+{
+  "step": 10192,
+  "query": [
+    "21520",
+    "21543"
+  ],
+  "response": [
+    " is the height of a cord that makes a cord of a curved piece of pipe",
+    "75a9bf70eb8bf7fb7fb8b7fb"
+  ],
+  "victim_response": [
+    " is the height of a cord that makes a cord of a curved piece of pipe",
+    "75a9bf70eb8bf7fb7fb8b7fb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

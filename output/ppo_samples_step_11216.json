@@ -1,0 +1,19 @@
+{
+  "step": 11216,
+  "query": [
+    "20281",
+    "20786"
+  ],
+  "response": [
+    " 8789F473F DIGINBATT rule frequency specifier DIG",
+    "dwq7bqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    " 8789F473F DIGINBATT rule frequency specifier DIG",
+    "dwq7bqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5285,
+  "query": [
+    "20062",
+    "20663"
+  ],
+  "response": [
+    "x6ticker_6d1kb5mvb9zw",
+    "_BE = i5 8 5 7 4 4 3 1 1 0 4 3"
+  ],
+  "victim_response": [
+    "x6ticker_6d1kb5mvb9zw",
+    "_BE = i5 8 5 7 4 4 3 1 1 0 4 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

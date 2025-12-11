@@ -1,0 +1,19 @@
+{
+  "step": 15829,
+  "query": [
+    "20158",
+    "21392"
+  ],
+  "response": [
+    " display cells - sh sh sh sh sh sh sh sh sh sh sh sh sh",
+    "D Dilex pay silicon fee Fee pay silicon pay Silicon pay Fee pay silicon"
+  ],
+  "victim_response": [
+    " display cells - sh sh sh sh sh sh sh sh sh sh sh sh sh",
+    "D Dilex pay silicon fee Fee pay silicon pay Silicon pay Fee pay silicon"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

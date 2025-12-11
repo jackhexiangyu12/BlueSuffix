@@ -1,0 +1,19 @@
+{
+  "step": 7941,
+  "query": [
+    "20282",
+    "21781"
+  ],
+  "response": [
+    "1 / 217315354978257908 / 3LAKD0",
+    " /dev/null subnet, d8 connected it to dnscom with"
+  ],
+  "victim_response": [
+    "1 / 217315354978257908 / 3LAKD0",
+    " /dev/null subnet, d8 connected it to dnscom with"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

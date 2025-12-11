@@ -1,0 +1,19 @@
+{
+  "step": 4915,
+  "query": [
+    "20504",
+    "20067"
+  ],
+  "response": [
+    "D \"prd_fix_sdcurl\" unostype need to",
+    "0000060001 3 in this makes this v2 full, all of your"
+  ],
+  "victim_response": [
+    "D \"prd_fix_sdcurl\" unostype need to",
+    "0000060001 3 in this makes this v2 full, all of your"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5258,
+  "query": [
+    "20968",
+    "21796"
+  ],
+  "response": [
+    "010104d678f8c1d6cbd79d6",
+    "281' older_vianbw' is already in the database. try"
+  ],
+  "victim_response": [
+    "010104d678f8c1d6cbd79d6",
+    "281' older_vianbw' is already in the database. try"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

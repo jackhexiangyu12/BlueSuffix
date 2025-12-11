@@ -1,0 +1,19 @@
+{
+  "step": 9762,
+  "query": [
+    "20403",
+    "20106"
+  ],
+  "response": [
+    "ABCDABCDABCDABCDABCABCDABCDABCDABC",
+    " Bauski's suppies of the week from an ntuto made"
+  ],
+  "victim_response": [
+    "ABCDABCDABCDABCDABCABCDABCDABCDABC",
+    " Bauski's suppies of the week from an ntuto made"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

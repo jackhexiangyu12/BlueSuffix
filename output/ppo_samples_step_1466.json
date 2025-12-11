@@ -1,0 +1,19 @@
+{
+  "step": 1466,
+  "query": [
+    "21924",
+    "20040"
+  ],
+  "response": [
+    "95\n\nSavage: Game of Thrones\n\nGame of Thrones is a",
+    ",6072,606073,6074,6075,6076"
+  ],
+  "victim_response": [
+    "95\n\nSavage: Game of Thrones\n\nGame of Thrones is a",
+    ",6072,606073,6074,6075,6076"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

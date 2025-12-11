@@ -1,0 +1,19 @@
+{
+  "step": 15163,
+  "query": [
+    "20993",
+    "21796"
+  ],
+  "response": [
+    "B DattchedShroomDattchedDattchedShroomComplex",
+    "27D D D D 7 D D D D D 7 D D D D"
+  ],
+  "victim_response": [
+    "B DattchedShroomDattchedDattchedShroomComplex",
+    "27D D D D 7 D D D D D 7 D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

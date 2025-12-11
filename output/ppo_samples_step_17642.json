@@ -1,0 +1,19 @@
+{
+  "step": 17642,
+  "query": [
+    "21974",
+    "20504"
+  ],
+  "response": [
+    "TCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTC",
+    " D Cell D Cell D Cell D Cell D Cell D Cell D Cell D Cell"
+  ],
+  "victim_response": [
+    "TCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTC",
+    " D Cell D Cell D Cell D Cell D Cell D Cell D Cell D Cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

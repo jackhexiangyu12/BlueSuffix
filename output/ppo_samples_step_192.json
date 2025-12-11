@@ -1,0 +1,19 @@
+{
+  "step": 192,
+  "query": [
+    "21160",
+    "20045"
+  ],
+  "response": [
+    ":\n\nWith the flow you will get a new task.\n\nmain",
+    "99.jpg\n\nThe three-pronged rule of the Law of"
+  ],
+  "victim_response": [
+    ":\n\nWith the flow you will get a new task.\n\nmain",
+    "99.jpg\n\nThe three-pronged rule of the Law of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

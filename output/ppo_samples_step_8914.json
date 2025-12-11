@@ -1,0 +1,19 @@
+{
+  "step": 8914,
+  "query": [
+    "20155",
+    "21226"
+  ],
+  "response": [
+    "(1F)ap dif: A7301841DD9",
+    " rate of the air out of the air wheel torque is around 10 psi(V"
+  ],
+  "victim_response": [
+    "(1F)ap dif: A7301841DD9",
+    " rate of the air out of the air wheel torque is around 10 psi(V"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

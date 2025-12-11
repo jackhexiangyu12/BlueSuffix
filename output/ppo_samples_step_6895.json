@@ -1,0 +1,19 @@
+{
+  "step": 6895,
+  "query": [
+    "21023",
+    "20812"
+  ],
+  "response": [
+    "71degree7d1 the temperature of a large frozen solid is 10\u00b0C",
+    "29976509793123D D D ddr A D D ddr"
+  ],
+  "victim_response": [
+    "71degree7d1 the temperature of a large frozen solid is 10\u00b0C",
+    "29976509793123D D D ddr A D D ddr"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

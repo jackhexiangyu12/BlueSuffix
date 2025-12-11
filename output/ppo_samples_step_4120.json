@@ -1,0 +1,19 @@
+{
+  "step": 4120,
+  "query": [
+    "20257",
+    "21000"
+  ],
+  "response": [
+    "37389\" has a \"9XR\" recursion character, and is",
+    "6 (MSN 16577) F3383 Mair of the the the the"
+  ],
+  "victim_response": [
+    "37389\" has a \"9XR\" recursion character, and is",
+    "6 (MSN 16577) F3383 Mair of the the the the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

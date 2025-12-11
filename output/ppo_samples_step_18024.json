@@ -1,0 +1,19 @@
+{
+  "step": 18024,
+  "query": [
+    "20901",
+    "20062"
+  ],
+  "response": [
+    "02x Transis020101010201010201010101",
+    " failed trial trial trial trial trial trial trial trial trial trial trial trial trial trial trial"
+  ],
+  "victim_response": [
+    "02x Transis020101010201010201010101",
+    " failed trial trial trial trial trial trial trial trial trial trial trial trial trial trial trial"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

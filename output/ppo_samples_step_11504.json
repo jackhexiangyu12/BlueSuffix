@@ -1,0 +1,19 @@
+{
+  "step": 11504,
+  "query": [
+    "20670",
+    "20138"
+  ],
+  "response": [
+    " 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802",
+    " California Pharmaceuticals Pharmaceuticals Inc 771x7 Title Agreement contains information about the"
+  ],
+  "victim_response": [
+    " 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802 802",
+    " California Pharmaceuticals Pharmaceuticals Inc 771x7 Title Agreement contains information about the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

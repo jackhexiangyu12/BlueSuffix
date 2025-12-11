@@ -1,0 +1,19 @@
+{
+  "step": 4870,
+  "query": [
+    "20559",
+    "21496"
+  ],
+  "response": [
+    "27F76775D2F770D3D4D2DF",
+    " is one of the most complex devices in the world.\n\nA large number"
+  ],
+  "victim_response": [
+    "27F76775D2F770D3D4D2DF",
+    " is one of the most complex devices in the world.\n\nA large number"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

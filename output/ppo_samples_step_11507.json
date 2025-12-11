@@ -1,0 +1,19 @@
+{
+  "step": 11507,
+  "query": [
+    "21418",
+    "20504"
+  ],
+  "response": [
+    "(1U common quad, 929U variant X axis, 1202U",
+    " are not the same mask as the mask mask from the mask mask mask from Mask"
+  ],
+  "victim_response": [
+    "(1U common quad, 929U variant X axis, 1202U",
+    " are not the same mask as the mask mask from the mask mask mask from Mask"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6074,
+  "query": [
+    "21529",
+    "20192"
+  ],
+  "response": [
+    "03B7C00D0D4D9D6D9D",
+    " is a bit of a problem for JCPBC. It is a code that"
+  ],
+  "victim_response": [
+    "03B7C00D0D4D9D6D9D",
+    " is a bit of a problem for JCPBC. It is a code that"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

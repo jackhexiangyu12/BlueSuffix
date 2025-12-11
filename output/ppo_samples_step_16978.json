@@ -1,0 +1,19 @@
+{
+  "step": 16978,
+  "query": [
+    "20901",
+    "21267"
+  ],
+  "response": [
+    " F End carnumber F 000101 F 00010101 F F 00",
+    "Tel for shroomsay ca # digg is a shroomsay # d"
+  ],
+  "victim_response": [
+    " F End carnumber F 000101 F 00010101 F F 00",
+    "Tel for shroomsay ca # digg is a shroomsay # d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

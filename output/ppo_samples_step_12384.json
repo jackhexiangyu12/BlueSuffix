@@ -1,0 +1,19 @@
+{
+  "step": 12384,
+  "query": [
+    "20771",
+    "20144"
+  ],
+  "response": [
+    "L must be the same phone that was originally connected to the receiver the first time",
+    " Sukorava Su-10/20 EXKTW VN00D \""
+  ],
+  "victim_response": [
+    "L must be the same phone that was originally connected to the receiver the first time",
+    " Sukorava Su-10/20 EXKTW VN00D \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

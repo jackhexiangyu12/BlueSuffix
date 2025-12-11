@@ -1,0 +1,19 @@
+{
+  "step": 12131,
+  "query": [
+    "21191",
+    "21232"
+  ],
+  "response": [
+    "att0025585enf7a1e27f2f76572",
+    " IntP QttDpp03Dpp02Bpp02Dpp02"
+  ],
+  "victim_response": [
+    "att0025585enf7a1e27f2f76572",
+    " IntP QttDpp03Dpp02Bpp02Dpp02"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

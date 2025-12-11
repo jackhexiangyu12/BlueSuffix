@@ -1,0 +1,19 @@
+{
+  "step": 772,
+  "query": [
+    "21608",
+    "21483"
+  ],
+  "response": [
+    "94E.pdf ( )\n\nThe values of the dummies in the",
+    "/u/Shiro/en/Shiro/en/en/en"
+  ],
+  "victim_response": [
+    "94E.pdf ( )\n\nThe values of the dummies in the",
+    "/u/Shiro/en/Shiro/en/en/en"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

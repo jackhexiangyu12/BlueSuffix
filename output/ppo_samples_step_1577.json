@@ -1,0 +1,19 @@
+{
+  "step": 1577,
+  "query": [
+    "21081",
+    "20396"
+  ],
+  "response": [
+    "80\", \"D-G\", \"P\", \"M\"",
+    " is a U.S. government $8.5 billion project. The National"
+  ],
+  "victim_response": [
+    "80\", \"D-G\", \"P\", \"M\"",
+    " is a U.S. government $8.5 billion project. The National"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

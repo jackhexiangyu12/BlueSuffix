@@ -1,0 +1,19 @@
+{
+  "step": 7375,
+  "query": [
+    "20158",
+    "20281"
+  ],
+  "response": [
+    " DDD Network, providing the DDD network service. IRI SSL routing network",
+    "-h7t8p\"y\",mbnDNN7NNN"
+  ],
+  "victim_response": [
+    " DDD Network, providing the DDD network service. IRI SSL routing network",
+    "-h7t8p\"y\",mbnDNN7NNN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

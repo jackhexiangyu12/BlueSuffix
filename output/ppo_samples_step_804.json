@@ -1,0 +1,19 @@
+{
+  "step": 804,
+  "query": [
+    "20708",
+    "21209"
+  ],
+  "response": [
+    "27/lib/crypto.7.dll 4.0.0.",
+    "51703\n\n\"\n\n\"\n\n\n\"\n\n\""
+  ],
+  "victim_response": [
+    "27/lib/crypto.7.dll 4.0.0.",
+    "51703\n\n\"\n\n\"\n\n\n\"\n\n\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

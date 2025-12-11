@@ -1,0 +1,19 @@
+{
+  "step": 20656,
+  "query": [
+    "20418",
+    "20252"
+  ],
+  "response": [
+    "2300301 sets the COGHGHGHGHGHGHGHGHGHGH",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    "2300301 sets the COGHGHGHGHGHGHGHGHGHGH",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

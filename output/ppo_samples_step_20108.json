@@ -1,0 +1,19 @@
+{
+  "step": 20108,
+  "query": [
+    "21796",
+    "21363"
+  ],
+  "response": [
+    "65 F F F F F F F F F F F F F F F",
+    " a government is developing a new cellar cell cell in the lab cell lab lab"
+  ],
+  "victim_response": [
+    "65 F F F F F F F F F F F F F F F",
+    " a government is developing a new cellar cell cell in the lab cell lab lab"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14808,
+  "query": [
+    "21023",
+    "20916"
+  ],
+  "response": [
+    "00 government physical only X (PLL 017Z Zani 017Z",
+    " coach Dan Teller has spent the last three years training with the Cincinnati Reds,"
+  ],
+  "victim_response": [
+    "00 government physical only X (PLL 017Z Zani 017Z",
+    " coach Dan Teller has spent the last three years training with the Cincinnati Reds,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

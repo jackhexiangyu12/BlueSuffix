@@ -1,0 +1,19 @@
+{
+  "step": 2940,
+  "query": [
+    "20762",
+    "21406"
+  ],
+  "response": [
+    "_1,\"IsBdRxIdColorDhmm_1\"",
+    "01-43A (0.078),(0.2901),"
+  ],
+  "victim_response": [
+    "_1,\"IsBdRxIdColorDhmm_1\"",
+    "01-43A (0.078),(0.2901),"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

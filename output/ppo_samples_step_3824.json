@@ -1,0 +1,19 @@
+{
+  "step": 3824,
+  "query": [
+    "21233",
+    "21047"
+  ],
+  "response": [
+    "9434408880001024\n\nThe DEV of Cocks is",
+    ".26315109032547872d2047a15d1bb"
+  ],
+  "victim_response": [
+    "9434408880001024\n\nThe DEV of Cocks is",
+    ".26315109032547872d2047a15d1bb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

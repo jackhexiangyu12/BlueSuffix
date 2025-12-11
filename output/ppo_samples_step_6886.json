@@ -1,0 +1,19 @@
+{
+  "step": 6886,
+  "query": [
+    "20047",
+    "21709"
+  ],
+  "response": [
+    "00AppleD01D01AppleD001d01D01D01D",
+    "\" DTS features DTS \"dmp9ile mp4 hmp app"
+  ],
+  "victim_response": [
+    "00AppleD01D01AppleD001d01D01D01D",
+    "\" DTS features DTS \"dmp9ile mp4 hmp app"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

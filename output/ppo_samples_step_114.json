@@ -1,0 +1,19 @@
+{
+  "step": 114,
+  "query": [
+    "20257",
+    "21520"
+  ],
+  "response": [
+    ": b_left.vpx_width = 5.0; + b",
+    ") 2017-01-\n\nPigliac\n\n@pig"
+  ],
+  "victim_response": [
+    ": b_left.vpx_width = 5.0; + b",
+    ") 2017-01-\n\nPigliac\n\n@pig"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

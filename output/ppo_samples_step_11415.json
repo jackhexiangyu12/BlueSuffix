@@ -1,0 +1,19 @@
+{
+  "step": 11415,
+  "query": [
+    "20504",
+    "21543"
+  ],
+  "response": [
+    "D 00DDDDDDDDDDDDDD",
+    " cellbeauconnnbddhlhlhldhlhlhlhlhl"
+  ],
+  "victim_response": [
+    "D 00DDDDDDDDDDDDDD",
+    " cellbeauconnnbddhlhlhldhlhlhlhlhl"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

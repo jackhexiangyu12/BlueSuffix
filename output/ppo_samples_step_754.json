@@ -1,0 +1,19 @@
+{
+  "step": 754,
+  "query": [
+    "21546",
+    "21739"
+  ],
+  "response": [
+    ".com (3.06.76) [6/3/15]",
+    "39\",\"1\":\"http://www.youtube.com/watch?v="
+  ],
+  "victim_response": [
+    ".com (3.06.76) [6/3/15]",
+    "39\",\"1\":\"http://www.youtube.com/watch?v="
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

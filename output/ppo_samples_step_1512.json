@@ -1,0 +1,19 @@
+{
+  "step": 1512,
+  "query": [
+    "21672",
+    "20697"
+  ],
+  "response": [
+    ".\n\nThe second revised version of the campaign is published under the GPL 4",
+    ".html\n\n[39] Google, et al., \"The Effects of"
+  ],
+  "victim_response": [
+    ".\n\nThe second revised version of the campaign is published under the GPL 4",
+    ".html\n\n[39] Google, et al., \"The Effects of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10570,
+  "query": [
+    "20307",
+    "20282"
+  ],
+  "response": [
+    "075BDCDCDCDCDCDCDCDCDCDCDCDCDC",
+    ",000 dotblatt8 has a new HDIR driver in the update zip"
+  ],
+  "victim_response": [
+    "075BDCDCDCDCDCDCDCDCDCDCDCDCDC",
+    ",000 dotblatt8 has a new HDIR driver in the update zip"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

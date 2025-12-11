@@ -1,0 +1,19 @@
+{
+  "step": 9029,
+  "query": [
+    "20257",
+    "21520"
+  ],
+  "response": [
+    "6056577805805 Nfs Nfsd Nfsfsd-d",
+    "qqqwqqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    "6056577805805 Nfs Nfsd Nfsfsd-d",
+    "qqqwqqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

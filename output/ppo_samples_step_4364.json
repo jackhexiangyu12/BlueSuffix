@@ -1,0 +1,19 @@
+{
+  "step": 4364,
+  "query": [
+    "21888",
+    "20639"
+  ],
+  "response": [
+    "4 C1 M1 M2 M3 M4 M5 D1 D",
+    "403041b5df1f0c14b6b7d"
+  ],
+  "victim_response": [
+    "4 C1 M1 M2 M3 M4 M5 D1 D",
+    "403041b5df1f0c14b6b7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

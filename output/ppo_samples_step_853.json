@@ -1,0 +1,19 @@
+{
+  "step": 853,
+  "query": [
+    "21125",
+    "20418"
+  ],
+  "response": [
+    "] P1: K: L: K: D: P1: K",
+    ",Chrome,Grey,Grey,Grey,Grey,Grey,Grey,"
+  ],
+  "victim_response": [
+    "] P1: K: L: K: D: P1: K",
+    ",Chrome,Grey,Grey,Grey,Grey,Grey,Grey,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

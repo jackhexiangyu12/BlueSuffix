@@ -1,0 +1,19 @@
+{
+  "step": 16000,
+  "query": [
+    "20266",
+    "21363"
+  ],
+  "response": [
+    " serial 11D D D D D D D D D D D D D D",
+    " D dent dent dent dent dent dent dent dent dent dent dent dent dent dent dent"
+  ],
+  "victim_response": [
+    " serial 11D D D D D D D D D D D D D D",
+    " D dent dent dent dent dent dent dent dent dent dent dent dent dent dent dent"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

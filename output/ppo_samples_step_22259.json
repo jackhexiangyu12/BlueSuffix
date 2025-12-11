@@ -1,0 +1,19 @@
+{
+  "step": 22259,
+  "query": [
+    "20518",
+    "21108"
+  ],
+  "response": [
+    "2100 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    " N truck truck driver Chia Zang took the lead in the first bit of"
+  ],
+  "victim_response": [
+    "2100 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+    " N truck truck driver Chia Zang took the lead in the first bit of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

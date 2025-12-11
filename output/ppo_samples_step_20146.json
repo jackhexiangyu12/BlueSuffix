@@ -1,0 +1,19 @@
+{
+  "step": 20146,
+  "query": [
+    "20030",
+    "20463"
+  ],
+  "response": [
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    " EFRFRFRFRF RF RF RF RF RF RF RF RF RF RF"
+  ],
+  "victim_response": [
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    " EFRFRFRFRF RF RF RF RF RF RF RF RF RF RF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

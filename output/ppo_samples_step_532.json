@@ -1,0 +1,19 @@
+{
+  "step": 532,
+  "query": [
+    "20281",
+    "21950"
+  ],
+  "response": [
+    "\" \"0\" \"1\" \"0\" \"0\" \"0\"",
+    ".\n\n(c) The term \"License to Drive\" is defined in"
+  ],
+  "victim_response": [
+    "\" \"0\" \"1\" \"0\" \"0\" \"0\"",
+    ".\n\n(c) The term \"License to Drive\" is defined in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 849,
+  "query": [
+    "20138",
+    "21839"
+  ],
+  "response": [
+    ".0, and all the values below are in the % of the seed (",
+    "|NOV|NW|NW|8|1|VAT|NW"
+  ],
+  "victim_response": [
+    ".0, and all the values below are in the % of the seed (",
+    "|NOV|NW|NW|8|1|VAT|NW"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

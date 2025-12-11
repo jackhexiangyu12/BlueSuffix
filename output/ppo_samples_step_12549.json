@@ -1,0 +1,19 @@
+{
+  "step": 12549,
+  "query": [
+    "20463",
+    "21845"
+  ],
+  "response": [
+    "D0000, green MilkTrainSleepSleepSleepSleepSleepSleep Sleep Sleep Sleep",
+    "0155000 7 switz6a7efe2aefa7d"
+  ],
+  "victim_response": [
+    "D0000, green MilkTrainSleepSleepSleepSleepSleepSleep Sleep Sleep Sleep",
+    "0155000 7 switz6a7efe2aefa7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

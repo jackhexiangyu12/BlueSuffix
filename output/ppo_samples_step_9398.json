@@ -1,0 +1,19 @@
+{
+  "step": 9398,
+  "query": [
+    "20042",
+    "21090"
+  ],
+  "response": [
+    " 2xfaces 3xfaces 3xfaces 3xfaces 4xfaces 4",
+    "685 reduced number of NCSs per NCSM for the 10 years of"
+  ],
+  "victim_response": [
+    " 2xfaces 3xfaces 3xfaces 3xfaces 4xfaces 4",
+    "685 reduced number of NCSs per NCSM for the 10 years of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

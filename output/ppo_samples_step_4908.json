@@ -1,0 +1,19 @@
+{
+  "step": 4908,
+  "query": [
+    "20307",
+    "21435"
+  ],
+  "response": [
+    "1390308\" comp_comp3d(contents) comp_cache",
+    "W\", \"name\":\"Firmanceroenkline\", \"defS"
+  ],
+  "victim_response": [
+    "1390308\" comp_comp3d(contents) comp_cache",
+    "W\", \"name\":\"Firmanceroenkline\", \"defS"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

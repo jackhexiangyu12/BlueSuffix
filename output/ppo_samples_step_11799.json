@@ -1,0 +1,19 @@
+{
+  "step": 11799,
+  "query": [
+    "21233",
+    "20463"
+  ],
+  "response": [
+    "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    " anyone is in the garden's basement the boy is not in the basement one of"
+  ],
+  "victim_response": [
+    "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    " anyone is in the garden's basement the boy is not in the basement one of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

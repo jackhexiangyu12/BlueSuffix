@@ -1,0 +1,19 @@
+{
+  "step": 2242,
+  "query": [
+    "20138",
+    "20670"
+  ],
+  "response": [
+    "0088,0,292654,2) <- 1 (3/",
+    ":7:\n\n17 (5) Execute a specific item of the"
+  ],
+  "victim_response": [
+    "0088,0,292654,2) <- 1 (3/",
+    ":7:\n\n17 (5) Execute a specific item of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14766,
+  "query": [
+    "20901",
+    "21291"
+  ],
+  "response": [
+    "080107020107070702802 wigwww wigw",
+    " \"31 Fries, Inn\" $7 Price is available at the Labar"
+  ],
+  "victim_response": [
+    "080107020107070702802 wigwww wigw",
+    " \"31 Fries, Inn\" $7 Price is available at the Labar"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

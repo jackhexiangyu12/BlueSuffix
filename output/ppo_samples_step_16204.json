@@ -1,0 +1,19 @@
+{
+  "step": 16204,
+  "query": [
+    "20224",
+    "21191"
+  ],
+  "response": [
+    "24 D D D D D D D D D D D D D D D",
+    " Barker's Super Cage Scheduler provides some information about Barker's health and his commitment"
+  ],
+  "victim_response": [
+    "24 D D D D D D D D D D D D D D D",
+    " Barker's Super Cage Scheduler provides some information about Barker's health and his commitment"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

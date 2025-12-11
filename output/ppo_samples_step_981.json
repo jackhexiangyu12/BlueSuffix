@@ -1,0 +1,19 @@
+{
+  "step": 981,
+  "query": [
+    "20403",
+    "21984"
+  ],
+  "response": [
+    ":no, 0:t 000007a7d:sfx 0",
+    ").\n\n[2] The statute gives police the right to arrest suspects without"
+  ],
+  "victim_response": [
+    ":no, 0:t 000007a7d:sfx 0",
+    ").\n\n[2] The statute gives police the right to arrest suspects without"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

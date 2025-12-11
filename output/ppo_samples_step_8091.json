@@ -1,0 +1,19 @@
+{
+  "step": 8091,
+  "query": [
+    "21984",
+    "20800"
+  ],
+  "response": [
+    ", Atari Atari Company Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer",
+    "4D0DDDDDDDD DDDDD D"
+  ],
+  "victim_response": [
+    ", Atari Atari Company Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer Computer",
+    "4D0DDDDDDDD DDDDD D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2115,
+  "query": [
+    "20786",
+    "20800"
+  ],
+  "response": [
+    ".80\n\nFor the many of us who are injured, there are still",
+    ",1.8,0.2,14.6,3,1"
+  ],
+  "victim_response": [
+    ".80\n\nFor the many of us who are injured, there are still",
+    ",1.8,0.2,14.6,3,1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

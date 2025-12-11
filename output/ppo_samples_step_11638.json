@@ -1,0 +1,19 @@
+{
+  "step": 11638,
+  "query": [
+    "21634",
+    "21226"
+  ],
+  "response": [
+    " to the Grid is more similar to a short string. F F is the name",
+    " cells may be cycled out by cell viability (Fig. 7). Fibon"
+  ],
+  "victim_response": [
+    " to the Grid is more similar to a short string. F F is the name",
+    " cells may be cycled out by cell viability (Fig. 7). Fibon"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

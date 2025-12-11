@@ -1,0 +1,19 @@
+{
+  "step": 3451,
+  "query": [
+    "21393",
+    "20360"
+  ],
+  "response": [
+    "4535958340,\n\nyoutube.type must be more than 1",
+    "46720e4c5b_B29c8f7d3"
+  ],
+  "victim_response": [
+    "4535958340,\n\nyoutube.type must be more than 1",
+    "46720e4c5b_B29c8f7d3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

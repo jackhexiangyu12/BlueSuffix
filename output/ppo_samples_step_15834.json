@@ -1,0 +1,19 @@
+{
+  "step": 15834,
+  "query": [
+    "21368",
+    "21496"
+  ],
+  "response": [
+    " exposedObf for a callback 2016 number 3 80 pid partner EIBDb",
+    "00 MPH Grand Droit 05 Mid D 00 Lucid Ab Sk Com 00 Small"
+  ],
+  "victim_response": [
+    " exposedObf for a callback 2016 number 3 80 pid partner EIBDb",
+    "00 MPH Grand Droit 05 Mid D 00 Lucid Ab Sk Com 00 Small"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

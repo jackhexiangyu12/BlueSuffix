@@ -1,0 +1,19 @@
+{
+  "step": 62,
+  "query": [
+    "20106",
+    "20757"
+  ],
+  "response": [
+    ")\n\nby\n\n10:00\n\n\n24:00\n",
+    "\n\n0:00:00\n\n\n00\n\n0\n"
+  ],
+  "victim_response": [
+    ")\n\nby\n\n10:00\n\n\n24:00\n",
+    "\n\n0:00:00\n\n\n00\n\n0\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

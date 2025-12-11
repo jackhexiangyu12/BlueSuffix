@@ -1,0 +1,19 @@
+{
+  "step": 4735,
+  "query": [
+    "21392",
+    "21160"
+  ],
+  "response": [
+    " to <susan-p>This is a document you need to document",
+    "DBD7D2D4DDC5D3DCD6D"
+  ],
+  "victim_response": [
+    " to <susan-p>This is a document you need to document",
+    "DBD7D2D4DDC5D3DCD6D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

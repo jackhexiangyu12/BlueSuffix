@@ -1,0 +1,19 @@
+{
+  "step": 4094,
+  "query": [
+    "21900",
+    "21634"
+  ],
+  "response": [
+    ",0x\" type=\"x\" i=\\\"color-blue\\\" size=\"",
+    "700 apart=8812433847710b7ffd7c"
+  ],
+  "victim_response": [
+    ",0x\" type=\"x\" i=\\\"color-blue\\\" size=\"",
+    "700 apart=8812433847710b7ffd7c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

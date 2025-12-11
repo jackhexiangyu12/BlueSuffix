@@ -1,0 +1,19 @@
+{
+  "step": 2341,
+  "query": [
+    "20418",
+    "20223"
+  ],
+  "response": [
+    "-2, school-13-11-12, school-of-hon",
+    ".\n\nThe last of the five was the first.\n\nThree men"
+  ],
+  "victim_response": [
+    "-2, school-13-11-12, school-of-hon",
+    ".\n\nThe last of the five was the first.\n\nThree men"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

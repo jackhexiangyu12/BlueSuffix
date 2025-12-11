@@ -1,0 +1,19 @@
+{
+  "step": 12966,
+  "query": [
+    "20295",
+    "21822"
+  ],
+  "response": [
+    "16 Hash hash hash hash hash hash hash hash hash hash hash hash hash hash hash",
+    " [xkDWNxkDWNWNxWNxWNxWN"
+  ],
+  "victim_response": [
+    "16 Hash hash hash hash hash hash hash hash hash hash hash hash hash hash hash",
+    " [xkDWNxkDWNWNxWNxWNxWN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

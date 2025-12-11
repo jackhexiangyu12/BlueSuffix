@@ -1,0 +1,19 @@
+{
+  "step": 4163,
+  "query": [
+    "21185",
+    "20787"
+  ],
+  "response": [
+    "1612202537,\"Boughis_in_tea\":",
+    "32 true, which is the cell in the last 2-7-000."
+  ],
+  "victim_response": [
+    "1612202537,\"Boughis_in_tea\":",
+    "32 true, which is the cell in the last 2-7-000."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

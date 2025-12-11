@@ -1,0 +1,19 @@
+{
+  "step": 6469,
+  "query": [
+    "21781",
+    "20281"
+  ],
+  "response": [
+    " HTTP serverhost=host-deports-hostlocalhost port=2300 HTTP",
+    "\"new thetegntrenducerentcskinnexcrops"
+  ],
+  "victim_response": [
+    " HTTP serverhost=host-deports-hostlocalhost port=2300 HTTP",
+    "\"new thetegntrenducerentcskinnexcrops"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

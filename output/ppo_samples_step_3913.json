@@ -1,0 +1,19 @@
+{
+  "step": 3913,
+  "query": [
+    "20245",
+    "20282"
+  ],
+  "response": [
+    "43 0 1 1 R and C 0 0 1 0 0 0 0 0 0",
+    "')\n\nfor i in range ( 0, 5 ) do x ="
+  ],
+  "victim_response": [
+    "43 0 1 1 R and C 0 0 1 0 0 0 0 0 0",
+    "')\n\nfor i in range ( 0, 5 ) do x ="
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

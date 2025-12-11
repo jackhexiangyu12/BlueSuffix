@@ -1,0 +1,19 @@
+{
+  "step": 17524,
+  "query": [
+    "20905",
+    "21267"
+  ],
+  "response": [
+    "7D D D D D D D D D D D D D D D",
+    " are missing solar cells, too. One cell is not a cell.\n\n"
+  ],
+  "victim_response": [
+    "7D D D D D D D D D D D D D D D",
+    " are missing solar cells, too. One cell is not a cell.\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

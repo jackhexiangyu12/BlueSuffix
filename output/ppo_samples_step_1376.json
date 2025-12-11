@@ -1,0 +1,19 @@
+{
+  "step": 1376,
+  "query": [
+    "20708",
+    "20559"
+  ],
+  "response": [
+    "986680\n\nhttp://www.youtube.com/watch?v",
+    ",0984,0,1,0,0,0,0,"
+  ],
+  "victim_response": [
+    "986680\n\nhttp://www.youtube.com/watch?v",
+    ",0984,0,1,0,0,0,0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

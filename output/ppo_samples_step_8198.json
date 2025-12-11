@@ -1,0 +1,19 @@
+{
+  "step": 8198,
+  "query": [
+    "21368",
+    "21214"
+  ],
+  "response": [
+    "000dfdfdfdfdfdfdfdfdfdfdfdfdfdfdf",
+    " Samsung Z7600 Samsung Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy"
+  ],
+  "victim_response": [
+    "000dfdfdfdfdfdfdfdfdfdfdfdfdfdfdf",
+    " Samsung Z7600 Samsung Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy Galaxy"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

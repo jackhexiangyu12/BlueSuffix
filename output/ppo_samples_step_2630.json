@@ -1,0 +1,19 @@
+{
+  "step": 2630,
+  "query": [
+    "20040",
+    "21909"
+  ],
+  "response": [
+    " : \"X\"\n\n[8x1x1xx[0].",
+    "1hc2,\n\n\n\"1st\",\n\n\"1"
+  ],
+  "victim_response": [
+    " : \"X\"\n\n[8x1x1xx[0].",
+    "1hc2,\n\n\n\"1st\",\n\n\"1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

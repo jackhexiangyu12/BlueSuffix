@@ -1,0 +1,19 @@
+{
+  "step": 15376,
+  "query": [
+    "21377",
+    "21672"
+  ],
+  "response": [
+    "23D7D7D7D7D7D7D7D",
+    " exams-121 Tuesday Professor Sowick then produced a new paper on the topic"
+  ],
+  "victim_response": [
+    "23D7D7D7D7D7D7D7D",
+    " exams-121 Tuesday Professor Sowick then produced a new paper on the topic"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

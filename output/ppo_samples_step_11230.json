@@ -1,0 +1,19 @@
+{
+  "step": 11230,
+  "query": [
+    "21692",
+    "20138"
+  ],
+  "response": [
+    "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "27 McCabe McCabe's Fax McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe"
+  ],
+  "victim_response": [
+    "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "27 McCabe McCabe's Fax McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe McCabe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

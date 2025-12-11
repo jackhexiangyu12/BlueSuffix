@@ -1,0 +1,19 @@
+{
+  "step": 9187,
+  "query": [
+    "20639",
+    "21393"
+  ],
+  "response": [
+    " FD to DFCF97F9FDFDFDFDFDFDF",
+    " 9200 ns ns ns ns ns ns ns ns ns ns ns ns ns ns"
+  ],
+  "victim_response": [
+    " FD to DFCF97F9FDFDFDFDFDFDF",
+    " 9200 ns ns ns ns ns ns ns ns ns ns ns ns ns ns"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

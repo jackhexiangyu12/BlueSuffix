@@ -1,0 +1,19 @@
+{
+  "step": 6520,
+  "query": [
+    "20993",
+    "20387"
+  ],
+  "response": [
+    " shnada-pae1b2c9b2a6e",
+    " SHA3 1 C01076F0FF7F7CAFBDB"
+  ],
+  "victim_response": [
+    " shnada-pae1b2c9b2a6e",
+    " SHA3 1 C01076F0FF7F7CAFBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

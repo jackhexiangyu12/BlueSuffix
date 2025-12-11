@@ -1,0 +1,19 @@
+{
+  "step": 2500,
+  "query": [
+    "21160",
+    "20396"
+  ],
+  "response": [
+    "&mobile_id=3&_an_id%2b2full",
+    "-2,3 a5-8,5-5,6-1"
+  ],
+  "victim_response": [
+    "&mobile_id=3&_an_id%2b2full",
+    "-2,3 a5-8,5-5,6-1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

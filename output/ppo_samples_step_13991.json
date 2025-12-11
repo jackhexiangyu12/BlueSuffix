@@ -1,0 +1,19 @@
+{
+  "step": 13991,
+  "query": [
+    "20120",
+    "20846"
+  ],
+  "response": [
+    "2110177Wt cell Sleep cell Sleep cell Sleep cell Sleep cell Sleep cell",
+    "00DD DD dD dD dD dD dD d"
+  ],
+  "victim_response": [
+    "2110177Wt cell Sleep cell Sleep cell Sleep cell Sleep cell Sleep cell",
+    "00DD DD dD dD dD dD dD d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21771,
+  "query": [
+    "20040",
+    "20331"
+  ],
+  "response": [
+    "760000 D sectors sector discrimination reference 0000 D D D D C D D",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    "760000 D sectors sector discrimination reference 0000 D D D D C D D",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

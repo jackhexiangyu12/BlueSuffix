@@ -1,0 +1,19 @@
+{
+  "step": 2114,
+  "query": [
+    "20697",
+    "20887"
+  ],
+  "response": [
+    ") in the Werkbel-Oven (Werk-W) and",
+    "B,p=10341101,n=1,p=10"
+  ],
+  "victim_response": [
+    ") in the Werkbel-Oven (Werk-W) and",
+    "B,p=10341101,n=1,p=10"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10039,
+  "query": [
+    "21760",
+    "21541"
+  ],
+  "response": [
+    "72-netflixnetflix dhuaknetflix dhuaknetflix Netflix Netflix Netflixnetflix",
+    "-entailft by dolfu there were no small holes in the copper"
+  ],
+  "victim_response": [
+    "72-netflixnetflix dhuaknetflix dhuaknetflix Netflix Netflix Netflixnetflix",
+    "-entailft by dolfu there were no small holes in the copper"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

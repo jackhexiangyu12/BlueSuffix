@@ -1,0 +1,19 @@
+{
+  "step": 1918,
+  "query": [
+    "21000",
+    "21652"
+  ],
+  "response": [
+    ":00:00:000:00:000:000:V5A",
+    " and/or\n\nThe Price is $5.00\n\nThe Price"
+  ],
+  "victim_response": [
+    ":00:00:000:00:000:000:V5A",
+    " and/or\n\nThe Price is $5.00\n\nThe Price"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

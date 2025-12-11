@@ -1,0 +1,19 @@
+{
+  "step": 6838,
+  "query": [
+    "21233",
+    "20331"
+  ],
+  "response": [
+    "d9d9d7d7d7d7d7d7",
+    "/disco-wireless-protocol-pcsd_capcrypt"
+  ],
+  "victim_response": [
+    "d9d9d7d7d7d7d7d7",
+    "/disco-wireless-protocol-pcsd_capcrypt"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

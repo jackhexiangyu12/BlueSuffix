@@ -1,0 +1,19 @@
+{
+  "step": 16268,
+  "query": [
+    "21145",
+    "20245"
+  ],
+  "response": [
+    " dental melanoma has been diagnosed as an inherited melanoma. D dental",
+    " d d d d d d d d d d d d d d d d"
+  ],
+  "victim_response": [
+    " dental melanoma has been diagnosed as an inherited melanoma. D dental",
+    " d d d d d d d d d d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

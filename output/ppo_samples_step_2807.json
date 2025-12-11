@@ -1,0 +1,19 @@
+{
+  "step": 2807,
+  "query": [
+    "20106",
+    "20307"
+  ],
+  "response": [
+    "R6 No.2 the information I have on this is a one of the",
+    ".13, Hp,2\n\n9S:1, Hp"
+  ],
+  "victim_response": [
+    "R6 No.2 the information I have on this is a one of the",
+    ".13, Hp,2\n\n9S:1, Hp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

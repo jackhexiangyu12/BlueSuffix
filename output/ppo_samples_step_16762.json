@@ -1,0 +1,19 @@
+{
+  "step": 16762,
+  "query": [
+    "20901",
+    "21269"
+  ],
+  "response": [
+    " d d d d d d d d d d d d d d d d",
+    " F root cells may be active CA d F F F F F F F F"
+  ],
+  "victim_response": [
+    " d d d d d d d d d d d d d d d d",
+    " F root cells may be active CA d F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

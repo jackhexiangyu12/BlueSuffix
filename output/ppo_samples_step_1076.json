@@ -1,0 +1,19 @@
+{
+  "step": 1076,
+  "query": [
+    "20257",
+    "21950"
+  ],
+  "response": [
+    ".15069:8134\n\n\n6.7.0.0",
+    "50.\n\nSchmidt, et al., (1995) The Role of"
+  ],
+  "victim_response": [
+    ".15069:8134\n\n\n6.7.0.0",
+    "50.\n\nSchmidt, et al., (1995) The Role of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

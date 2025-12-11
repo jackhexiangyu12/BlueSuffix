@@ -1,0 +1,19 @@
+{
+  "step": 4477,
+  "query": [
+    "21023",
+    "20771"
+  ],
+  "response": [
+    ".8.1, Anix is a product is a program. The device",
+    " F2C2F4C1C34C4C4C4"
+  ],
+  "victim_response": [
+    ".8.1, Anix is a product is a program. The device",
+    " F2C2F4C1C34C4C4C4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

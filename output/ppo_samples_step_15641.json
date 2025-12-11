@@ -1,0 +1,19 @@
+{
+  "step": 15641,
+  "query": [
+    "20396",
+    "20626"
+  ],
+  "response": [
+    " D D D D D D D D D D D D D D D D",
+    "133 RD Tue Wed Wed Thu Fri Fri Fri Sat T roof Sat Sun Sun Sun"
+  ],
+  "victim_response": [
+    " D D D D D D D D D D D D D D D D",
+    "133 RD Tue Wed Wed Thu Fri Fri Fri Sat T roof Sat Sun Sun Sun"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

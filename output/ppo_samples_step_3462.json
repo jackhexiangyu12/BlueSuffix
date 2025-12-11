@@ -1,0 +1,19 @@
+{
+  "step": 3462,
+  "query": [
+    "21406",
+    "20968"
+  ],
+  "response": [
+    "1 for a IOS-DLL-151, DSSH7Q",
+    "0128 /s not a 2* c d e i c h a c"
+  ],
+  "victim_response": [
+    "1 for a IOS-DLL-151, DSSH7Q",
+    "0128 /s not a 2* c d e i c h a c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

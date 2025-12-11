@@ -1,0 +1,19 @@
+{
+  "step": 5464,
+  "query": [
+    "21895",
+    "20360"
+  ],
+  "response": [
+    "c53d9d33ca33ccddd7d9d9",
+    "\", \"Male\", \"Female\" \"S\", \"Male\", \"Female\""
+  ],
+  "victim_response": [
+    "c53d9d33ca33ccddd7d9d9",
+    "\", \"Male\", \"Female\" \"S\", \"Male\", \"Female\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

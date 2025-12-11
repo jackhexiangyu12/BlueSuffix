@@ -1,0 +1,19 @@
+{
+  "step": 17914,
+  "query": [
+    "20252",
+    "20401"
+  ],
+  "response": [
+    " Scarn Dippeduner appeared Shroommaker's door Dippeduner appeared Sh",
+    " vehicles used the FAs during training were a M4R Sphinx Scorp"
+  ],
+  "victim_response": [
+    " Scarn Dippeduner appeared Shroommaker's door Dippeduner appeared Sh",
+    " vehicles used the FAs during training were a M4R Sphinx Scorp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

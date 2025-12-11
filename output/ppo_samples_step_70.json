@@ -1,0 +1,19 @@
+{
+  "step": 70,
+  "query": [
+    "21974",
+    "21090"
+  ],
+  "response": [
+    "00.\n\nYou can see the letter \"B\" in the diagram.",
+    ", that's the same one that happened to me. That was a very,"
+  ],
+  "victim_response": [
+    "00.\n\nYou can see the letter \"B\" in the diagram.",
+    ", that's the same one that happened to me. That was a very,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

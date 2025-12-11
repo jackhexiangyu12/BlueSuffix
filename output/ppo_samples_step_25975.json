@@ -1,0 +1,19 @@
+{
+  "step": 25975,
+  "query": [
+    "20800",
+    "21772"
+  ],
+  "response": [
+    " same as the paper reported there is the same problem. I think the same the",
+    " member partC is has a fact checker can take action to enforce something if"
+  ],
+  "victim_response": [
+    " same as the paper reported there is the same problem. I think the same the",
+    " member partC is has a fact checker can take action to enforce something if"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

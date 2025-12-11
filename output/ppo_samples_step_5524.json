@@ -1,0 +1,19 @@
+{
+  "step": 5524,
+  "query": [
+    "20865",
+    "21822"
+  ],
+  "response": [
+    "95131\" weql_lfmt_id minerid0167",
+    "ea69f69fabc5b89b1dd7c7d"
+  ],
+  "victim_response": [
+    "95131\" weql_lfmt_id minerid0167",
+    "ea69f69fabc5b89b1dd7c7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

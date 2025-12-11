@@ -1,0 +1,19 @@
+{
+  "step": 14334,
+  "query": [
+    "21620",
+    "20120"
+  ],
+  "response": [
+    "-parrothelinq 937 damage DRI f7 10 DRI",
+    "70 sunburned sunburnedsunburnsunburnsunburnsunburnsun"
+  ],
+  "victim_response": [
+    "-parrothelinq 937 damage DRI f7 10 DRI",
+    "70 sunburned sunburnedsunburnsunburnsunburnsunburnsun"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

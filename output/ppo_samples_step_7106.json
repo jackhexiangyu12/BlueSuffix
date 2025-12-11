@@ -1,0 +1,19 @@
+{
+  "step": 7106,
+  "query": [
+    "20042",
+    "20504"
+  ],
+  "response": [
+    "15 $0 and pending 3 P \"Riplies\" set with a point",
+    "3036BBDBCBEDDBDDBDBDDBDDB"
+  ],
+  "victim_response": [
+    "15 $0 and pending 3 P \"Riplies\" set with a point",
+    "3036BBDBCBEDDBDDBDBDDBDDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

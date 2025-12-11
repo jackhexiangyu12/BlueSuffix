@@ -1,0 +1,19 @@
+{
+  "step": 6214,
+  "query": [
+    "20030",
+    "21356"
+  ],
+  "response": [
+    "/0x5700d7d0d8cbf7d5",
+    "996309095578733 \" Untyposeboyftelskii"
+  ],
+  "victim_response": [
+    "/0x5700d7d0d8cbf7d5",
+    "996309095578733 \" Untyposeboyftelskii"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

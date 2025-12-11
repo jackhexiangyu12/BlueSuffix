@@ -1,0 +1,19 @@
+{
+  "step": 5346,
+  "query": [
+    "21125",
+    "21797"
+  ],
+  "response": [
+    ", pool 9 1 1 5 - 3f $ 1f4fecb",
+    "2657E720914D2D7D187D77D54"
+  ],
+  "victim_response": [
+    ", pool 9 1 1 5 - 3f $ 1f4fecb",
+    "2657E720914D2D7D187D77D54"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

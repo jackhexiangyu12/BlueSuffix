@@ -1,0 +1,19 @@
+{
+  "step": 9510,
+  "query": [
+    "20282",
+    "20223"
+  ],
+  "response": [
+    "805010101 017 BFF02100101001001001010000101",
+    " swoted apple swoted apple fruit swoted fruit apple apple apple apple apple apple"
+  ],
+  "victim_response": [
+    "805010101 017 BFF02100101001001001010000101",
+    " swoted apple swoted apple fruit swoted fruit apple apple apple apple apple apple"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

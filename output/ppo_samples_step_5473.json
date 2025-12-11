@@ -1,0 +1,19 @@
+{
+  "step": 5473,
+  "query": [
+    "20800",
+    "20463"
+  ],
+  "response": [
+    "E2D0D73B3DF7C2D00D",
+    " of is a moon that we know to be white.\n\n\nLook at a"
+  ],
+  "victim_response": [
+    "E2D0D73B3DF7C2D00D",
+    " of is a moon that we know to be white.\n\n\nLook at a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

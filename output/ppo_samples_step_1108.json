@@ -1,0 +1,19 @@
+{
+  "step": 1108,
+  "query": [
+    "20670",
+    "20757"
+  ],
+  "response": [
+    "-2.jpg\",\"ow\":1040,\"pt\":\"<\\/a>",
+    "41\",\"s\":9,\"st\":\"University of California at Berkeley\",\"th\":"
+  ],
+  "victim_response": [
+    "-2.jpg\",\"ow\":1040,\"pt\":\"<\\/a>",
+    "41\",\"s\":9,\"st\":\"University of California at Berkeley\",\"th\":"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

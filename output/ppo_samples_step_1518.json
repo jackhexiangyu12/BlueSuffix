@@ -1,0 +1,19 @@
+{
+  "step": 1518,
+  "query": [
+    "21888",
+    "20653"
+  ],
+  "response": [
+    "3073 (yes)\n(no)\n\nThe extra-particular",
+    ".0\n\nSuffolk, United States\n\nYear : 2014 2014"
+  ],
+  "victim_response": [
+    "3073 (yes)\n(no)\n\nThe extra-particular",
+    ".0\n\nSuffolk, United States\n\nYear : 2014 2014"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

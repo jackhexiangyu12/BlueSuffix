@@ -1,0 +1,19 @@
+{
+  "step": 7544,
+  "query": [
+    "20282",
+    "20120"
+  ],
+  "response": [
+    "195D DCC6D7D8DDBDDBDBDDB",
+    "/fsdi/nata-fsdafsdfsdfdfdfdf"
+  ],
+  "victim_response": [
+    "195D DCC6D7D8DDBDDBDBDDB",
+    "/fsdi/nata-fsdafsdfsdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

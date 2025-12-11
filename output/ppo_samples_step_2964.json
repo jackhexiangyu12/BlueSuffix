@@ -1,0 +1,19 @@
+{
+  "step": 2964,
+  "query": [
+    "21620",
+    "21895"
+  ],
+  "response": [
+    "e4b7a0c4c0c4b75d95",
+    "32-py and I used the 'whole' from the 'cropped"
+  ],
+  "victim_response": [
+    "e4b7a0c4c0c4b75d95",
+    "32-py and I used the 'whole' from the 'cropped"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

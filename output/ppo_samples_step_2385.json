@@ -1,0 +1,19 @@
+{
+  "step": 2385,
+  "query": [
+    "21441",
+    "21692"
+  ],
+  "response": [
+    " she would never would have been in the room with him\"\n\n\"B",
+    "-a-2-host-in-box_2_hcc."
+  ],
+  "victim_response": [
+    " she would never would have been in the room with him\"\n\n\"B",
+    "-a-2-host-in-box_2_hcc."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

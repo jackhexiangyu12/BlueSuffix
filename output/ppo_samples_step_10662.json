@@ -1,0 +1,19 @@
+{
+  "step": 10662,
+  "query": [
+    "20010",
+    "21772"
+  ],
+  "response": [
+    " 55400 dnf=WulC_Fltcpidd",
+    "a7c7ad7da7da7da7da7da7"
+  ],
+  "victim_response": [
+    " 55400 dnf=WulC_Fltcpidd",
+    "a7c7ad7da7da7da7da7da7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

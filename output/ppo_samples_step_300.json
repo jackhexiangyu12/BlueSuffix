@@ -1,0 +1,19 @@
+{
+  "step": 300,
+  "query": [
+    "20504",
+    "20030"
+  ],
+  "response": [
+    "\n\nApproaching the next one:\n\nA. See the previous",
+    "3010\n\n(July, 2015)\n\n\"In the past,"
+  ],
+  "victim_response": [
+    "\n\nApproaching the next one:\n\nA. See the previous",
+    "3010\n\n(July, 2015)\n\n\"In the past,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

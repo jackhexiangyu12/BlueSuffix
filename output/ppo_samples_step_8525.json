@@ -1,0 +1,19 @@
+{
+  "step": 8525,
+  "query": [
+    "21672",
+    "20812"
+  ],
+  "response": [
+    "15002185 cellsToBitCount 10 blocks a block cut for access control cause",
+    "DDFDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "15002185 cellsToBitCount 10 blocks a block cut for access control cause",
+    "DDFDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

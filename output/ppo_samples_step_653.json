@@ -1,0 +1,19 @@
+{
+  "step": 653,
+  "query": [
+    "21767",
+    "21262"
+  ],
+  "response": [
+    "01\n\nSellout.com.",
+    " (6) 723x (712) 843x (743)"
+  ],
+  "victim_response": [
+    "01\n\nSellout.com.",
+    " (6) 723x (712) 843x (743)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

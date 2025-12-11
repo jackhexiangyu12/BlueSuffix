@@ -1,0 +1,19 @@
+{
+  "step": 3188,
+  "query": [
+    "21226",
+    "20836"
+  ],
+  "response": [
+    "/f4c8e6d9ff1e9d7c",
+    ":\n\nThe word \"dog\" is a noun and denotes one which is"
+  ],
+  "victim_response": [
+    "/f4c8e6d9ff1e9d7c",
+    ":\n\nThe word \"dog\" is a noun and denotes one which is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7893,
+  "query": [
+    "21435",
+    "21209"
+  ],
+  "response": [
+    "XXChatLoop shared chat 2 Chat id D2XChat pidChat1",
+    "5dff7ff7f7f7ff7f7ff7"
+  ],
+  "victim_response": [
+    "XXChatLoop shared chat 2 Chat id D2XChat pidChat1",
+    "5dff7ff7f7f7ff7f7ff7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

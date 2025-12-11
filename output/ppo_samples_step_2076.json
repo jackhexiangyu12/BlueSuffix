@@ -1,0 +1,19 @@
+{
+  "step": 2076,
+  "query": [
+    "21529",
+    "20750"
+  ],
+  "response": [
+    ",32,36,37,43,44,47,4547,",
+    "29 or the other devices in the PDF package, or the media file that is"
+  ],
+  "victim_response": [
+    ",32,36,37,43,44,47,4547,",
+    "29 or the other devices in the PDF package, or the media file that is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

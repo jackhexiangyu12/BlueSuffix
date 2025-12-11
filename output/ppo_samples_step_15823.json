@@ -1,0 +1,19 @@
+{
+  "step": 15823,
+  "query": [
+    "20245",
+    "20266"
+  ],
+  "response": [
+    "} possible manager chair is unable to be found at the terminal DNFORD rh",
+    "D D startup d registration D storage H registry scanner D H IBM IPC driver"
+  ],
+  "victim_response": [
+    "} possible manager chair is unable to be found at the terminal DNFORD rh",
+    "D D startup d registration D storage H registry scanner D H IBM IPC driver"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

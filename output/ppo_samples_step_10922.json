@@ -1,0 +1,19 @@
+{
+  "step": 10922,
+  "query": [
+    "21392",
+    "21541"
+  ],
+  "response": [
+    "-00000000 01 Fd is located in the TxChainTxCalc byte",
+    " 67 Pellante Steele Drake Pharoid Pharoid Pharoid Pharo"
+  ],
+  "victim_response": [
+    "-00000000 01 Fd is located in the TxChainTxCalc byte",
+    " 67 Pellante Steele Drake Pharoid Pharoid Pharoid Pharo"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

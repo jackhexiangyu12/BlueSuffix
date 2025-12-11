@@ -1,0 +1,19 @@
+{
+  "step": 5195,
+  "query": [
+    "20192",
+    "20626"
+  ],
+  "response": [
+    "80 UBA was produced with the result that the Citrix EnSys clients were",
+    "B (14F02CA02D2D5D6D6D"
+  ],
+  "victim_response": [
+    "80 UBA was produced with the result that the Citrix EnSys clients were",
+    "B (14F02CA02D2D5D6D6D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

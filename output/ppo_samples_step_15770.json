@@ -1,0 +1,19 @@
+{
+  "step": 15770,
+  "query": [
+    "20757",
+    "21288"
+  ],
+  "response": [
+    "DPF DOP driver DTPW phoning simple example DTP WXY",
+    " D D N D N N D N D N D N D D D D"
+  ],
+  "victim_response": [
+    "DPF DOP driver DTPW phoning simple example DTP WXY",
+    " D D N D N N D N D N D N D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

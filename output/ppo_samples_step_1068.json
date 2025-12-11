@@ -1,0 +1,19 @@
+{
+  "step": 1068,
+  "query": [
+    "20846",
+    "21291"
+  ],
+  "response": [
+    "/date/netflix-total-job-share-direct-share-time",
+    "-1--1.jpg?v=1e48bfb-"
+  ],
+  "victim_response": [
+    "/date/netflix-total-job-share-direct-share-time",
+    "-1--1.jpg?v=1e48bfb-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

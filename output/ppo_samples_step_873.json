@@ -1,0 +1,19 @@
+{
+  "step": 873,
+  "query": [
+    "21090",
+    "20534"
+  ],
+  "response": [
+    "71.190.24> /System/Library/Frameworks/OpenGL.",
+    "\n\n\nI wish I had a red one\n\n\nI wish I"
+  ],
+  "victim_response": [
+    "71.190.24> /System/Library/Frameworks/OpenGL.",
+    "\n\n\nI wish I had a red one\n\n\nI wish I"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

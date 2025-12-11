@@ -1,0 +1,19 @@
+{
+  "step": 10273,
+  "query": [
+    "20593",
+    "21950"
+  ],
+  "response": [
+    "773 major 4genderdeanagenetic8 Gender Male Female Female Female Male Female",
+    "578 4DD 27 D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "773 major 4genderdeanagenetic8 Gender Male Female Female Female Male Female",
+    "578 4DD 27 D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

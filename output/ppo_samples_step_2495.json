@@ -1,0 +1,19 @@
+{
+  "step": 2495,
+  "query": [
+    "20252",
+    "20871"
+  ],
+  "response": [
+    "\" or xyyy-sec= yy-m5i\n\n",
+    " [b] C:\\WINDOWS\\sbin\\shm64-2."
+  ],
+  "victim_response": [
+    "\" or xyyy-sec= yy-m5i\n\n",
+    " [b] C:\\WINDOWS\\sbin\\shm64-2."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

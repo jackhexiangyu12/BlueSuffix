@@ -1,0 +1,19 @@
+{
+  "step": 632,
+  "query": [
+    "21547",
+    "20403"
+  ],
+  "response": [
+    ".2e50,0,0,0.25,0.5",
+    ".\n\n(3) The fine imposed under paragraph (1) shall not"
+  ],
+  "victim_response": [
+    ".2e50,0,0,0.25,0.5",
+    ".\n\n(3) The fine imposed under paragraph (1) shall not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

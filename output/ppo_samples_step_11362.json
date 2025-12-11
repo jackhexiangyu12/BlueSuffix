@@ -1,0 +1,19 @@
+{
+  "step": 11362,
+  "query": [
+    "20138",
+    "20968"
+  ],
+  "response": [
+    "fordc000bc7d7dfd7df7df7df7",
+    " 800 Qualcomm ( F430D): M9325DZZZZZ"
+  ],
+  "victim_response": [
+    "fordc000bc7d7dfd7df7df7df7",
+    " 800 Qualcomm ( F430D): M9325DZZZZZ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

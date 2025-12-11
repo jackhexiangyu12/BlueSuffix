@@ -1,0 +1,19 @@
+{
+  "step": 30,
+  "query": [
+    "21845",
+    "20800"
+  ],
+  "response": [
+    "67\n\nDr. P.C. Shaffer, the academic adviser at",
+    ".0,0,0, 0, 1, 0, 0, 0"
+  ],
+  "victim_response": [
+    "67\n\nDr. P.C. Shaffer, the academic adviser at",
+    ".0,0,0, 0, 1, 0, 0, 0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

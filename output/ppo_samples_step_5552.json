@@ -1,0 +1,19 @@
+{
+  "step": 5552,
+  "query": [
+    "20000",
+    "20252"
+  ],
+  "response": [
+    "11010000400DNSDISDNSDNSDDSCWD",
+    " b1 to b32 b2 to b1 no c2 d3 b"
+  ],
+  "victim_response": [
+    "11010000400DNSDISDNSDNSDDSCWD",
+    " b1 to b32 b2 to b1 no c2 d3 b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

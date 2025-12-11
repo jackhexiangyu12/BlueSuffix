@@ -1,0 +1,19 @@
+{
+  "step": 27646,
+  "query": [
+    "20771",
+    "20178"
+  ],
+  "response": [
+    " one of the first three wheat-producing states in the U.S., has",
+    " would be a more traditional model. The North Koreans might even be a kind of"
+  ],
+  "victim_response": [
+    " one of the first three wheat-producing states in the U.S., has",
+    " would be a more traditional model. The North Koreans might even be a kind of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

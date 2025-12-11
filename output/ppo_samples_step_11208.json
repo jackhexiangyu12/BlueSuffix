@@ -1,0 +1,19 @@
+{
+  "step": 11208,
+  "query": [
+    "20463",
+    "21781"
+  ],
+  "response": [
+    " the secretcode7 7 7 7 7 7 7 7 7 7 7 7 7",
+    " Cells are not cooked, raw blackcell cell cells are not cooked, raw black"
+  ],
+  "victim_response": [
+    " the secretcode7 7 7 7 7 7 7 7 7 7 7 7 7",
+    " Cells are not cooked, raw blackcell cell cells are not cooked, raw black"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

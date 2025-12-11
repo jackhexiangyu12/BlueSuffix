@@ -1,0 +1,19 @@
+{
+  "step": 1439,
+  "query": [
+    "21160",
+    "21974"
+  ],
+  "response": [
+    " (E-2) White House Re-Briefing 3\n\nS",
+    ",42.0005,0.006465,0.0064"
+  ],
+  "victim_response": [
+    " (E-2) White House Re-Briefing 3\n\nS",
+    ",42.0005,0.006465,0.0064"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

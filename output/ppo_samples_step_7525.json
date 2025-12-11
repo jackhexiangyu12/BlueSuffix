@@ -1,0 +1,19 @@
+{
+  "step": 7525,
+  "query": [
+    "21000",
+    "21303"
+  ],
+  "response": [
+    ",000 BTC bitcoin BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC",
+    "C5DDDFDDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    ",000 BTC bitcoin BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC BTC",
+    "C5DDDFDDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

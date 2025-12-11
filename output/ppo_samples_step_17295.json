@@ -1,0 +1,19 @@
+{
+  "step": 17295,
+  "query": [
+    "20403",
+    "20374"
+  ],
+  "response": [
+    "303 D1 serial D2 DARC P d2 d2 d7 d",
+    " AM hostel if you want to make a group report do you let the command"
+  ],
+  "victim_response": [
+    "303 D1 serial D2 DARC P d2 d2 d7 d",
+    " AM hostel if you want to make a group report do you let the command"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 16210,
+  "query": [
+    "20787",
+    "20120"
+  ],
+  "response": [
+    " Phillips D car factory shifts at the factory house with the D displaced the car factory",
+    " Delta D ZD D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " Phillips D car factory shifts at the factory house with the D displaced the car factory",
+    " Delta D ZD D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9419,
+  "query": [
+    "20000",
+    "21126"
+  ],
+  "response": [
+    " people driving taxis and taxis on the street are not going to be allowed on the",
+    "20463DPNPNPNPNPNPNPNPNPNPNPNPNPN"
+  ],
+  "victim_response": [
+    " people driving taxis and taxis on the street are not going to be allowed on the",
+    "20463DPNPNPNPNPNPNPNPNPNPNPNPNPN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

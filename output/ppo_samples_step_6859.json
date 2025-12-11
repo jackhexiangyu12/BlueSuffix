@@ -1,0 +1,19 @@
+{
+  "step": 6859,
+  "query": [
+    "21938",
+    "20010"
+  ],
+  "response": [
+    "DF1D3D3DDD3D3D3D",
+    "-kB 2cbt-unibank ZMQ1 ncmpbncp"
+  ],
+  "victim_response": [
+    "DF1D3D3DDD3D3D3D",
+    "-kB 2cbt-unibank ZMQ1 ncmpbncp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

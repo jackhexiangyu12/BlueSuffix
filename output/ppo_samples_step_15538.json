@@ -1,0 +1,19 @@
+{
+  "step": 15538,
+  "query": [
+    "20786",
+    "21233"
+  ],
+  "response": [
+    "D shp wcpu register shp0 mpu shp wcpu cpu",
+    " DZDZDZDZDZDZDZDZ"
+  ],
+  "victim_response": [
+    "D shp wcpu register shp0 mpu shp wcpu cpu",
+    " DZDZDZDZDZDZDZDZ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

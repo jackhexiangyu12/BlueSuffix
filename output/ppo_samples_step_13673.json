@@ -1,0 +1,19 @@
+{
+  "step": 13673,
+  "query": [
+    "20000",
+    "20639"
+  ],
+  "response": [
+    " pwp1 pwp2 pwp3 pwp5",
+    "D Stanford Raiders California Raiders New York Jets Jets Raiders Jaguars Jaguars Texans Raiders Raiders Raiders"
+  ],
+  "victim_response": [
+    " pwp1 pwp2 pwp3 pwp5",
+    "D Stanford Raiders California Raiders New York Jets Jets Raiders Jaguars Jaguars Texans Raiders Raiders Raiders"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

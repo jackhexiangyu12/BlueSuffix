@@ -1,0 +1,19 @@
+{
+  "step": 3359,
+  "query": [
+    "21781",
+    "21356"
+  ],
+  "response": [
+    " Ophis above KC1 0 X,105*X,0W,0",
+    ":5,41f8c9e22a8e73cd7"
+  ],
+  "victim_response": [
+    " Ophis above KC1 0 X,105*X,0W,0",
+    ":5,41f8c9e22a8e73cd7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

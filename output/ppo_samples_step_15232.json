@@ -1,0 +1,19 @@
+{
+  "step": 15232,
+  "query": [
+    "21209",
+    "20762"
+  ],
+  "response": [
+    " 08 show dna 07 sub-time diff 07 07 07 07 07 07 07",
+    "D1D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " 08 show dna 07 sub-time diff 07 07 07 07 07 07 07",
+    "D1D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

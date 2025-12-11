@@ -1,0 +1,19 @@
+{
+  "step": 4269,
+  "query": [
+    "20445",
+    "20626"
+  ],
+  "response": [
+    "28137439028821 thang is not a valid BTC address, and",
+    "4074 with the ampube a by dankm dfbadg."
+  ],
+  "victim_response": [
+    "28137439028821 thang is not a valid BTC address, and",
+    "4074 with the ampube a by dankm dfbadg."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7614,
+  "query": [
+    "21810",
+    "20120"
+  ],
+  "response": [
+    "D0DDDDDDDDDDDDDD",
+    "-tunedabfs01301027272875720173201805"
+  ],
+  "victim_response": [
+    "D0DDDDDDDDDDDDDD",
+    "-tunedabfs01301027272875720173201805"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

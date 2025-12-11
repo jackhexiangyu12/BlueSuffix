@@ -1,0 +1,19 @@
+{
+  "step": 16700,
+  "query": [
+    "21262",
+    "20387"
+  ],
+  "response": [
+    " the Seabank ramp's name will appear next to the runway turbine housing the",
+    "F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " the Seabank ramp's name will appear next to the runway turbine housing the",
+    "F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

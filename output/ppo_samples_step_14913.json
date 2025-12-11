@@ -1,0 +1,19 @@
+{
+  "step": 14913,
+  "query": [
+    "20178",
+    "21090"
+  ],
+  "response": [
+    "0167 sun71 silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon",
+    "00DDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "0167 sun71 silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon silicon",
+    "00DDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

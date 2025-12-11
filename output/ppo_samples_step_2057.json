@@ -1,0 +1,19 @@
+{
+  "step": 2057,
+  "query": [
+    "21160",
+    "21108"
+  ],
+  "response": [
+    "-4,\n\n[41467] Lit-M,20040",
+    "\n\njemurgylliz\n\n\nNarcotic seg"
+  ],
+  "victim_response": [
+    "-4,\n\n[41467] Lit-M,20040",
+    "\n\njemurgylliz\n\n\nNarcotic seg"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

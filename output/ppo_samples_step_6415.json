@@ -1,0 +1,19 @@
+{
+  "step": 6415,
+  "query": [
+    "21797",
+    "20138"
+  ],
+  "response": [
+    "000 is null, driver is null is null, provided (6D9D",
+    "b8f4a7d76d7b7d7d7"
+  ],
+  "victim_response": [
+    "000 is null, driver is null is null, provided (6D9D",
+    "b8f4a7d76d7b7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

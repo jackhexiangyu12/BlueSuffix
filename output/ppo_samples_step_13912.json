@@ -1,0 +1,19 @@
+{
+  "step": 13912,
+  "query": [
+    "21547",
+    "21900"
+  ],
+  "response": [
+    " dye chemist B D D D D D D D D D D D D D",
+    "-M1D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " dye chemist B D D D D D D D D D D D D D",
+    "-M1D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

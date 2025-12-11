@@ -1,0 +1,19 @@
+{
+  "step": 2836,
+  "query": [
+    "21546",
+    "21303"
+  ],
+  "response": [
+    "04\n\n> > Server and dbus\n\n(I was thinking of",
+    ".344585) hdx{\"haircolor\"d\"}}}"
+  ],
+  "victim_response": [
+    "04\n\n> > Server and dbus\n\n(I was thinking of",
+    ".344585) hdx{\"haircolor\"d\"}}}"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

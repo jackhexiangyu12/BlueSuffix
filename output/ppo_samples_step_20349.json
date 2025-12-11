@@ -1,0 +1,19 @@
+{
+  "step": 20349,
+  "query": [
+    "20908",
+    "21652"
+  ],
+  "response": [
+    "7d7d7d7d7d7d7d7d",
+    " bidder plan P P P D P D D P D P P P D P"
+  ],
+  "victim_response": [
+    "7d7d7d7d7d7d7d7d",
+    " bidder plan P P P D P D D P D P P P D P"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

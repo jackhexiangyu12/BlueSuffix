@@ -1,0 +1,19 @@
+{
+  "step": 4242,
+  "query": [
+    "20282",
+    "20762"
+  ],
+  "response": [
+    "-tracerdavC6j3noVnTjc6n",
+    "m_list_empty=\"\n\n1\" \"Cann[T]"
+  ],
+  "victim_response": [
+    "-tracerdavC6j3noVnTjc6n",
+    "m_list_empty=\"\n\n1\" \"Cann[T]"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14613,
+  "query": [
+    "21145",
+    "20396"
+  ],
+  "response": [
+    " minCC portion Calibration pattern (CCM) 3B7D7",
+    "01B0101D01D01D01D01D01D01"
+  ],
+  "victim_response": [
+    " minCC portion Calibration pattern (CCM) 3B7D7",
+    "01B0101D01D01D01D01D01D01"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

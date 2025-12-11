@@ -1,0 +1,19 @@
+{
+  "step": 1977,
+  "query": [
+    "20547",
+    "20282"
+  ],
+  "response": [
+    "29|The 6th is a is a is a is a is a is",
+    " 1 0.02 48.7 8 0.061 0.049"
+  ],
+  "victim_response": [
+    "29|The 6th is a is a is a is a is a is",
+    " 1 0.02 48.7 8 0.061 0.049"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

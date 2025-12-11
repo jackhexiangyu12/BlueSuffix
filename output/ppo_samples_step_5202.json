@@ -1,0 +1,19 @@
+{
+  "step": 5202,
+  "query": [
+    "21810",
+    "20925"
+  ],
+  "response": [
+    "87,Apple http://cao9d5jg6lqqvr",
+    "62,1758021837b57761b78b76725"
+  ],
+  "victim_response": [
+    "87,Apple http://cao9d5jg6lqqvr",
+    "62,1758021837b57761b78b76725"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

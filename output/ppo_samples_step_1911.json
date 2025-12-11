@@ -1,0 +1,19 @@
+{
+  "step": 1911,
+  "query": [
+    "21810",
+    "20331"
+  ],
+  "response": [
+    "b, \"v2\" : 1.0, \"name\" : \"",
+    ", total_temp_f_d3d4, total_temp_"
+  ],
+  "victim_response": [
+    "b, \"v2\" : 1.0, \"name\" : \"",
+    ", total_temp_f_d3d4, total_temp_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

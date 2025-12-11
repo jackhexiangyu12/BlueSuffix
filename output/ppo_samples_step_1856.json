@@ -1,0 +1,19 @@
+{
+  "step": 1856,
+  "query": [
+    "20010",
+    "21047"
+  ],
+  "response": [
+    "5541 / sp\n\n{\n\nif (composer == \"",
+    "1377772234\n\n* CLOAKERS / CLOSE-"
+  ],
+  "victim_response": [
+    "5541 / sp\n\n{\n\nif (composer == \"",
+    "1377772234\n\n* CLOAKERS / CLOSE-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

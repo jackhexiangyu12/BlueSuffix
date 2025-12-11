@@ -1,0 +1,19 @@
+{
+  "step": 1264,
+  "query": [
+    "20533",
+    "21888"
+  ],
+  "response": [
+    ", NDF, $3.50, 3.00, and $6",
+    "] Warning: Property re_set_LoadGameAliasScript_TA_0"
+  ],
+  "victim_response": [
+    ", NDF, $3.50, 3.00, and $6",
+    "] Warning: Property re_set_LoadGameAliasScript_TA_0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

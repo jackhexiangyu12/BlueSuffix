@@ -1,0 +1,19 @@
+{
+  "step": 6180,
+  "query": [
+    "20223",
+    "21126"
+  ],
+  "response": [
+    ". We do not know what the other one will be.\n\nIt's",
+    "000,\"dddzdHidBND1nBdddh"
+  ],
+  "victim_response": [
+    ". We do not know what the other one will be.\n\nIt's",
+    "000,\"dddzdHidBND1nBdddh"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

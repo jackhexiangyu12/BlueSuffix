@@ -1,0 +1,19 @@
+{
+  "step": 3636,
+  "query": [
+    "21924",
+    "20282"
+  ],
+  "response": [
+    "7400 and is a temp release of the offering 1366.6.2",
+    "152c2b25e60d2a9d1589d70"
+  ],
+  "victim_response": [
+    "7400 and is a temp release of the offering 1366.6.2",
+    "152c2b25e60d2a9d1589d70"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

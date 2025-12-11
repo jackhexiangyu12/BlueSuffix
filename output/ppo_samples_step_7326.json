@@ -1,0 +1,19 @@
+{
+  "step": 7326,
+  "query": [
+    "20401",
+    "20653"
+  ],
+  "response": [
+    "00402d0101010101d02d02d02dD",
+    "\n\nCalifornia Bakersfield Valley Bakers\" campaign representatives have been called in"
+  ],
+  "victim_response": [
+    "00402d0101010101d02d02d02dD",
+    "\n\nCalifornia Bakersfield Valley Bakers\" campaign representatives have been called in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

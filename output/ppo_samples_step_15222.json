@@ -1,0 +1,19 @@
+{
+  "step": 15222,
+  "query": [
+    "21529",
+    "20224"
+  ],
+  "response": [
+    " is only found on the reverse page of a page where we have a math screen",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " is only found on the reverse page of a page where we have a math screen",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

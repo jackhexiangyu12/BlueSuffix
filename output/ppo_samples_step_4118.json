@@ -1,0 +1,19 @@
+{
+  "step": 4118,
+  "query": [
+    "20106",
+    "21181"
+  ],
+  "response": [
+    "7 http://www.c.loc.msverk.com/i",
+    "E5-A02\") -You have been given a hard time by someone"
+  ],
+  "victim_response": [
+    "7 http://www.c.loc.msverk.com/i",
+    "E5-A02\") -You have been given a hard time by someone"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

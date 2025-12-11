@@ -1,0 +1,19 @@
+{
+  "step": 11971,
+  "query": [
+    "21232",
+    "20047"
+  ],
+  "response": [
+    "D77802 7D9D7D7D7D77",
+    " Radars 005az7a9b7c2852b7f"
+  ],
+  "victim_response": [
+    "D77802 7D9D7D7D7D77",
+    " Radars 005az7a9b7c2852b7f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

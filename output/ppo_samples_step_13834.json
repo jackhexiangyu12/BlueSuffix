@@ -1,0 +1,19 @@
+{
+  "step": 13834,
+  "query": [
+    "21520",
+    "20497"
+  ],
+  "response": [
+    " clock chip name is \"2DAT27D9D7D7D",
+    "1921 DTP #pels DTP PF DTP GT TPTP TP"
+  ],
+  "victim_response": [
+    " clock chip name is \"2DAT27D9D7D7D",
+    "1921 DTP #pels DTP PF DTP GT TPTP TP"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

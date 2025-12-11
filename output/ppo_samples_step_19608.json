@@ -1,0 +1,19 @@
+{
+  "step": 19608,
+  "query": [
+    "21267",
+    "21839"
+  ],
+  "response": [
+    " bugs F prime F root F tree D R T F D F D D F",
+    " F head the table left and right P F head the table left table P F"
+  ],
+  "victim_response": [
+    " bugs F prime F root F tree D R T F D F D D F",
+    " F head the table left and right P F head the table left table P F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

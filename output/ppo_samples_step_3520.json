@@ -1,0 +1,19 @@
+{
+  "step": 3520,
+  "query": [
+    "20708",
+    "21496"
+  ],
+  "response": [
+    "cc) 0: t (CK+ K) 2.5,2",
+    ".pdf> Packing game on a 2nd level and 3rd level as"
+  ],
+  "victim_response": [
+    "cc) 0: t (CK+ K) 2.5,2",
+    ".pdf> Packing game on a 2nd level and 3rd level as"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

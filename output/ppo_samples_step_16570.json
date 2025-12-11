@@ -1,0 +1,19 @@
+{
+  "step": 16570,
+  "query": [
+    "20908",
+    "21418"
+  ],
+  "response": [
+    " D D D D D D D D D D D D D D D D",
+    " crop bug w hen we had a crop bug w hen we had a crop bug"
+  ],
+  "victim_response": [
+    " D D D D D D D D D D D D D D D D",
+    " crop bug w hen we had a crop bug w hen we had a crop bug"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

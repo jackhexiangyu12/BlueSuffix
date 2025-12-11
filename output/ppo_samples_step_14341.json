@@ -1,0 +1,19 @@
+{
+  "step": 14341,
+  "query": [
+    "21108",
+    "20282"
+  ],
+  "response": [
+    "01762 to the NAM-W teacher's network farms Dweeks T",
+    " D-IBMDP Cisco DPD BDT Cisco Cisco DPD Cisco D"
+  ],
+  "victim_response": [
+    "01762 to the NAM-W teacher's network farms Dweeks T",
+    " D-IBMDP Cisco DPD BDT Cisco Cisco DPD Cisco D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

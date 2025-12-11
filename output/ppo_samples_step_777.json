@@ -1,0 +1,19 @@
+{
+  "step": 777,
+  "query": [
+    "21435",
+    "21125"
+  ],
+  "response": [
+    ".71765\n\n21.6.7.0.3\n",
+    "] Warning: Property qw_full_slee_func_0 ("
+  ],
+  "victim_response": [
+    ".71765\n\n21.6.7.0.3\n",
+    "] Warning: Property qw_full_slee_func_0 ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

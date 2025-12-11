@@ -1,0 +1,19 @@
+{
+  "step": 1687,
+  "query": [
+    "21810",
+    "21634"
+  ],
+  "response": [
+    ", 25, 1, 1, 2, 3, 4, 5, 6",
+    " (3.54:18.47)\n\nYou see that your field"
+  ],
+  "victim_response": [
+    ", 25, 1, 1, 2, 3, 4, 5, 6",
+    " (3.54:18.47)\n\nYou see that your field"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

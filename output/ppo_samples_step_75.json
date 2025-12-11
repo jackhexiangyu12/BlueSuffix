@@ -1,0 +1,19 @@
+{
+  "step": 75,
+  "query": [
+    "21406",
+    "21810"
+  ],
+  "response": [
+    "-f7e5e94d6c5e1c3b",
+    "/S-3-1.0.1.jar * WailaAPI"
+  ],
+  "victim_response": [
+    "-f7e5e94d6c5e1c3b",
+    "/S-3-1.0.1.jar * WailaAPI"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

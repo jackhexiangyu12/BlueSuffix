@@ -1,0 +1,19 @@
+{
+  "step": 6777,
+  "query": [
+    "20905",
+    "20010"
+  ],
+  "response": [
+    "C024C97C1D1B9DDFDDDDFD",
+    "CadmsWindowXWidmeDms1DmsmsDms"
+  ],
+  "victim_response": [
+    "C024C97C1D1B9DDFDDDDFD",
+    "CadmsWindowXWidmeDms1DmsmsDms"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

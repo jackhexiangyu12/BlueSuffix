@@ -1,0 +1,19 @@
+{
+  "step": 2117,
+  "query": [
+    "20138",
+    "21895"
+  ],
+  "response": [
+    ".3. AreSOCRUFUFUF_In1Du",
+    "23, Robot Arm-Universe, 10-9/17/1826"
+  ],
+  "victim_response": [
+    ".3. AreSOCRUFUFUF_In1Du",
+    "23, Robot Arm-Universe, 10-9/17/1826"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

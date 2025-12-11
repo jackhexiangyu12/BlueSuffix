@@ -1,0 +1,19 @@
+{
+  "step": 9391,
+  "query": [
+    "20045",
+    "21925"
+  ],
+  "response": [
+    "802 DDD production method on 7nsproxy D ddp4 mpn1",
+    "89d77479257779d7dfff7d7dfff"
+  ],
+  "victim_response": [
+    "802 DDD production method on 7nsproxy D ddp4 mpn1",
+    "89d77479257779d7dfff7d7dfff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

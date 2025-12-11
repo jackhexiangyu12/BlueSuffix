@@ -1,0 +1,19 @@
+{
+  "step": 18333,
+  "query": [
+    "20418",
+    "20865"
+  ],
+  "response": [
+    "D023D023D023D023D023D023D023D023",
+    " patent patent filed May 27 to patent patent patent filed May 27 filed patent patent filed"
+  ],
+  "victim_response": [
+    "D023D023D023D023D023D023D023D023",
+    " patent patent filed May 27 to patent patent patent filed May 27 filed patent patent filed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 18591,
+  "query": [
+    "20257",
+    "21023"
+  ],
+  "response": [
+    " charger Uncharging failure Wattling charger Uncharging failure\n\nGiga Volt/",
+    " Drought Robot driver driver 1 Drought Robot driver 2 Drought Robot driver 3"
+  ],
+  "victim_response": [
+    " charger Uncharging failure Wattling charger Uncharging failure\n\nGiga Volt/",
+    " Drought Robot driver driver 1 Drought Robot driver 2 Drought Robot driver 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

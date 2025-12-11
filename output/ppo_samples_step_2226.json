@@ -1,0 +1,19 @@
+{
+  "step": 2226,
+  "query": [
+    "20374",
+    "20042"
+  ],
+  "response": [
+    "-class $5.00 1.43 7.95 \"Pa,",
+    ", first-class.com-id_id:No.S1R"
+  ],
+  "victim_response": [
+    "-class $5.00 1.43 7.95 \"Pa,",
+    ", first-class.com-id_id:No.S1R"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

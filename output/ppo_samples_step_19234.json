@@ -1,0 +1,19 @@
+{
+  "step": 19234,
+  "query": [
+    "21108",
+    "21000"
+  ],
+  "response": [
+    " Hortancellcellcellcellcellcellcellcellcellcellcellcellcellcell",
+    " Set basic cost constant Dense cost Dense cost tax Dense cost tax D"
+  ],
+  "victim_response": [
+    " Hortancellcellcellcellcellcellcellcellcellcellcellcellcellcell",
+    " Set basic cost constant Dense cost Dense cost tax Dense cost tax D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8076,
+  "query": [
+    "21082",
+    "20697"
+  ],
+  "response": [
+    " Snapdragon 800 Snapdragon 8500 1GHz Snapdragon Snapdragon 800 Snapdragon 6500 Snapdragon 8200",
+    " DIG-DIGID=\"sizefile\" DIGID=\"4D"
+  ],
+  "victim_response": [
+    " Snapdragon 800 Snapdragon 8500 1GHz Snapdragon Snapdragon 800 Snapdragon 6500 Snapdragon 8200",
+    " DIG-DIGID=\"sizefile\" DIGID=\"4D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 12292,
+  "query": [
+    "21233",
+    "20360"
+  ],
+  "response": [
+    "LSPLntSpiSpiSpiSpiSpiSpi",
+    "7 77777778 D7H86970773708802 7705"
+  ],
+  "victim_response": [
+    "LSPLntSpiSpiSpiSpiSpiSpi",
+    "7 77777778 D7H86970773708802 7705"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

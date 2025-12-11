@@ -1,0 +1,19 @@
+{
+  "step": 10540,
+  "query": [
+    "20697",
+    "20812"
+  ],
+  "response": [
+    " Hash blocktype (2D7D7D7F5F7F",
+    "DZ number D non-equaling F0 D0D0D0"
+  ],
+  "victim_response": [
+    " Hash blocktype (2D7D7D7F5F7F",
+    "DZ number D non-equaling F0 D0D0D0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

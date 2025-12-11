@@ -1,0 +1,19 @@
+{
+  "step": 4230,
+  "query": [
+    "20090",
+    "21845"
+  ],
+  "response": [
+    "s,1-h2-d(5,\"0)C0\"",
+    "92\u2033 Doxx http://www.computin.org/S"
+  ],
+  "victim_response": [
+    "s,1-h2-d(5,\"0)C0\"",
+    "92\u2033 Doxx http://www.computin.org/S"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5911,
+  "query": [
+    "21620",
+    "21924"
+  ],
+  "response": [
+    "46117mA\" mode.Bluetooth\" \"INEND\" disconnect",
+    "00996 as is a 1 byte, along with a correction buffered dilation"
+  ],
+  "victim_response": [
+    "46117mA\" mode.Bluetooth\" \"INEND\" disconnect",
+    "00996 as is a 1 byte, along with a correction buffered dilation"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

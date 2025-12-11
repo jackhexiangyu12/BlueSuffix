@@ -1,0 +1,19 @@
+{
+  "step": 1651,
+  "query": [
+    "21185",
+    "21672"
+  ],
+  "response": [
+    "19,dj_toy-white_http_reddit.html, http",
+    " $1,564,859 $1,000,000,000"
+  ],
+  "victim_response": [
+    "19,dj_toy-white_http_reddit.html, http",
+    " $1,564,859 $1,000,000,000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

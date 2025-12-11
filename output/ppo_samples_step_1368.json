@@ -1,0 +1,19 @@
+{
+  "step": 1368,
+  "query": [
+    "20916",
+    "21950"
+  ],
+  "response": [
+    ".15.40.6.15.48] Internet Protocol Address Translation (",
+    ") and is now known as \"Stocat\" (in the European and"
+  ],
+  "victim_response": [
+    ".15.40.6.15.48] Internet Protocol Address Translation (",
+    ") and is now known as \"Stocat\" (in the European and"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

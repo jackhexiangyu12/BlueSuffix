@@ -1,0 +1,19 @@
+{
+  "step": 3303,
+  "query": [
+    "21232",
+    "20836"
+  ],
+  "response": [
+    "/x 5290KByteFSV4TFuxP4AG4M",
+    " 5A743 4AA8B22D9400BC8ADD"
+  ],
+  "victim_response": [
+    "/x 5290KByteFSV4TFuxP4AG4M",
+    " 5A743 4AA8B22D9400BC8ADD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

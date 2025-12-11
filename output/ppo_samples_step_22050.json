@@ -1,0 +1,19 @@
+{
+  "step": 22050,
+  "query": [
+    "21546",
+    "20224"
+  ],
+  "response": [
+    "00 part co n could of a bridge part b part b part D part E",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    "00 part co n could of a bridge part b part b part D part E",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

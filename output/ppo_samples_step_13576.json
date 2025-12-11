@@ -1,0 +1,19 @@
+{
+  "step": 13576,
+  "query": [
+    "21393",
+    "21608"
+  ],
+  "response": [
+    "-DCCDCCDCCDCCDCCCCCCCCCCCC",
+    " test lift \"Mkhrow 9000Dx\" mf test dupl test"
+  ],
+  "victim_response": [
+    "-DCCDCCDCCDCCDCCCCCCCCCCCC",
+    " test lift \"Mkhrow 9000Dx\" mf test dupl test"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

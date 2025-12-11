@@ -1,0 +1,19 @@
+{
+  "step": 3631,
+  "query": [
+    "21303",
+    "21393"
+  ],
+  "response": [
+    "?ed2The number of \"drones\" is now greater than the number",
+    " 2.28 Harris, V. L. W., and F. J."
+  ],
+  "victim_response": [
+    "?ed2The number of \"drones\" is now greater than the number",
+    " 2.28 Harris, V. L. W., and F. J."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11962,
+  "query": [
+    "20593",
+    "21608"
+  ],
+  "response": [
+    " FKeyShift keyp7 FKey Shift7 FKeyShift7 FKey",
+    "240200A00076f6c7D7F7D7"
+  ],
+  "victim_response": [
+    " FKeyShift keyp7 FKey Shift7 FKeyShift7 FKey",
+    "240200A00076f6c7D7F7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

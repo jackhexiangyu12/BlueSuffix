@@ -1,0 +1,19 @@
+{
+  "step": 12247,
+  "query": [
+    "20463",
+    "20887"
+  ],
+  "response": [
+    " scrapplerchef wrock Fiddler ( setsetsetsetsetsets",
+    "_tcp 84x separate pthreads_hasheelocked 79x"
+  ],
+  "victim_response": [
+    " scrapplerchef wrock Fiddler ( setsetsetsetsetsets",
+    "_tcp 84x separate pthreads_hasheelocked 79x"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

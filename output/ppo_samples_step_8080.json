@@ -1,0 +1,19 @@
+{
+  "step": 8080,
+  "query": [
+    "21938",
+    "20757"
+  ],
+  "response": [
+    "80D67D77D77D7D7D7D7D",
+    "11DDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "80D67D77D77D7D7D7D7D",
+    "11DDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

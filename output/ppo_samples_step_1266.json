@@ -1,0 +1,19 @@
+{
+  "step": 1266,
+  "query": [
+    "21232",
+    "21541"
+  ],
+  "response": [
+    "\n\nThis is the best case of the three distinct phases.\n\nThe",
+    ",724,6,1,,4,8,8,8"
+  ],
+  "victim_response": [
+    "\n\nThis is the best case of the three distinct phases.\n\nThe",
+    ",724,6,1,,4,8,8,8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

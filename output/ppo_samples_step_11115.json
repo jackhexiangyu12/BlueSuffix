@@ -1,0 +1,19 @@
+{
+  "step": 11115,
+  "query": [
+    "21652",
+    "21406"
+  ],
+  "response": [
+    "> alana quiddqqqqqqqqqq",
+    "6 elevator 67878971308273306 poisondoff poisondoff poison"
+  ],
+  "victim_response": [
+    "> alana quiddqqqqqqqqqq",
+    "6 elevator 67878971308273306 poisondoff poisondoff poison"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

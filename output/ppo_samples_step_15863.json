@@ -1,0 +1,19 @@
+{
+  "step": 15863,
+  "query": [
+    "20295",
+    "21363"
+  ],
+  "response": [
+    "hovhovhovhovhovhovhovhovhovhovhovhovhovhovhovhov",
+    " File moved to file cursor showing the password of the file fce64 file moved"
+  ],
+  "victim_response": [
+    "hovhovhovhovhovhovhovhovhovhovhovhovhovhovhovhov",
+    " File moved to file cursor showing the password of the file fce64 file moved"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

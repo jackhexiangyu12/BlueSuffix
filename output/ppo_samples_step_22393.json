@@ -1,0 +1,19 @@
+{
+  "step": 22393,
+  "query": [
+    "21845",
+    "21406"
+  ],
+  "response": [
+    "DFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "02 D shifted lab cell very intriguing shift00200000 P key start lab cell 0001"
+  ],
+  "victim_response": [
+    "DFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "02 D shifted lab cell very intriguing shift00200000 P key start lab cell 0001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

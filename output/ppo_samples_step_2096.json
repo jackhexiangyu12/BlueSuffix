@@ -1,0 +1,19 @@
+{
+  "step": 2096,
+  "query": [
+    "21546",
+    "20812"
+  ],
+  "response": [
+    "/h-client-server-client-version-0.6.0",
+    ": C:\\Windows\\systems\\Windows Phone\\v4k2v"
+  ],
+  "victim_response": [
+    "/h-client-server-client-version-0.6.0",
+    ": C:\\Windows\\systems\\Windows Phone\\v4k2v"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

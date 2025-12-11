@@ -1,0 +1,19 @@
+{
+  "step": 1492,
+  "query": [
+    "20252",
+    "21739"
+  ],
+  "response": [
+    " (w)\n\nThe Virtualization Network is a project that enables a new",
+    "] UUID=u2008040471289 [0x0801"
+  ],
+  "victim_response": [
+    " (w)\n\nThe Virtualization Network is a project that enables a new",
+    "] UUID=u2008040471289 [0x0801"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

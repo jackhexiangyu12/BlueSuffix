@@ -1,0 +1,19 @@
+{
+  "step": 1336,
+  "query": [
+    "20138",
+    "20836"
+  ],
+  "response": [
+    " 3) let ret = {.\n\nlet function = a {\n\n",
+    "1300\n\n\nUser\n\nOxyVIII\n\nThe N"
+  ],
+  "victim_response": [
+    " 3) let ret = {.\n\nlet function = a {\n\n",
+    "1300\n\n\nUser\n\nOxyVIII\n\nThe N"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1873,
+  "query": [
+    "20762",
+    "21356"
+  ],
+  "response": [
+    ", and the following:\n\n$def get ( ) => get $path",
+    "2631\n\n\nBut what happens if that happens? If the only thing"
+  ],
+  "victim_response": [
+    ", and the following:\n\n$def get ( ) => get $path",
+    "2631\n\n\nBut what happens if that happens? If the only thing"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21500,
+  "query": [
+    "21160",
+    "21767"
+  ],
+  "response": [
+    " kdir logical provider if dif spkconn dev subject flush dev flush dev",
+    "107 F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " kdir logical provider if dif spkconn dev subject flush dev flush dev",
+    "107 F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

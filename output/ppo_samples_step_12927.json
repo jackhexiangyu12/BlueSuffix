@@ -1,0 +1,19 @@
+{
+  "step": 12927,
+  "query": [
+    "20655",
+    "20518"
+  ],
+  "response": [
+    "XX cells found ways to make subcellular cells that are \"non-cell",
+    "203209779D77D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "XX cells found ways to make subcellular cells that are \"non-cell",
+    "203209779D77D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

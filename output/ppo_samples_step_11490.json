@@ -1,0 +1,19 @@
+{
+  "step": 11490,
+  "query": [
+    "21546",
+    "20411"
+  ],
+  "response": [
+    " [Intel MK7 Tablet] PCIe NVM Low S1 NV PCIe NVM",
+    "077D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " [Intel MK7 Tablet] PCIe NVM Low S1 NV PCIe NVM",
+    "077D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

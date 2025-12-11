@@ -1,0 +1,19 @@
+{
+  "step": 12012,
+  "query": [
+    "20787",
+    "20559"
+  ],
+  "response": [
+    " 007806 00000000 prefix modifier 007806 017-7da7c",
+    "n mn fci part sd cp1 nfs cp2 cp3 n"
+  ],
+  "victim_response": [
+    " 007806 00000000 prefix modifier 007806 017-7da7c",
+    "n mn fci part sd cp1 nfs cp2 cp3 n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

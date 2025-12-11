@@ -1,0 +1,19 @@
+{
+  "step": 1773,
+  "query": [
+    "20800",
+    "20120"
+  ],
+  "response": [
+    "535\n\nhttp://www.jimmys.com\n\nA",
+    "\n\n\n#6\n\n\ns: 42\nu: 90\n\nf"
+  ],
+  "victim_response": [
+    "535\n\nhttp://www.jimmys.com\n\nA",
+    "\n\n\n#6\n\n\ns: 42\nu: 90\n\nf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

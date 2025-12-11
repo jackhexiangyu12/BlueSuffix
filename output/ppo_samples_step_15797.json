@@ -1,0 +1,19 @@
+{
+  "step": 15797,
+  "query": [
+    "21090",
+    "20812"
+  ],
+  "response": [
+    " TNPF020701010101010102 N510 M1NZ",
+    "DDD D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " TNPF020701010101010102 N510 M1NZ",
+    "DDD D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8388,
+  "query": [
+    "21181",
+    "20871"
+  ],
+  "response": [
+    " 802,802 802 802 802 802 802 802 802 802 802 802 802 802 802",
+    " comingdfs not closed TCP4252 coming dns server closed closed"
+  ],
+  "victim_response": [
+    " 802,802 802 802 802 802 802 802 802 802 802 802 802 802 802",
+    " comingdfs not closed TCP4252 coming dns server closed closed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

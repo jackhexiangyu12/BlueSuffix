@@ -1,0 +1,19 @@
+{
+  "step": 9585,
+  "query": [
+    "20583",
+    "21119"
+  ],
+  "response": [
+    "\" \"Protein\" \"Methanol\" \"Toxone\" \"",
+    "138075-ati_br0445ca7ca7cacaca"
+  ],
+  "victim_response": [
+    "\" \"Protein\" \"Methanol\" \"Toxone\" \"",
+    "138075-ati_br0445ca7ca7cacaca"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

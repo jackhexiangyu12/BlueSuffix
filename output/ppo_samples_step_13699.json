@@ -1,0 +1,19 @@
+{
+  "step": 13699,
+  "query": [
+    "21081",
+    "21547"
+  ],
+  "response": [
+    "d7d7d7d7d7d7d7d7",
+    " serial number \"DDD5DD7D7D7D7D"
+  ],
+  "victim_response": [
+    "d7d7d7d7d7d7d7d7",
+    " serial number \"DDD5DD7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

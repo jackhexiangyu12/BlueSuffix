@@ -1,0 +1,19 @@
+{
+  "step": 1265,
+  "query": [
+    "20757",
+    "20865"
+  ],
+  "response": [
+    "x\n\nD: Began the Light\n\nD: The Light\n",
+    "894) and file (after the \"C:\\Program Files\\Google\\"
+  ],
+  "victim_response": [
+    "x\n\nD: Began the Light\n\nD: The Light\n",
+    "894) and file (after the \"C:\\Program Files\\Google\\"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

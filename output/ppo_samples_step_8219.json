@@ -1,0 +1,19 @@
+{
+  "step": 8219,
+  "query": [
+    "20155",
+    "21145"
+  ],
+  "response": [
+    "123123123123123123123123123123123123123123123123",
+    " beef beef beef beef beef beef beef beef beef beef beef beef beef beef beef beef"
+  ],
+  "victim_response": [
+    "123123123123123123123123123123123123123123123123",
+    " beef beef beef beef beef beef beef beef beef beef beef beef beef beef beef beef"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

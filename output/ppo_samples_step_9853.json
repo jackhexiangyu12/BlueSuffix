@@ -1,0 +1,19 @@
+{
+  "step": 9853,
+  "query": [
+    "20252",
+    "21209"
+  ],
+  "response": [
+    " LMP20303 LMP3W WMP3WNW WNW W",
+    "02D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " LMP20303 LMP3W WMP3WNW WNW W",
+    "02D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

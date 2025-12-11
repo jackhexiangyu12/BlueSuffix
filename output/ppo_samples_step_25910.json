@@ -1,0 +1,19 @@
+{
+  "step": 25910,
+  "query": [
+    "20307",
+    "20106"
+  ],
+  "response": [
+    " human qid hard cotton worked cotton cotton cotton cotton cotton cotton cotton cotton cotton cotton",
+    " mother the mother of the child of the mother of the child of the father of"
+  ],
+  "victim_response": [
+    " human qid hard cotton worked cotton cotton cotton cotton cotton cotton cotton cotton cotton cotton",
+    " mother the mother of the child of the mother of the child of the father of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

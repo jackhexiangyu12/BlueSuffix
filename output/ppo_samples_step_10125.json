@@ -1,0 +1,19 @@
+{
+  "step": 10125,
+  "query": [
+    "21185",
+    "21496"
+  ],
+  "response": [
+    "(Winslow vhc) 1197275CF27F0020000000200000",
+    "200490110820170330370320197ffffffffffffffffffffffff"
+  ],
+  "victim_response": [
+    "(Winslow vhc) 1197275CF27F0020000000200000",
+    "200490110820170330370320197ffffffffffffffffffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

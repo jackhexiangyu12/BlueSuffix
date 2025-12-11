@@ -1,0 +1,19 @@
+{
+  "step": 10430,
+  "query": [
+    "20934",
+    "20504"
+  ],
+  "response": [
+    "|Cloudrother P02P182076MN1CJNDG",
+    " D 00ffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  ],
+  "victim_response": [
+    "|Cloudrother P02P182076MN1CJNDG",
+    " D 00ffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8816,
+  "query": [
+    "21772",
+    "21393"
+  ],
+  "response": [
+    "'1991 007015256 10081730 7075571 707",
+    " DDSDDDFDSDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    "'1991 007015256 10081730 7075571 707",
+    " DDSDDDFDSDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

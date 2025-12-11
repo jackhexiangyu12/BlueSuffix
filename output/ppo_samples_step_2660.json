@@ -1,0 +1,19 @@
+{
+  "step": 2660,
+  "query": [
+    "20295",
+    "21547"
+  ],
+  "response": [
+    ",Q,0 \"B-DDE/AlSOCr\" \"",
+    "|- c63d, +13e, 37v10, 0,"
+  ],
+  "victim_response": [
+    ",Q,0 \"B-DDE/AlSOCr\" \"",
+    "|- c63d, +13e, 37v10, 0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

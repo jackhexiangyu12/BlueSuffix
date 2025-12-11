@@ -1,0 +1,19 @@
+{
+  "step": 11458,
+  "query": [
+    "20178",
+    "20106"
+  ],
+  "response": [
+    "F3D869CCD7CC7CCDD7D7CC",
+    "opaciaos libalphiboraos libalphiboraos lib"
+  ],
+  "victim_response": [
+    "F3D869CCD7CC7CCDD7D7CC",
+    "opaciaos libalphiboraos libalphiboraos lib"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

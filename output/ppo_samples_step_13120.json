@@ -1,0 +1,19 @@
+{
+  "step": 13120,
+  "query": [
+    "20583",
+    "21191"
+  ],
+  "response": [
+    " mosquito 3DDDDDDD D D D D D D D",
+    " shift 3 4 710 0 707D7D7D7D7"
+  ],
+  "victim_response": [
+    " mosquito 3DDDDDDD D D D D D D D",
+    " shift 3 4 710 0 707D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

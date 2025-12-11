@@ -1,0 +1,19 @@
+{
+  "step": 7489,
+  "query": [
+    "21082",
+    "20030"
+  ],
+  "response": [
+    "194 dbd1d dbd dbd dbd dbd dbd d",
+    "30303030303030303030303030303030"
+  ],
+  "victim_response": [
+    "194 dbd1d dbd dbd dbd dbd dbd d",
+    "30303030303030303030303030303030"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

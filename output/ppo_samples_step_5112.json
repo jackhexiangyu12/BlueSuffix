@@ -1,0 +1,19 @@
+{
+  "step": 5112,
+  "query": [
+    "21108",
+    "21845"
+  ],
+  "response": [
+    " [0800740172] Not a problem with the device, but its",
+    "_3cs4nsx2ms', 'id1/r2-"
+  ],
+  "victim_response": [
+    " [0800740172] Not a problem with the device, but its",
+    "_3cs4nsx2ms', 'id1/r2-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8867,
+  "query": [
+    "21214",
+    "21209"
+  ],
+  "response": [
+    "C 7CCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    "0772170907721707772177687277757"
+  ],
+  "victim_response": [
+    "C 7CCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    "0772170907721707772177687277757"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

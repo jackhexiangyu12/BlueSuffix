@@ -1,0 +1,19 @@
+{
+  "step": 13189,
+  "query": [
+    "20626",
+    "21541"
+  ],
+  "response": [
+    "001 Reaper Xeon Z7 chipset CPU family technology chip Intel Xeon Z7 motherboard chipset",
+    " 4 D\"Goody Fly\" Free D\"Loody Fly\""
+  ],
+  "victim_response": [
+    "001 Reaper Xeon Z7 chipset CPU family technology chip Intel Xeon Z7 motherboard chipset",
+    " 4 D\"Goody Fly\" Free D\"Loody Fly\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

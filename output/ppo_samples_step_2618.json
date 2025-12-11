@@ -1,0 +1,19 @@
+{
+  "step": 2618,
+  "query": [
+    "20106",
+    "21181"
+  ],
+  "response": [
+    "_1-7f0f3f5d3c0e86",
+    ",0.9 not_root_ring_x\n\n1 0 in"
+  ],
+  "victim_response": [
+    "_1-7f0f3f5d3c0e86",
+    ",0.9 not_root_ring_x\n\n1 0 in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 23,
+  "query": [
+    "20559",
+    "20871"
+  ],
+  "response": [
+    ".\n\n4.6.30.1.5.\n\n\n",
+    "] to the city..\n\n[14] to the city.\n"
+  ],
+  "victim_response": [
+    ".\n\n4.6.30.1.5.\n\n\n",
+    "] to the city..\n\n[14] to the city.\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

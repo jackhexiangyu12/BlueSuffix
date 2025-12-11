@@ -1,0 +1,19 @@
+{
+  "step": 2852,
+  "query": [
+    "20800",
+    "21160"
+  ],
+  "response": [
+    "7863 _all_d_dpwd_prefab, 30 -",
+    "/. end with the following quote:\n\"I would never be able to"
+  ],
+  "victim_response": [
+    "7863 _all_d_dpwd_prefab, 30 -",
+    "/. end with the following quote:\n\"I would never be able to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

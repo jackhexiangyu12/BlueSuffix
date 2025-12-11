@@ -1,0 +1,19 @@
+{
+  "step": 8940,
+  "query": [
+    "20281",
+    "21082"
+  ],
+  "response": [
+    "\" ddd ddd ddd ddd ddd ddd ddd d",
+    "_mzb.htm 7 7 Tekbuster Telecom Stingzilla 252nd part ("
+  ],
+  "victim_response": [
+    "\" ddd ddd ddd ddd ddd ddd ddd d",
+    "_mzb.htm 7 7 Tekbuster Telecom Stingzilla 252nd part ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

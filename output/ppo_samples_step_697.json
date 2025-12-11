@@ -1,0 +1,19 @@
+{
+  "step": 697,
+  "query": [
+    "20010",
+    "20787"
+  ],
+  "response": [
+    ".com/cgi-bin/register.cgi?regnum=9&",
+    "?-88599-87600-B-0\n\n\n"
+  ],
+  "victim_response": [
+    ".com/cgi-bin/register.cgi?regnum=9&",
+    "?-88599-87600-B-0\n\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

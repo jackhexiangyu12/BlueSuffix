@@ -1,0 +1,19 @@
+{
+  "step": 1807,
+  "query": [
+    "21418",
+    "20360"
+  ],
+  "response": [
+    "11 1.0618 (6528) CPUZ8161329 (",
+    " \"Strive\" \\ref\\defers_in_dw_d"
+  ],
+  "victim_response": [
+    "11 1.0618 (6528) CPUZ8161329 (",
+    " \"Strive\" \\ref\\defers_in_dw_d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

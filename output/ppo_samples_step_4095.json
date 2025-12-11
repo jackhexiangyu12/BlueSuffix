@@ -1,0 +1,19 @@
+{
+  "step": 4095,
+  "query": [
+    "20411",
+    "21739"
+  ],
+  "response": [
+    "a3b8b7c7b9c7b6d4",
+    "\"Oxf/w\"OoofCuxD = 0D000\","
+  ],
+  "victim_response": [
+    "a3b8b7c7b9c7b6d4",
+    "\"Oxf/w\"OoofCuxD = 0D000\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3220,
+  "query": [
+    "20067",
+    "21620"
+  ],
+  "response": [
+    "aAa00c00c00c00c00c00c00",
+    "8066 (0d-2d465r, haveYouNASA)"
+  ],
+  "victim_response": [
+    "aAa00c00c00c00c00c00c00",
+    "8066 (0d-2d465r, haveYouNASA)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

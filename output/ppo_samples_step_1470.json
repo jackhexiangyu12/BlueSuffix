@@ -1,0 +1,19 @@
+{
+  "step": 1470,
+  "query": [
+    "21041",
+    "20295"
+  ],
+  "response": [
+    ".\n\nFor now, as if we are to have any hope of a",
+    ".0 [SQLite.org.mit.domain.name] <io"
+  ],
+  "victim_response": [
+    ".\n\nFor now, as if we are to have any hope of a",
+    ".0 [SQLite.org.mit.domain.name] <io"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

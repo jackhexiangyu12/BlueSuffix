@@ -1,0 +1,19 @@
+{
+  "step": 15381,
+  "query": [
+    "20411",
+    "21392"
+  ],
+  "response": [
+    "DDDDDDDDDDDDDDDD",
+    " was the largest ever recorded in Saudi Arabia's history, and the longest in the"
+  ],
+  "victim_response": [
+    "DDDDDDDDDDDDDDDD",
+    " was the largest ever recorded in Saudi Arabia's history, and the longest in the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

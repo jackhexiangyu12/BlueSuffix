@@ -1,0 +1,19 @@
+{
+  "step": 5631,
+  "query": [
+    "21796",
+    "21226"
+  ],
+  "response": [
+    "00 person-censor2 on server updated to verify the following in mmc",
+    "1415502843774280179d6d3c3c"
+  ],
+  "victim_response": [
+    "00 person-censor2 on server updated to verify the following in mmc",
+    "1415502843774280179d6d3c3c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 27626,
+  "query": [
+    "20360",
+    "20653"
+  ],
+  "response": [
+    " : GPU is the fastest 3D existors available for the demo it will likely",
+    " could be the question we are asking.\"The Apple CEO's speech to the press"
+  ],
+  "victim_response": [
+    " : GPU is the fastest 3D existors available for the demo it will likely",
+    " could be the question we are asking.\"The Apple CEO's speech to the press"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

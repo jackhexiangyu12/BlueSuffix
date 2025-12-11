@@ -1,0 +1,19 @@
+{
+  "step": 9759,
+  "query": [
+    "20307",
+    "21520"
+  ],
+  "response": [
+    " encoding system programming code targets to GDB code target encoding code target input module",
+    " kkctxukngabaxcvnccmcvcmsfm"
+  ],
+  "victim_response": [
+    " encoding system programming code targets to GDB code target encoding code target input module",
+    " kkctxukngabaxcvnccmcvcmsfm"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

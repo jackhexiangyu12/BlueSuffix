@@ -1,0 +1,19 @@
+{
+  "step": 20793,
+  "query": [
+    "20836",
+    "21288"
+  ],
+  "response": [
+    " D protein plant oil H plant oil H methane methane plant oil H methane plant oil",
+    " Fax has appeared at F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " D protein plant oil H plant oil H methane methane plant oil H methane plant oil",
+    " Fax has appeared at F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

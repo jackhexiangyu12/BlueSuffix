@@ -1,0 +1,19 @@
+{
+  "step": 1231,
+  "query": [
+    "21377",
+    "20138"
+  ],
+  "response": [
+    "15\n\n\"The current state of the two-year rate of inflation in",
+    ", 509.68, 590.01, 593.08,"
+  ],
+  "victim_response": [
+    "15\n\n\"The current state of the two-year rate of inflation in",
+    ", 509.68, 590.01, 593.08,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

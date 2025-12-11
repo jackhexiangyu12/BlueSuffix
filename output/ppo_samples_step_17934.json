@@ -1,0 +1,19 @@
+{
+  "step": 17934,
+  "query": [
+    "21085",
+    "20463"
+  ],
+  "response": [
+    "D02 03 D7 D7 D7 D7 D7 D7 D",
+    " codes must be FBS before these programs are displayed, to ensure that fraud cases"
+  ],
+  "victim_response": [
+    "D02 03 D7 D7 D7 D7 D7 D7 D",
+    " codes must be FBS before these programs are displayed, to ensure that fraud cases"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

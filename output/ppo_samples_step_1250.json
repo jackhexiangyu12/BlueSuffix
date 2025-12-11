@@ -1,0 +1,19 @@
+{
+  "step": 1250,
+  "query": [
+    "20295",
+    "21214"
+  ],
+  "response": [
+    "-T,IT,IT\n\nShare,A5,B5,",
+    "3378.\n\nThe following is the content of the special edition book,"
+  ],
+  "victim_response": [
+    "-T,IT,IT\n\nShare,A5,B5,",
+    "3378.\n\nThe following is the content of the special edition book,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

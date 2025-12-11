@@ -1,0 +1,19 @@
+{
+  "step": 4389,
+  "query": [
+    "21543",
+    "20307"
+  ],
+  "response": [
+    "f23d12e6c8a74cb7a0d8",
+    " or call 1-800-444-9000.\n\nAt the time"
+  ],
+  "victim_response": [
+    "f23d12e6c8a74cb7a0d8",
+    " or call 1-800-444-9000.\n\nAt the time"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

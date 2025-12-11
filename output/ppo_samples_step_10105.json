@@ -1,0 +1,19 @@
+{
+  "step": 10105,
+  "query": [
+    "20266",
+    "20396"
+  ],
+  "response": [
+    " file of 3 hospital beds per week type of patient waiting bed time in bed bed",
+    "DATATATATATATATATATATATATATATAT"
+  ],
+  "victim_response": [
+    " file of 3 hospital beds per week type of patient waiting bed time in bed bed",
+    "DATATATATATATATATATATATATATATAT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

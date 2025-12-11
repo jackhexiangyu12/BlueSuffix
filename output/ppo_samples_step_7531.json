@@ -1,0 +1,19 @@
+{
+  "step": 7531,
+  "query": [
+    "21368",
+    "20871"
+  ],
+  "response": [
+    "F1DDE0DDFDFDFDFDFDFDFDFDFDF",
+    " conf. silicon-baooka chipset.cbbbbbabi chipboard"
+  ],
+  "victim_response": [
+    "F1DDE0DDFDFDFDFDFDFDFDFDFDF",
+    " conf. silicon-baooka chipset.cbbbbbabi chipboard"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

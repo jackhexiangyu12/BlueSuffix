@@ -1,0 +1,19 @@
+{
+  "step": 14351,
+  "query": [
+    "20968",
+    "21543"
+  ],
+  "response": [
+    ", len length CRC Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu",
+    "D 07 007D 007D 007D 007D 007"
+  ],
+  "victim_response": [
+    ", len length CRC Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu Mu",
+    "D 07 007D 007D 007D 007D 007"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

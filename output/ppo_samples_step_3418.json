@@ -1,0 +1,19 @@
+{
+  "step": 3418,
+  "query": [
+    "20836",
+    "21620"
+  ],
+  "response": [
+    "52: to the California sun, they are headed to the north end of the",
+    "-a-lars-and-paris-end-of-the"
+  ],
+  "victim_response": [
+    "52: to the California sun, they are headed to the north end of the",
+    "-a-lars-and-paris-end-of-the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

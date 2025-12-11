@@ -1,0 +1,19 @@
+{
+  "step": 13756,
+  "query": [
+    "21767",
+    "21356"
+  ],
+  "response": [
+    "786 5 traiticon 1 347 7 genes 5 3477 74777 7",
+    "6700_hdfhl6db711df7d7d7"
+  ],
+  "victim_response": [
+    "786 5 traiticon 1 347 7 genes 5 3477 74777 7",
+    "6700_hdfhl6db711df7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

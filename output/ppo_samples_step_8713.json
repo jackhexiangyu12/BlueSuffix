@@ -1,0 +1,19 @@
+{
+  "step": 8713,
+  "query": [
+    "20697",
+    "20030"
+  ],
+  "response": [
+    "106867770796fe7308f7df7df7df7",
+    "36 DGHz will not be available you may have to download this update from modem"
+  ],
+  "victim_response": [
+    "106867770796fe7308f7df7df7df7",
+    "36 DGHz will not be available you may have to download this update from modem"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

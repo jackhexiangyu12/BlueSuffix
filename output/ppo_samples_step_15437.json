@@ -1,0 +1,19 @@
+{
+  "step": 15437,
+  "query": [
+    "20295",
+    "21895"
+  ],
+  "response": [
+    " d d d d d d d d d d d d d d d d",
+    " F1 car does not drive properly in h kJu k = 77 Co"
+  ],
+  "victim_response": [
+    " d d d d d d d d d d d d d d d d",
+    " F1 car does not drive properly in h kJu k = 77 Co"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

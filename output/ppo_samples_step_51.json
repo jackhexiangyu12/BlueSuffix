@@ -1,0 +1,19 @@
+{
+  "step": 51,
+  "query": [
+    "21209",
+    "21047"
+  ],
+  "response": [
+    "34f3f3c1d9d3d9d1e",
+    "\n\nThe other two have been on different news of the May 2015 Haiti earthquake"
+  ],
+  "victim_response": [
+    "34f3f3c1d9d3d9d1e",
+    "\n\nThe other two have been on different news of the May 2015 Haiti earthquake"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

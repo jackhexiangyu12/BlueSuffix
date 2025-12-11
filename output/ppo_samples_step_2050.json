@@ -1,0 +1,19 @@
+{
+  "step": 2050,
+  "query": [
+    "21082",
+    "21214"
+  ],
+  "response": [
+    " (Spark A)\n\n\"The left-handedness of the deck",
+    ",07\n\nSenior Ward 17,0,4,0\n\nSenior"
+  ],
+  "victim_response": [
+    " (Spark A)\n\n\"The left-handedness of the deck",
+    ",07\n\nSenior Ward 17,0,4,0\n\nSenior"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1124,
+  "query": [
+    "21496",
+    "21125"
+  ],
+  "response": [
+    ".org.\nInformation about this page can be found here: http://www",
+    ": \"I'd like to move to the future of my home.\"\n\n"
+  ],
+  "victim_response": [
+    ".org.\nInformation about this page can be found here: http://www",
+    ": \"I'd like to move to the future of my home.\"\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

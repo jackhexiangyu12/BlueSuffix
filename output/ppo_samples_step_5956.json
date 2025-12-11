@@ -1,0 +1,19 @@
+{
+  "step": 5956,
+  "query": [
+    "20224",
+    "21707"
+  ],
+  "response": [
+    "000\"deltaSize the entropy of the dcl\"dcl\"d",
+    "2964\", \"700713976\" hp\"pptt\"d\""
+  ],
+  "victim_response": [
+    "000\"deltaSize the entropy of the dcl\"dcl\"d",
+    "2964\", \"700713976\" hp\"pptt\"d\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

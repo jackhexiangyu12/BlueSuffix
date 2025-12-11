@@ -1,0 +1,19 @@
+{
+  "step": 910,
+  "query": [
+    "21081",
+    "20504"
+  ],
+  "response": [
+    "-1701)\n\n-T-shirt\n-No back coverings",
+    "_00_02_08_00_00_00_00_00"
+  ],
+  "victim_response": [
+    "-1701)\n\n-T-shirt\n-No back coverings",
+    "_00_02_08_00_00_00_00_00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2245,
+  "query": [
+    "20750",
+    "21909"
+  ],
+  "response": [
+    "43 3/10/2015 9:38 1.75\n\nOen",
+    "0) the \"next_element\" of the current_element = new_"
+  ],
+  "victim_response": [
+    "43 3/10/2015 9:38 1.75\n\nOen",
+    "0) the \"next_element\" of the current_element = new_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

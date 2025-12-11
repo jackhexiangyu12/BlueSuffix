@@ -1,0 +1,19 @@
+{
+  "step": 12714,
+  "query": [
+    "21418",
+    "20905"
+  ],
+  "response": [
+    " d00007 d00 d0000700007 d007 d00007 d",
+    " stock robots hair pants pants jeans jeans jeans gym shorts jeans jeans jeans jeans jeans jeans"
+  ],
+  "victim_response": [
+    " d00007 d00 d0000700007 d007 d00007 d",
+    " stock robots hair pants pants jeans jeans jeans gym shorts jeans jeans jeans jeans jeans jeans"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

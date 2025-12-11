@@ -1,0 +1,19 @@
+{
+  "step": 1092,
+  "query": [
+    "21181",
+    "21839"
+  ],
+  "response": [
+    ":1:0: [F:C]: [IN] [1]:",
+    ".49(7) The Cheetty at the O. The end of"
+  ],
+  "victim_response": [
+    ":1:0: [F:C]: [IN] [1]:",
+    ".49(7) The Cheetty at the O. The end of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

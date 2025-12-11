@@ -1,0 +1,19 @@
+{
+  "step": 1945,
+  "query": [
+    "20120",
+    "21707"
+  ],
+  "response": [
+    ") from -X-\n-HIDEblaster/intel/thread_",
+    "7\" \"K\" = \"903464728\" \"S\""
+  ],
+  "victim_response": [
+    ") from -X-\n-HIDEblaster/intel/thread_",
+    "7\" \"K\" = \"903464728\" \"S\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

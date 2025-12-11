@@ -1,11 +1,11 @@
 {
   "accelerator_kwargs": {
     "cpu": true,
-    "project_dir": "/media/ssd5/hxy/defense/BlueSuffix/logs/gpt2-blueteam/Omax_steps,suffix_path,,dels/fine_tuned_suffix/seed=0/251210210307"
+    "project_dir": "/media/ssd5/hxy/defense/BlueSuffix/logs/gpt2-blueteam/Omax_steps,prompts_csv,suffix_path,,ta/prompts.csv,dels/fine_tuned_suffix/seed=0/251211152741"
   },
   "adap_kl_ctrl": false,
   "backward_batch_size": 1,
-  "batch_size": 1,
+  "batch_size": 2,
   "cliprange": 0.2,
   "cliprange_value": 0.2,
   "compare_steps": 1,
@@ -14,7 +14,7 @@
   "forward_batch_size": null,
   "gamma": 1,
   "global_backward_batch_size": 1,
-  "global_batch_size": 1,
+  "global_batch_size": 2,
   "gradient_accumulation_steps": 1,
   "gradient_checkpointing": false,
   "horizon": 10000,

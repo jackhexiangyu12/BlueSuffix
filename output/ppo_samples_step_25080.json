@@ -1,0 +1,19 @@
+{
+  "step": 25080,
+  "query": [
+    "20360",
+    "20090"
+  ],
+  "response": [
+    " honey hones is a smartphone h is a smartphone hones a is a h",
+    " dress may be a little too small for the guy's interest. If he's"
+  ],
+  "victim_response": [
+    " honey hones is a smartphone h is a smartphone hones a is a h",
+    " dress may be a little too small for the guy's interest. If he's"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5009,
+  "query": [
+    "21085",
+    "20812"
+  ],
+  "response": [
+    " (3717M) cefeccyktk196236075p",
+    "-072dc1c6d0174dbbd7da"
+  ],
+  "victim_response": [
+    " (3717M) cefeccyktk196236075p",
+    "-072dc1c6d0174dbbd7da"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

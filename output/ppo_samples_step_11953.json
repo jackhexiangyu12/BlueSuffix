@@ -1,0 +1,19 @@
+{
+  "step": 11953,
+  "query": [
+    "20000",
+    "21041"
+  ],
+  "response": [
+    "00000092200000 D single-material material mana, up to 8 7",
+    " carillion Fiat A701 Fiat D7 Fiat A7010 Fiat Fiat Fiat"
+  ],
+  "victim_response": [
+    "00000092200000 D single-material material mana, up to 8 7",
+    " carillion Fiat A701 Fiat D7 Fiat A7010 Fiat Fiat Fiat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

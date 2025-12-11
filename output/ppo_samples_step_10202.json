@@ -1,0 +1,19 @@
+{
+  "step": 10202,
+  "query": [
+    "21546",
+    "21895"
+  ],
+  "response": [
+    " d0 d7 d9 d9 d9 d9 d9 d9",
+    "ct the number of people who have a high percentage of their income under the rule"
+  ],
+  "victim_response": [
+    " d0 d7 d9 d9 d9 d9 d9 d9",
+    "ct the number of people who have a high percentage of their income under the rule"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

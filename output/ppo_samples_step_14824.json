@@ -1,0 +1,19 @@
+{
+  "step": 14824,
+  "query": [
+    "20000",
+    "21781"
+  ],
+  "response": [
+    " both rw d d d d d d d d d d d d d",
+    " heatresistant heater states must be registered on the highest heat resistance the heater must be"
+  ],
+  "victim_response": [
+    " both rw d d d d d d d d d d d d d",
+    " heatresistant heater states must be registered on the highest heat resistance the heater must be"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

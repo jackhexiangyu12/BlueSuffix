@@ -1,0 +1,19 @@
+{
+  "step": 37,
+  "query": [
+    "21543",
+    "20067"
+  ],
+  "response": [
+    ".0\n\n\nTrucks & Flats\n\n8\n\n",
+    "68f67f9a9ed4a9b7b4a"
+  ],
+  "victim_response": [
+    ".0\n\n\nTrucks & Flats\n\n8\n\n",
+    "68f67f9a9ed4a9b7b4a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

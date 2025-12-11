@@ -1,0 +1,19 @@
+{
+  "step": 11772,
+  "query": [
+    "20771",
+    "21226"
+  ],
+  "response": [
+    " 00735768 007M 007M 007M 007F",
+    "307047DCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    " 00735768 007M 007M 007M 007F",
+    "307047DCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

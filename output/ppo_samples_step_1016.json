@@ -1,0 +1,19 @@
+{
+  "step": 1016,
+  "query": [
+    "21119",
+    "20418"
+  ],
+  "response": [
+    ".0009.000: Processing message: received for /n/f/",
+    "3740973763F7\n\nI'm going to give you an"
+  ],
+  "victim_response": [
+    ".0009.000: Processing message: received for /n/f/",
+    "3740973763F7\n\nI'm going to give you an"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

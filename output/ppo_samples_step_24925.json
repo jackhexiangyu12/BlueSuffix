@@ -1,0 +1,19 @@
+{
+  "step": 24925,
+  "query": [
+    "20968",
+    "20934"
+  ],
+  "response": [
+    " would be the \"upper part of the line\" would be an \"anchor",
+    "BFMFFFDFDFDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    " would be the \"upper part of the line\" would be an \"anchor",
+    "BFMFFFDFDFDFDFDFDFDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

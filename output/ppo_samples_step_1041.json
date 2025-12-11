@@ -1,0 +1,19 @@
+{
+  "step": 1041,
+  "query": [
+    "20010",
+    "21226"
+  ],
+  "response": [
+    "21) from davidjl123 at 2016-11-02:22:04 (",
+    ":02:00:00: [P] m_on_cere"
+  ],
+  "victim_response": [
+    "21) from davidjl123 at 2016-11-02:22:04 (",
+    ":02:00:00: [P] m_on_cere"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 17383,
+  "query": [
+    "21185",
+    "20223"
+  ],
+  "response": [
+    "> Player: private client name is \"BuddyWare\" before bedtime add",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    "> Player: private client name is \"BuddyWare\" before bedtime add",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

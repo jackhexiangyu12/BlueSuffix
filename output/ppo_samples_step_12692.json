@@ -1,0 +1,19 @@
+{
+  "step": 12692,
+  "query": [
+    "20042",
+    "20750"
+  ],
+  "response": [
+    "140234 potato cell cell cells lead cell cell cell cell cell cell cell cell cell",
+    "000 G4D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "140234 potato cell cell cells lead cell cell cell cell cell cell cell cell cell",
+    "000 G4D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

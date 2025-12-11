@@ -1,0 +1,19 @@
+{
+  "step": 21048,
+  "query": [
+    "20106",
+    "20120"
+  ],
+  "response": [
+    "5 D guardian if sum D planner D D p planner D D p planner D",
+    "20 cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "5 D guardian if sum D planner D D p planner D D p planner D",
+    "20 cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

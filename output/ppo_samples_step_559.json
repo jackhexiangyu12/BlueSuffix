@@ -1,0 +1,19 @@
+{
+  "step": 559,
+  "query": [
+    "20295",
+    "20663"
+  ],
+  "response": [
+    "\n\nReturns the \"you\" field in the URL.\n\nReturn the",
+    ".0080,0079.0079.0080,0077."
+  ],
+  "victim_response": [
+    "\n\nReturns the \"you\" field in the URL.\n\nReturn the",
+    ".0080,0079.0079.0080,0077."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

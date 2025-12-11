@@ -1,0 +1,19 @@
+{
+  "step": 344,
+  "query": [
+    "20266",
+    "21108"
+  ],
+  "response": [
+    "/7028886\n\nThe National Research Foundation is a 501(c",
+    "90\", \"CSC_MUTOPHOST_DARGE"
+  ],
+  "victim_response": [
+    "/7028886\n\nThe National Research Foundation is a 501(c",
+    "90\", \"CSC_MUTOPHOST_DARGE"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

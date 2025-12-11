@@ -1,0 +1,19 @@
+{
+  "step": 7552,
+  "query": [
+    "20612",
+    "21541"
+  ],
+  "response": [
+    "D dDDDDDDDDDDDDDDDDDDDDDDD",
+    "s\" are subjects and have all been subjects. I was not able to find"
+  ],
+  "victim_response": [
+    "D dDDDDDDDDDDDDDDDDDDDDDDD",
+    "s\" are subjects and have all been subjects. I was not able to find"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

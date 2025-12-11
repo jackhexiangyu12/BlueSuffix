@@ -1,0 +1,19 @@
+{
+  "step": 1003,
+  "query": [
+    "20266",
+    "21707"
+  ],
+  "response": [
+    "2281\", \"1\", \"6\", \"2\",",
+    "\", \"id\": \"2225\", \"name\": \"Since the beginning of"
+  ],
+  "victim_response": [
+    "2281\", \"1\", \"6\", \"2\",",
+    "\", \"id\": \"2225\", \"name\": \"Since the beginning of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

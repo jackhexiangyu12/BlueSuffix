@@ -1,0 +1,19 @@
+{
+  "step": 3264,
+  "query": [
+    "20045",
+    "21406"
+  ],
+  "response": [
+    "\", \"child_size_18\" = \"mid_range_range\"",
+    "5081_c40b37xd1h9w\" class data"
+  ],
+  "victim_response": [
+    "\", \"child_size_18\" = \"mid_range_range\"",
+    "5081_c40b37xd1h9w\" class data"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

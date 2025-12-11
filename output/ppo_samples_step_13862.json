@@ -1,0 +1,19 @@
+{
+  "step": 13862,
+  "query": [
+    "21000",
+    "20090"
+  ],
+  "response": [
+    " CPU1 extxorsparq / PPUDrq GqD q",
+    "Dd7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " CPU1 extxorsparq / PPUDrq GqD q",
+    "Dd7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

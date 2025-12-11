@@ -1,0 +1,19 @@
+{
+  "step": 2514,
+  "query": [
+    "20010",
+    "21267"
+  ],
+  "response": [
+    "40u-4,\n\n?to-news-1.png (",
+    ".A8:Multiproutine $10,633,7\""
+  ],
+  "victim_response": [
+    "40u-4,\n\n?to-news-1.png (",
+    ".A8:Multiproutine $10,633,7\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

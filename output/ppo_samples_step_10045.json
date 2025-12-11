@@ -1,0 +1,19 @@
+{
+  "step": 10045,
+  "query": [
+    "20045",
+    "21810"
+  ],
+  "response": [
+    "1163 LED Rifles 2x Pincers 2x Pincers 3",
+    "a7bbcdbd9077d7db7d7d"
+  ],
+  "victim_response": [
+    "1163 LED Rifles 2x Pincers 2x Pincers 3",
+    "a7bbcdbd9077d7db7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

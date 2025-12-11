@@ -1,0 +1,19 @@
+{
+  "step": 1673,
+  "query": [
+    "20463",
+    "20865"
+  ],
+  "response": [
+    "'s\n\nOwner: Greg Nash\n\nTotal Amount of Posts Per Day:",
+    "322, null, null, null, \"C:\\\u2022 Change this url to"
+  ],
+  "victim_response": [
+    "'s\n\nOwner: Greg Nash\n\nTotal Amount of Posts Per Day:",
+    "322, null, null, null, \"C:\\\u2022 Change this url to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

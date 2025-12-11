@@ -1,0 +1,19 @@
+{
+  "step": 1107,
+  "query": [
+    "21925",
+    "20295"
+  ],
+  "response": [
+    "/fire/rms/rms_explore_expl_base_",
+    ".21.23(33)\n\nt: 0.1,0"
+  ],
+  "victim_response": [
+    "/fire/rms/rms_explore_expl_base_",
+    ".21.23(33)\n\nt: 0.1,0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

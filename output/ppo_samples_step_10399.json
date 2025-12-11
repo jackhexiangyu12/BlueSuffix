@@ -1,0 +1,19 @@
+{
+  "step": 10399,
+  "query": [
+    "20010",
+    "20106"
+  ],
+  "response": [
+    "73D6967D71DBDBDBDBDBDBDBDBDBDB",
+    "03 0 tc3 dnc://cmx104011022Das"
+  ],
+  "victim_response": [
+    "73D6967D71DBDBDBDBDBDBDBDBDBDB",
+    "03 0 tc3 dnc://cmx104011022Das"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

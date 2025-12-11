@@ -1,0 +1,19 @@
+{
+  "step": 1819,
+  "query": [
+    "20106",
+    "20518"
+  ],
+  "response": [
+    "\n\n1.1.1.0\n\n1.0.0",
+    " (95th)\n\nIndustry:\n\nInertial Access\n"
+  ],
+  "victim_response": [
+    "\n\n1.1.1.0\n\n1.0.0",
+    " (95th)\n\nIndustry:\n\nInertial Access\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

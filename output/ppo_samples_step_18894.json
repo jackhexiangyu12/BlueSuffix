@@ -1,0 +1,19 @@
+{
+  "step": 18894,
+  "query": [
+    "20257",
+    "21267"
+  ],
+  "response": [
+    " bimplexity 0001 bimplexplexity 00 bimplex 00",
+    " B B B B B B B B B B B B B B B B"
+  ],
+  "victim_response": [
+    " bimplexity 0001 bimplexplexity 00 bimplex 00",
+    " B B B B B B B B B B B B B B B B"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

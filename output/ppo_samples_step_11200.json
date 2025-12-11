@@ -1,0 +1,19 @@
+{
+  "step": 11200,
+  "query": [
+    "20504",
+    "21125"
+  ],
+  "response": [
+    " dspPDF dspCDNF dspDNP dspDNP",
+    "01DChIWQ7CW7QZQqQQQ"
+  ],
+  "victim_response": [
+    " dspPDF dspCDNF dspDNP dspDNP",
+    "01DChIWQ7CW7QZQqQQQ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

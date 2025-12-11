@@ -1,0 +1,19 @@
+{
+  "step": 1521,
+  "query": [
+    "21767",
+    "21160"
+  ],
+  "response": [
+    "14, 0.00%\n\n2.1% 0.01%",
+    "134624 - 1 - C:\\Program Files\\AMD\\amd64\\"
+  ],
+  "victim_response": [
+    "14, 0.00%\n\n2.1% 0.01%",
+    "134624 - 1 - C:\\Program Files\\AMD\\amd64\\"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

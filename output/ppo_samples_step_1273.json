@@ -1,0 +1,19 @@
+{
+  "step": 1273,
+  "query": [
+    "21356",
+    "20158"
+  ],
+  "response": [
+    "f.png\",\"ow\":1329,\"pt\":\"BucketBucket is",
+    "|R-P|1.5|0|1 565|P"
+  ],
+  "victim_response": [
+    "f.png\",\"ow\":1329,\"pt\":\"BucketBucket is",
+    "|R-P|1.5|0|1 565|P"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

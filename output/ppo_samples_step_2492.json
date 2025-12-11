@@ -1,0 +1,19 @@
+{
+  "step": 2492,
+  "query": [
+    "21047",
+    "20504"
+  ],
+  "response": [
+    ", he and his wife, from who?\n\nThe only other who is",
+    "a3,51002d4a5c5c,4a"
+  ],
+  "victim_response": [
+    ", he and his wife, from who?\n\nThe only other who is",
+    "a3,51002d4a5c5c,4a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

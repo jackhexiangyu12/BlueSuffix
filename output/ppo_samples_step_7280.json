@@ -1,0 +1,19 @@
+{
+  "step": 7280,
+  "query": [
+    "20612",
+    "20836"
+  ],
+  "response": [
+    ",024,920 IPSP chip is a model which has been released by Intel",
+    "b9bdbe4d9d3d9d7d7d"
+  ],
+  "victim_response": [
+    ",024,920 IPSP chip is a model which has been released by Intel",
+    "b9bdbe4d9d3d9d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

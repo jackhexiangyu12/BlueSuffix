@@ -1,0 +1,19 @@
+{
+  "step": 10388,
+  "query": [
+    "20030",
+    "21709"
+  ],
+  "response": [
+    "20 speeds aa w505 up to 703 dsc 76 more d",
+    " CB800A00 CB800A00 CB800D00 CB800D00"
+  ],
+  "victim_response": [
+    "20 speeds aa w505 up to 703 dsc 76 more d",
+    " CB800A00 CB800A00 CB800D00 CB800D00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

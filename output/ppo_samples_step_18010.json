@@ -1,0 +1,19 @@
+{
+  "step": 18010,
+  "query": [
+    "21797",
+    "21047"
+  ],
+  "response": [
+    "01 D 19 D D D D D D D D D D D D D",
+    " Driver methxn4D NV cost Zn Coffee cover Dabs UberD"
+  ],
+  "victim_response": [
+    "01 D 19 D D D D D D D D D D D D D",
+    " Driver methxn4D NV cost Zn Coffee cover Dabs UberD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

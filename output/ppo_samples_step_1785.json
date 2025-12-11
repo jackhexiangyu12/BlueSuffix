@@ -1,0 +1,19 @@
+{
+  "step": 1785,
+  "query": [
+    "21550",
+    "20812"
+  ],
+  "response": [
+    "69.\n\nThe four-page report was written by former chief of staff",
+    ": The Coteauvin Hills Solar project is funded by the GSU of"
+  ],
+  "victim_response": [
+    "69.\n\nThe four-page report was written by former chief of staff",
+    ": The Coteauvin Hills Solar project is funded by the GSU of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

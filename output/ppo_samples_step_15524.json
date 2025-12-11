@@ -1,0 +1,19 @@
+{
+  "step": 15524,
+  "query": [
+    "21125",
+    "21529"
+  ],
+  "response": [
+    "4827 B Daupe sub B Daupe sub Daupe sub",
+    " Dungenenfzler class Dungenenfzler as a robot"
+  ],
+  "victim_response": [
+    "4827 B Daupe sub B Daupe sub Daupe sub",
+    " Dungenenfzler class Dungenenfzler as a robot"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

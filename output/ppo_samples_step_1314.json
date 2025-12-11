@@ -1,0 +1,19 @@
+{
+  "step": 1314,
+  "query": [
+    "21119",
+    "20626"
+  ],
+  "response": [
+    ".sounds_t_hb0\n\n/// The Remote Server (",
+    ".dms) +6+ KA1:300000000, N Y"
+  ],
+  "victim_response": [
+    ".sounds_t_hb0\n\n/// The Remote Server (",
+    ".dms) +6+ KA1:300000000, N Y"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

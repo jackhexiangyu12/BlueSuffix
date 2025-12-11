@@ -1,0 +1,19 @@
+{
+  "step": 13992,
+  "query": [
+    "20331",
+    "20106"
+  ],
+  "response": [
+    " DsmDtsNoyteDryteDwrTeQtTe",
+    " DRAWFjunctionFJPG is a command dump file that can be"
+  ],
+  "victim_response": [
+    " DsmDtsNoyteDryteDwrTeQtTe",
+    " DRAWFjunctionFJPG is a command dump file that can be"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

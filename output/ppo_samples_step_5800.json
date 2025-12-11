@@ -1,0 +1,19 @@
+{
+  "step": 5800,
+  "query": [
+    "20042",
+    "21669"
+  ],
+  "response": [
+    "11c3737d94d61d3d43d7d1",
+    "22373521874300763 with no2tsp_mak d"
+  ],
+  "victim_response": [
+    "11c3737d94d61d3d43d7d1",
+    "22373521874300763 with no2tsp_mak d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

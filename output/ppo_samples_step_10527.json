@@ -1,0 +1,19 @@
+{
+  "step": 10527,
+  "query": [
+    "20295",
+    "20090"
+  ],
+  "response": [
+    " 0 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+    "00 displays that contain a link to a video stream, the video to a video"
+  ],
+  "victim_response": [
+    " 0 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+    "00 displays that contain a link to a video stream, the video to a video"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

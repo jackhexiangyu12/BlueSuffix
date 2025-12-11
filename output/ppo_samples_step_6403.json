@@ -1,0 +1,19 @@
+{
+  "step": 6403,
+  "query": [
+    "20547",
+    "20223"
+  ],
+  "response": [
+    "d76a0b87d6b9c8b2c0",
+    " driver network.\n\nAmpcf System Driver by System M99 Software"
+  ],
+  "victim_response": [
+    "d76a0b87d6b9c8b2c0",
+    " driver network.\n\nAmpcf System Driver by System M99 Software"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4694,
+  "query": [
+    "21126",
+    "20040"
+  ],
+  "response": [
+    " = even, 817315911608002 = 48984625",
+    "DFF0DFFDFFDFFDFFDFFDFFD"
+  ],
+  "victim_response": [
+    " = even, 817315911608002 = 48984625",
+    "DFF0DFFDFFDFFDFFDFFDFFD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

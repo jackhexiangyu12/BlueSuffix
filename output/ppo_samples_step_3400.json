@@ -1,0 +1,19 @@
+{
+  "step": 3400,
+  "query": [
+    "20000",
+    "21707"
+  ],
+  "response": [
+    " -1 type name for the option to disable the options-vf-t",
+    "4B-H01D0C1D6L\" = Incompatible"
+  ],
+  "victim_response": [
+    " -1 type name for the option to disable the options-vf-t",
+    "4B-H01D0C1D6L\" = Incompatible"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

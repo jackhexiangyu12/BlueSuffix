@@ -1,0 +1,19 @@
+{
+  "step": 4693,
+  "query": [
+    "21541",
+    "21608"
+  ],
+  "response": [
+    " Feddis & Co. Feddis et al. (2016) F",
+    " (3d3d98) in the same directory as the main file."
+  ],
+  "victim_response": [
+    " Feddis & Co. Feddis et al. (2016) F",
+    " (3d3d98) in the same directory as the main file."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

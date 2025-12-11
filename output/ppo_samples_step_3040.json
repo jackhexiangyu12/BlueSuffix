@@ -1,0 +1,19 @@
+{
+  "step": 3040,
+  "query": [
+    "20518",
+    "20000"
+  ],
+  "response": [
+    ". \"Description,\" part is the same as \"prototype.id1-1",
+    "-JZR-8496E1CC8C8DE7"
+  ],
+  "victim_response": [
+    ". \"Description,\" part is the same as \"prototype.id1-1",
+    "-JZR-8496E1CC8C8DE7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

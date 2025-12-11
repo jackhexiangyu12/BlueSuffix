@@ -1,0 +1,19 @@
+{
+  "step": 15184,
+  "query": [
+    "21000",
+    "21658"
+  ],
+  "response": [
+    " status pyrexab1 D Masked PyrexingD D D D D",
+    "725 starlights carls D7D7D7P7D7D"
+  ],
+  "victim_response": [
+    " status pyrexab1 D Masked PyrexingD D D D D",
+    "725 starlights carls D7D7D7P7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

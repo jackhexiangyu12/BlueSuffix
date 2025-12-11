@@ -1,0 +1,19 @@
+{
+  "step": 2837,
+  "query": [
+    "21269",
+    "20905"
+  ],
+  "response": [
+    "C1 52879 5 xx <Def.Name> Subject:\n\n",
+    " 673--------------"
+  ],
+  "victim_response": [
+    "C1 52879 5 xx <Def.Name> Subject:\n\n",
+    " 673--------------"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

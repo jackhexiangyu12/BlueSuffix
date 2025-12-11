@@ -1,0 +1,19 @@
+{
+  "step": 11859,
+  "query": [
+    "20030",
+    "21984"
+  ],
+  "response": [
+    "300800 7000060000000 7000000700700700700700700700700",
+    " Fri 03 00 peak7D1SunNetDrizzseTueWedWedWed"
+  ],
+  "victim_response": [
+    "300800 7000060000000 7000000700700700700700700700700",
+    " Fri 03 00 peak7D1SunNetDrizzseTueWedWedWed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

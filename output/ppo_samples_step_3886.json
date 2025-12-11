@@ -1,0 +1,19 @@
+{
+  "step": 3886,
+  "query": [
+    "21546",
+    "20144"
+  ],
+  "response": [
+    "0080491006719193779239478419758074",
+    ", we have a case here.\n\nThe argument is that the simplex"
+  ],
+  "victim_response": [
+    "0080491006719193779239478419758074",
+    ", we have a case here.\n\nThe argument is that the simplex"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

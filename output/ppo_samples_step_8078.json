@@ -1,0 +1,19 @@
+{
+  "step": 8078,
+  "query": [
+    "21191",
+    "20908"
+  ],
+  "response": [
+    "/genericHIDDENFACTS 3DD7D9D7D",
+    "7f00f7f8be7d7d7d7d"
+  ],
+  "victim_response": [
+    "/genericHIDDENFACTS 3DD7D9D7D",
+    "7f00f7f8be7d7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

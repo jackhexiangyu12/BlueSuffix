@@ -1,0 +1,19 @@
+{
+  "step": 1087,
+  "query": [
+    "20067",
+    "20787"
+  ],
+  "response": [
+    "7587-manual-high-mem_10.0_000.",
+    "/\n\n\nLink: https://www.facebook.com/groups/"
+  ],
+  "victim_response": [
+    "7587-manual-high-mem_10.0_000.",
+    "/\n\n\nLink: https://www.facebook.com/groups/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

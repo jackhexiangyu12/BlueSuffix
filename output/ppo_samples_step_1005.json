@@ -1,0 +1,19 @@
+{
+  "step": 1005,
+  "query": [
+    "21550",
+    "20178"
+  ],
+  "response": [
+    ", 5.8 6.9 6.9 6.9 5.5",
+    "805 \", \"I've been to the other side of the line and I"
+  ],
+  "victim_response": [
+    ", 5.8 6.9 6.9 6.9 5.5",
+    "805 \", \"I've been to the other side of the line and I"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

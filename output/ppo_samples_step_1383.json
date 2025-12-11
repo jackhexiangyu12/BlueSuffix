@@ -1,0 +1,19 @@
+{
+  "step": 1383,
+  "query": [
+    "20282",
+    "20030"
+  ],
+  "response": [
+    ".15\n\nFixed a bug that was preventing players from completing certain stages.",
+    "30303030303030303030303030303030"
+  ],
+  "victim_response": [
+    ".15\n\nFixed a bug that was preventing players from completing certain stages.",
+    "30303030303030303030303030303030"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

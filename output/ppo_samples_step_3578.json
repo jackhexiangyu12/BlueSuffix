@@ -1,0 +1,19 @@
+{
+  "step": 3578,
+  "query": [
+    "20158",
+    "21845"
+  ],
+  "response": [
+    "405, (a) must be a false high, or, a l.",
+    "F63DCEB95D6D3A9C7FCE"
+  ],
+  "victim_response": [
+    "405, (a) must be a false high, or, a l.",
+    "F63DCEB95D6D3A9C7FCE"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

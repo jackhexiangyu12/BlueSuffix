@@ -1,0 +1,19 @@
+{
+  "step": 6065,
+  "query": [
+    "20000",
+    "20281"
+  ],
+  "response": [
+    "-9069d770d6d5d5c9fd",
+    "m-1mwrodsky n-3019cmgzpn"
+  ],
+  "victim_response": [
+    "-9069d770d6d5d5c9fd",
+    "m-1mwrodsky n-3019cmgzpn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

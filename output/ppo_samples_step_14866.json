@@ -1,0 +1,19 @@
+{
+  "step": 14866,
+  "query": [
+    "20403",
+    "20295"
+  ],
+  "response": [
+    "T01D0D0D0D0D0D0D0",
+    " these handcuffs are the same as the one that they are used to bind themselves to"
+  ],
+  "victim_response": [
+    "T01D0D0D0D0D0D0D0",
+    " these handcuffs are the same as the one that they are used to bind themselves to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

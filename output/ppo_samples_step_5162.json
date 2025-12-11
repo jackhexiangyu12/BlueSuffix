@@ -1,0 +1,19 @@
+{
+  "step": 5162,
+  "query": [
+    "21418",
+    "20411"
+  ],
+  "response": [
+    "(1).The study concluded that by past research showed the risk of cardiovascular disease",
+    "4037d8d8d0e8d7d7d6"
+  ],
+  "victim_response": [
+    "(1).The study concluded that by past research showed the risk of cardiovascular disease",
+    "4037d8d8d0e8d7d7d6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

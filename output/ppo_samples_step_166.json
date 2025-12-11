@@ -1,0 +1,19 @@
+{
+  "step": 166,
+  "query": [
+    "20252",
+    "21185"
+  ],
+  "response": [
+    "\",\"id\":\"1378\",\"title\":\"Nurses\",\"description\":\"Nurses\",\"",
+    "01-E9B4F2-49-4D13-A"
+  ],
+  "victim_response": [
+    "\",\"id\":\"1378\",\"title\":\"Nurses\",\"description\":\"Nurses\",\"",
+    "01-E9B4F2-49-4D13-A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

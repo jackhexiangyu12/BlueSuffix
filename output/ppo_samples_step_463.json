@@ -1,0 +1,19 @@
+{
+  "step": 463,
+  "query": [
+    "21760",
+    "21950"
+  ],
+  "response": [
+    "] Warning: Property Thrall_LoadScript on script MineOreDictim",
+    "-7550-757575757575757575757575"
+  ],
+  "victim_response": [
+    "] Warning: Property Thrall_LoadScript on script MineOreDictim",
+    "-7550-757575757575757575757575"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

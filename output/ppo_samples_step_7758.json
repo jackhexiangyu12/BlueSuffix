@@ -1,0 +1,19 @@
+{
+  "step": 7758,
+  "query": [
+    "20750",
+    "20901"
+  ],
+  "response": [
+    "4 CRD Buffer DCCCCCCCCCCCCCCCCCCCCCC",
+    "203a197d6c7da7dfc1d7d9"
+  ],
+  "victim_response": [
+    "4 CRD Buffer DCCCCCCCCCCCCCCCCCCCCCC",
+    "203a197d6c7da7dfc1d7d9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

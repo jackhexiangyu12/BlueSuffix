@@ -1,0 +1,19 @@
+{
+  "step": 7056,
+  "query": [
+    "20697",
+    "20887"
+  ],
+  "response": [
+    "-DFFDFFFFFFFFFFFFFFFFFFFFFFFF",
+    "D the was a standard version of the following:... the was a standard version"
+  ],
+  "victim_response": [
+    "-DFFDFFFFFFFFFFFFFFFFFFFFFFFF",
+    "D the was a standard version of the following:... the was a standard version"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

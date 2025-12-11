@@ -1,0 +1,19 @@
+{
+  "step": 23122,
+  "query": [
+    "20901",
+    "21233"
+  ],
+  "response": [
+    "01010101010101010101010101010101",
+    " TRNA is a helical helicase gene gene ordered protein of a bacterio"
+  ],
+  "victim_response": [
+    "01010101010101010101010101010101",
+    " TRNA is a helical helicase gene gene ordered protein of a bacterio"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

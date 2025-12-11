@@ -1,0 +1,19 @@
+{
+  "step": 1436,
+  "query": [
+    "20010",
+    "20655"
+  ],
+  "response": [
+    "\n\n11.01%\n\n0\n1%\n\n0%",
+    "4739.htm\n\nhttp://www.htmlcbc.com/"
+  ],
+  "victim_response": [
+    "\n\n11.01%\n\n0\n1%\n\n0%",
+    "4739.htm\n\nhttp://www.htmlcbc.com/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

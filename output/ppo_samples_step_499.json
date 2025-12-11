@@ -1,0 +1,19 @@
+{
+  "step": 499,
+  "query": [
+    "21082",
+    "20042"
+  ],
+  "response": [
+    "f8\n\nIdeal.\n\nUncrisp.\n\n",
+    ",094,095,096,097,098,"
+  ],
+  "victim_response": [
+    "f8\n\nIdeal.\n\nUncrisp.\n\n",
+    ",094,095,096,097,098,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

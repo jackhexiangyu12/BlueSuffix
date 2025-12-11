@@ -1,0 +1,19 @@
+{
+  "step": 1434,
+  "query": [
+    "21181",
+    "21496"
+  ],
+  "response": [
+    ".com/pub/D/S/m1.html\n\nThe",
+    "14,en.wikipedia.org/wiki/US_d_ranges"
+  ],
+  "victim_response": [
+    ".com/pub/D/S/m1.html\n\nThe",
+    "14,en.wikipedia.org/wiki/US_d_ranges"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 18225,
+  "query": [
+    "20648",
+    "21108"
+  ],
+  "response": [
+    " D Execute a random number for the D procedure (called \"drisk sol",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " D Execute a random number for the D procedure (called \"drisk sol",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

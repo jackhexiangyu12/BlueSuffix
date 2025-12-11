@@ -1,0 +1,19 @@
+{
+  "step": 9601,
+  "query": [
+    "20295",
+    "21145"
+  ],
+  "response": [
+    " TNC-150102 TNC0301N001 NTSC01",
+    "spor service centre our network network location timeservices operations services access usn special"
+  ],
+  "victim_response": [
+    " TNC-150102 TNC0301N001 NTSC01",
+    "spor service centre our network network location timeservices operations services access usn special"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

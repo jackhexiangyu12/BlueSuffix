@@ -1,0 +1,19 @@
+{
+  "step": 5225,
+  "query": [
+    "21214",
+    "21303"
+  ],
+  "response": [
+    "9067477b6d9f7dfa8d3d8",
+    "stap_npc, id of the npc_npc_n"
+  ],
+  "victim_response": [
+    "9067477b6d9f7dfa8d3d8",
+    "stap_npc, id of the npc_npc_n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

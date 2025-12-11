@@ -1,0 +1,19 @@
+{
+  "step": 500,
+  "query": [
+    "20000",
+    "20762"
+  ],
+  "response": [
+    ", 1550, 690, and 590\n\nPrice of which is",
+    ", which is in the same quantity as the one used to be used in the"
+  ],
+  "victim_response": [
+    ", 1550, 690, and 590\n\nPrice of which is",
+    ", which is in the same quantity as the one used to be used in the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

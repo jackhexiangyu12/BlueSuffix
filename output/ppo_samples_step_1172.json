@@ -1,0 +1,19 @@
+{
+  "step": 1172,
+  "query": [
+    "20612",
+    "20360"
+  ],
+  "response": [
+    "20 bytes, size 512, vlen 10,\n\nand\n\nThe",
+    "4, and the majority of them are in the northern part of the country."
+  ],
+  "victim_response": [
+    "20 bytes, size 512, vlen 10,\n\nand\n\nThe",
+    "4, and the majority of them are in the northern part of the country."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

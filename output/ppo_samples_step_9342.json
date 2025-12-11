@@ -1,0 +1,19 @@
+{
+  "step": 9342,
+  "query": [
+    "21108",
+    "20901"
+  ],
+  "response": [
+    "69D7D7D7D7D7D7D7D",
+    "001 moneyShaperCurrency isNxCurrency 0 dpc_tech"
+  ],
+  "victim_response": [
+    "69D7D7D7D7D7D7D7D",
+    "001 moneyShaperCurrency isNxCurrency 0 dpc_tech"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

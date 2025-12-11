@@ -1,0 +1,19 @@
+{
+  "step": 433,
+  "query": [
+    "21692",
+    "21232"
+  ],
+  "response": [
+    "(0) is a validator.\n\n[01/01/2015",
+    "d6e35c1d1f5f1f1f1"
+  ],
+  "victim_response": [
+    "(0) is a validator.\n\n[01/01/2015",
+    "d6e35c1d1f5f1f1f1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

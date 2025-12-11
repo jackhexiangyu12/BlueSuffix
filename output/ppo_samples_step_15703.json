@@ -1,0 +1,19 @@
+{
+  "step": 15703,
+  "query": [
+    "21160",
+    "21550"
+  ],
+  "response": [
+    " d d d d d d d d d d d d d d d d",
+    " cells potatoes 425 cells 6 cells 9 cells cells cells cells cells cells cells cell cells"
+  ],
+  "victim_response": [
+    " d d d d d d d d d d d d d d d d",
+    " cells potatoes 425 cells 6 cells 9 cells cells cells cells cells cells cells cell cells"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 17315,
+  "query": [
+    "21822",
+    "20445"
+  ],
+  "response": [
+    " D769 D769 D769 D769 D769 D",
+    "\u30bc\u30a6\u30b9 repeat row suicide target distract n air air hold n constant n constant n n"
+  ],
+  "victim_response": [
+    " D769 D769 D769 D769 D769 D",
+    "\u30bc\u30a6\u30b9 repeat row suicide target distract n air air hold n constant n constant n n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

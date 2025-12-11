@@ -1,0 +1,19 @@
+{
+  "step": 14354,
+  "query": [
+    "21909",
+    "20934"
+  ],
+  "response": [
+    "06506 Wed Wed Wed Wed Sun Fri Sat Sun Mon Tue Wed Wed Sat Fri",
+    " poll fob fobs fobs poll fobs poll fobs fobs poll"
+  ],
+  "victim_response": [
+    "06506 Wed Wed Wed Wed Sun Fri Sat Sun Mon Tue Wed Wed Sat Fri",
+    " poll fob fobs fobs poll fobs poll fobs fobs poll"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

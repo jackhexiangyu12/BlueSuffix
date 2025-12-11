@@ -1,0 +1,19 @@
+{
+  "step": 331,
+  "query": [
+    "20800",
+    "21291"
+  ],
+  "response": [
+    "] PsyNet: HTTP 200 OK\n\nClient: No client for client\n\n",
+    ", the reason is that it's been proven that, in my opinion, the"
+  ],
+  "victim_response": [
+    "] PsyNet: HTTP 200 OK\n\nClient: No client for client\n\n",
+    ", the reason is that it's been proven that, in my opinion, the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

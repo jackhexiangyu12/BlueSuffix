@@ -1,0 +1,19 @@
+{
+  "step": 9018,
+  "query": [
+    "21232",
+    "21288"
+  ],
+  "response": [
+    "FFFFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "\", \"time\": \"\", \"deltaTimeAlt\" }, \"Delta"
+  ],
+  "victim_response": [
+    "FFFFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "\", \"time\": \"\", \"deltaTimeAlt\" }, \"Delta"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

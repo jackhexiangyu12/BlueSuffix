@@ -1,0 +1,19 @@
+{
+  "step": 197,
+  "query": [
+    "21652",
+    "20223"
+  ],
+  "response": [
+    " | D:10 | Reached skill level 10 inorganic structures 102459 |",
+    ".3.5.1.1.1.1.1.2"
+  ],
+  "victim_response": [
+    " | D:10 | Reached skill level 10 inorganic structures 102459 |",
+    ".3.5.1.1.1.1.1.2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1906,
+  "query": [
+    "20401",
+    "20800"
+  ],
+  "response": [
+    ":3770 -0x1e7f4\n\nFBCB",
+    " (unspecified).\n\nOn the 20th of May, the FAA will"
+  ],
+  "victim_response": [
+    ":3770 -0x1e7f4\n\nFBCB",
+    " (unspecified).\n\nOn the 20th of May, the FAA will"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

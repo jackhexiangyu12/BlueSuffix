@@ -1,0 +1,19 @@
+{
+  "step": 20409,
+  "query": [
+    "20750",
+    "21232"
+  ],
+  "response": [
+    "7 Ghobot Ghobot Ghobot Ghobot Ghobot",
+    "x C to binary 97 D O cell m ns ns ns ns ns ns ns"
+  ],
+  "victim_response": [
+    "7 Ghobot Ghobot Ghobot Ghobot Ghobot",
+    "x C to binary 97 D O cell m ns ns ns ns ns ns ns"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

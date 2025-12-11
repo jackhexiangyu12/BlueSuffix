@@ -1,0 +1,19 @@
+{
+  "step": 6930,
+  "query": [
+    "21082",
+    "20042"
+  ],
+  "response": [
+    "B7DF7DFDDFDFDFDFDFDFDFDFDFDF",
+    ", OR data1 seq1 seqseq seqseq seqseq seq seq seq seq"
+  ],
+  "victim_response": [
+    "B7DF7DFDDFDFDFDFDFDFDFDFDFDF",
+    ", OR data1 seq1 seqseq seqseq seqseq seq seq seq seq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

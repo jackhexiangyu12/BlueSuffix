@@ -1,0 +1,19 @@
+{
+  "step": 1602,
+  "query": [
+    "20000",
+    "20509"
+  ],
+  "response": [
+    " (10,000) #2429\n\nAlderaan is not a",
+    "59484.0: (4) [Client Quit]\n\n0667"
+  ],
+  "victim_response": [
+    " (10,000) #2429\n\nAlderaan is not a",
+    "59484.0: (4) [Client Quit]\n\n0667"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 17348,
+  "query": [
+    "20030",
+    "20846"
+  ],
+  "response": [
+    "01 color serial 0000 start pants m 245 witness pants n 245 witness pants m d",
+    "31$ really didn't pay, but on the other hand I had to pay"
+  ],
+  "victim_response": [
+    "01 color serial 0000 start pants m 245 witness pants n 245 witness pants m d",
+    "31$ really didn't pay, but on the other hand I had to pay"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

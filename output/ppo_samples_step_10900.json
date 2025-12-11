@@ -1,0 +1,19 @@
+{
+  "step": 10900,
+  "query": [
+    "20000",
+    "20341"
+  ],
+  "response": [
+    " \"Net\" \"loc\" \"is\" \"path\" \"compaq\"",
+    " kernel p0cbs4c7c7c7c7c7"
+  ],
+  "victim_response": [
+    " \"Net\" \"loc\" \"is\" \"path\" \"compaq\"",
+    " kernel p0cbs4c7c7c7c7c7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21413,
+  "query": [
+    "20757",
+    "21441"
+  ],
+  "response": [
+    "D8D D D D D D D D D D D D D D",
+    " F queenless F guest queenless F F F F F F F F F"
+  ],
+  "victim_response": [
+    "D8D D D D D D D D D D D D D D",
+    " F queenless F guest queenless F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

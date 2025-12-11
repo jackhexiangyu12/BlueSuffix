@@ -1,0 +1,19 @@
+{
+  "step": 1876,
+  "query": [
+    "20158",
+    "20295"
+  ],
+  "response": [
+    "573433 (no value)\n\n>\n\nXDE=Y",
+    "/PW_Joe_Poe.1.00.2/"
+  ],
+  "victim_response": [
+    "573433 (no value)\n\n>\n\nXDE=Y",
+    "/PW_Joe_Poe.1.00.2/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

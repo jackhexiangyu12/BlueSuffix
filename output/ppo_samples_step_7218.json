@@ -1,0 +1,19 @@
+{
+  "step": 7218,
+  "query": [
+    "21145",
+    "21634"
+  ],
+  "response": [
+    "223\" rolesetid \"62\" classpathivepathmahontake",
+    "648408DDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "223\" rolesetid \"62\" classpathivepathmahontake",
+    "648408DDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

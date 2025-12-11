@@ -1,0 +1,19 @@
+{
+  "step": 4362,
+  "query": [
+    "20934",
+    "20387"
+  ],
+  "response": [
+    "65f1bdf4a5c6d4220ab98d",
+    "13,47 or make changes to the file directory in the server. Do not"
+  ],
+  "victim_response": [
+    "65f1bdf4a5c6d4220ab98d",
+    "13,47 or make changes to the file directory in the server. Do not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

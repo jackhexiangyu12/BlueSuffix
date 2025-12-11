@@ -1,0 +1,19 @@
+{
+  "step": 2560,
+  "query": [
+    "21547",
+    "21620"
+  ],
+  "response": [
+    "| MarioMite: I'm going to do that in 3v3",
+    ": Missing: 20 [Obscersky_McGrath] running on"
+  ],
+  "victim_response": [
+    "| MarioMite: I'm going to do that in 3v3",
+    ": Missing: 20 [Obscersky_McGrath] running on"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

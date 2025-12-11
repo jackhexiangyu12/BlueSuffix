@@ -1,0 +1,19 @@
+{
+  "step": 2421,
+  "query": [
+    "20901",
+    "21392"
+  ],
+  "response": [
+    "01/a4_v10-d1b5a-7d",
+    "-1225\n\nhttp://www.thenbs.com/A"
+  ],
+  "victim_response": [
+    "01/a4_v10-d1b5a-7d",
+    "-1225\n\nhttp://www.thenbs.com/A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

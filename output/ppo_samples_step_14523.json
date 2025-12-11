@@ -1,0 +1,19 @@
+{
+  "step": 14523,
+  "query": [
+    "20000",
+    "20040"
+  ],
+  "response": [
+    " Professor Sanjay Gupta Professor of Economics and Public Finance, Professor of Economics, University",
+    " cell phone\n\nCell phone cell phone cell phone cell phone cell cell cell cell"
+  ],
+  "victim_response": [
+    " Professor Sanjay Gupta Professor of Economics and Public Finance, Professor of Economics, University",
+    " cell phone\n\nCell phone cell phone cell phone cell phone cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

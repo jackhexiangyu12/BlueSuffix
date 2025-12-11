@@ -1,0 +1,19 @@
+{
+  "step": 245,
+  "query": [
+    "20583",
+    "20067"
+  ],
+  "response": [
+    "\n\nfacebook.com/groups/talkout | http://groups.google",
+    "] The following is a list of the most popular new libc packages: ["
+  ],
+  "victim_response": [
+    "\n\nfacebook.com/groups/talkout | http://groups.google",
+    "] The following is a list of the most popular new libc packages: ["
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

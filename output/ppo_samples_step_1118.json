@@ -1,0 +1,19 @@
+{
+  "step": 1118,
+  "query": [
+    "21772",
+    "21125"
+  ],
+  "response": [
+    "] DEBUG - Found a new Session ID of \"a.com.sx",
+    ".jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized"
+  ],
+  "victim_response": [
+    "] DEBUG - Found a new Session ID of \"a.com.sx",
+    ".jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

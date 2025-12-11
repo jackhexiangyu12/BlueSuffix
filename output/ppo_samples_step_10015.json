@@ -1,0 +1,19 @@
+{
+  "step": 10015,
+  "query": [
+    "20155",
+    "21119"
+  ],
+  "response": [
+    "00cccccccccccccccccccccccccccccc",
+    "25356257590000 enc (A1D0D d1D9"
+  ],
+  "victim_response": [
+    "00cccccccccccccccccccccccccccccc",
+    "25356257590000 enc (A1D0D d1D9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4460,
+  "query": [
+    "21303",
+    "21669"
+  ],
+  "response": [
+    "f1f6f3dbe11a696789\" /sc",
+    "00:8g (0 bytes per second) (Hint: \"0"
+  ],
+  "victim_response": [
+    "f1f6f3dbe11a696789\" /sc",
+    "00:8g (0 bytes per second) (Hint: \"0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

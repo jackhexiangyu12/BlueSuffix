@@ -1,0 +1,19 @@
+{
+  "step": 16556,
+  "query": [
+    "20626",
+    "21081"
+  ],
+  "response": [
+    " D D D D D D D D D D D D D D D D",
+    " D cell d queen d queen d queen d queen d queen d queen queen queen"
+  ],
+  "victim_response": [
+    " D D D D D D D D D D D D D D D D",
+    " D cell d queen d queen d queen d queen d queen d queen queen queen"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

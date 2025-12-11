@@ -1,0 +1,19 @@
+{
+  "step": 13407,
+  "query": [
+    "20648",
+    "21924"
+  ],
+  "response": [
+    "D workantscp64 workantscp workantscp workantscp workants",
+    "00 ms sq msq mq mq mq mq"
+  ],
+  "victim_response": [
+    "D workantscp64 workantscp workantscp workantscp workants",
+    "00 ms sq msq mq mq mq mq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

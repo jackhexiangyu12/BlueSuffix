@@ -1,0 +1,19 @@
+{
+  "step": 11383,
+  "query": [
+    "20533",
+    "21226"
+  ],
+  "response": [
+    " rate the fee which is paid for the farm and the fees paid for the cattle",
+    "00712: test_xpace qqqqqqqqq"
+  ],
+  "victim_response": [
+    " rate the fee which is paid for the farm and the fees paid for the cattle",
+    "00712: test_xpace qqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

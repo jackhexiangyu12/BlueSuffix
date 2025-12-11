@@ -1,0 +1,19 @@
+{
+  "step": 311,
+  "query": [
+    "21108",
+    "21090"
+  ],
+  "response": [
+    "48}, _taboola.push({ mode: 'thumbnails-c', container_",
+    "} [BeamTech] (BeamTech-1.7.10"
+  ],
+  "victim_response": [
+    "48}, _taboola.push({ mode: 'thumbnails-c', container_",
+    "} [BeamTech] (BeamTech-1.7.10"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

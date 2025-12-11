@@ -1,0 +1,19 @@
+{
+  "step": 17368,
+  "query": [
+    "20786",
+    "20648"
+  ],
+  "response": [
+    " F00 D F 00 00 00 00 00 00 00 00 00 00 00 00",
+    " headlights Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega"
+  ],
+  "victim_response": [
+    " F00 D F 00 00 00 00 00 00 00 00 00 00 00 00",
+    " headlights Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega Vega"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

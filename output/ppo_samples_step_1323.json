@@ -1,0 +1,19 @@
+{
+  "step": 1323,
+  "query": [
+    "21546",
+    "20670"
+  ],
+  "response": [
+    " <3><div class=\"\"><p class=\"\"><a href=\"http://",
+    "39_0644,\" \"http://www.espn.com/news"
+  ],
+  "victim_response": [
+    " <3><div class=\"\"><p class=\"\"><a href=\"http://",
+    "39_0644,\" \"http://www.espn.com/news"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

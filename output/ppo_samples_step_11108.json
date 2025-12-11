@@ -1,0 +1,19 @@
+{
+  "step": 11108,
+  "query": [
+    "20396",
+    "20403"
+  ],
+  "response": [
+    "277773 7 797fee7fee7fee7fee7fee7",
+    "D Dresses are not Dresses Dresses Dresses Dresses Dresses D"
+  ],
+  "victim_response": [
+    "277773 7 797fee7fee7fee7fee7fee7",
+    "D Dresses are not Dresses Dresses Dresses Dresses Dresses D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

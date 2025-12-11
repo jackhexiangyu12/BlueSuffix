@@ -1,0 +1,19 @@
+{
+  "step": 2878,
+  "query": [
+    "20534",
+    "20934"
+  ],
+  "response": [
+    "F8D\"; IProduct=\"0d5b6b5a0",
+    ",81928,7,1,1,8/S- &"
+  ],
+  "victim_response": [
+    "F8D\"; IProduct=\"0d5b6b5a0",
+    ",81928,7,1,1,8/S- &"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

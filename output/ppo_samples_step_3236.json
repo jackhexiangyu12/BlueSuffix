@@ -1,0 +1,19 @@
+{
+  "step": 3236,
+  "query": [
+    "21267",
+    "20533"
+  ],
+  "response": [
+    "35, Pressberman No. 566, National Center for Cancer Research,",
+    "27883934,-9.13+2088-4-a2"
+  ],
+  "victim_response": [
+    "35, Pressberman No. 566, National Center for Cancer Research,",
+    "27883934,-9.13+2088-4-a2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

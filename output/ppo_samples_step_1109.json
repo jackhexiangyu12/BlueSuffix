@@ -1,0 +1,19 @@
+{
+  "step": 1109,
+  "query": [
+    "21634",
+    "21145"
+  ],
+  "response": [
+    "00, p)\n\nIn the end, the developer will win.\n",
+    "14453500\",\"content_type\":\"image\\/jpeg\",\"content_"
+  ],
+  "victim_response": [
+    "00, p)\n\nIn the end, the developer will win.\n",
+    "14453500\",\"content_type\":\"image\\/jpeg\",\"content_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

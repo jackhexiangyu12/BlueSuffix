@@ -1,0 +1,19 @@
+{
+  "step": 15556,
+  "query": [
+    "21226",
+    "20812"
+  ],
+  "response": [
+    " C D D D D D D D D D D D D D D D",
+    " electric cell electric cells (5 kW ) coal cell cell cells (5 kW )"
+  ],
+  "victim_response": [
+    " C D D D D D D D D D D D D D D D",
+    " electric cell electric cells (5 kW ) coal cell cell cells (5 kW )"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

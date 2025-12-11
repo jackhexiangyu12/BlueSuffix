@@ -1,0 +1,19 @@
+{
+  "step": 12451,
+  "query": [
+    "20905",
+    "20030"
+  ],
+  "response": [
+    "02 01 01 01 07 07 07 07 07 07 07 07 07 07 07 07",
+    " in the black oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide"
+  ],
+  "victim_response": [
+    "02 01 01 01 07 07 07 07 07 07 07 07 07 07 07 07",
+    " in the black oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide oxide"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

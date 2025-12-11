@@ -1,0 +1,19 @@
+{
+  "step": 6188,
+  "query": [
+    "20045",
+    "20331"
+  ],
+  "response": [
+    "Transport:Untransferable\" failed to match the first member of the shared",
+    "-84ast/common/hpdm0dmx7d9"
+  ],
+  "victim_response": [
+    "Transport:Untransferable\" failed to match the first member of the shared",
+    "-84ast/common/hpdm0dmx7d9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

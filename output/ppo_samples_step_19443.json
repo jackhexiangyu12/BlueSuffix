@@ -1,0 +1,19 @@
+{
+  "step": 19443,
+  "query": [
+    "21082",
+    "21126"
+  ],
+  "response": [
+    " might cause a Fuzz and the Fuzz seems to cause a Fuzzuzz",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " might cause a Fuzz and the Fuzz seems to cause a Fuzzuzz",
+    " F F F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

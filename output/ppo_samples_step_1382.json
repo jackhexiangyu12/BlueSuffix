@@ -1,0 +1,19 @@
+{
+  "step": 1382,
+  "query": [
+    "21090",
+    "20901"
+  ],
+  "response": [
+    "|\n\n14.8|\n\n2.0|\n\n*",
+    "43, (4) (3) http://www.thebank.co"
+  ],
+  "victim_response": [
+    "|\n\n14.8|\n\n2.0|\n\n*",
+    "43, (4) (3) http://www.thebank.co"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

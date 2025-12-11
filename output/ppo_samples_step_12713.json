@@ -1,0 +1,19 @@
+{
+  "step": 12713,
+  "query": [
+    "21543",
+    "21760"
+  ],
+  "response": [
+    "0078 wiz052700727 wiz0527402727 W",
+    "773 peers increasing freq motion tx broadcast queue shr tx token multiter tx"
+  ],
+  "victim_response": [
+    "0078 wiz052700727 wiz0527402727 W",
+    "773 peers increasing freq motion tx broadcast queue shr tx token multiter tx"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

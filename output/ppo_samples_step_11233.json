@@ -1,0 +1,19 @@
+{
+  "step": 11233,
+  "query": [
+    "20836",
+    "21845"
+  ],
+  "response": [
+    " cats.phcpfs cat is the name of the cat in the c directory",
+    "\u2033-Banthem br\u00fcttte B\u00fcttte the German shepherd"
+  ],
+  "victim_response": [
+    " cats.phcpfs cat is the name of the cat in the c directory",
+    "\u2033-Banthem br\u00fcttte B\u00fcttte the German shepherd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

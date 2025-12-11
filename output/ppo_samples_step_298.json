@@ -1,0 +1,19 @@
+{
+  "step": 298,
+  "query": [
+    "20360",
+    "21810"
+  ],
+  "response": [
+    ".\n\nThe National Crime Agency (NNCA) is the main agency",
+    "] <Tim-01> what's the wp? [01:01"
+  ],
+  "victim_response": [
+    ".\n\nThe National Crime Agency (NNCA) is the main agency",
+    "] <Tim-01> what's the wp? [01:01"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

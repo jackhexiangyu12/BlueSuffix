@@ -1,0 +1,19 @@
+{
+  "step": 4856,
+  "query": [
+    "20901",
+    "20295"
+  ],
+  "response": [
+    "02a0a8d9d9d3da5da9d",
+    "\" IntelUpderedAction: Direct [The Coder] IntelUpd"
+  ],
+  "victim_response": [
+    "02a0a8d9d9d3da5da9d",
+    "\" IntelUpderedAction: Direct [The Coder] IntelUpd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

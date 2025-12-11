@@ -1,0 +1,19 @@
+{
+  "step": 2055,
+  "query": [
+    "20901",
+    "20045"
+  ],
+  "response": [
+    "55555555\n\nGoogle: http://www.google.com/",
+    "D Fails\n\n5/6. The MTRD N.A"
+  ],
+  "victim_response": [
+    "55555555\n\nGoogle: http://www.google.com/",
+    "D Fails\n\n5/6. The MTRD N.A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

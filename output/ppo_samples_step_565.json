@@ -1,0 +1,19 @@
+{
+  "step": 565,
+  "query": [
+    "21900",
+    "20612"
+  ],
+  "response": [
+    ".00 1.00.00\n\nZimbabwe\n\nZimbabwe is",
+    ".jpg Mehran/08/07/12/13.jpg Mehran/03"
+  ],
+  "victim_response": [
+    ".00 1.00.00\n\nZimbabwe\n\nZimbabwe is",
+    ".jpg Mehran/08/07/12/13.jpg Mehran/03"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

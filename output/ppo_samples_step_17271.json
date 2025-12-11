@@ -1,0 +1,19 @@
+{
+  "step": 17271,
+  "query": [
+    "20252",
+    "21888"
+  ],
+  "response": [
+    " requests the processor is able to access the blocked media node as a whole leaf No",
+    " F-F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " requests the processor is able to access the blocked media node as a whole leaf No",
+    " F-F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

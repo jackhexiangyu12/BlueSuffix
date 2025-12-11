@@ -1,0 +1,19 @@
+{
+  "step": 2442,
+  "query": [
+    "20812",
+    "20062"
+  ],
+  "response": [
+    "80 (a7-15082) [18338500] new",
+    "f3 cb2c3u cb1\n\n\nFrom a code"
+  ],
+  "victim_response": [
+    "80 (a7-15082) [18338500] new",
+    "f3 cb2c3u cb1\n\n\nFrom a code"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

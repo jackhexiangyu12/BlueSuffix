@@ -1,0 +1,19 @@
+{
+  "step": 16999,
+  "query": [
+    "20224",
+    "20090"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " Apple Fusion Fusion GTAT GT7 Fusion GT Fusion GT7 Fusion GT7 GT"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " Apple Fusion Fusion GTAT GT7 Fusion GT Fusion GT7 Fusion GT7 GT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

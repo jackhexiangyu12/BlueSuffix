@@ -1,0 +1,19 @@
+{
+  "step": 2917,
+  "query": [
+    "20282",
+    "20403"
+  ],
+  "response": [
+    " (1) Dutch airborne missile: 4 An M M A 2061 (",
+    ") from (1) at-bim.com\n\nAsk Jason's"
+  ],
+  "victim_response": [
+    " (1) Dutch airborne missile: 4 An M M A 2061 (",
+    ") from (1) at-bim.com\n\nAsk Jason's"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9777,
+  "query": [
+    "21541",
+    "20144"
+  ],
+  "response": [
+    "000 DPN DPN DPN DPN DPN DPN DPN D",
+    "x1060(86F7D7D7D7D7"
+  ],
+  "victim_response": [
+    "000 DPN DPN DPN DPN DPN DPN DPN D",
+    "x1060(86F7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

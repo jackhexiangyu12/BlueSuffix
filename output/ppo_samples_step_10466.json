@@ -1,0 +1,19 @@
+{
+  "step": 10466,
+  "query": [
+    "21520",
+    "21845"
+  ],
+  "response": [
+    "7907001 condition1 Ppc mask dimnt id sera1 sera",
+    " a21a71ccaccaccaccaccaccaccaccaccaccaccacca"
+  ],
+  "victim_response": [
+    "7907001 condition1 Ppc mask dimnt id sera1 sera",
+    " a21a71ccaccaccaccaccaccaccaccaccaccaccacca"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

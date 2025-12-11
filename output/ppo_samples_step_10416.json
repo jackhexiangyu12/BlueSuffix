@@ -1,0 +1,19 @@
+{
+  "step": 10416,
+  "query": [
+    "21767",
+    "20040"
+  ],
+  "response": [
+    "D6D6D7D7D7D7D7D7",
+    " rapid-response train\n\n7750025 PhB Phoronet"
+  ],
+  "victim_response": [
+    "D6D6D7D7D7D7D7D7",
+    " rapid-response train\n\n7750025 PhB Phoronet"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

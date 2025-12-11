@@ -1,0 +1,19 @@
+{
+  "step": 9230,
+  "query": [
+    "21520",
+    "21160"
+  ],
+  "response": [
+    "3083 med_7 p2nph1 medph1p2phy",
+    "xmanfhdmcdfa6ddec5d7c8d"
+  ],
+  "victim_response": [
+    "3083 med_7 p2nph1 medph1p2phy",
+    "xmanfhdmcdfa6ddec5d7c8d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

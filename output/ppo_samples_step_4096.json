@@ -1,0 +1,19 @@
+{
+  "step": 4096,
+  "query": [
+    "20509",
+    "20252"
+  ],
+  "response": [
+    "b1d.5abiaspeed=170\" macm_moved",
+    "14d\n70670d0d0d0d0d0"
+  ],
+  "victim_response": [
+    "b1d.5abiaspeed=170\" macm_moved",
+    "14d\n70670d0d0d0d0d0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

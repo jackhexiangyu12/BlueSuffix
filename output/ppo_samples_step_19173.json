@@ -1,0 +1,19 @@
+{
+  "step": 19173,
+  "query": [
+    "21547",
+    "20670"
+  ],
+  "response": [
+    "15 D01DD D01D D01 D01D D01D",
+    " air-freq Geneva Queen time was 9 All H W W 2 D 10"
+  ],
+  "victim_response": [
+    "15 D01DD D01D D01 D01D D01D",
+    " air-freq Geneva Queen time was 9 All H W W 2 D 10"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 15287,
+  "query": [
+    "20639",
+    "20040"
+  ],
+  "response": [
+    "802 Cable cable fax modem modem modem modem modem modem modem modem modem modem modem modem",
+    " 2 D Internet:200 D Cell D Cell Cellular D Cell Cellular Cellular Cellular Cellular"
+  ],
+  "victim_response": [
+    "802 Cable cable fax modem modem modem modem modem modem modem modem modem modem modem modem",
+    " 2 D Internet:200 D Cell D Cell Cellular D Cell Cellular Cellular Cellular Cellular"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

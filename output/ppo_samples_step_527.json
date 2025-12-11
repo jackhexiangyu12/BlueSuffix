@@ -1,0 +1,19 @@
+{
+  "step": 527,
+  "query": [
+    "20010",
+    "21292"
+  ],
+  "response": [
+    "3800,3.77::18:30:44:44:",
+    "24 or you'll need to get a good job before the door.\n\n"
+  ],
+  "victim_response": [
+    "3800,3.77::18:30:44:44:",
+    "24 or you'll need to get a good job before the door.\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

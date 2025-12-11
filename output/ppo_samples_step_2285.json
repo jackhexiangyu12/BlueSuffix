@@ -1,0 +1,19 @@
+{
+  "step": 2285,
+  "query": [
+    "21085",
+    "21441"
+  ],
+  "response": [
+    "/sc.\n\nDescription of the world: This is the world and I",
+    ".png\" type_token_639011264,\"flat\" {"
+  ],
+  "victim_response": [
+    "/sc.\n\nDescription of the world: This is the world and I",
+    ".png\" type_token_639011264,\"flat\" {"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 100,
+  "query": [
+    "21839",
+    "20836"
+  ],
+  "response": [
+    "] is doing a good job of explaining the basic rules of this agreement. It",
+    ",761.0,100.0,100.0,100."
+  ],
+  "victim_response": [
+    "] is doing a good job of explaining the basic rules of this agreement. It",
+    ",761.0,100.0,100.0,100."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

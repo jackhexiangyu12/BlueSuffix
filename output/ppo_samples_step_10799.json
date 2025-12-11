@@ -1,0 +1,19 @@
+{
+  "step": 10799,
+  "query": [
+    "21303",
+    "20155"
+  ],
+  "response": [
+    "net-shtsports94 P1 5111NTPTTPTPTP",
+    " DFPrdTPwrIPd6wrwppwrtttttttt"
+  ],
+  "victim_response": [
+    "net-shtsports94 P1 5111NTPTTPTPTP",
+    " DFPrdTPwrIPd6wrwppwrtttttttt"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

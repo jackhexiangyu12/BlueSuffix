@@ -1,0 +1,19 @@
+{
+  "step": 13480,
+  "query": [
+    "20000",
+    "20846"
+  ],
+  "response": [
+    " dps stage the video processor the main video processor the video processor the processor the",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " dps stage the video processor the main video processor the video processor the processor the",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

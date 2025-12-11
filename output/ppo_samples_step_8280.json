@@ -1,0 +1,19 @@
+{
+  "step": 8280,
+  "query": [
+    "21810",
+    "21895"
+  ],
+  "response": [
+    "\" state and local \"DHCH 2 77A\" state dHC",
+    "cc7cc7cc7cccccccccccccccccccc"
+  ],
+  "victim_response": [
+    "\" state and local \"DHCH 2 77A\" state dHC",
+    "cc7cc7cc7cccccccccccccccccccc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

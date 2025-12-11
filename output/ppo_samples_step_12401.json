@@ -1,0 +1,19 @@
+{
+  "step": 12401,
+  "query": [
+    "21288",
+    "21081"
+  ],
+  "response": [
+    "73050077 D 7 7 7 7 7 7 7 7 7 7 7",
+    "76 PnGFXNetCPUsetWCCfee 007D7D"
+  ],
+  "victim_response": [
+    "73050077 D 7 7 7 7 7 7 7 7 7 7 7",
+    "76 PnGFXNetCPUsetWCCfee 007D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

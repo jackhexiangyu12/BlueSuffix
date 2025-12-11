@@ -1,0 +1,19 @@
+{
+  "step": 13863,
+  "query": [
+    "20062",
+    "20800"
+  ],
+  "response": [
+    " D7 D7 D7 D7 D7 D7 D7 D7",
+    " 701 bed bed bed bed bed bed bed bed bed bed bed bed bed bed bed"
+  ],
+  "victim_response": [
+    " D7 D7 D7 D7 D7 D7 D7 D7",
+    " 701 bed bed bed bed bed bed bed bed bed bed bed bed bed bed bed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

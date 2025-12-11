@@ -1,0 +1,19 @@
+{
+  "step": 9610,
+  "query": [
+    "21767",
+    "20800"
+  ],
+  "response": [
+    "25 coffee Fungi Acid Acetic acid Acid Acetic acid Acetic acid",
+    " workbench and machine notebook workbench\n\nHES520 laptop computer workbench"
+  ],
+  "victim_response": [
+    "25 coffee Fungi Acid Acetic acid Acid Acetic acid Acetic acid",
+    " workbench and machine notebook workbench\n\nHES520 laptop computer workbench"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

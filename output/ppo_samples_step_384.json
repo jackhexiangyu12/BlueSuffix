@@ -1,0 +1,19 @@
+{
+  "step": 384,
+  "query": [
+    "20030",
+    "20223"
+  ],
+  "response": [
+    ",000,000,000,000,000,000,000,000",
+    "\n\nLemme\n\nIn the first person, it's the only"
+  ],
+  "victim_response": [
+    ",000,000,000,000,000,000,000,000",
+    "\n\nLemme\n\nIn the first person, it's the only"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

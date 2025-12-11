@@ -1,0 +1,19 @@
+{
+  "step": 759,
+  "query": [
+    "20010",
+    "20396"
+  ],
+  "response": [
+    "B1A0E9F9E0A1D09D11",
+    ", \"short_name\", \"N1_unic\", \"short_name"
+  ],
+  "victim_response": [
+    "B1A0E9F9E0A1D09D11",
+    ", \"short_name\", \"N1_unic\", \"short_name"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

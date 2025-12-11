@@ -1,0 +1,19 @@
+{
+  "step": 2379,
+  "query": [
+    "21925",
+    "21543"
+  ],
+  "response": [
+    "-dcfdf9f3f2d7ba.by, by",
+    ") The man in the moustache. Is the man who says it's"
+  ],
+  "victim_response": [
+    "-dcfdf9f3f2d7ba.by, by",
+    ") The man in the moustache. Is the man who says it's"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

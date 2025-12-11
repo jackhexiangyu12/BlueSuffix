@@ -1,0 +1,19 @@
+{
+  "step": 913,
+  "query": [
+    "21214",
+    "20223"
+  ],
+  "response": [
+    " (13.3%)) - 0.66% 2.3933333333",
+    "\"\n\n(1) \"Federal Reserve\" means the Federal Reserve Board of"
+  ],
+  "victim_response": [
+    " (13.3%)) - 0.66% 2.3933333333",
+    "\"\n\n(1) \"Federal Reserve\" means the Federal Reserve Board of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

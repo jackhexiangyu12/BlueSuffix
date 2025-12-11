@@ -1,0 +1,19 @@
+{
+  "step": 7523,
+  "query": [
+    "20697",
+    "20374"
+  ],
+  "response": [
+    "D8D7DD7D7D7D7D7D",
+    " JSatoshi Network Hash network hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "victim_response": [
+    "D8D7DD7D7D7D7D7D",
+    " JSatoshi Network Hash network hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

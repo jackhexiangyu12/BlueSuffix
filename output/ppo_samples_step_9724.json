@@ -1,0 +1,19 @@
+{
+  "step": 9724,
+  "query": [
+    "20762",
+    "20865"
+  ],
+  "response": [
+    " netsetnetset netweetsunlock netweetsunlockunlock",
+    "b3dfb7f7fb7f7fb7fb7fb"
+  ],
+  "victim_response": [
+    " netsetnetset netweetsunlock netweetsunlockunlock",
+    "b3dfb7f7fb7f7fb7fb7fb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 15993,
+  "query": [
+    "20648",
+    "21291"
+  ],
+  "response": [
+    " cells and cells changes targets induces apopt cell growth cells growth induces apopt cell growth apopt",
+    " NC High Neurotrophic cell damage NCP leinem cell damage NCP"
+  ],
+  "victim_response": [
+    " cells and cells changes targets induces apopt cell growth cells growth induces apopt cell growth apopt",
+    " NC High Neurotrophic cell damage NCP leinem cell damage NCP"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

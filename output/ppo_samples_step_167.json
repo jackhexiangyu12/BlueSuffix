@@ -1,0 +1,19 @@
+{
+  "step": 167,
+  "query": [
+    "20865",
+    "20331"
+  ],
+  "response": [
+    "90b01f12b5c9b6\n\n* Currently 100",
+    ".\n\n\"The most important thing about this is that you will never be"
+  ],
+  "victim_response": [
+    "90b01f12b5c9b6\n\n* Currently 100",
+    ".\n\n\"The most important thing about this is that you will never be"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

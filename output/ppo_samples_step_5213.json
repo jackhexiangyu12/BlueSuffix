@@ -1,0 +1,19 @@
+{
+  "step": 5213,
+  "query": [
+    "21356",
+    "21797"
+  ],
+  "response": [
+    "3683412df9d14d1d0819d16d1",
+    "(4795), I would like to remember the last time we did this."
+  ],
+  "victim_response": [
+    "3683412df9d14d1d0819d16d1",
+    "(4795), I would like to remember the last time we did this."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

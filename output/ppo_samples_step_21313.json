@@ -1,0 +1,19 @@
+{
+  "step": 21313,
+  "query": [
+    "21090",
+    "20750"
+  ],
+  "response": [
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    "3 Mn Oiled energy energy cell M Ni Oiled energy cell M Ni O"
+  ],
+  "victim_response": [
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    "3 Mn Oiled energy energy cell M Ni Oiled energy cell M Ni O"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

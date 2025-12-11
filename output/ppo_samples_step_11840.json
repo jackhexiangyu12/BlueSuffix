@@ -1,0 +1,19 @@
+{
+  "step": 11840,
+  "query": [
+    "20331",
+    "20192"
+  ],
+  "response": [
+    " 73201 79 7776 6109789 2945010177 1129005",
+    "00 ds7df0dfdfdfdfdfdfdfdfdfdf"
+  ],
+  "victim_response": [
+    " 73201 79 7776 6109789 2945010177 1129005",
+    "00 ds7df0dfdfdfdfdfdfdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

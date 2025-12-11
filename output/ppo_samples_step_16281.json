@@ -1,0 +1,19 @@
+{
+  "step": 16281,
+  "query": [
+    "20042",
+    "20504"
+  ],
+  "response": [
+    "00 0000 d D7D Dow D7 Dow D7 D7 Dow D",
+    " Price DDD DDD DDD DDD DDD DDD DDD D"
+  ],
+  "victim_response": [
+    "00 0000 d D7D Dow D7 Dow D7 D7 Dow D",
+    " Price DDD DDD DDD DDD DDD DDD DDD D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

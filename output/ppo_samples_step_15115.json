@@ -1,0 +1,19 @@
+{
+  "step": 15115,
+  "query": [
+    "20901",
+    "20670"
+  ],
+  "response": [
+    "032271 seed d BundyD D ranchD seed D ranchD ranchD",
+    "DAT7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "032271 seed d BundyD D ranchD seed D ranchD ranchD",
+    "DAT7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

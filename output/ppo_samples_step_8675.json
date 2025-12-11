@@ -1,0 +1,19 @@
+{
+  "step": 8675,
+  "query": [
+    "20401",
+    "20266"
+  ],
+  "response": [
+    " was the serial number on the FCC's FCC Microchip 4E5 router (",
+    " Fnjnxwxwxzwxrwwxwxwxwxwxwx"
+  ],
+  "victim_response": [
+    " was the serial number on the FCC's FCC Microchip 4E5 router (",
+    " Fnjnxwxwxzwxrwwxwxwxwxwxwx"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2582,
+  "query": [
+    "21839",
+    "21392"
+  ],
+  "response": [
+    "7, ofcourse you have done the basics, you did the stuff, but",
+    ",5,4,5,5,5,5,5,4"
+  ],
+  "victim_response": [
+    "7, ofcourse you have done the basics, you did the stuff, but",
+    ",5,4,5,5,5,5,5,4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

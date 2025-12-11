@@ -1,0 +1,19 @@
+{
+  "step": 8645,
+  "query": [
+    "20663",
+    "20155"
+  ],
+  "response": [
+    " 8 $3 $1 751,895 8 $6 7 25 7",
+    " (1) remember\" as shown on the second part of the next step."
+  ],
+  "victim_response": [
+    " 8 $3 $1 751,895 8 $6 7 25 7",
+    " (1) remember\" as shown on the second part of the next step."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

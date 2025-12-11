@@ -1,0 +1,19 @@
+{
+  "step": 1910,
+  "query": [
+    "21292",
+    "20374"
+  ],
+  "response": [
+    "C8_19339917E-077C59F4B",
+    "29.1680@gmail.com> include-key-hash $D"
+  ],
+  "victim_response": [
+    "C8_19339917E-077C59F4B",
+    "29.1680@gmail.com> include-key-hash $D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

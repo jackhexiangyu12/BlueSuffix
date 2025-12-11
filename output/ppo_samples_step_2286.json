@@ -1,0 +1,19 @@
+{
+  "step": 2286,
+  "query": [
+    "20192",
+    "20648"
+  ],
+  "response": [
+    "18041\n\nAfter:\n\n\"Sausner Studio\"\n\n",
+    " as a lower-level user of the project. In the process of acquiring the"
+  ],
+  "victim_response": [
+    "18041\n\nAfter:\n\n\"Sausner Studio\"\n\n",
+    " as a lower-level user of the project. In the process of acquiring the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

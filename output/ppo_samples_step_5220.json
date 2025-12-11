@@ -1,0 +1,19 @@
+{
+  "step": 5220,
+  "query": [
+    "20445",
+    "21781"
+  ],
+  "response": [
+    "5862 9511232341012201192346420165980910",
+    "icH1 from ibisbanatids-IBS/api/mat"
+  ],
+  "victim_response": [
+    "5862 9511232341012201192346420165980910",
+    "icH1 from ibisbanatids-IBS/api/mat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

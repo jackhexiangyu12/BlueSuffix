@@ -1,0 +1,19 @@
+{
+  "step": 10480,
+  "query": [
+    "20062",
+    "20583"
+  ],
+  "response": [
+    "7575007807448 dca775ComTelTimeDiscovery d",
+    "161afdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "victim_response": [
+    "7575007807448 dca775ComTelTimeDiscovery d",
+    "161afdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8692,
+  "query": [
+    "20257",
+    "21760"
+  ],
+  "response": [
+    " \"B-protein000 \" niadblock 1 d d d d d d",
+    "6763279\" security type idc_scr\" baoaogh"
+  ],
+  "victim_response": [
+    " \"B-protein000 \" niadblock 1 d d d d d d",
+    "6763279\" security type idc_scr\" baoaogh"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 12608,
+  "query": [
+    "20282",
+    "20771"
+  ],
+  "response": [
+    " Failing: Fitting your G77 to F7d7d7",
+    " counter is the 9th most common area of attack a high amount of attacks hit"
+  ],
+  "victim_response": [
+    " Failing: Fitting your G77 to F7d7d7",
+    " counter is the 9th most common area of attack a high amount of attacks hit"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

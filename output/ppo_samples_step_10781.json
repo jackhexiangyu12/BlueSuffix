@@ -1,0 +1,19 @@
+{
+  "step": 10781,
+  "query": [
+    "20282",
+    "20934"
+  ],
+  "response": [
+    " wwpn1 wpn2dizm hpn1wpnpn",
+    ", you can follow the train the way it does on the train track next to"
+  ],
+  "victim_response": [
+    " wwpn1 wpn2dizm hpn1wpnpn",
+    ", you can follow the train the way it does on the train track next to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1348,
+  "query": [
+    "21529",
+    "20047"
+  ],
+  "response": [
+    "283030,1569-59,60-59-29,30",
+    ".\n\nNot too many.\n\nI don't know.\n\n"
+  ],
+  "victim_response": [
+    "283030,1569-59,60-59-29,30",
+    ".\n\nNot too many.\n\nI don't know.\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

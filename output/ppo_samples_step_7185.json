@@ -1,0 +1,19 @@
+{
+  "step": 7185,
+  "query": [
+    "20411",
+    "20158"
+  ],
+  "response": [
+    "56appleappleappleappleappleappleappleAppleAppleappleappleAppleAppleAppleApple",
+    "46[76377d7d7D7D7D7D7"
+  ],
+  "victim_response": [
+    "56appleappleappleappleappleappleappleAppleAppleappleappleAppleAppleAppleApple",
+    "46[76377d7d7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

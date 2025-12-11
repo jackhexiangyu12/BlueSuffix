@@ -1,0 +1,19 @@
+{
+  "step": 4264,
+  "query": [
+    "21672",
+    "20593"
+  ],
+  "response": [
+    "10\\myf, bnh, cb776607964",
+    " more, the next (the first) addition is any more than the last is"
+  ],
+  "victim_response": [
+    "10\\myf, bnh, cb776607964",
+    " more, the next (the first) addition is any more than the last is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

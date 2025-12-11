@@ -1,0 +1,19 @@
+{
+  "step": 22011,
+  "query": [
+    "20934",
+    "21520"
+  ],
+  "response": [
+    "F F F F F F F F F F F F F F F F",
+    "7323 00 F regge 7703 F key P P dom forward F reg"
+  ],
+  "victim_response": [
+    "F F F F F F F F F F F F F F F F",
+    "7323 00 F regge 7703 F key P P dom forward F reg"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

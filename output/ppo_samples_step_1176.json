@@ -1,0 +1,19 @@
+{
+  "step": 1176,
+  "query": [
+    "20403",
+    "21546"
+  ],
+  "response": [
+    "23.\n\nWe are sorry, the products you've selected are either unavailable",
+    "\n\n\n117250\n\n117552\n\n117552"
+  ],
+  "victim_response": [
+    "23.\n\nWe are sorry, the products you've selected are either unavailable",
+    "\n\n\n117250\n\n117552\n\n117552"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

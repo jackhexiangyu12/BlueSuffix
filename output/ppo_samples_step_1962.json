@@ -1,0 +1,19 @@
+{
+  "step": 1962,
+  "query": [
+    "21483",
+    "20925"
+  ],
+  "response": [
+    "32\n\n\nThis is the place where we all get our beers, it's",
+    "/m1.28, $60\n\nThe Diverse is a project"
+  ],
+  "victim_response": [
+    "32\n\n\nThis is the place where we all get our beers, it's",
+    "/m1.28, $60\n\nThe Diverse is a project"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

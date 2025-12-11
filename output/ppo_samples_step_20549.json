@@ -1,0 +1,19 @@
+{
+  "step": 20549,
+  "query": [
+    "21796",
+    "21441"
+  ],
+  "response": [
+    "7F7 F7F7F7F7 F7F7 F",
+    " The world is full of smoke,\" the New York Times reported in the day before"
+  ],
+  "victim_response": [
+    "7F7 F7F7F7F7 F7F7 F",
+    " The world is full of smoke,\" the New York Times reported in the day before"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2891,
+  "query": [
+    "21822",
+    "20757"
+  ],
+  "response": [
+    " to 45834 for 504 (on \"a\", \"h\"), and",
+    ", where it is located is \"three\"\n\n- This is a similar"
+  ],
+  "victim_response": [
+    " to 45834 for 504 (on \"a\", \"h\"), and",
+    ", where it is located is \"three\"\n\n- This is a similar"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

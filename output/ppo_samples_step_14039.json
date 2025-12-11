@@ -1,0 +1,19 @@
+{
+  "step": 14039,
+  "query": [
+    "20968",
+    "21608"
+  ],
+  "response": [
+    "/ Moby Top bmx version 60300 70176 070707",
+    "9D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "/ Moby Top bmx version 60300 70176 070707",
+    "9D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

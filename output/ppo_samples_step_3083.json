@@ -1,0 +1,19 @@
+{
+  "step": 3083,
+  "query": [
+    "21888",
+    "20697"
+  ],
+  "response": [
+    "68, DYNAMIC\n\n752683837 17 Apple\n\n",
+    "an' is the best place to show your Honda.\n\n- New year"
+  ],
+  "victim_response": [
+    "68, DYNAMIC\n\n752683837 17 Apple\n\n",
+    "an' is the best place to show your Honda.\n\n- New year"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

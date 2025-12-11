@@ -1,0 +1,19 @@
+{
+  "step": 18791,
+  "query": [
+    "20223",
+    "20993"
+  ],
+  "response": [
+    " k NP FZ F Counter Agent NP NP NP NP NP NP NP NP NP",
+    " brainer Louisa radico-coffee park rojas carina rojas"
+  ],
+  "victim_response": [
+    " k NP FZ F Counter Agent NP NP NP NP NP NP NP NP NP",
+    " brainer Louisa radico-coffee park rojas carina rojas"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1572,
+  "query": [
+    "21672",
+    "21209"
+  ],
+  "response": [
+    ", which is the only one of these is a bunch of true, as we",
+    "5,\"-1,B2F63-1\",\"-1\",\"9"
+  ],
+  "victim_response": [
+    ", which is the only one of these is a bunch of true, as we",
+    "5,\"-1,B2F63-1\",\"-1\",\"9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

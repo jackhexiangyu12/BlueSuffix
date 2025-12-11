@@ -1,0 +1,19 @@
+{
+  "step": 4515,
+  "query": [
+    "20612",
+    "20934"
+  ],
+  "response": [
+    ".p2d-12f0ca8d2fcf8d",
+    "75 a61_21 (Mapping the same weight as an \"W\""
+  ],
+  "victim_response": [
+    ".p2d-12f0ca8d2fcf8d",
+    "75 a61_21 (Mapping the same weight as an \"W\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

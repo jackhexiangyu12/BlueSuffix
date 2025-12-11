@@ -1,0 +1,19 @@
+{
+  "step": 4440,
+  "query": [
+    "21368",
+    "21126"
+  ],
+  "response": [
+    "\", type=\"str\" length=\"0\", type_type=\"string\", type",
+    ": http://www.troublefish.com/big-spac"
+  ],
+  "victim_response": [
+    "\", type=\"str\" length=\"0\", type_type=\"string\", type",
+    ": http://www.troublefish.com/big-spac"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

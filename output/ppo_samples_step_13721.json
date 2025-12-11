@@ -1,0 +1,19 @@
+{
+  "step": 13721,
+  "query": [
+    "21181",
+    "20000"
+  ],
+  "response": [
+    "201441 Need to show the longer form of the cost-sheet a cost waiting",
+    "0095009501010011000071250000701207500000000000001"
+  ],
+  "victim_response": [
+    "201441 Need to show the longer form of the cost-sheet a cost waiting",
+    "0095009501010011000071250000701207500000000000001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14272,
+  "query": [
+    "21181",
+    "20648"
+  ],
+  "response": [
+    " DDR3 monitor mn 7 CPU Caching chip MFT DCH7D7",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " DDR3 monitor mn 7 CPU Caching chip MFT DCH7D7",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3392,
+  "query": [
+    "20042",
+    "21797"
+  ],
+  "response": [
+    "C+(23,0-1525/4,2655/4,",
+    "01 a. make_over_s1_purchase_in_c"
+  ],
+  "victim_response": [
+    "C+(23,0-1525/4,2655/4,",
+    "01 a. make_over_s1_purchase_in_c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

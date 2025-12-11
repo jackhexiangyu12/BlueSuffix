@@ -1,0 +1,19 @@
+{
+  "step": 1173,
+  "query": [
+    "20497",
+    "21090"
+  ],
+  "response": [
+    ".\n\n\n\"It's the most important thing that we have ever done",
+    "] [0011.91] Init: Computer start [0x0011"
+  ],
+  "victim_response": [
+    ".\n\n\n\"It's the most important thing that we have ever done",
+    "] [0011.91] Init: Computer start [0x0011"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9405,
+  "query": [
+    "20331",
+    "20757"
+  ],
+  "response": [
+    "DDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    " Cisco NVN 0003 7D9D9D0D9D7"
+  ],
+  "victim_response": [
+    "DDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    " Cisco NVN 0003 7D9D9D0D9D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

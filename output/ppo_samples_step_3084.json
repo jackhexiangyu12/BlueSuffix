@@ -1,0 +1,19 @@
+{
+  "step": 3084,
+  "query": [
+    "20040",
+    "21781"
+  ],
+  "response": [
+    "-2 The Times is a network of the news publishers that have been involved in",
+    "-3\n\n(WashingtonPath) is a free database of donors to"
+  ],
+  "victim_response": [
+    "-2 The Times is a network of the news publishers that have been involved in",
+    "-3\n\n(WashingtonPath) is a free database of donors to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

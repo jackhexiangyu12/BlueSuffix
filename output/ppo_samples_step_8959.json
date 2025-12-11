@@ -1,0 +1,19 @@
+{
+  "step": 8959,
+  "query": [
+    "21781",
+    "20463"
+  ],
+  "response": [
+    "797da7da7ca7da7da7da7da7da",
+    " 2700 Charizard Catcher 14787 Charizard Catcher 14787 Charizard"
+  ],
+  "victim_response": [
+    "797da7da7ca7da7da7da7da7da",
+    " 2700 Charizard Catcher 14787 Charizard Catcher 14787 Charizard"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

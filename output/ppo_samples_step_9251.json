@@ -1,0 +1,19 @@
+{
+  "step": 9251,
+  "query": [
+    "21233",
+    "21620"
+  ],
+  "response": [
+    "d7d7c7c7c7d7d7c7",
+    "120 is cooked (dir=fsfsfsfsfsfsfsfsfsfs"
+  ],
+  "victim_response": [
+    "d7d7c7c7c7d7d7c7",
+    "120 is cooked (dir=fsfsfsfsfsfsfsfsfsfs"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

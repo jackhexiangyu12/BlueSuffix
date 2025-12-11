@@ -1,0 +1,19 @@
+{
+  "step": 10601,
+  "query": [
+    "21232",
+    "21160"
+  ],
+  "response": [
+    "01 delta single 200108, 926976 76800000000000760d00",
+    " Acelli cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "01 delta single 200108, 926976 76800000000000760d00",
+    " Acelli cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

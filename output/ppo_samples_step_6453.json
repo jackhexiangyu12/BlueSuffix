@@ -1,0 +1,19 @@
+{
+  "step": 6453,
+  "query": [
+    "21483",
+    "20504"
+  ],
+  "response": [
+    "105\", wnax:NumberBracketProgram (9))) = aast",
+    "-coca-1D91D1dDd6Add"
+  ],
+  "victim_response": [
+    "105\", wnax:NumberBracketProgram (9))) = aast",
+    "-coca-1D91D1dDd6Add"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

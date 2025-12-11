@@ -1,0 +1,19 @@
+{
+  "step": 3775,
+  "query": [
+    "20901",
+    "20908"
+  ],
+  "response": [
+    "c4d9d9a79b7b2c7d69",
+    "5b 1.0 for assets\n\nand some of the most interesting demos"
+  ],
+  "victim_response": [
+    "c4d9d9a79b7b2c7d69",
+    "5b 1.0 for assets\n\nand some of the most interesting demos"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

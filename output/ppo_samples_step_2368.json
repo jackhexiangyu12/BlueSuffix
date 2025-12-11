@@ -1,0 +1,19 @@
+{
+  "step": 2368,
+  "query": [
+    "21652",
+    "20192"
+  ],
+  "response": [
+    " should have a relative size of 1.0.\n\nWe'll need to",
+    ".\n\n(5) N. of 542; (5) N"
+  ],
+  "victim_response": [
+    " should have a relative size of 1.0.\n\nWe'll need to",
+    ".\n\n(5) N. of 542; (5) N"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

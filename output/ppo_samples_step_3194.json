@@ -1,0 +1,19 @@
+{
+  "step": 3194,
+  "query": [
+    "21529",
+    "20663"
+  ],
+  "response": [
+    " did not check if there is a set of X or zero of the two numbers",
+    "\n\nSellOut Crop 4): $20.20\n\nH"
+  ],
+  "victim_response": [
+    " did not check if there is a set of X or zero of the two numbers",
+    "\n\nSellOut Crop 4): $20.20\n\nH"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

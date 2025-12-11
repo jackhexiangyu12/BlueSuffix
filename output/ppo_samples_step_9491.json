@@ -1,0 +1,19 @@
+{
+  "step": 9491,
+  "query": [
+    "21262",
+    "21160"
+  ],
+  "response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " DREAMING video codec codec codec codec codec codec codec codec codec codec codec codec"
+  ],
+  "victim_response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " DREAMING video codec codec codec codec codec codec codec codec codec codec codec codec"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9850,
+  "query": [
+    "20000",
+    "20800"
+  ],
+  "response": [
+    " ATSRif D0003 D0005 C0007 D0006",
+    " and called the Pam and X1X1 prays from the radiant sensor"
+  ],
+  "victim_response": [
+    " ATSRif D0003 D0005 C0007 D0006",
+    " and called the Pam and X1X1 prays from the radiant sensor"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

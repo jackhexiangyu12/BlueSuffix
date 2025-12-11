@@ -1,0 +1,19 @@
+{
+  "step": 501,
+  "query": [
+    "21620",
+    "21047"
+  ],
+  "response": [
+    "39-0x0f7-9b3-00dd3b",
+    "41\n\nYou may need to install the following packages to use this content."
+  ],
+  "victim_response": [
+    "39-0x0f7-9b3-00dd3b",
+    "41\n\nYou may need to install the following packages to use this content."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

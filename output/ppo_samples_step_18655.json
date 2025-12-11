@@ -1,0 +1,19 @@
+{
+  "step": 18655,
+  "query": [
+    "21520",
+    "20925"
+  ],
+  "response": [
+    "21220 19 Queens entry 212212212212 217212212212 212212212",
+    " set seed at 27837575 seed seed R set seed X set seed W"
+  ],
+  "victim_response": [
+    "21220 19 Queens entry 212212212212 217212212212 212212212",
+    " set seed at 27837575 seed seed R set seed X set seed W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

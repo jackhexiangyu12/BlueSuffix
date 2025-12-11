@@ -1,0 +1,19 @@
+{
+  "step": 1698,
+  "query": [
+    "20934",
+    "20846"
+  ],
+  "response": [
+    ".zip (2.9.5.1) from Men http://www",
+    " (as of July 1, 2016)"
+  ],
+  "victim_response": [
+    ".zip (2.9.5.1) from Men http://www",
+    " (as of July 1, 2016)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

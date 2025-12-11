@@ -1,0 +1,19 @@
+{
+  "step": 3295,
+  "query": [
+    "21125",
+    "20887"
+  ],
+  "response": [
+    "L-A14F1C-34FDFDFDFDDFD",
+    "-962840 and print out the first 4,000.\nThe first"
+  ],
+  "victim_response": [
+    "L-A14F1C-34FDFDFDFDDFD",
+    "-962840 and print out the first 4,000.\nThe first"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

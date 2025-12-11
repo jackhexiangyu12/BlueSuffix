@@ -1,0 +1,19 @@
+{
+  "step": 3830,
+  "query": [
+    "20062",
+    "21483"
+  ],
+  "response": [
+    "n pic.ak_mcc_sorb\n\n9-5",
+    ",0o6L2A4417FW2,or6df"
+  ],
+  "victim_response": [
+    "n pic.ak_mcc_sorb\n\n9-5",
+    ",0o6L2A4417FW2,or6df"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

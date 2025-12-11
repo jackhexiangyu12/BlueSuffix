@@ -1,0 +1,19 @@
+{
+  "step": 12567,
+  "query": [
+    "20252",
+    "21291"
+  ],
+  "response": [
+    " 32 root key root root root root root root root root root root root root root",
+    "686131d7a7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " 32 root key root root root root root root root root root root root root root",
+    "686131d7a7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

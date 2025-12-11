@@ -1,0 +1,19 @@
+{
+  "step": 17484,
+  "query": [
+    "21796",
+    "21550"
+  ],
+  "response": [
+    " D Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9",
+    " would be a small white square cell, with a single tile slot one tile head"
+  ],
+  "victim_response": [
+    " D Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9 Qu\u00e9",
+    " would be a small white square cell, with a single tile slot one tile head"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

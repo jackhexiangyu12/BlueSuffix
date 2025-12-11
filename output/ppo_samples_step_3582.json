@@ -1,0 +1,19 @@
+{
+  "step": 3582,
+  "query": [
+    "20887",
+    "20138"
+  ],
+  "response": [
+    "29407 a a and c\n\n9 A.T.R.A",
+    "No.MyCpuVB.CO (IPVBS9J"
+  ],
+  "victim_response": [
+    "29407 a a and c\n\n9 A.T.R.A",
+    "No.MyCpuVB.CO (IPVBS9J"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

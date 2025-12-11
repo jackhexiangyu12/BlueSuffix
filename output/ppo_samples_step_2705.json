@@ -1,0 +1,19 @@
+{
+  "step": 2705,
+  "query": [
+    "20968",
+    "21669"
+  ],
+  "response": [
+    "20,10440456\n\nGuitar = M2DV\n",
+    "*e85 b|7:aspirin,c1,t|"
+  ],
+  "victim_response": [
+    "20,10440456\n\nGuitar = M2DV\n",
+    "*e85 b|7:aspirin,c1,t|"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

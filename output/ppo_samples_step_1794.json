@@ -1,0 +1,19 @@
+{
+  "step": 1794,
+  "query": [
+    "20534",
+    "21023"
+  ],
+  "response": [
+    "_9a5f4d47d7d3a8f9",
+    ".dll, 2901-02-9 AS-IS 5.0."
+  ],
+  "victim_response": [
+    "_9a5f4d47d7d3a8f9",
+    ".dll, 2901-02-9 AS-IS 5.0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

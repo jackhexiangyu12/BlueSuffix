@@ -1,0 +1,19 @@
+{
+  "step": 15632,
+  "query": [
+    "21191",
+    "21303"
+  ],
+  "response": [
+    " machinenumber 7FA set no registration command 7FA07 \" FA07 F7",
+    "B9D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " machinenumber 7FA set no registration command 7FA07 \" FA07 F7",
+    "B9D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

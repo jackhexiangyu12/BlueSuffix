@@ -1,0 +1,19 @@
+{
+  "step": 7920,
+  "query": [
+    "21924",
+    "21041"
+  ],
+  "response": [
+    "109D D D D D D D D D D D D D D D",
+    "C7 to CFPcells cells; One dose of 9-20 FAA"
+  ],
+  "victim_response": [
+    "109D D D D D D D D D D D D D D D",
+    "C7 to CFPcells cells; One dose of 9-20 FAA"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

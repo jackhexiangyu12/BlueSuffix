@@ -1,0 +1,19 @@
+{
+  "step": 3805,
+  "query": [
+    "21707",
+    "20341"
+  ],
+  "response": [
+    "' (13695136061) lens: max temp max/mm/",
+    "-34\", \"1\", \"t_b\", \"b"
+  ],
+  "victim_response": [
+    "' (13695136061) lens: max temp max/mm/",
+    "-34\", \"1\", \"t_b\", \"b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

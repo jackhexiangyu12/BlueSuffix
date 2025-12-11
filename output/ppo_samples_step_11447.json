@@ -1,0 +1,19 @@
+{
+  "step": 11447,
+  "query": [
+    "21672",
+    "20655"
+  ],
+  "response": [
+    "cm wait tronstrufs cell-phone \"No cell phone call\" blink",
+    " arididx ar ar ar ar ar ar ar ar ar ar ar ar"
+  ],
+  "victim_response": [
+    "cm wait tronstrufs cell-phone \"No cell phone call\" blink",
+    " arididx ar ar ar ar ar ar ar ar ar ar ar ar"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

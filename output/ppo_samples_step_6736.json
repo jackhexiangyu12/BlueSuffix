@@ -1,0 +1,19 @@
+{
+  "step": 6736,
+  "query": [
+    "20887",
+    "20968"
+  ],
+  "response": [
+    "015258 gohash tigerbedd-guizh/mode2 qid",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    "015258 gohash tigerbedd-guizh/mode2 qid",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

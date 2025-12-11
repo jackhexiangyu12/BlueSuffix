@@ -1,0 +1,19 @@
+{
+  "step": 191,
+  "query": [
+    "20144",
+    "21081"
+  ],
+  "response": [
+    "67} (from: 7.9.1.1.0, 1",
+    "-0.3.0.1.8.jar) Unloaded->Constructed"
+  ],
+  "victim_response": [
+    "67} (from: 7.9.1.1.0, 1",
+    "-0.3.0.1.8.jar) Unloaded->Constructed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

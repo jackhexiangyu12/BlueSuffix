@@ -1,0 +1,19 @@
+{
+  "step": 377,
+  "query": [
+    "20307",
+    "21209"
+  ],
+  "response": [
+    " | D:9 | Reached skill level 9 in Maces & Flails 13",
+    "09090909090909090909090909090909"
+  ],
+  "victim_response": [
+    " | D:9 | Reached skill level 9 in Maces & Flails 13",
+    "09090909090909090909090909090909"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

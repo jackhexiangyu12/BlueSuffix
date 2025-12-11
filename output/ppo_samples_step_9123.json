@@ -1,0 +1,19 @@
+{
+  "step": 9123,
+  "query": [
+    "21047",
+    "20295"
+  ],
+  "response": [
+    "x2 McDonald's Inc dconn Consumer 18D 775 787 774",
+    "19 T3 during the smoke drive (pilot test) in the video captured"
+  ],
+  "victim_response": [
+    "x2 McDonald's Inc dconn Consumer 18D 775 787 774",
+    "19 T3 during the smoke drive (pilot test) in the video captured"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

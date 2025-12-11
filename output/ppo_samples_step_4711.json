@@ -1,0 +1,19 @@
+{
+  "step": 4711,
+  "query": [
+    "21669",
+    "20224"
+  ],
+  "response": [
+    " University of Massachusetts, Amher, 4961,974 mdn.",
+    "Telcsd_in_c6dbe3673a7dbe"
+  ],
+  "victim_response": [
+    " University of Massachusetts, Amher, 4961,974 mdn.",
+    "Telcsd_in_c6dbe3673a7dbe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

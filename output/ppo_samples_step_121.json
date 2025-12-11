@@ -1,0 +1,19 @@
+{
+  "step": 121,
+  "query": [
+    "21543",
+    "21781"
+  ],
+  "response": [
+    "27\n\n) and the equivalent of the number of words in the (general",
+    "-0303.\n\np. 115.\n\n\n76\n\n"
+  ],
+  "victim_response": [
+    "27\n\n) and the equivalent of the number of words in the (general",
+    "-0303.\n\np. 115.\n\n\n76\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

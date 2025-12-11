@@ -1,0 +1,19 @@
+{
+  "step": 12882,
+  "query": [
+    "20670",
+    "20401"
+  ],
+  "response": [
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee",
+    "01010101 01 0015010101010101 010101"
+  ],
+  "victim_response": [
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee",
+    "01010101 01 0015010101010101 010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

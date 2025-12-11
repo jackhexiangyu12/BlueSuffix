@@ -1,0 +1,19 @@
+{
+  "step": 4351,
+  "query": [
+    "20281",
+    "21608"
+  ],
+  "response": [
+    " (com.apple.jfc/ptatt) 99 to_1 (",
+    "8a8dd9f9f934d3c5b4"
+  ],
+  "victim_response": [
+    " (com.apple.jfc/ptatt) 99 to_1 (",
+    "8a8dd9f9f934d3c5b4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

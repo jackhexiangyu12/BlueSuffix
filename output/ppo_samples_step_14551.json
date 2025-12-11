@@ -1,0 +1,19 @@
+{
+  "step": 14551,
+  "query": [
+    "21377",
+    "20106"
+  ],
+  "response": [
+    "7DD7D7D7D7D7D7D7",
+    ") Arizona reactor 2007 PHCHC143 00 0 FCC00 D03 D"
+  ],
+  "victim_response": [
+    "7DD7D7D7D7D7D7D7",
+    ") Arizona reactor 2007 PHCHC143 00 0 FCC00 D03 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

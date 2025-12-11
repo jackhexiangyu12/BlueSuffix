@@ -1,0 +1,19 @@
+{
+  "step": 1455,
+  "query": [
+    "21185",
+    "20934"
+  ],
+  "response": [
+    "x1.crt,\n\n\" m_name_key_d",
+    "\n\nFFCA\n\n\"Like all of our friends, we have"
+  ],
+  "victim_response": [
+    "x1.crt,\n\n\" m_name_key_d",
+    "\n\nFFCA\n\n\"Like all of our friends, we have"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

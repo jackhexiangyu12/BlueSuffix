@@ -1,0 +1,19 @@
+{
+  "step": 2042,
+  "query": [
+    "20138",
+    "20257"
+  ],
+  "response": [
+    "73\", \"default_dequeue_list\": \"01:2\"",
+    "\n\n\n\nS,G9,G10,B10,B"
+  ],
+  "victim_response": [
+    "73\", \"default_dequeue_list\": \"01:2\"",
+    "\n\n\n\nS,G9,G10,B10,B"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10205,
+  "query": [
+    "20281",
+    "20403"
+  ],
+  "response": [
+    "-h5b7d7f7fb77fb77b",
+    "D 802 D2 D cable cable is now tunable on 802 802 D cable"
+  ],
+  "victim_response": [
+    "-h5b7d7f7fb77fb77b",
+    "D 802 D2 D cable cable is now tunable on 802 802 D cable"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4490,
+  "query": [
+    "20223",
+    "21081"
+  ],
+  "response": [
+    "C9BA7FC34CC1C7FCC9C9",
+    ",3 S,00123 S0132 S008 S0253 S01"
+  ],
+  "victim_response": [
+    "C9BA7FC34CC1C7FCC9C9",
+    ",3 S,00123 S0132 S008 S0253 S01"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

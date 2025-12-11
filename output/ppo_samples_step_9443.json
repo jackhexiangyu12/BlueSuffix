@@ -1,0 +1,19 @@
+{
+  "step": 9443,
+  "query": [
+    "20045",
+    "20626"
+  ],
+  "response": [
+    "773 Verizon Wireless AT&T Telus Verizon Wireless Communications Tel-Pacific Verizon Wireless",
+    "c4c7d7d7d7d7d7d7"
+  ],
+  "victim_response": [
+    "773 Verizon Wireless AT&T Telus Verizon Wireless Communications Tel-Pacific Verizon Wireless",
+    "c4c7d7d7d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13468,
+  "query": [
+    "20138",
+    "21356"
+  ],
+  "response": [
+    " F F F F F F F F F F F F F F F F",
+    " Driver dbaDriver CW Driver RFID driver 4 dba Driver dba Driver"
+  ],
+  "victim_response": [
+    " F F F F F F F F F F F F F F F F",
+    " Driver dbaDriver CW Driver RFID driver 4 dba Driver dba Driver"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

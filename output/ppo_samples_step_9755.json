@@ -1,0 +1,19 @@
+{
+  "step": 9755,
+  "query": [
+    "20178",
+    "20836"
+  ],
+  "response": [
+    ".02 1 45-78.0197D Smith Doses 798 D",
+    "00 complete one-to-one mapping of the RDCCS. TCP packet"
+  ],
+  "victim_response": [
+    ".02 1 45-78.0197D Smith Doses 798 D",
+    "00 complete one-to-one mapping of the RDCCS. TCP packet"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

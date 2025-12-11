@@ -1,0 +1,19 @@
+{
+  "step": 1395,
+  "query": [
+    "20653",
+    "20040"
+  ],
+  "response": [
+    "]\n\n[1] http://www.itepedia.com/",
+    "\".\n\nIn the above table the amounts are taken from the end of the"
+  ],
+  "victim_response": [
+    "]\n\n[1] http://www.itepedia.com/",
+    "\".\n\nIn the above table the amounts are taken from the end of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

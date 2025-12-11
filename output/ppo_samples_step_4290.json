@@ -1,0 +1,19 @@
+{
+  "step": 4290,
+  "query": [
+    "21435",
+    "21888"
+  ],
+  "response": [
+    "67837173696524514084f79df5528bc",
+    ": mBTC=stuporsky_coin_4cd6t4"
+  ],
+  "victim_response": [
+    "67837173696524514084f79df5528bc",
+    ": mBTC=stuporsky_coin_4cd6t4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13832,
+  "query": [
+    "21000",
+    "21418"
+  ],
+  "response": [
+    " next chief\nNoun is the most successful leader of any political party.\n",
+    "AFDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " next chief\nNoun is the most successful leader of any political party.\n",
+    "AFDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

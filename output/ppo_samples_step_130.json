@@ -1,0 +1,19 @@
+{
+  "step": 130,
+  "query": [
+    "20534",
+    "20445"
+  ],
+  "response": [
+    "13\", \"channelAvailability\" : \"BuyableInstoreAndOnline\", \"inventoryQuantity\" : \"0.",
+    " - $3.99 $3.99 - $5.99 - $"
+  ],
+  "victim_response": [
+    "13\", \"channelAvailability\" : \"BuyableInstoreAndOnline\", \"inventoryQuantity\" : \"0.",
+    " - $3.99 $3.99 - $5.99 - $"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

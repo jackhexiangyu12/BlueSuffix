@@ -1,0 +1,19 @@
+{
+  "step": 5952,
+  "query": [
+    "21418",
+    "21909"
+  ],
+  "response": [
+    "\" and \"mwarpy\" l=d{d2d11",
+    "7d7d78c84bc9dcccc5dccf"
+  ],
+  "victim_response": [
+    "\" and \"mwarpy\" l=d{d2d11",
+    "7d7d78c84bc9dcccc5dccf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

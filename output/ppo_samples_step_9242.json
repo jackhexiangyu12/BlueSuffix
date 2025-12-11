@@ -1,0 +1,19 @@
+{
+  "step": 9242,
+  "query": [
+    "20697",
+    "20396"
+  ],
+  "response": [
+    " the number of units sold by the first day of the first week of the month",
+    "2036926000DBDBDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "victim_response": [
+    " the number of units sold by the first day of the first week of the month",
+    "2036926000DBDBDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9715,
+  "query": [
+    "21041",
+    "21023"
+  ],
+  "response": [
+    " 00 8 rhk-030023 07 rhk0023 00 rhk",
+    "57ms daxppcomp mcdx xmx xmxmxmx"
+  ],
+  "victim_response": [
+    " 00 8 rhk-030023 07 rhk0023 00 rhk",
+    "57ms daxppcomp mcdx xmx xmxmxmx"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

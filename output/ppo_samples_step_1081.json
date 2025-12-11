@@ -1,0 +1,19 @@
+{
+  "step": 1081,
+  "query": [
+    "20252",
+    "20655"
+  ],
+  "response": [
+    "\":{\"title\":\"2019\",\"status\":\"\",\"url\":\"https://bikeshap",
+    " | Lair:3 | Identified the cursed -1 hat of the Shifting X"
+  ],
+  "victim_response": [
+    "\":{\"title\":\"2019\",\"status\":\"\",\"url\":\"https://bikeshap",
+    " | Lair:3 | Identified the cursed -1 hat of the Shifting X"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

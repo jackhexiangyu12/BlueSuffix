@@ -1,0 +1,19 @@
+{
+  "step": 14800,
+  "query": [
+    "21900",
+    "20224"
+  ],
+  "response": [
+    "2000000000000000000000077000000000080070000000000000000000000007000000007",
+    "ffee potato peas brown sugar sweet peppers 2 tablespoons smoked cauliflower brown sugar sugar potatoes"
+  ],
+  "victim_response": [
+    "2000000000000000000000077000000000080070000000000000000000000007000000007",
+    "ffee potato peas brown sugar sweet peppers 2 tablespoons smoked cauliflower brown sugar sugar potatoes"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

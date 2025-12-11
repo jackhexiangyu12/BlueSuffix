@@ -1,0 +1,19 @@
+{
+  "step": 1052,
+  "query": [
+    "21185",
+    "20106"
+  ],
+  "response": [
+    "-7911-01",
+    "6.\n\nThis is an interactive tutorial about how to use the web browser"
+  ],
+  "victim_response": [
+    "-7911-01",
+    "6.\n\nThis is an interactive tutorial about how to use the web browser"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

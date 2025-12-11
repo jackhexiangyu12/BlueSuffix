@@ -1,0 +1,19 @@
+{
+  "step": 13062,
+  "query": [
+    "21363",
+    "21739"
+  ],
+  "response": [
+    "00 ThePimp is the 2nd push of the ECC a step 60",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "00 ThePimp is the 2nd push of the ECC a step 60",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

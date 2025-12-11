@@ -1,0 +1,19 @@
+{
+  "step": 1238,
+  "query": [
+    "21363",
+    "20518"
+  ],
+  "response": [
+    "22\" [\"name\"]=> string(0(0) \"\" [\"firstName\"]=>",
+    ".\n(C) Every year, the Council shall adopt a resolution, and"
+  ],
+  "victim_response": [
+    "22\" [\"name\"]=> string(0(0) \"\" [\"firstName\"]=>",
+    ".\n(C) Every year, the Council shall adopt a resolution, and"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

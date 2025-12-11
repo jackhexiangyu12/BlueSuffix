@@ -1,0 +1,19 @@
+{
+  "step": 1361,
+  "query": [
+    "20252",
+    "20670"
+  ],
+  "response": [
+    ", and corresponding numbers for\n\n1.14887925\n\n0",
+    ", 5715, 4,27,29, 3066\n\n32 M"
+  ],
+  "victim_response": [
+    ", and corresponding numbers for\n\n1.14887925\n\n0",
+    ", 5715, 4,27,29, 3066\n\n32 M"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

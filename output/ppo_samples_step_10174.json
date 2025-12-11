@@ -1,0 +1,19 @@
+{
+  "step": 10174,
+  "query": [
+    "21496",
+    "21541"
+  ],
+  "response": [
+    "7223cc6d7ca4aa059cb96c7d",
+    " University of California California at Berkeley Berkeley Berkeley San Francisco Berkeley Berkeley Berkeley Berkeley Berkeley Berkeley"
+  ],
+  "victim_response": [
+    "7223cc6d7ca4aa059cb96c7d",
+    " University of California California at Berkeley Berkeley Berkeley San Francisco Berkeley Berkeley Berkeley Berkeley Berkeley Berkeley"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

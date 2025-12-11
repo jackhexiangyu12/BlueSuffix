@@ -1,0 +1,19 @@
+{
+  "step": 1583,
+  "query": [
+    "20418",
+    "20040"
+  ],
+  "response": [
+    "\nIsolated, then we can be sure that this is the \"other\"",
+    "\n\nS.7, S.3, N.1, N."
+  ],
+  "victim_response": [
+    "\nIsolated, then we can be sure that this is the \"other\"",
+    "\n\nS.7, S.3, N.1, N."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

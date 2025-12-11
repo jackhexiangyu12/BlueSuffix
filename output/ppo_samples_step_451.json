@@ -1,0 +1,19 @@
+{
+  "step": 451,
+  "query": [
+    "20144",
+    "21125"
+  ],
+  "response": [
+    ", Windows RT10, Windows 8.1, Windows Server 2003, Windows,",
+    "706480579312372040508394624112935"
+  ],
+  "victim_response": [
+    ", Windows RT10, Windows 8.1, Windows Server 2003, Windows,",
+    "706480579312372040508394624112935"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6018,
+  "query": [
+    "21119",
+    "21441"
+  ],
+  "response": [
+    "\"Million_hash_mode1_0,Million_hash_",
+    " C, CYF, 1782, Jdprgsfs1k1"
+  ],
+  "victim_response": [
+    "\"Million_hash_mode1_0,Million_hash_",
+    " C, CYF, 1782, Jdprgsfs1k1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

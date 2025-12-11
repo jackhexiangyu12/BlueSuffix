@@ -1,0 +1,19 @@
+{
+  "step": 1246,
+  "query": [
+    "21546",
+    "20925"
+  ],
+  "response": [
+    "51\" \"date\" : \" 2017-03-16T21:23",
+    "\n\nBundle Box The Matrix (2012)\n\nThe Matrix (2012"
+  ],
+  "victim_response": [
+    "51\" \"date\" : \" 2017-03-16T21:23",
+    "\n\nBundle Box The Matrix (2012)\n\nThe Matrix (2012"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

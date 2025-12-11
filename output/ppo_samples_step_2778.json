@@ -1,0 +1,19 @@
+{
+  "step": 2778,
+  "query": [
+    "21292",
+    "21363"
+  ],
+  "response": [
+    ",20879,195,1,59 0,4 \"U: i",
+    "2565 $0 (non-retroactive)au-my-city"
+  ],
+  "victim_response": [
+    ",20879,195,1,59 0,4 \"U: i",
+    "2565 $0 (non-retroactive)au-my-city"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

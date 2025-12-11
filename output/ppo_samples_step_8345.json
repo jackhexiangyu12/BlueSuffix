@@ -1,0 +1,19 @@
+{
+  "step": 8345,
+  "query": [
+    "21529",
+    "20787"
+  ],
+  "response": [
+    "24573D9D7D7D9DDB9DDBDB",
+    " with ManageStartup_0M<D1420070>, has started"
+  ],
+  "victim_response": [
+    "24573D9D7D7D9DDB9DDBDB",
+    " with ManageStartup_0M<D1420070>, has started"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

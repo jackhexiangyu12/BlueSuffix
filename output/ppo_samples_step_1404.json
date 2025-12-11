@@ -1,0 +1,19 @@
+{
+  "step": 1404,
+  "query": [
+    "20360",
+    "21781"
+  ],
+  "response": [
+    ".\n\nThe \"precision\" is a powerful measure of how well the",
+    ":1513.0:38.25:127.0.0,"
+  ],
+  "victim_response": [
+    ".\n\nThe \"precision\" is a powerful measure of how well the",
+    ":1513.0:38.25:127.0.0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9642,
+  "query": [
+    "21393",
+    "20653"
+  ],
+  "response": [
+    "802 ns0 ns1 ns1 ns7 ns6 ns8 ns7 ns",
+    " 19465013a7b7a7b7b7b7b"
+  ],
+  "victim_response": [
+    "802 ns0 ns1 ns1 ns7 ns6 ns8 ns7 ns",
+    " 19465013a7b7a7b7b7b7b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

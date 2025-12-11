@@ -1,0 +1,19 @@
+{
+  "step": 3148,
+  "query": [
+    "21000",
+    "21233"
+  ],
+  "response": [
+    "=http://www.csber.org/tws/dbr/",
+    "\")\n\nreLowFilVaughn = \\frac{\\The"
+  ],
+  "victim_response": [
+    "=http://www.csber.org/tws/dbr/",
+    "\")\n\nreLowFilVaughn = \\frac{\\The"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8170,
+  "query": [
+    "21888",
+    "20559"
+  ],
+  "response": [
+    "D db1d7d7d7d7d7d7",
+    "apple_wextd6b1d7c7c7d7"
+  ],
+  "victim_response": [
+    "D db1d7d7d7d7d7d7",
+    "apple_wextd6b1d7c7c7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

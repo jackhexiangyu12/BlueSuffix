@@ -1,0 +1,19 @@
+{
+  "step": 16882,
+  "query": [
+    "21709",
+    "21406"
+  ],
+  "response": [
+    "7 spider hide our robot body armor robot body armor robot head robot robot head robots",
+    "27 Fluorescence heatpulse charger charger D Q W W W W W W"
+  ],
+  "victim_response": [
+    "7 spider hide our robot body armor robot body armor robot head robot robot head robots",
+    "27 Fluorescence heatpulse charger charger D Q W W W W W W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 24200,
+  "query": [
+    "20916",
+    "20396"
+  ],
+  "response": [
+    " the video can be found in the link above, and also can be seen here",
+    " cell was found in the brain stem cells of some patients with gene mutations that have"
+  ],
+  "victim_response": [
+    " the video can be found in the link above, and also can be seen here",
+    " cell was found in the brain stem cells of some patients with gene mutations that have"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

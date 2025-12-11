@@ -1,0 +1,19 @@
+{
+  "step": 13972,
+  "query": [
+    "21909",
+    "20090"
+  ],
+  "response": [
+    "7DDDD DDD DDD DD DD D",
+    " clock core power, a power adapter mother chipset chip chip slot 11 could be used"
+  ],
+  "victim_response": [
+    "7DDDD DDD DDD DD DD D",
+    " clock core power, a power adapter mother chipset chip chip slot 11 could be used"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

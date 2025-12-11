@@ -1,0 +1,19 @@
+{
+  "step": 1513,
+  "query": [
+    "20281",
+    "21634"
+  ],
+  "response": [
+    " (2013)\n\nInvasive breast cancer\n\n[1] Cardiovascular",
+    ".\n\nBriefs before the Supreme Court in this week are available on"
+  ],
+  "victim_response": [
+    " (2013)\n\nInvasive breast cancer\n\n[1] Cardiovascular",
+    ".\n\nBriefs before the Supreme Court in this week are available on"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

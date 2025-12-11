@@ -1,0 +1,19 @@
+{
+  "step": 17698,
+  "query": [
+    "20000",
+    "21226"
+  ],
+  "response": [
+    " 500000 funds can be set up for reserve payments only if they are withdrawn for",
+    "00000000 dffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  ],
+  "victim_response": [
+    " 500000 funds can be set up for reserve payments only if they are withdrawn for",
+    "00000000 dffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

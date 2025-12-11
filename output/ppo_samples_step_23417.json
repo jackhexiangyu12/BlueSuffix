@@ -1,0 +1,19 @@
+{
+  "step": 23417,
+  "query": [
+    "20418",
+    "20155"
+  ],
+  "response": [
+    " patent C-20118 is a patent written and patent application filed patent filed under",
+    " fast lab lab lab lab lab lab lab lab lab lab lab lab lab lab lab"
+  ],
+  "victim_response": [
+    " patent C-20118 is a patent written and patent application filed patent filed under",
+    " fast lab lab lab lab lab lab lab lab lab lab lab lab lab lab lab"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

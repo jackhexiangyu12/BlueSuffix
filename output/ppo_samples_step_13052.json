@@ -1,0 +1,19 @@
+{
+  "step": 13052,
+  "query": [
+    "21781",
+    "21845"
+  ],
+  "response": [
+    " Dinuo C1 Dinuo F1 1 Dinuo D2 D2 1",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " Dinuo C1 Dinuo F1 1 Dinuo D2 D2 1",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 22360,
+  "query": [
+    "20047",
+    "20905"
+  ],
+  "response": [
+    " n is used here because it is used in a far fewer examples of this class",
+    "77 dD D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " n is used here because it is used in a far fewer examples of this class",
+    "77 dD D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

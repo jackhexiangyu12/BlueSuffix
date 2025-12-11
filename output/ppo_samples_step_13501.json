@@ -1,0 +1,19 @@
+{
+  "step": 13501,
+  "query": [
+    "20403",
+    "20245"
+  ],
+  "response": [
+    "D DDC DDCDCDCDCDCDCDCDCDCDCDCDC",
+    " DmslockDm ph2 qpn Gpu qdq qd"
+  ],
+  "victim_response": [
+    "D DDC DDCDCDCDCDCDCDCDCDCDCDCDC",
+    " DmslockDm ph2 qpn Gpu qdq qd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

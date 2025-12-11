@@ -1,0 +1,19 @@
+{
+  "step": 177,
+  "query": [
+    "21262",
+    "20403"
+  ],
+  "response": [
+    "] [Client thread/ERROR (14): Unable to determine_class: \"",
+    " [0.7] A PCI-to-USB [0.7."
+  ],
+  "victim_response": [
+    "] [Client thread/ERROR (14): Unable to determine_class: \"",
+    " [0.7] A PCI-to-USB [0.7."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

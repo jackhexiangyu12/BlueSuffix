@@ -1,0 +1,19 @@
+{
+  "step": 757,
+  "query": [
+    "20307",
+    "20138"
+  ],
+  "response": [
+    "E3D9-F2B8F-4D13-8",
+    ": standard_version: 3.2.1_6612.zip\n"
+  ],
+  "victim_response": [
+    "E3D9-F2B8F-4D13-8",
+    ": standard_version: 3.2.1_6612.zip\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

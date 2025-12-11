@@ -1,0 +1,19 @@
+{
+  "step": 846,
+  "query": [
+    "20374",
+    "20178"
+  ],
+  "response": [
+    "18861|<b>With the Human Spectacular</b>|",
+    "_1.jpg\n\n2.jpgjpg\n\n3.jpg\n"
+  ],
+  "victim_response": [
+    "18861|<b>With the Human Spectacular</b>|",
+    "_1.jpg\n\n2.jpgjpg\n\n3.jpg\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

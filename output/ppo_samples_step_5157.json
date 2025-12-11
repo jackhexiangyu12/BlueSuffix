@@ -1,0 +1,19 @@
+{
+  "step": 5157,
+  "query": [
+    "20374",
+    "20509"
+  ],
+  "response": [
+    "TODCODDDDDDDDDDDDDDDDDDDDDDD",
+    "37001001 [4,6.1\"NN 1k limit]"
+  ],
+  "victim_response": [
+    "TODCODDDDDDDDDDDDDDDDDDDDDDD",
+    "37001001 [4,6.1\"NN 1k limit]"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

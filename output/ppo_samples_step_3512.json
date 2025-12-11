@@ -1,0 +1,19 @@
+{
+  "step": 3512,
+  "query": [
+    "20916",
+    "20993"
+  ],
+  "response": [
+    "z,5,3,0\n\n137,5,3,0",
+    ", St. C. S.W. in its current form on July 17"
+  ],
+  "victim_response": [
+    "z,5,3,0\n\n137,5,3,0",
+    ", St. C. S.W. in its current form on July 17"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

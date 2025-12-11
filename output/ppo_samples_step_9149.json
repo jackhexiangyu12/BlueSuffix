@@ -1,0 +1,19 @@
+{
+  "step": 9149,
+  "query": [
+    "21822",
+    "20934"
+  ],
+  "response": [
+    " d7d7d7d7d7d7d7d7",
+    "74 cost 2700281105 cost 12740173 cost 5973017"
+  ],
+  "victim_response": [
+    " d7d7d7d7d7d7d7d7",
+    "74 cost 2700281105 cost 12740173 cost 5973017"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

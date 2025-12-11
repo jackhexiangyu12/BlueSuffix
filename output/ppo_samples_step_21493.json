@@ -1,0 +1,19 @@
+{
+  "step": 21493,
+  "query": [
+    "20062",
+    "21822"
+  ],
+  "response": [
+    " cells were present in the hippocampal cortex but not the dentate gyrus.",
+    " com Fcat D F cat W Cat D cat F cat Cat Cat Cat Cat"
+  ],
+  "victim_response": [
+    " cells were present in the hippocampal cortex but not the dentate gyrus.",
+    " com Fcat D F cat W Cat D cat F cat Cat Cat Cat Cat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

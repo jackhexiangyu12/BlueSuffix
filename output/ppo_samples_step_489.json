@@ -1,0 +1,19 @@
+{
+  "step": 489,
+  "query": [
+    "20245",
+    "21634"
+  ],
+  "response": [
+    "70486099985537753828267942567098",
+    "\",\"content_type\":\"Video\",\"content_type_id\":1,\"content"
+  ],
+  "victim_response": [
+    "70486099985537753828267942567098",
+    "\",\"content_type\":\"Video\",\"content_type_id\":1,\"content"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

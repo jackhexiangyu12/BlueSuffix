@@ -1,0 +1,19 @@
+{
+  "step": 558,
+  "query": [
+    "20067",
+    "21483"
+  ],
+  "response": [
+    " 0.0049 0.0075 0.0067 0.0050",
+    ".\n\n'We don't want to tell people who to get to the"
+  ],
+  "victim_response": [
+    " 0.0049 0.0075 0.0067 0.0050",
+    ".\n\n'We don't want to tell people who to get to the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

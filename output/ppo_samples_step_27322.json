@@ -1,0 +1,19 @@
+{
+  "step": 27322,
+  "query": [
+    "20534",
+    "21634"
+  ],
+  "response": [
+    " is a radio figure who is the most highly rated actor in the world. He",
+    " Global music headquarters is one of the most influential global music broadcasting organizations in the world"
+  ],
+  "victim_response": [
+    " is a radio figure who is the most highly rated actor in the world. He",
+    " Global music headquarters is one of the most influential global music broadcasting organizations in the world"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

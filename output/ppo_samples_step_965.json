@@ -1,0 +1,19 @@
+{
+  "step": 965,
+  "query": [
+    "21418",
+    "20360"
+  ],
+  "response": [
+    "97, Japanese Production Code: 549\n\n549, N/A",
+    "4\n\nManhattan, NY\n\nJanuary 13, 2012\n\nApple"
+  ],
+  "victim_response": [
+    "97, Japanese Production Code: 549\n\n549, N/A",
+    "4\n\nManhattan, NY\n\nJanuary 13, 2012\n\nApple"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

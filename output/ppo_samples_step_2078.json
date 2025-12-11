@@ -1,0 +1,19 @@
+{
+  "step": 2078,
+  "query": [
+    "21191",
+    "21496"
+  ],
+  "response": [
+    ")\n\nThreads: 6, T_No_Nested_R",
+    "/jpg,contents_v__intrinsic_bbs_"
+  ],
+  "victim_response": [
+    ")\n\nThreads: 6, T_No_Nested_R",
+    "/jpg,contents_v__intrinsic_bbs_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

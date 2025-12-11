@@ -1,0 +1,19 @@
+{
+  "step": 6502,
+  "query": [
+    "21496",
+    "21608"
+  ],
+  "response": [
+    "2a4c7d9d7d5d0d7d",
+    "0 Antornium\"Hood WoodDirty\"Silent\"Soma"
+  ],
+  "victim_response": [
+    "2a4c7d9d7d5d0d7d",
+    "0 Antornium\"Hood WoodDirty\"Silent\"Soma"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

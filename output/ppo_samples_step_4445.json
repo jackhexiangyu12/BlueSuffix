@@ -1,0 +1,19 @@
+{
+  "step": 4445,
+  "query": [
+    "21810",
+    "21047"
+  ],
+  "response": [
+    "b8f, width=38, pdh=0 bd0",
+    "24ms-ping4dpartd8_3651wpn8bh"
+  ],
+  "victim_response": [
+    "b8f, width=38, pdh=0 bd0",
+    "24ms-ping4dpartd8_3651wpn8bh"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

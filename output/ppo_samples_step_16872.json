@@ -1,0 +1,19 @@
+{
+  "step": 16872,
+  "query": [
+    "20192",
+    "20871"
+  ],
+  "response": [
+    "00 d d d d d d d d d d d d d d d",
+    " Cequonzo Hwy 1197WN PhoenixZ D Dwrw"
+  ],
+  "victim_response": [
+    "00 d d d d d d d d d d d d d d d",
+    " Cequonzo Hwy 1197WN PhoenixZ D Dwrw"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

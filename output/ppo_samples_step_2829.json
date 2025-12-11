@@ -1,0 +1,19 @@
+{
+  "step": 2829,
+  "query": [
+    "20387",
+    "20670"
+  ],
+  "response": [
+    "99 (OTP-1)\n(web.bix-1.",
+    "E5A2CAD8A3D4C1FF6F"
+  ],
+  "victim_response": [
+    "99 (OTP-1)\n(web.bix-1.",
+    "E5A2CAD8A3D4C1FF6F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

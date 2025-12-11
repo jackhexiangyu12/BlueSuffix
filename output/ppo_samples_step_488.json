@@ -1,0 +1,19 @@
+{
+  "step": 488,
+  "query": [
+    "21393",
+    "20411"
+  ],
+  "response": [
+    "\n\n(EC 12443)\n\n(EC 12443)\n\n",
+    ", Fireball, Jump, Jump, 2, Jump, 2 4 3,"
+  ],
+  "victim_response": [
+    "\n\n(EC 12443)\n\n(EC 12443)\n\n",
+    ", Fireball, Jump, Jump, 2, Jump, 2 4 3,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

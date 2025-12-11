@@ -1,0 +1,19 @@
+{
+  "step": 14328,
+  "query": [
+    "20836",
+    "20030"
+  ],
+  "response": [
+    " Docked callback not true Docked arg: Docked callback false Docked callback",
+    " al 0 al al al al al al al al al al al al al al"
+  ],
+  "victim_response": [
+    " Docked callback not true Docked arg: Docked callback false Docked callback",
+    " al 0 al al al al al al al al al al al al al al"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

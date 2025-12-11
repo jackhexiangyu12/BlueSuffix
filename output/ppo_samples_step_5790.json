@@ -1,0 +1,19 @@
+{
+  "step": 5790,
+  "query": [
+    "20245",
+    "20697"
+  ],
+  "response": [
+    "73509\" and \"Unclear\" is not a valid word for a file",
+    "-9109595167736633a3c1d6d"
+  ],
+  "victim_response": [
+    "73509\" and \"Unclear\" is not a valid word for a file",
+    "-9109595167736633a3c1d6d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4740,
+  "query": [
+    "21108",
+    "20223"
+  ],
+  "response": [
+    ": (IBAH3)14735189 the following the weather state:",
+    " 5,223 7,207 5 5,223 2,227 6,1"
+  ],
+  "victim_response": [
+    ": (IBAH3)14735189 the following the weather state:",
+    " 5,223 7,207 5 5,223 2,227 6,1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1657,
+  "query": [
+    "21356",
+    "21303"
+  ],
+  "response": [
+    "3787a89f94d957566f3ce4e8",
+    ".apple.com/adidas/Product/Software/Home/HomeV"
+  ],
+  "victim_response": [
+    "3787a89f94d957566f3ce4e8",
+    ".apple.com/adidas/Product/Software/Home/HomeV"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

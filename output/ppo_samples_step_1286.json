@@ -1,0 +1,19 @@
+{
+  "step": 1286,
+  "query": [
+    "21406",
+    "21363"
+  ],
+  "response": [
+    "00-e1f120740c4e1f9d1",
+    ".\n\nThe cost of the final design is unknown.\n\nThe last"
+  ],
+  "victim_response": [
+    "00-e1f120740c4e1f9d1",
+    ".\n\nThe cost of the final design is unknown.\n\nThe last"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

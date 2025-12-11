@@ -1,0 +1,19 @@
+{
+  "step": 5624,
+  "query": [
+    "21041",
+    "21709"
+  ],
+  "response": [
+    "DA8DDCDDCDDDDCDCDDCDCDCDC",
+    " [6695] skins = [type]MatingModNameWithNamePlayer"
+  ],
+  "victim_response": [
+    "DA8DDCDDCDDDDCDCDDCDCDCDC",
+    " [6695] skins = [type]MatingModNameWithNamePlayer"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

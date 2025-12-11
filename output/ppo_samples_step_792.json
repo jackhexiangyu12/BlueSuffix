@@ -1,0 +1,19 @@
+{
+  "step": 792,
+  "query": [
+    "20993",
+    "20224"
+  ],
+  "response": [
+    ")\n\nThe Reynolds (of the w/o) is a",
+    ".0:5518:55:5519.0909:5519"
+  ],
+  "victim_response": [
+    ")\n\nThe Reynolds (of the w/o) is a",
+    ".0:5518:55:5519.0909:5519"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

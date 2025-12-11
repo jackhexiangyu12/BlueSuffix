@@ -1,0 +1,19 @@
+{
+  "step": 6101,
+  "query": [
+    "20547",
+    "20158"
+  ],
+  "response": [
+    " and, man: 30, cat 1, cat, cat, cat, cat",
+    "n provide the following information:1. The names of the computers listed in these"
+  ],
+  "victim_response": [
+    " and, man: 30, cat 1, cat, cat, cat, cat",
+    "n provide the following information:1. The names of the computers listed in these"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

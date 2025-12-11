@@ -1,0 +1,19 @@
+{
+  "step": 14836,
+  "query": [
+    "21406",
+    "20030"
+  ],
+  "response": [
+    "7ca7da7ca7ca7da7ca7ca7ca",
+    " Cruzero 6010102 North Greenwood BSB Lincoln City 7010301"
+  ],
+  "victim_response": [
+    "7ca7da7ca7ca7da7ca7ca7ca",
+    " Cruzero 6010102 North Greenwood BSB Lincoln City 7010301"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

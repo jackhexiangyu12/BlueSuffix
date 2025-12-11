@@ -1,0 +1,19 @@
+{
+  "step": 3707,
+  "query": [
+    "21974",
+    "21950"
+  ],
+  "response": [
+    "00V,M+1M +0100C,10.0 US",
+    ",0,0,ActRival\" have the set \"ActRival"
+  ],
+  "victim_response": [
+    "00V,M+1M +0100C,10.0 US",
+    ",0,0,ActRival\" have the set \"ActRival"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

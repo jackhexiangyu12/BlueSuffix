@@ -1,0 +1,19 @@
+{
+  "step": 3783,
+  "query": [
+    "20993",
+    "21363"
+  ],
+  "response": [
+    " (46) 672-049 ETOB.\n\n[7",
+    "47/var_hpt_boxerization?token=true&tool"
+  ],
+  "victim_response": [
+    " (46) 672-049 ETOB.\n\n[7",
+    "47/var_hpt_boxerization?token=true&tool"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

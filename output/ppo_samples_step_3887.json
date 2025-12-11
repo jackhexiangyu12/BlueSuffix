@@ -1,0 +1,19 @@
+{
+  "step": 3887,
+  "query": [
+    "20403",
+    "21000"
+  ],
+  "response": [
+    "00F4CMC_FILZFS1-3.2\" 60",
+    " Cabbajienen/200000001D00_W0003D"
+  ],
+  "victim_response": [
+    "00F4CMC_FILZFS1-3.2\" 60",
+    " Cabbajienen/200000001D00_W0003D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

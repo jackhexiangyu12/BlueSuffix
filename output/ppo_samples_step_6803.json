@@ -1,0 +1,19 @@
+{
+  "step": 6803,
+  "query": [
+    "21214",
+    "21125"
+  ],
+  "response": [
+    "s the Photo6r46 bus is that it takes a green and a",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "s the Photo6r46 bus is that it takes a green and a",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

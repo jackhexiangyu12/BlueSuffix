@@ -1,0 +1,19 @@
+{
+  "step": 1509,
+  "query": [
+    "21608",
+    "20042"
+  ],
+  "response": [
+    "1a890000\n\nThere are many different names for the tousled",
+    ")\n\nhttps://v3.0.1.0\n\nhttp"
+  ],
+  "victim_response": [
+    "1a890000\n\nThere are many different names for the tousled",
+    ")\n\nhttps://v3.0.1.0\n\nhttp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 515,
+  "query": [
+    "20626",
+    "20648"
+  ],
+  "response": [
+    ".\nM. P. C. 2004.\nSection 225.\n\n",
+    "] [0-0] [Server thread 0x0: [TEST"
+  ],
+  "victim_response": [
+    ".\nM. P. C. 2004.\nSection 225.\n\n",
+    "] [0-0] [Server thread 0x0: [TEST"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

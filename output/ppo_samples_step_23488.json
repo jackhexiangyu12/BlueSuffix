@@ -1,0 +1,19 @@
+{
+  "step": 23488,
+  "query": [
+    "20504",
+    "20771"
+  ],
+  "response": [
+    " F is one of the most important chemical ingredients used in the scientific field of the",
+    "B Hardware could be found in the following steps will help more Cisco workers build a"
+  ],
+  "victim_response": [
+    " F is one of the most important chemical ingredients used in the scientific field of the",
+    "B Hardware could be found in the following steps will help more Cisco workers build a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

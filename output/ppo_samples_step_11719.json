@@ -1,0 +1,19 @@
+{
+  "step": 11719,
+  "query": [
+    "20663",
+    "21368"
+  ],
+  "response": [
+    "M Maxwell and the GPU bottleneck, PBMBM1 CPU, PBMBM",
+    " P YZC8D 5F8F7D9D7D"
+  ],
+  "victim_response": [
+    "M Maxwell and the GPU bottleneck, PBMBM1 CPU, PBMBM",
+    " P YZC8D 5F8F7D9D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

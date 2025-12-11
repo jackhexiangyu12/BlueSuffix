@@ -1,0 +1,19 @@
+{
+  "step": 26926,
+  "query": [
+    "20040",
+    "21620"
+  ],
+  "response": [
+    " driver was not developed due to the fact that the driver is a class of NVIDIA",
+    " may be more accurate it may be useful in some case may be better than others"
+  ],
+  "victim_response": [
+    " driver was not developed due to the fact that the driver is a class of NVIDIA",
+    " may be more accurate it may be useful in some case may be better than others"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 580,
+  "query": [
+    "21938",
+    "20374"
+  ],
+  "response": [
+    "c4a4ec9f6d4d0b3e4",
+    ") from RandomRedditorWithNo at 2016-01-14:34:12:12:"
+  ],
+  "victim_response": [
+    "c4a4ec9f6d4d0b3e4",
+    ") from RandomRedditorWithNo at 2016-01-14:34:12:12:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

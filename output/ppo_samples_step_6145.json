@@ -1,0 +1,19 @@
+{
+  "step": 6145,
+  "query": [
+    "20282",
+    "20307"
+  ],
+  "response": [
+    "\" \"Obesity\" \"diabetes\" \"diabetes\" \"diabetes",
+    "264720779967973203271a9173faf974"
+  ],
+  "victim_response": [
+    "\" \"Obesity\" \"diabetes\" \"diabetes\" \"diabetes",
+    "264720779967973203271a9173faf974"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

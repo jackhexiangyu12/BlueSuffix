@@ -1,0 +1,19 @@
+{
+  "step": 282,
+  "query": [
+    "20463",
+    "21547"
+  ],
+  "response": [
+    "\n\nDogs.com\n\nFacebook\n\n\nTwitter\n\nGoogle",
+    "88 (55) from atomicimploder at 2016-03-14:38"
+  ],
+  "victim_response": [
+    "\n\nDogs.com\n\nFacebook\n\n\nTwitter\n\nGoogle",
+    "88 (55) from atomicimploder at 2016-03-14:38"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9015,
+  "query": [
+    "20000",
+    "21924"
+  ],
+  "response": [
+    "74184161 ns ns ns ns ns ns ns ns ns ns ns ns ns",
+    "40357 Droxyaranodon Dung beetle Dung beetle Dung beetle"
+  ],
+  "victim_response": [
+    "74184161 ns ns ns ns ns ns ns ns ns ns ns ns ns",
+    "40357 Droxyaranodon Dung beetle Dung beetle Dung beetle"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

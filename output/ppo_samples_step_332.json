@@ -1,0 +1,19 @@
+{
+  "step": 332,
+  "query": [
+    "20762",
+    "21709"
+  ],
+  "response": [
+    "\" and \"W.\n\nIf you can't see the URL, that",
+    ":1243,941:2:1243:1:13:"
+  ],
+  "victim_response": [
+    "\" and \"W.\n\nIf you can't see the URL, that",
+    ":1243,941:2:1243:1:13:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

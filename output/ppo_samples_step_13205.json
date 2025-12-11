@@ -1,0 +1,19 @@
+{
+  "step": 13205,
+  "query": [
+    "20418",
+    "21895"
+  ],
+  "response": [
+    "003014607B02B03B03B03B03B03B",
+    " this should be moved to a different section in the AZP document.The"
+  ],
+  "victim_response": [
+    "003014607B02B03B03B03B03B03B",
+    " this should be moved to a different section in the AZP document.The"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 20495,
+  "query": [
+    "20401",
+    "20120"
+  ],
+  "response": [
+    "010101 00 01 00 00 00 01 00 00 00 00 00 00 00",
+    " cell phone card payment is possible using a foil foil foil foil foil foil foil foil"
+  ],
+  "victim_response": [
+    "010101 00 01 00 00 00 01 00 00 00 00 00 00 00",
+    " cell phone card payment is possible using a foil foil foil foil foil foil foil foil"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

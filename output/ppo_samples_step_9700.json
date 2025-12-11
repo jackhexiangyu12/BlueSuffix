@@ -1,0 +1,19 @@
+{
+  "step": 9700,
+  "query": [
+    "20846",
+    "21634"
+  ],
+  "response": [
+    "15. 1 tel long tel tel tel tel tel tel tel tel tel tel tel",
+    "D9D9D9D9D9D9D9D9"
+  ],
+  "victim_response": [
+    "15. 1 tel long tel tel tel tel tel tel tel tel tel tel tel",
+    "D9D9D9D9D9D9D9D9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

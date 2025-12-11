@@ -1,0 +1,19 @@
+{
+  "step": 1665,
+  "query": [
+    "20106",
+    "21233"
+  ],
+  "response": [
+    "2-1,1.\n\n[1] The alligator\np",
+    "5430381488_10\n\n>>>\n>\n\n>>\n"
+  ],
+  "victim_response": [
+    "2-1,1.\n\n[1] The alligator\np",
+    "5430381488_10\n\n>>>\n>\n\n>>\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

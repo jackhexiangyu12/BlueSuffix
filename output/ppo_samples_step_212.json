@@ -1,0 +1,19 @@
+{
+  "step": 212,
+  "query": [
+    "21634",
+    "21082"
+  ],
+  "response": [
+    " (74.4) 26.4 -6.3 -2.2",
+    ",\n\n\"The world is the world,\n\n\nIt's the"
+  ],
+  "victim_response": [
+    " (74.4) 26.4 -6.3 -2.2",
+    ",\n\n\"The world is the world,\n\n\nIt's the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

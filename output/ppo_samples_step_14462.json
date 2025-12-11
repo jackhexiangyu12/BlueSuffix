@@ -1,0 +1,19 @@
+{
+  "step": 14462,
+  "query": [
+    "21772",
+    "20901"
+  ],
+  "response": [
+    " human cell numbers of monkeys is increased dN for the dNFQ protein group",
+    " 0121 0120 0120 0120 0120 0120 0120 0120"
+  ],
+  "victim_response": [
+    " human cell numbers of monkeys is increased dN for the dNFQ protein group",
+    " 0121 0120 0120 0120 0120 0120 0120 0120"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

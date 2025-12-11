@@ -1,0 +1,19 @@
+{
+  "step": 6084,
+  "query": [
+    "20504",
+    "21984"
+  ],
+  "response": [
+    "\" carocms\"000\" carocms\"000\" carocms",
+    ", Original,SNL 1983,L andPTSP 1989-9\","
+  ],
+  "victim_response": [
+    "\" carocms\"000\" carocms\"000\" carocms",
+    ", Original,SNL 1983,L andPTSP 1989-9\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

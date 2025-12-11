@@ -1,0 +1,19 @@
+{
+  "step": 12962,
+  "query": [
+    "20836",
+    "20224"
+  ],
+  "response": [
+    "03G Cisco Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion",
+    "DD Dalmauq D Dalmauqqqqqq"
+  ],
+  "victim_response": [
+    "03G Cisco Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion Fusion",
+    "DD Dalmauq D Dalmauqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

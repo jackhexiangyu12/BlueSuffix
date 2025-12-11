@@ -1,0 +1,19 @@
+{
+  "step": 10804,
+  "query": [
+    "21797",
+    "20762"
+  ],
+  "response": [
+    "01019W PreferredMtwm PreferredSunset PreferredSunsetNum sunset",
+    "(A1D8D8D8DD8D8D8"
+  ],
+  "victim_response": [
+    "01019W PreferredMtwm PreferredSunset PreferredSunsetNum sunset",
+    "(A1D8D8D8DD8D8D8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

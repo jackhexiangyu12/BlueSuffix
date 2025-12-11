@@ -1,0 +1,19 @@
+{
+  "step": 4236,
+  "query": [
+    "20010",
+    "20120"
+  ],
+  "response": [
+    "-0900, IAC-R9498 (3c)(CQ",
+    ".1, and we have some \"Genti\" that is a name"
+  ],
+  "victim_response": [
+    "-0900, IAC-R9498 (3c)(CQ",
+    ".1, and we have some \"Genti\" that is a name"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

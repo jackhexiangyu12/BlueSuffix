@@ -1,0 +1,19 @@
+{
+  "step": 8548,
+  "query": [
+    "21082",
+    "20138"
+  ],
+  "response": [
+    "81 form form KD_player dk_byName dk_playerName",
+    "l27c7c7d7d7d7d7d7"
+  ],
+  "victim_response": [
+    "81 form form KD_player dk_byName dk_playerName",
+    "l27c7c7d7d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 494,
+  "query": [
+    "20901",
+    "20463"
+  ],
+  "response": [
+    "145908\n\n(13)313047688\n\n(13",
+    " (full text, rfc819316)\n\nSource: http://"
+  ],
+  "victim_response": [
+    "145908\n\n(13)313047688\n\n(13",
+    " (full text, rfc819316)\n\nSource: http://"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11078,
+  "query": [
+    "20762",
+    "21269"
+  ],
+  "response": [
+    "16 is a DDD product that is designed to adapt to the local requirements.",
+    "D D713 D713 D769 D769 D769 D7"
+  ],
+  "victim_response": [
+    "16 is a DDD product that is designed to adapt to the local requirements.",
+    "D D713 D713 D769 D769 D769 D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8341,
+  "query": [
+    "21796",
+    "20497"
+  ],
+  "response": [
+    "252 7987 571 debian squashprp debian squashprp debian squash",
+    "a8d9d9d9d9d9d9d9"
+  ],
+  "victim_response": [
+    "252 7987 571 debian squashprp debian squashprp debian squash",
+    "a8d9d9d9d9d9d9d9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

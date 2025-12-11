@@ -1,0 +1,19 @@
+{
+  "step": 310,
+  "query": [
+    "21520",
+    "20534"
+  ],
+  "response": [
+    " 7.6.8.\n\nT1\n\n0.0.",
+    "\n\n@jason0030 http://www.facebook.com/events"
+  ],
+  "victim_response": [
+    " 7.6.8.\n\nT1\n\n0.0.",
+    "\n\n@jason0030 http://www.facebook.com/events"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

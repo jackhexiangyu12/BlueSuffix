@@ -1,0 +1,19 @@
+{
+  "step": 6929,
+  "query": [
+    "20245",
+    "21393"
+  ],
+  "response": [
+    "32-NTM mcmdp ( driver 3dv WDC GIDS",
+    "(D) AAAAAA bnnnbs2hoshnsbns"
+  ],
+  "victim_response": [
+    "32-NTM mcmdp ( driver 3dv WDC GIDS",
+    "(D) AAAAAA bnnnbs2hoshnsbns"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

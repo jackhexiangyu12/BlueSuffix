@@ -1,0 +1,19 @@
+{
+  "step": 8656,
+  "query": [
+    "20653",
+    "20000"
+  ],
+  "response": [
+    "D7D7D7D7D7D7D7D7",
+    " is the first one to make the transition from a full class with a class with"
+  ],
+  "victim_response": [
+    "D7D7D7D7D7D7D7D7",
+    " is the first one to make the transition from a full class with a class with"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 445,
+  "query": [
+    "21209",
+    "20120"
+  ],
+  "response": [
+    "0049 -1.6.0.0.0_92 -1",
+    "\n\nFrom: \"Honey Dairies\"\n\nDate: 14"
+  ],
+  "victim_response": [
+    "0049 -1.6.0.0.0_92 -1",
+    "\n\nFrom: \"Honey Dairies\"\n\nDate: 14"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

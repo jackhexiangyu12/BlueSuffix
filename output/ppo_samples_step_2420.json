@@ -1,0 +1,19 @@
+{
+  "step": 2420,
+  "query": [
+    "21119",
+    "20612"
+  ],
+  "response": [
+    "1:gttm'\n\n-e0d1:nous",
+    "X (533524)\n\n[002407] and (00"
+  ],
+  "victim_response": [
+    "1:gttm'\n\n-e0d1:nous",
+    "X (533524)\n\n[002407] and (00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

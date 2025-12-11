@@ -1,0 +1,19 @@
+{
+  "step": 21039,
+  "query": [
+    "20463",
+    "21707"
+  ],
+  "response": [
+    " D motion is difficult, but can be easily manipulated on a keyboard. It does",
+    "-07 Intel Fusion \"1\" device is a semiconductor chip integrated in this"
+  ],
+  "victim_response": [
+    " D motion is difficult, but can be easily manipulated on a keyboard. It does",
+    "-07 Intel Fusion \"1\" device is a semiconductor chip integrated in this"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

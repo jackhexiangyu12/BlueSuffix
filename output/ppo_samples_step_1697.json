@@ -1,0 +1,19 @@
+{
+  "step": 1697,
+  "query": [
+    "21760",
+    "21669"
+  ],
+  "response": [
+    "43303900\n\nThe Federal Government is a court in the United States",
+    ".1747 - 80124000-57.0231.0."
+  ],
+  "victim_response": [
+    "43303900\n\nThe Federal Government is a court in the United States",
+    ".1747 - 80124000-57.0231.0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

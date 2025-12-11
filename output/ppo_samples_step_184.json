@@ -1,0 +1,19 @@
+{
+  "step": 184,
+  "query": [
+    "21406",
+    "21895"
+  ],
+  "response": [
+    "a5e7c6e54ae7a8a3ab5",
+    ". The open-source project provides a stable and fast, fully working open-"
+  ],
+  "victim_response": [
+    "a5e7c6e54ae7a8a3ab5",
+    ". The open-source project provides a stable and fast, fully working open-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

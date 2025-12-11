@@ -1,0 +1,19 @@
+{
+  "step": 14467,
+  "query": [
+    "20030",
+    "21709"
+  ],
+  "response": [
+    " W 25 W AP AP AA AA AA AA AA AA AA AA AA AA AA",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " W 25 W AP AP AA AA AA AA AA AA AA AA AA AA AA",
+    " D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

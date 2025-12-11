@@ -1,0 +1,19 @@
+{
+  "step": 9065,
+  "query": [
+    "20533",
+    "21233"
+  ],
+  "response": [
+    "nm 8nm 9nmnm 11nm 12nm 14nm 16nm 16nm",
+    "C7C1C6D D7D7D7D7D"
+  ],
+  "victim_response": [
+    "nm 8nm 9nmnm 11nm 12nm 14nm 16nm 16nm",
+    "C7C1C6D D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

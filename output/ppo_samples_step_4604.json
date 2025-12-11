@@ -1,0 +1,19 @@
+{
+  "step": 4604,
+  "query": [
+    "21000",
+    "20158"
+  ],
+  "response": [
+    " D8400333 Mar 3-1946 079b52b4d",
+    "USm_dfsg,sp_sw_6b65c86f"
+  ],
+  "victim_response": [
+    " D8400333 Mar 3-1946 079b52b4d",
+    "USm_dfsg,sp_sw_6b65c86f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

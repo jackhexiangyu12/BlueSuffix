@@ -1,0 +1,19 @@
+{
+  "step": 623,
+  "query": [
+    "21895",
+    "20836"
+  ],
+  "response": [
+    ", \"http://www.netflix.com/WiMovie/1015755",
+    ",183 638,183 631464 60,150,143,78"
+  ],
+  "victim_response": [
+    ", \"http://www.netflix.com/WiMovie/1015755",
+    ",183 638,183 631464 60,150,143,78"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

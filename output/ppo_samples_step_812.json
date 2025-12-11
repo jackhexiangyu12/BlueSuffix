@@ -1,0 +1,19 @@
+{
+  "step": 812,
+  "query": [
+    "21772",
+    "20533"
+  ],
+  "response": [
+    "-1 (1)\n\nThe second and third of these has been performed",
+    ".2\n\nThe service had previously been shut down after the company announced plans"
+  ],
+  "victim_response": [
+    "-1 (1)\n\nThe second and third of these has been performed",
+    ".2\n\nThe service had previously been shut down after the company announced plans"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

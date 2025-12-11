@@ -1,0 +1,19 @@
+{
+  "step": 16073,
+  "query": [
+    "21707",
+    "21672"
+  ],
+  "response": [
+    "00 Dcell co d7 07 00 00 00 00 00 00 00 00 00",
+    " wig end wig wig wig wig wig wig wig wig wig wig wig wig wig wig"
+  ],
+  "victim_response": [
+    "00 Dcell co d7 07 00 00 00 00 00 00 00 00 00",
+    " wig end wig wig wig wig wig wig wig wig wig wig wig wig wig wig"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

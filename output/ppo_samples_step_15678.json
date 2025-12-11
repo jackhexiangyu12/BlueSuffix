@@ -1,0 +1,19 @@
+{
+  "step": 15678,
+  "query": [
+    "20445",
+    "21796"
+  ],
+  "response": [
+    "D cluster clinical d 75D DFT DFT register d 75D DFT",
+    " Drow Drowcaster Drow Drowcaster Dcaster Dcaster Drow"
+  ],
+  "victim_response": [
+    "D cluster clinical d 75D DFT DFT register d 75D DFT",
+    " Drow Drowcaster Drow Drowcaster Dcaster Dcaster Drow"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

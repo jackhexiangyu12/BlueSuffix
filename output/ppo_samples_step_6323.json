@@ -1,0 +1,19 @@
+{
+  "step": 6323,
+  "query": [
+    "21047",
+    "21262"
+  ],
+  "response": [
+    ".io, ccp-1A20A9C3D7D",
+    ", FQ-Z2, H1, D1, D1R"
+  ],
+  "victim_response": [
+    ".io, ccp-1A20A9C3D7D",
+    ", FQ-Z2, H1, D1, D1R"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

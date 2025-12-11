@@ -1,0 +1,19 @@
+{
+  "step": 8259,
+  "query": [
+    "20223",
+    "21483"
+  ],
+  "response": [
+    "-F7FNet connection network to the MTSD network 7 Network Network",
+    "f4dfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "victim_response": [
+    "-F7FNet connection network to the MTSD network 7 Network Network",
+    "f4dfdfdfdfdfdfdfdfdfdfdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

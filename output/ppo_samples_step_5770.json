@@ -1,0 +1,19 @@
+{
+  "step": 5770,
+  "query": [
+    "21435",
+    "20000"
+  ],
+  "response": [
+    " (HCCTM) 2017 part, A 4-3Ab,000",
+    "4 (mingw480007160256) Apple payd/info0"
+  ],
+  "victim_response": [
+    " (HCCTM) 2017 part, A 4-3Ab,000",
+    "4 (mingw480007160256) Apple payd/info0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

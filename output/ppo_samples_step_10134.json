@@ -1,0 +1,19 @@
+{
+  "step": 10134,
+  "query": [
+    "21772",
+    "20762"
+  ],
+  "response": [
+    " 1 0 km4cmatum 2Drisdere bpn1ga db",
+    "D001D001D001D001D001D001D001D001"
+  ],
+  "victim_response": [
+    " 1 0 km4cmatum 2Drisdere bpn1ga db",
+    "D001D001D001D001D001D001D001D001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

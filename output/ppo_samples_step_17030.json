@@ -1,0 +1,19 @@
+{
+  "step": 17030,
+  "query": [
+    "21924",
+    "21108"
+  ],
+  "response": [
+    "707147 D D D D D D D D D D D D D D",
+    " size variable B dpi D dpi Dpi Dpi Dpi Dpi"
+  ],
+  "victim_response": [
+    "707147 D D D D D D D D D D D D D D",
+    " size variable B dpi D dpi Dpi Dpi Dpi Dpi"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

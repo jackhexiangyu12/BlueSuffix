@@ -1,0 +1,19 @@
+{
+  "step": 190,
+  "query": [
+    "20192",
+    "21145"
+  ],
+  "response": [
+    "17-mall-s-s-backup-t-s-",
+    "83/crop_lake_master.jpg?crop=533,0,"
+  ],
+  "victim_response": [
+    "17-mall-s-s-backup-t-s-",
+    "83/crop_lake_master.jpg?crop=533,0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

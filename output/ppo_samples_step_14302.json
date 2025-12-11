@@ -1,0 +1,19 @@
+{
+  "step": 14302,
+  "query": [
+    "21108",
+    "21652"
+  ],
+  "response": [
+    "D041D041D041D041D041D041D041D041",
+    " staging a guest is sets the \"Projectment\" module in the sorttable the"
+  ],
+  "victim_response": [
+    "D041D041D041D041D041D041D041D041",
+    " staging a guest is sets the \"Projectment\" module in the sorttable the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

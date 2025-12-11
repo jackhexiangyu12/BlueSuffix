@@ -1,0 +1,19 @@
+{
+  "step": 1204,
+  "query": [
+    "20155",
+    "20655"
+  ],
+  "response": [
+    ".9%\n\nCalculate price in Europools for all countries",
+    "55,200,L,E,R,E,R,R,"
+  ],
+  "victim_response": [
+    ".9%\n\nCalculate price in Europools for all countries",
+    "55,200,L,E,R,E,R,R,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

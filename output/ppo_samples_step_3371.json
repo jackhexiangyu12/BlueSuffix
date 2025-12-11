@@ -1,0 +1,19 @@
+{
+  "step": 3371,
+  "query": [
+    "20787",
+    "20993"
+  ],
+  "response": [
+    "-t-sandy 5 15 $20,000\n\nN-C",
+    "F8.jpg as/hey4wLn6e3Bch"
+  ],
+  "victim_response": [
+    "-t-sandy 5 15 $20,000\n\nN-C",
+    "F8.jpg as/hey4wLn6e3Bch"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

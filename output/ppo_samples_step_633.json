@@ -1,0 +1,19 @@
+{
+  "step": 633,
+  "query": [
+    "21692",
+    "20583"
+  ],
+  "response": [
+    "\" {0,0} {3,0,0} {3,",
+    ".png\n\nGreetings, g@\n\nThis thread is intended for"
+  ],
+  "victim_response": [
+    "\" {0,0} {3,0,0} {3,",
+    ".png\n\nGreetings, g@\n\nThis thread is intended for"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

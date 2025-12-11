@@ -1,0 +1,19 @@
+{
+  "step": 1813,
+  "query": [
+    "20307",
+    "20010"
+  ],
+  "response": [
+    " is new\n\n14.1. (4) - 4.1.",
+    "-16, get 3.3\n\nDistributed update to stock, get"
+  ],
+  "victim_response": [
+    " is new\n\n14.1. (4) - 4.1.",
+    "-16, get 3.3\n\nDistributed update to stock, get"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

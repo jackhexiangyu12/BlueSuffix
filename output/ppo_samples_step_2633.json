@@ -1,0 +1,19 @@
+{
+  "step": 2633,
+  "query": [
+    "21895",
+    "21692"
+  ],
+  "response": [
+    " is a well known German singer and songwriter, recording for her father's church",
+    ",lX3,.6,1,m_hfB,"
+  ],
+  "victim_response": [
+    " is a well known German singer and songwriter, recording for her father's church",
+    ",lX3,.6,1,m_hfB,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

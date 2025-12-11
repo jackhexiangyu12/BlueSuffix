@@ -1,0 +1,19 @@
+{
+  "step": 169,
+  "query": [
+    "20090",
+    "20836"
+  ],
+  "response": [
+    "c_1_4.s3.zip\n\nFiles: 1.",
+    "4407, \"ItemThumbnailImage\" : \"/wcsstore//wcsstore/null/Set-"
+  ],
+  "victim_response": [
+    "c_1_4.s3.zip\n\nFiles: 1.",
+    "4407, \"ItemThumbnailImage\" : \"/wcsstore//wcsstore/null/Set-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

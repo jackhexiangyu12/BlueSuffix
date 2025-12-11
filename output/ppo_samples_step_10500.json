@@ -1,0 +1,19 @@
+{
+  "step": 10500,
+  "query": [
+    "20047",
+    "20418"
+  ],
+  "response": [
+    " Pffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    " 01 $7 2d7 904 904 0700 007 007"
+  ],
+  "victim_response": [
+    " Pffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    " 01 $7 2d7 904 904 0700 007 007"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

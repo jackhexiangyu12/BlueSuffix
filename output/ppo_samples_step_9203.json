@@ -1,0 +1,19 @@
+{
+  "step": 9203,
+  "query": [
+    "21669",
+    "20583"
+  ],
+  "response": [
+    "B0D7D7D7D7D7D7D7",
+    " passengers from Vancouver to Vancouver airport terminal 9 WHTTS Express 9 WHTTS"
+  ],
+  "victim_response": [
+    "B0D7D7D7D7D7D7D7",
+    " passengers from Vancouver to Vancouver airport terminal 9 WHTTS Express 9 WHTTS"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

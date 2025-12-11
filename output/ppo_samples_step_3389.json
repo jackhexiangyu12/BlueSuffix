@@ -1,0 +1,19 @@
+{
+  "step": 3389,
+  "query": [
+    "21900",
+    "20639"
+  ],
+  "response": [
+    "-em200A 00r1 r04000000A01CB0009FF",
+    "-8649 | Int Yes 18 mininajkcbpexton"
+  ],
+  "victim_response": [
+    "-em200A 00r1 r04000000A01CB0009FF",
+    "-8649 | Int Yes 18 mininajkcbpexton"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

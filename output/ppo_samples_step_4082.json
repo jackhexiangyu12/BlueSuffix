@@ -1,0 +1,19 @@
+{
+  "step": 4082,
+  "query": [
+    "21160",
+    "21119"
+  ],
+  "response": [
+    "-0x00bane0a AMD 6105W Intel(R)",
+    ") P P P P P D S W W D E W I B T"
+  ],
+  "victim_response": [
+    "-0x00bane0a AMD 6105W Intel(R)",
+    ") P P P P P D S W W D E W I B T"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

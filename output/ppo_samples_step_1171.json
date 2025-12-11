@@ -1,0 +1,19 @@
+{
+  "step": 1171,
+  "query": [
+    "20663",
+    "21209"
+  ],
+  "response": [
+    ",\"linelibrary\" : \"http://www.ncbi.nlm",
+    "9_951464B957_10109.jpg\n\n11"
+  ],
+  "victim_response": [
+    ",\"linelibrary\" : \"http://www.ncbi.nlm",
+    "9_951464B957_10109.jpg\n\n11"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

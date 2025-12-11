@@ -1,0 +1,19 @@
+{
+  "step": 10716,
+  "query": [
+    "20000",
+    "20655"
+  ],
+  "response": [
+    " 7 haim T-Men are the people who make the world an immense monster",
+    "20p mask mask mask mask mask mask mask mask mask mask mask mask mask mask"
+  ],
+  "victim_response": [
+    " 7 haim T-Men are the people who make the world an immense monster",
+    "20p mask mask mask mask mask mask mask mask mask mask mask mask mask mask"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

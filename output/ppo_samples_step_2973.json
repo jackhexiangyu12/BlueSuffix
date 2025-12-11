@@ -1,0 +1,19 @@
+{
+  "step": 2973,
+  "query": [
+    "21303",
+    "20067"
+  ],
+  "response": [
+    "[7] asks for a R2/2, or \"drive-to",
+    " it's just not likely to be in the (one) I want to look"
+  ],
+  "victim_response": [
+    "[7] asks for a R2/2, or \"drive-to",
+    " it's just not likely to be in the (one) I want to look"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

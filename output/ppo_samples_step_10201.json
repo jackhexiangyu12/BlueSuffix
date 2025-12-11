@@ -1,0 +1,19 @@
+{
+  "step": 10201,
+  "query": [
+    "21288",
+    "20655"
+  ],
+  "response": [
+    "7200000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    " dprns00 dprns0 dprns02 dns03 d"
+  ],
+  "victim_response": [
+    "7200000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    " dprns00 dprns0 dprns02 dns03 d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

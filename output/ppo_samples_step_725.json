@@ -1,0 +1,19 @@
+{
+  "step": 725,
+  "query": [
+    "20045",
+    "20509"
+  ],
+  "response": [
+    ": \"it's like a time to walk in the city we're in\"",
+    "03010101010101010101010101010101"
+  ],
+  "victim_response": [
+    ": \"it's like a time to walk in the city we're in\"",
+    "03010101010101010101010101010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

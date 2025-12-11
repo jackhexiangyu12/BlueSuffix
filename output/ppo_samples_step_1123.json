@@ -1,0 +1,19 @@
+{
+  "step": 1123,
+  "query": [
+    "20968",
+    "21541"
+  ],
+  "response": [
+    "98. After all, the hatchet-beep!\n\nI'm",
+    ".pdf\n\n[1] Ibid.\n\n[2] The average"
+  ],
+  "victim_response": [
+    "98. After all, the hatchet-beep!\n\nI'm",
+    ".pdf\n\n[1] Ibid.\n\n[2] The average"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

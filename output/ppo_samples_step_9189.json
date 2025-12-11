@@ -1,0 +1,19 @@
+{
+  "step": 9189,
+  "query": [
+    "20925",
+    "20047"
+  ],
+  "response": [
+    "% Bob Haas, chairman of FWDIT, has a proclivity for",
+    "791901dababab7deab7f7dbab7"
+  ],
+  "victim_response": [
+    "% Bob Haas, chairman of FWDIT, has a proclivity for",
+    "791901dababab7deab7f7dbab7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

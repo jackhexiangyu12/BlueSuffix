@@ -1,0 +1,19 @@
+{
+  "step": 5791,
+  "query": [
+    "21900",
+    "20178"
+  ],
+  "response": [
+    " (D2500,D2500,D2500), IC 2349",
+    "d08d85dd89d1d1daec3d"
+  ],
+  "victim_response": [
+    " (D2500,D2500,D2500), IC 2349",
+    "d08d85dd89d1d1daec3d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

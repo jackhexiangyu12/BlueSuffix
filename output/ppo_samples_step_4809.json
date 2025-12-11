@@ -1,0 +1,19 @@
+{
+  "step": 4809,
+  "query": [
+    "21303",
+    "21620"
+  ],
+  "response": [
+    "75-2 (HTTP-Diversd)",
+    "d5ca6773d3d7b0d7d6d"
+  ],
+  "victim_response": [
+    "75-2 (HTTP-Diversd)",
+    "d5ca6773d3d7b0d7d6d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

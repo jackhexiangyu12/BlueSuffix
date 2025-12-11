@@ -1,0 +1,19 @@
+{
+  "step": 12227,
+  "query": [
+    "20836",
+    "20934"
+  ],
+  "response": [
+    "00ms RXDA acid (705D9D7D7D7D",
+    " dual ha 240030 mountain 579045 frost hazard hazard x8km"
+  ],
+  "victim_response": [
+    "00ms RXDA acid (705D9D7D7D7D",
+    " dual ha 240030 mountain 579045 frost hazard hazard x8km"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 677,
+  "query": [
+    "20653",
+    "21672"
+  ],
+  "response": [
+    ":\n\n\"The Valley of the Kings\"\n\"The Blue\"\n",
+    ", 70:1, 69:4, 68:4, 69:3"
+  ],
+  "victim_response": [
+    ":\n\n\"The Valley of the Kings\"\n\"The Blue\"\n",
+    ", 70:1, 69:4, 68:4, 69:3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

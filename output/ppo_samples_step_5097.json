@@ -1,0 +1,19 @@
+{
+  "step": 5097,
+  "query": [
+    "20639",
+    "20800"
+  ],
+  "response": [
+    "/jimp/7f3f6f5d9d2dd",
+    "7,4V,5,62V7,77,7"
+  ],
+  "victim_response": [
+    "/jimp/7f3f6f5d9d2dd",
+    "7,4V,5,62V7,77,7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

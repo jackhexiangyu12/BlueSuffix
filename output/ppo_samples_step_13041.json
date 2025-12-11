@@ -1,0 +1,19 @@
+{
+  "step": 13041,
+  "query": [
+    "21160",
+    "21233"
+  ],
+  "response": [
+    "39DD 9D D D D D D D D D D D D",
+    "477 car cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "39DD 9D D D D D D D D D D D D",
+    "477 car cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

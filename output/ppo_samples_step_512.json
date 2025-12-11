@@ -1,0 +1,19 @@
+{
+  "step": 512,
+  "query": [
+    "20533",
+    "21739"
+  ],
+  "response": [
+    "33892 (97433892) from dominodan123 at 2016",
+    ", \"com.apple.app.apple.dev\" [\"articleId\":\""
+  ],
+  "victim_response": [
+    "33892 (97433892) from dominodan123 at 2016",
+    ", \"com.apple.app.apple.dev\" [\"articleId\":\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

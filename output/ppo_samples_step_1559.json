@@ -1,0 +1,19 @@
+{
+  "step": 1559,
+  "query": [
+    "20593",
+    "21483"
+  ],
+  "response": [
+    "\" = \"M_H\" \"152108000\" = \"W",
+    ".\n\n\"\n\n\"\n\"I'm taking you out of the"
+  ],
+  "victim_response": [
+    "\" = \"M_H\" \"152108000\" = \"W",
+    ".\n\n\"\n\n\"\n\"I'm taking you out of the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

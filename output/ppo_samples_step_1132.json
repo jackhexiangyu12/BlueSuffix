@@ -1,0 +1,19 @@
+{
+  "step": 1132,
+  "query": [
+    "20266",
+    "20224"
+  ],
+  "response": [
+    "128 -fpgread -freadread - - - - - - -",
+    ".jpg\n\nLast updated: 10/20/15\n\nYou can"
+  ],
+  "victim_response": [
+    "128 -fpgread -freadread - - - - - - -",
+    ".jpg\n\nLast updated: 10/20/15\n\nYou can"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

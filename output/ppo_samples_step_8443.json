@@ -1,0 +1,19 @@
+{
+  "step": 8443,
+  "query": [
+    "21634",
+    "21900"
+  ],
+  "response": [
+    "65 DZCP=Zcpns DZCPnsDZcpns",
+    " 2 DDSC-7D DDC DC DC DC DC DC DC DC"
+  ],
+  "victim_response": [
+    "65 DZCP=Zcpns DZCPnsDZcpns",
+    " 2 DDSC-7D DDC DC DC DC DC DC DC DC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

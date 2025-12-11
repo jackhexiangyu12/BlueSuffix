@@ -1,0 +1,19 @@
+{
+  "step": 6475,
+  "query": [
+    "21839",
+    "21520"
+  ],
+  "response": [
+    "/000781DDDDDDDA DDA DDA D",
+    ", 6478 libpython4+printing nmdvcprlfbs"
+  ],
+  "victim_response": [
+    "/000781DDDDDDDA DDA DDA D",
+    ", 6478 libpython4+printing nmdvcprlfbs"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

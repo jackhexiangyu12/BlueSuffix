@@ -1,0 +1,19 @@
+{
+  "step": 9742,
+  "query": [
+    "21000",
+    "20374"
+  ],
+  "response": [
+    "7001a801d7000700101007a971d",
+    "-738640 diff movies510511397P diff wings7x"
+  ],
+  "victim_response": [
+    "7001a801d7000700101007a971d",
+    "-738640 diff movies510511397P diff wings7x"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

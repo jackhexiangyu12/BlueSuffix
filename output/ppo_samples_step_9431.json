@@ -1,0 +1,19 @@
+{
+  "step": 9431,
+  "query": [
+    "20968",
+    "21085"
+  ],
+  "response": [
+    " is, the fastest computer ever made. We're not the fastest computer ever to",
+    "silsilsilsilsilsilsilsilsilsilsilsilsilsilsilsil"
+  ],
+  "victim_response": [
+    " is, the fastest computer ever made. We're not the fastest computer ever to",
+    "silsilsilsilsilsilsilsilsilsilsilsilsilsilsilsil"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

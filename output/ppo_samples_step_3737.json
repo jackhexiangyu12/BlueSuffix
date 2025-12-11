@@ -1,0 +1,19 @@
+{
+  "step": 3737,
+  "query": [
+    "20144",
+    "21496"
+  ],
+  "response": [
+    "018069 (Dc4b71009d1b7)",
+    "_l_master_printer.buk\n\nYou must be logged"
+  ],
+  "victim_response": [
+    "018069 (Dc4b71009d1b7)",
+    "_l_master_printer.buk\n\nYou must be logged"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 16529,
+  "query": [
+    "20000",
+    "21909"
+  ],
+  "response": [
+    "75 Time shift 7 PD 5 d d d d d d d d d",
+    "25 Q F W D F D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "75 Time shift 7 PD 5 d d d d d d d d d",
+    "25 Q F W D F D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

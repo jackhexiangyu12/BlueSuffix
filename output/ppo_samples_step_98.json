@@ -1,0 +1,19 @@
+{
+  "step": 98,
+  "query": [
+    "21393",
+    "20593"
+  ],
+  "response": [
+    ".14.201.com/file/41/113-12-1027",
+    ".\n\nFigure 5.17.\n3.\n\n\nFigure 5"
+  ],
+  "victim_response": [
+    ".14.201.com/file/41/113-12-1027",
+    ".\n\nFigure 5.17.\n3.\n\n\nFigure 5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

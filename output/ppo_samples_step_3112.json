@@ -1,0 +1,19 @@
+{
+  "step": 3112,
+  "query": [
+    "21214",
+    "20158"
+  ],
+  "response": [
+    "12, \"tar1_pdf\" \"UHD-rv2_",
+    "55 and the Iran Nuclear Deal in 1979 and the National Security Treaty in 2015."
+  ],
+  "victim_response": [
+    "12, \"tar1_pdf\" \"UHD-rv2_",
+    "55 and the Iran Nuclear Deal in 1979 and the National Security Treaty in 2015."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

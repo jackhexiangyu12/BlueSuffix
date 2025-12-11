@@ -1,0 +1,19 @@
+{
+  "step": 1503,
+  "query": [
+    "21418",
+    "21669"
+  ],
+  "response": [
+    ".\nPixar, B.M. & Schulz, B.",
+    " to 187868\n\n\"My memory is a beautiful picture. I have"
+  ],
+  "victim_response": [
+    ".\nPixar, B.M. & Schulz, B.",
+    " to 187868\n\n\"My memory is a beautiful picture. I have"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

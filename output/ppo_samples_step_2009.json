@@ -1,0 +1,19 @@
+{
+  "step": 2009,
+  "query": [
+    "20771",
+    "21767"
+  ],
+  "response": [
+    "/5644\n\nUnits in the middle of the body of the man",
+    " = 0.00\\x24d4\\x4fb2 = 6"
+  ],
+  "victim_response": [
+    "/5644\n\nUnits in the middle of the body of the man",
+    " = 0.00\\x24d4\\x4fb2 = 6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

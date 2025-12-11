@@ -1,0 +1,19 @@
+{
+  "step": 26012,
+  "query": [
+    "20000",
+    "21950"
+  ],
+  "response": [
+    " high Q-pin is a common known standard used by the United States in the",
+    " may be used in the simple chemical extraction may be used the simple chemical extraction may"
+  ],
+  "victim_response": [
+    " high Q-pin is a common known standard used by the United States in the",
+    " may be used in the simple chemical extraction may be used the simple chemical extraction may"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

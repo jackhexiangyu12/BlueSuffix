@@ -1,0 +1,19 @@
+{
+  "step": 9144,
+  "query": [
+    "20908",
+    "20030"
+  ],
+  "response": [
+    "1036DWDDWDWDWDWDWDWDWDWDWDWDWD",
+    "A stepsdjserver is a server client which will be used to run a Python"
+  ],
+  "victim_response": [
+    "1036DWDDWDWDWDWDWDWDWDWDWDWDWD",
+    "A stepsdjserver is a server client which will be used to run a Python"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

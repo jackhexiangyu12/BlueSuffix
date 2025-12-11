@@ -1,0 +1,19 @@
+{
+  "step": 8400,
+  "query": [
+    "21547",
+    "21377"
+  ],
+  "response": [
+    "d7d7d7d7d7d7d7d7",
+    " clm::clister cloderan cloderan cloderan cloder"
+  ],
+  "victim_response": [
+    "d7d7d7d7d7d7d7d7",
+    " clm::clister cloderan cloderan cloderan cloder"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

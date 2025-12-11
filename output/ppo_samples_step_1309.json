@@ -1,0 +1,19 @@
+{
+  "step": 1309,
+  "query": [
+    "20401",
+    "20040"
+  ],
+  "response": [
+    "157088 from datdump_R0.G:1.1.",
+    " libsystem_dmesg.dylib (new libsystem_object_d"
+  ],
+  "victim_response": [
+    "157088 from datdump_R0.G:1.1.",
+    " libsystem_dmesg.dylib (new libsystem_object_d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

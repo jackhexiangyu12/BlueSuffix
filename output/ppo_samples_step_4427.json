@@ -1,0 +1,19 @@
+{
+  "step": 4427,
+  "query": [
+    "21356",
+    "20178"
+  ],
+  "response": [
+    "_set_global_vidian_bpp_2_8\" t",
+    "40d7d72b76cc1bbe69057d5"
+  ],
+  "victim_response": [
+    "_set_global_vidian_bpp_2_8\" t",
+    "40d7d72b76cc1bbe69057d5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

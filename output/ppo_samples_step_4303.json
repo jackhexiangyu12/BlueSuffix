@@ -1,0 +1,19 @@
+{
+  "step": 4303,
+  "query": [
+    "20252",
+    "20042"
+  ],
+  "response": [
+    " 'The key is hh\" key=\"a\" key=\"i i \"",
+    "25\n\n19991cc8d88d50adcc9d20"
+  ],
+  "victim_response": [
+    " 'The key is hh\" key=\"a\" key=\"i i \"",
+    "25\n\n19991cc8d88d50adcc9d20"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

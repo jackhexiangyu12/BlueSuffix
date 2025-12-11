@@ -1,0 +1,19 @@
+{
+  "step": 1737,
+  "query": [
+    "20106",
+    "21483"
+  ],
+  "response": [
+    "13.jpg\n\nSource: http://www.cfm.cfm",
+    "beb4b8a7d4c49e3b0ad"
+  ],
+  "victim_response": [
+    "13.jpg\n\nSource: http://www.cfm.cfm",
+    "beb4b8a7d4c49e3b0ad"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

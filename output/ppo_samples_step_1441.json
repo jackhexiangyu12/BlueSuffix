@@ -1,0 +1,19 @@
+{
+  "step": 1441,
+  "query": [
+    "20000",
+    "21119"
+  ],
+  "response": [
+    ":20:] Servo is now signed-off-by: DSh",
+    ":M_I.png] [01::::::6"
+  ],
+  "victim_response": [
+    ":20:] Servo is now signed-off-by: DSh",
+    ":M_I.png] [01::::::6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

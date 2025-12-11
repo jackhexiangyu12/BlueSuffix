@@ -1,0 +1,19 @@
+{
+  "step": 3593,
+  "query": [
+    "20042",
+    "20762"
+  ],
+  "response": [
+    " I2 CABTenaccomPPT, 13% 84 ffff",
+    " with 2 s1 and m1, 1 r2, 2 m3,"
+  ],
+  "victim_response": [
+    " I2 CABTenaccomPPT, 13% 84 ffff",
+    " with 2 s1 and m1, 1 r2, 2 m3,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

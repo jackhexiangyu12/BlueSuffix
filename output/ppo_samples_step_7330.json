@@ -1,0 +1,19 @@
+{
+  "step": 7330,
+  "query": [
+    "20295",
+    "20670"
+  ],
+  "response": [
+    "13163\" pkg_idle_agdF5DQw",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    "13163\" pkg_idle_agdF5DQw",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

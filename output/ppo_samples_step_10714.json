@@ -1,0 +1,19 @@
+{
+  "step": 10714,
+  "query": [
+    "20518",
+    "21377"
+  ],
+  "response": [
+    "723_enkey 10077112 27669 DMicroPhonphyid",
+    "7f7e7af9a7ff7fa7ca7d"
+  ],
+  "victim_response": [
+    "723_enkey 10077112 27669 DMicroPhonphyid",
+    "7f7e7af9a7ff7fa7ca7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

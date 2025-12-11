@@ -1,0 +1,19 @@
+{
+  "step": 2251,
+  "query": [
+    "20663",
+    "20463"
+  ],
+  "response": [
+    ".4,lbfqTnWQ1dz2m7",
+    "_ANI3.mkn:op-rescan_script_t"
+  ],
+  "victim_response": [
+    ".4,lbfqTnWQ1dz2m7",
+    "_ANI3.mkn:op-rescan_script_t"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

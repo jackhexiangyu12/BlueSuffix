@@ -1,0 +1,19 @@
+{
+  "step": 4412,
+  "query": [
+    "21608",
+    "21090"
+  ],
+  "response": [
+    "80\"644706f4,7150048daf5e",
+    ".2447000i2id sess-p2id's (name"
+  ],
+  "victim_response": [
+    "80\"644706f4,7150048daf5e",
+    ".2447000i2id sess-p2id's (name"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

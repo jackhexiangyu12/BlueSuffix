@@ -1,0 +1,19 @@
+{
+  "step": 7724,
+  "query": [
+    "20090",
+    "21160"
+  ],
+  "response": [
+    " driver-probing factory has its stop-fire driver-probing factory has",
+    "270177c7d7aab7d7d7d7"
+  ],
+  "victim_response": [
+    " driver-probing factory has its stop-fire driver-probing factory has",
+    "270177c7d7aab7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

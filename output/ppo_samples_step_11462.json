@@ -1,0 +1,19 @@
+{
+  "step": 11462,
+  "query": [
+    "21845",
+    "21797"
+  ],
+  "response": [
+    "Turreta is a small firing gun in low turret mounted on a stationary turret",
+    "21DDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "Turreta is a small firing gun in low turret mounted on a stationary turret",
+    "21DDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

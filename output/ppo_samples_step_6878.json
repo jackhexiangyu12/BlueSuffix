@@ -1,0 +1,19 @@
+{
+  "step": 6878,
+  "query": [
+    "21226",
+    "21767"
+  ],
+  "response": [
+    "779,\"00123a1b5f6f7c8d7",
+    "263\",5 data_encoded_wdslayer DIAddEncoder"
+  ],
+  "victim_response": [
+    "779,\"00123a1b5f6f7c8d7",
+    "263\",5 data_encoded_wdslayer DIAddEncoder"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

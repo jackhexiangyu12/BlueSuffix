@@ -1,0 +1,19 @@
+{
+  "step": 20903,
+  "query": [
+    "20916",
+    "21924"
+  ],
+  "response": [
+    " counter cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    "077 windows9 had a leak7 bunk7 ns7 workersq opsq"
+  ],
+  "victim_response": [
+    " counter cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell",
+    "077 windows9 had a leak7 bunk7 ns7 workersq opsq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

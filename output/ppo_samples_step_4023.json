@@ -1,0 +1,19 @@
+{
+  "step": 4023,
+  "query": [
+    "20158",
+    "21406"
+  ],
+  "response": [
+    ": name like\" here\" is a simple statement that sounds more like the \"",
+    "4Pn\",\"id\":D5J9DTF6dY6"
+  ],
+  "victim_response": [
+    ": name like\" here\" is a simple statement that sounds more like the \"",
+    "4Pn\",\"id\":D5J9DTF6dY6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

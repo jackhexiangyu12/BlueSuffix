@@ -1,0 +1,19 @@
+{
+  "step": 1222,
+  "query": [
+    "21000",
+    "20648"
+  ],
+  "response": [
+    ".00.000.00\n\n[01:41:47.19",
+    "a9d4e8&name=PaintedIndus&to="
+  ],
+  "victim_response": [
+    ".00.000.00\n\n[01:41:47.19",
+    "a9d4e8&name=PaintedIndus&to="
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

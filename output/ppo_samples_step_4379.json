@@ -1,0 +1,19 @@
+{
+  "step": 4379,
+  "query": [
+    "21108",
+    "21520"
+  ],
+  "response": [
+    ":45-51f73000-D949F69D1908",
+    "17&g=0 Cisco HotPGI 6400 LTI to IBM H"
+  ],
+  "victim_response": [
+    ":45-51f73000-D949F69D1908",
+    "17&g=0 Cisco HotPGI 6400 LTI to IBM H"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

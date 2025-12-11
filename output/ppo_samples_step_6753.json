@@ -1,0 +1,19 @@
+{
+  "step": 6753,
+  "query": [
+    "20670",
+    "21108"
+  ],
+  "response": [
+    "12_24x1d72dcd9df7d7df7",
+    " testGhzBidFaxBidCidCidDdiF"
+  ],
+  "victim_response": [
+    "12_24x1d72dcd9df7d7df7",
+    " testGhzBidFaxBidCidCidDdiF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

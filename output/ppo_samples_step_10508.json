@@ -1,0 +1,19 @@
+{
+  "step": 10508,
+  "query": [
+    "20396",
+    "21262"
+  ],
+  "response": [
+    "01 D03001DD001D001D001D001D001D",
+    " Asphyxm has been active for 12 hours a day, his daily dose"
+  ],
+  "victim_response": [
+    "01 D03001DD001D001D001D001D001D",
+    " Asphyxm has been active for 12 hours a day, his daily dose"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

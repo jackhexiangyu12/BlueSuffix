@@ -1,0 +1,19 @@
+{
+  "step": 10086,
+  "query": [
+    "20062",
+    "21781"
+  ],
+  "response": [
+    " 7064546 705696907 7973235 70569720",
+    "273 Sat \"CoderBob\", registam factory \"Bob\", registam id"
+  ],
+  "victim_response": [
+    " 7064546 705696907 7973235 70569720",
+    "273 Sat \"CoderBob\", registam factory \"Bob\", registam id"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

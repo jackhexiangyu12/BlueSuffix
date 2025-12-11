@@ -1,0 +1,19 @@
+{
+  "step": 16235,
+  "query": [
+    "21822",
+    "20010"
+  ],
+  "response": [
+    " D D hospital D hospital D hospital D hospital D hospital D hospital D hospital D",
+    " prisoners cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    " D D hospital D hospital D hospital D hospital D hospital D hospital D hospital D",
+    " prisoners cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

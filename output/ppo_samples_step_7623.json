@@ -1,0 +1,19 @@
+{
+  "step": 7623,
+  "query": [
+    "20252",
+    "20047"
+  ],
+  "response": [
+    "D0D dDD dD dD dD dD dD",
+    "M IC chip 00007D9D7D7D7D7D"
+  ],
+  "victim_response": [
+    "D0D dDD dD dD dD dD dD",
+    "M IC chip 00007D9D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

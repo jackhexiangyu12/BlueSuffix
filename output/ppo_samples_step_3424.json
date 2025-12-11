@@ -1,0 +1,19 @@
+{
+  "step": 3424,
+  "query": [
+    "21634",
+    "21543"
+  ],
+  "response": [
+    ", Intel0 the Intel TV Camera, NEC0 and Intel802 chips on the",
+    "609517\n\n8154C.1E\n\n\nThis is"
+  ],
+  "victim_response": [
+    ", Intel0 the Intel TV Camera, NEC0 and Intel802 chips on the",
+    "609517\n\n8154C.1E\n\n\nThis is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

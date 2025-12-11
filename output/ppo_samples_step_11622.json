@@ -1,0 +1,19 @@
+{
+  "step": 11622,
+  "query": [
+    "21608",
+    "21119"
+  ],
+  "response": [
+    "07077 7 0707 7070707070707070707",
+    "07077 \" client-dnc-mpskhcpcpcpatt"
+  ],
+  "victim_response": [
+    "07077 7 0707 7070707070707070707",
+    "07077 \" client-dnc-mpskhcpcpcpatt"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

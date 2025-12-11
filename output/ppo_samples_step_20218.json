@@ -1,0 +1,19 @@
+{
+  "step": 20218,
+  "query": [
+    "21363",
+    "20925"
+  ],
+  "response": [
+    " weight crop 2 m 11 m m m m m m m m m m m",
+    "D7F7F7F7 F7F7F7 F7"
+  ],
+  "victim_response": [
+    " weight crop 2 m 11 m m m m m m m m m m m",
+    "D7F7F7F7 F7F7F7 F7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

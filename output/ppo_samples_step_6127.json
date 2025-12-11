@@ -1,0 +1,19 @@
+{
+  "step": 6127,
+  "query": [
+    "21669",
+    "20090"
+  ],
+  "response": [
+    "8519839651\" indicates an attempt to decrypt the C language's password.",
+    "a from the DTC (other codes are the \"validation\" code)"
+  ],
+  "victim_response": [
+    "8519839651\" indicates an attempt to decrypt the C language's password.",
+    "a from the DTC (other codes are the \"validation\" code)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

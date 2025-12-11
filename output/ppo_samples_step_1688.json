@@ -1,0 +1,19 @@
+{
+  "step": 1688,
+  "query": [
+    "20655",
+    "20138"
+  ],
+  "response": [
+    ".0, \"Top Dawg\" \"F-E\" \"Vids",
+    "a,ascentofaction=6,controller=https://www.google"
+  ],
+  "victim_response": [
+    ".0, \"Top Dawg\" \"F-E\" \"Vids",
+    "a,ascentofaction=6,controller=https://www.google"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

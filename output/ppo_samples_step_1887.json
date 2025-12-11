@@ -1,0 +1,19 @@
+{
+  "step": 1887,
+  "query": [
+    "21288",
+    "20750"
+  ],
+  "response": [
+    "E2D57DFA5F5D65FC5074D67",
+    "-611/2200/33\n\nYour email is now being forced"
+  ],
+  "victim_response": [
+    "E2D57DFA5F5D65FC5074D67",
+    "-611/2200/33\n\nYour email is now being forced"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

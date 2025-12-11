@@ -1,0 +1,19 @@
+{
+  "step": 9153,
+  "query": [
+    "20178",
+    "21288"
+  ],
+  "response": [
+    "770055257DD DdD DdsD DduDdu",
+    "774 CPU AES encryption for Intel 7C7D Intel Intel Intel Intel Intel Intel"
+  ],
+  "victim_response": [
+    "770055257DD DdD DdsD DduDdu",
+    "774 CPU AES encryption for Intel 7C7D Intel Intel Intel Intel Intel Intel"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

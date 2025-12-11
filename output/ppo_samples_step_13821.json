@@ -1,0 +1,19 @@
+{
+  "step": 13821,
+  "query": [
+    "21125",
+    "21023"
+  ],
+  "response": [
+    " is the letter \"r\" when the letters are separated by a slash. When",
+    "(socorc,soccorporcellcellcellcellcellcellcellcell"
+  ],
+  "victim_response": [
+    " is the letter \"r\" when the letters are separated by a slash. When",
+    "(socorc,soccorporcellcellcellcellcellcellcellcell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

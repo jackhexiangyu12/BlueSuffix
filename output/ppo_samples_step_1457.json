@@ -1,0 +1,19 @@
+{
+  "step": 1457,
+  "query": [
+    "21543",
+    "20547"
+  ],
+  "response": [
+    " 154733\n\nThis is a group of artists, and some of the",
+    " #2474\n\nFEN: What is your name?\n\nF"
+  ],
+  "victim_response": [
+    " 154733\n\nThis is a group of artists, and some of the",
+    " #2474\n\nFEN: What is your name?\n\nF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

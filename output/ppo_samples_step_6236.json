@@ -1,0 +1,19 @@
+{
+  "step": 6236,
+  "query": [
+    "20047",
+    "21047"
+  ],
+  "response": [
+    "a5a0d3d7fdf74d1d7",
+    "F\" dmsm_01_NodidDCTLCSWD"
+  ],
+  "victim_response": [
+    "a5a0d3d7fdf74d1d7",
+    "F\" dmsm_01_NodidDCTLCSWD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

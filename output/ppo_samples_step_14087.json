@@ -1,0 +1,19 @@
+{
+  "step": 14087,
+  "query": [
+    "20401",
+    "20396"
+  ],
+  "response": [
+    "01 building tall concrete d d d d d d d d d d d d",
+    " hit rate P1 1 hit rate P2 1 spin damage rate P2 1"
+  ],
+  "victim_response": [
+    "01 building tall concrete d d d d d d d d d d d d",
+    " hit rate P1 1 hit rate P2 1 spin damage rate P2 1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

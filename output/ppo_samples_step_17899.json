@@ -1,0 +1,19 @@
+{
+  "step": 17899,
+  "query": [
+    "21041",
+    "21209"
+  ],
+  "response": [
+    " commit 7777fba7f7fbfb7ba7ca76fb",
+    "7 actor will d d d d d d d d d d d d d"
+  ],
+  "victim_response": [
+    " commit 7777fba7f7fbfb7ba7ca76fb",
+    "7 actor will d d d d d d d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5574,
+  "query": [
+    "20757",
+    "20762"
+  ],
+  "response": [
+    "'s was a small number on the time of the hour.\n\nThe whole",
+    "(en)74010582F5D9D9D8B"
+  ],
+  "victim_response": [
+    "'s was a small number on the time of the hour.\n\nThe whole",
+    "(en)74010582F5D9D9D8B"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

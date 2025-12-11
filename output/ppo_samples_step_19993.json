@@ -1,0 +1,19 @@
+{
+  "step": 19993,
+  "query": [
+    "20497",
+    "21496"
+  ],
+  "response": [
+    " D005 D001 D D D D D D D D D D D D",
+    " cover d v \"Drifting from a lower-scale matrix\" 770 770 7"
+  ],
+  "victim_response": [
+    " D005 D001 D D D D D D D D D D D D",
+    " cover d v \"Drifting from a lower-scale matrix\" 770 770 7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

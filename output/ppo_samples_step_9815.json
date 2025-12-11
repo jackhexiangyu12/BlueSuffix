@@ -1,0 +1,19 @@
+{
+  "step": 9815,
+  "query": [
+    "20648",
+    "21608"
+  ],
+  "response": [
+    " Falcon-Mon Core Quad RWD: D7510U 7M5F",
+    "FFFCD7D03D7D7D7D7D"
+  ],
+  "victim_response": [
+    " Falcon-Mon Core Quad RWD: D7510U 7M5F",
+    "FFFCD7D03D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

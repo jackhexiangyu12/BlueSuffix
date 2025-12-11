@@ -1,0 +1,19 @@
+{
+  "step": 8082,
+  "query": [
+    "21441",
+    "21541"
+  ],
+  "response": [
+    " which should mean that one of the genes in the genetic code is a gene that",
+    "n5n2nnnnnnnnnnnnnnnnnnnnnnn"
+  ],
+  "victim_response": [
+    " which should mean that one of the genes in the genetic code is a gene that",
+    "n5n2nnnnnnnnnnnnnnnnnnnnnnn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

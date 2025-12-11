@@ -1,0 +1,19 @@
+{
+  "step": 16470,
+  "query": [
+    "21209",
+    "21041"
+  ],
+  "response": [
+    "09 F fax 10 Harris County F h p cell D 11 Harris County F p",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "09 F fax 10 Harris County F h p cell D 11 Harris County F p",
+    " d D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

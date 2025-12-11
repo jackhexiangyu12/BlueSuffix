@@ -1,0 +1,19 @@
+{
+  "step": 3455,
+  "query": [
+    "20750",
+    "20865"
+  ],
+  "response": [
+    " m (range is 4 to 5 m, 1002 to 900 m, 1",
+    " (951783u9) =0840 (0w/d)"
+  ],
+  "victim_response": [
+    " m (range is 4 to 5 m, 1002 to 900 m, 1",
+    " (951783u9) =0840 (0w/d)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

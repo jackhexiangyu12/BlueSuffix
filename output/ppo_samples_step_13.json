@@ -1,0 +1,19 @@
+{
+  "step": 13,
+  "query": [
+    "21709",
+    "20750"
+  ],
+  "response": [
+    "\", \"name\" : \"Shakedown,\" \"description\" }, {",
+    "E6D6D7F9D6EAA57F1E"
+  ],
+  "victim_response": [
+    "\", \"name\" : \"Shakedown,\" \"description\" }, {",
+    "E6D6D7F9D6EAA57F1E"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

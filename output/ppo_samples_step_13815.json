@@ -1,0 +1,19 @@
+{
+  "step": 13815,
+  "query": [
+    "21292",
+    "20245"
+  ],
+  "response": [
+    " shotsx7 drives 8 parallel cells 7 drives 7 drives 7 drives 7 drives 7",
+    "D020DDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " shotsx7 drives 8 parallel cells 7 drives 7 drives 7 drives 7 drives 7",
+    "D020DDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

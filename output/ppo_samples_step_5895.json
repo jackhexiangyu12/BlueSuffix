@@ -1,0 +1,19 @@
+{
+  "step": 5895,
+  "query": [
+    "20396",
+    "21669"
+  ],
+  "response": [
+    "000-F3D1D95D6DDA6D7D",
+    " 1 20 game Fixture time dropped 32 7/30 176076323369"
+  ],
+  "victim_response": [
+    "000-F3D1D95D6DDA6D7D",
+    " 1 20 game Fixture time dropped 32 7/30 176076323369"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

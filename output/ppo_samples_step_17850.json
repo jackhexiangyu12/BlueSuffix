@@ -1,0 +1,19 @@
+{
+  "step": 17850,
+  "query": [
+    "21888",
+    "20757"
+  ],
+  "response": [
+    "758569779879787 Dummy Dummy Dummy Dummy D",
+    " Norm L P Twa Latches D901 D901 D901 D901 D"
+  ],
+  "victim_response": [
+    "758569779879787 Dummy Dummy Dummy Dummy D",
+    " Norm L P Twa Latches D901 D901 D901 D901 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

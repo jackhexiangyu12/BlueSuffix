@@ -1,0 +1,19 @@
+{
+  "step": 12118,
+  "query": [
+    "20750",
+    "20067"
+  ],
+  "response": [
+    "3D770D7D7D7D7D7D7",
+    "0747 helper sequence as a common mask matching byte 7 0077001fee"
+  ],
+  "victim_response": [
+    "3D770D7D7D7D7D7D7",
+    "0747 helper sequence as a common mask matching byte 7 0077001fee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

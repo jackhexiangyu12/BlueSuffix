@@ -1,0 +1,19 @@
+{
+  "step": 770,
+  "query": [
+    "20750",
+    "21772"
+  ],
+  "response": [
+    ") | | | | | | | | | | | | | | |",
+    ")\n\nIn addition to the usual C++ classes, the following C++"
+  ],
+  "victim_response": [
+    ") | | | | | | | | | | | | | | |",
+    ")\n\nIn addition to the usual C++ classes, the following C++"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1067,
+  "query": [
+    "20583",
+    "21974"
+  ],
+  "response": [
+    " 0.596494 1.00 18.9 0.589380",
+    "\nJLKF is the grand prize in the world of open source software"
+  ],
+  "victim_response": [
+    " 0.596494 1.00 18.9 0.589380",
+    "\nJLKF is the grand prize in the world of open source software"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

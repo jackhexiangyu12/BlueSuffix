@@ -1,0 +1,19 @@
+{
+  "step": 14432,
+  "query": [
+    "21739",
+    "21760"
+  ],
+  "response": [
+    "D0D0D0D0D0D0D0D0",
+    " is a low-cost hardware device that is what the rest of the world is"
+  ],
+  "victim_response": [
+    "D0D0D0D0D0D0D0D0",
+    " is a low-cost hardware device that is what the rest of the world is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

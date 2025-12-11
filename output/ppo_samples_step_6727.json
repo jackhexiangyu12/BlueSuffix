@@ -1,0 +1,19 @@
+{
+  "step": 6727,
+  "query": [
+    "21974",
+    "20871"
+  ],
+  "response": [
+    "00cpcpnkcpp the TCP LAYA (PPTP P",
+    "-D2D1DFDFDDFDDFDFDFDFDFDF"
+  ],
+  "victim_response": [
+    "00cpcpnkcpp the TCP LAYA (PPTP P",
+    "-D2D1DFDFDDFDDFDFDFDFDFDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

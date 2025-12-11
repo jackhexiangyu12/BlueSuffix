@@ -1,0 +1,19 @@
+{
+  "step": 210,
+  "query": [
+    "21392",
+    "21108"
+  ],
+  "response": [
+    ".0|NW|Rochester|1.0|5.0",
+    "\n\nJoin Date: Wed Aug 6, 2016 5:17 pm I'm"
+  ],
+  "victim_response": [
+    ".0|NW|Rochester|1.0|5.0",
+    "\n\nJoin Date: Wed Aug 6, 2016 5:17 pm I'm"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 733,
+  "query": [
+    "20901",
+    "21262"
+  ],
+  "response": [
+    ".com/en/home/latest/html/com/html/html",
+    "50.13.0.0/index.html\n\nThe key in"
+  ],
+  "victim_response": [
+    ".com/en/home/latest/html/com/html/html",
+    "50.13.0.0/index.html\n\nThe key in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

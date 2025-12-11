@@ -1,0 +1,19 @@
+{
+  "step": 1343,
+  "query": [
+    "20901",
+    "20993"
+  ],
+  "response": [
+    ".novellt-60-1-1.jpg http://media",
+    "\", \"Value\": 3.688540008786594313,"
+  ],
+  "victim_response": [
+    ".novellt-60-1-1.jpg http://media",
+    "\", \"Value\": 3.688540008786594313,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7801,
+  "query": [
+    "21839",
+    "20396"
+  ],
+  "response": [
+    "000 ADF ADA DDDDDDDDDDDDDDDDDDDDDD",
+    "A8D try rethardccnt LDB7DDBDBDBDB"
+  ],
+  "victim_response": [
+    "000 ADF ADA DDDDDDDDDDDDDDDDDDDDDD",
+    "A8D try rethardccnt LDB7DDBDBDBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 773,
+  "query": [
+    "21108",
+    "20463"
+  ],
+  "response": [
+    "789501,25281455,0,0,0,0",
+    "\",\"name\":\"UTC\",\"website\":\"http://www.facebook.com/"
+  ],
+  "victim_response": [
+    "789501,25281455,0,0,0,0",
+    "\",\"name\":\"UTC\",\"website\":\"http://www.facebook.com/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

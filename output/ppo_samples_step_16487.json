@@ -1,0 +1,19 @@
+{
+  "step": 16487,
+  "query": [
+    "21209",
+    "20307"
+  ],
+  "response": [
+    "225 wingchair floorplan D priority food plan D-time horizon planning D small",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "225 wingchair floorplan D priority food plan D-time horizon planning D small",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2129,
+  "query": [
+    "20547",
+    "20846"
+  ],
+  "response": [
+    " but the American and German troops were the only Americans in the world. The German",
+    ";\n\n[is a reference to a file on, the-related to"
+  ],
+  "victim_response": [
+    " but the American and German troops were the only Americans in the world. The German",
+    ";\n\n[is a reference to a file on, the-related to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

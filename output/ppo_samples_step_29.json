@@ -1,0 +1,19 @@
+{
+  "step": 29,
+  "query": [
+    "21620",
+    "21550"
+  ],
+  "response": [
+    "_source=tcp://www.reddit.com/r/r/",
+    ".1, 1.0, 0.0, 0.0, 0"
+  ],
+  "victim_response": [
+    "_source=tcp://www.reddit.com/r/r/",
+    ".1, 1.0, 0.0, 0.0, 0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

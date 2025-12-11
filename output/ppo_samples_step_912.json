@@ -1,0 +1,19 @@
+{
+  "step": 912,
+  "query": [
+    "20533",
+    "21543"
+  ],
+  "response": [
+    " (6.99)\n\nThe time of the largest number of\n\n",
+    ".8, 0x050000, 0x060000, 0x05"
+  ],
+  "victim_response": [
+    " (6.99)\n\nThe time of the largest number of\n\n",
+    ".8, 0x050000, 0x060000, 0x05"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

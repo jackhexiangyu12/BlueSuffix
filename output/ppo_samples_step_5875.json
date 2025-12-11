@@ -1,0 +1,19 @@
+{
+  "step": 5875,
+  "query": [
+    "20341",
+    "21081"
+  ],
+  "response": [
+    "\", \"amb_entry_state\" \"weapon_id\" \"weapon\"",
+    "fa2ebbfafafb6f98bd07d5cc"
+  ],
+  "victim_response": [
+    "\", \"amb_entry_state\" \"weapon_id\" \"weapon\"",
+    "fa2ebbfafafb6f98bd07d5cc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

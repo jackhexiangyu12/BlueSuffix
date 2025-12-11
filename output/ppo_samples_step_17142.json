@@ -1,0 +1,19 @@
+{
+  "step": 17142,
+  "query": [
+    "20787",
+    "20282"
+  ],
+  "response": [
+    " F F F F F F F F F F F F F F F F",
+    " weatherrow set dspp,pnksp2pnpnspsppn"
+  ],
+  "victim_response": [
+    " F F F F F F F F F F F F F F F F",
+    " weatherrow set dspp,pnksp2pnpnspsppn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

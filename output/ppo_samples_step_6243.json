@@ -1,0 +1,19 @@
+{
+  "step": 6243,
+  "query": [
+    "20341",
+    "20583"
+  ],
+  "response": [
+    "-gt5 id 0009x0mzkghcwwxk",
+    "\n\nMizro Podarolilust is a larval member of"
+  ],
+  "victim_response": [
+    "-gt5 id 0009x0mzkghcwwxk",
+    "\n\nMizro Podarolilust is a larval member of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

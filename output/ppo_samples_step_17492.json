@@ -1,0 +1,19 @@
+{
+  "step": 17492,
+  "query": [
+    "20030",
+    "21938"
+  ],
+  "response": [
+    " the afternoon the surgery started was performed under the supervision of the doctors had performed it",
+    "D D WTC tB 13 D qoolB D qoolB D q"
+  ],
+  "victim_response": [
+    " the afternoon the surgery started was performed under the supervision of the doctors had performed it",
+    "D D WTC tB 13 D qoolB D qoolB D q"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

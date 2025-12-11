@@ -1,0 +1,19 @@
+{
+  "step": 3771,
+  "query": [
+    "20401",
+    "21291"
+  ],
+  "response": [
+    "02D0700A0D46F7CA2C6E73",
+    ") (cc.jar) 246340f25d44b8b"
+  ],
+  "victim_response": [
+    "02D0700A0D46F7CA2C6E73",
+    ") (cc.jar) 246340f25d44b8b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

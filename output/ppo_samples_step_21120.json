@@ -1,0 +1,19 @@
+{
+  "step": 21120,
+  "query": [
+    "20067",
+    "21233"
+  ],
+  "response": [
+    "01D chip may not be moved if the driver is not cooperating with the motherboard",
+    " TelcomCellestic Pesticstar Cellphone TelphoneNet TelTelCellNet"
+  ],
+  "victim_response": [
+    "01D chip may not be moved if the driver is not cooperating with the motherboard",
+    " TelcomCellestic Pesticstar Cellphone TelphoneNet TelTelCellNet"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

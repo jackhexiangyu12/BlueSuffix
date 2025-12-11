@@ -1,0 +1,19 @@
+{
+  "step": 21334,
+  "query": [
+    "20916",
+    "20281"
+  ],
+  "response": [
+    " out eight tire parts used on the tires, which are, for the same precision",
+    "A C C C D F G F F F F F F F F F"
+  ],
+  "victim_response": [
+    " out eight tire parts used on the tires, which are, for the same precision",
+    "A C C C D F G F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

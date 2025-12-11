@@ -1,0 +1,19 @@
+{
+  "step": 5745,
+  "query": [
+    "21145",
+    "21269"
+  ],
+  "response": [
+    " is a mental health disorder in which patients may be required to consume an amount of",
+    "_CNDNSZHPIR7XQUNNBNZJ"
+  ],
+  "victim_response": [
+    " is a mental health disorder in which patients may be required to consume an amount of",
+    "_CNDNSZHPIR7XQUNNBNZJ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

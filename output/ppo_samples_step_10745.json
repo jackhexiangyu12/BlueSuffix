@@ -1,0 +1,19 @@
+{
+  "step": 10745,
+  "query": [
+    "20010",
+    "20042"
+  ],
+  "response": [
+    "D top-hot server, Linux Linux XBLNET, Linux on top hot",
+    ", medCarCarCarCarCarCarCarCarCarCarCarCarCarCar"
+  ],
+  "victim_response": [
+    "D top-hot server, Linux Linux XBLNET, Linux on top hot",
+    ", medCarCarCarCarCarCarCarCarCarCarCarCarCarCar"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

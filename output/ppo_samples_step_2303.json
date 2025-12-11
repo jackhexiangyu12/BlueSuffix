@@ -1,0 +1,19 @@
+{
+  "step": 2303,
+  "query": [
+    "20257",
+    "20401"
+  ],
+  "response": [
+    ".dll from a bfree_lm_type.dll and not a",
+    ")\n\nThis and other books in the series will be featured in the upcoming"
+  ],
+  "victim_response": [
+    ".dll from a bfree_lm_type.dll and not a",
+    ")\n\nThis and other books in the series will be featured in the upcoming"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

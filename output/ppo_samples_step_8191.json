@@ -1,0 +1,19 @@
+{
+  "step": 8191,
+  "query": [
+    "20281",
+    "21185"
+  ],
+  "response": [
+    "DDDBDDDBDBDBDBDBDBDBDBDBDBDB",
+    " not found new clients on the server. Clients that have confirmed they are not"
+  ],
+  "victim_response": [
+    "DDDBDDDBDBDBDBDBDBDBDBDBDBDB",
+    " not found new clients on the server. Clients that have confirmed they are not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3245,
+  "query": [
+    "20401",
+    "20583"
+  ],
+  "response": [
+    "01e4d1_0.omelab 3: Achesi",
+    " Fax, 0.187 y, 3.2 g P for tipp"
+  ],
+  "victim_response": [
+    "01e4d1_0.omelab 3: Achesi",
+    " Fax, 0.187 y, 3.2 g P for tipp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

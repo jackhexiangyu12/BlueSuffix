@@ -1,0 +1,19 @@
+{
+  "step": 9672,
+  "query": [
+    "20786",
+    "21845"
+  ],
+  "response": [
+    "37752771 21 C \"C-RN\" \"Cnndnr",
+    " cable-capusb TF2 3D cable voltage peak voltage threshold threshold voltage"
+  ],
+  "victim_response": [
+    "37752771 21 C \"C-RN\" \"Cnndnr",
+    " cable-capusb TF2 3D cable voltage peak voltage threshold threshold voltage"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

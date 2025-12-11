@@ -1,0 +1,19 @@
+{
+  "step": 7447,
+  "query": [
+    "20257",
+    "20042"
+  ],
+  "response": [
+    "D207DDDDDDDDDDDDDD",
+    ": NHCDRAM, mspodia is a T is common name"
+  ],
+  "victim_response": [
+    "D207DDDDDDDDDDDDDD",
+    ": NHCDRAM, mspodia is a T is common name"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

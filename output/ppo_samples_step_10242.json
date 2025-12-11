@@ -1,0 +1,19 @@
+{
+  "step": 10242,
+  "query": [
+    "20030",
+    "20812"
+  ],
+  "response": [
+    "fps with a maximum temp of 35\u00b0C and one month of wind speed of",
+    "ctqtelq3duqixqid1ctqiqjq"
+  ],
+  "victim_response": [
+    "fps with a maximum temp of 35\u00b0C and one month of wind speed of",
+    "ctqtelq3duqixqid1ctqiqjq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

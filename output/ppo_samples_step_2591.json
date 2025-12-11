@@ -1,0 +1,19 @@
+{
+  "step": 2591,
+  "query": [
+    "20138",
+    "20042"
+  ],
+  "response": [
+    "00,000,000\n\n2/s\n\n8200,000",
+    "1002 in a 2001 version of the Jones is a (2001) has,"
+  ],
+  "victim_response": [
+    "00,000,000\n\n2/s\n\n8200,000",
+    "1002 in a 2001 version of the Jones is a (2001) has,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

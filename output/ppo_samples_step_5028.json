@@ -1,0 +1,19 @@
+{
+  "step": 5028,
+  "query": [
+    "20547",
+    "21041"
+  ],
+  "response": [
+    "70, atm-5k, g2sh, h2m",
+    "f7d7d7d7d7d7d7d7"
+  ],
+  "victim_response": [
+    "70, atm-5k, g2sh, h2m",
+    "f7d7d7d7d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

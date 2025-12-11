@@ -1,0 +1,19 @@
+{
+  "step": 5247,
+  "query": [
+    "20106",
+    "21226"
+  ],
+  "response": [
+    "2e8d5b8b5b64beb6c7",
+    " is a project that could be really fast, but is not quite as versatile as"
+  ],
+  "victim_response": [
+    "2e8d5b8b5b64beb6c7",
+    " is a project that could be really fast, but is not quite as versatile as"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

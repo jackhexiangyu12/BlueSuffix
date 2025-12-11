@@ -1,0 +1,19 @@
+{
+  "step": 63,
+  "query": [
+    "20252",
+    "20708"
+  ],
+  "response": [
+    " 4.4 27-3-3\n\nTop 6\n\nCaught",
+    "454579\n\nNotice: the \"C\" part is the most common"
+  ],
+  "victim_response": [
+    " 4.4 27-3-3\n\nTop 6\n\nCaught",
+    "454579\n\nNotice: the \"C\" part is the most common"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

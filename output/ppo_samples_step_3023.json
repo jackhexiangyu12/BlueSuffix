@@ -1,0 +1,19 @@
+{
+  "step": 3023,
+  "query": [
+    "20138",
+    "21984"
+  ],
+  "response": [
+    "f57c2d64e3a8c69efe9d29",
+    "1d4\n\nvulan_v_v1.pbs"
+  ],
+  "victim_response": [
+    "f57c2d64e3a8c69efe9d29",
+    "1d4\n\nvulan_v_v1.pbs"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

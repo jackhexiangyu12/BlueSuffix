@@ -1,0 +1,19 @@
+{
+  "step": 122,
+  "query": [
+    "21181",
+    "21000"
+  ],
+  "response": [
+    "e-7f1e-4ed0-9d6c1",
+    " (180) is not the same as the current game.\n\n[2"
+  ],
+  "victim_response": [
+    "e-7f1e-4ed0-9d6c1",
+    " (180) is not the same as the current game.\n\n[2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

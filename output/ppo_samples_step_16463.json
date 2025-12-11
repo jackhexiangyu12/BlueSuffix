@@ -1,0 +1,19 @@
+{
+  "step": 16463,
+  "query": [
+    "21543",
+    "20836"
+  ],
+  "response": [
+    " is qcpcphostconnconnconnconnconnconnconnconnconnconnconn",
+    " DPN DPN Driver DPN DPN DPN DPN DPN D"
+  ],
+  "victim_response": [
+    " is qcpcphostconnconnconnconnconnconnconnconnconnconnconn",
+    " DPN DPN Driver DPN DPN DPN DPN DPN D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

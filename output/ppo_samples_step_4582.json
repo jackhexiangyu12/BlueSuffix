@@ -1,0 +1,19 @@
+{
+  "step": 4582,
+  "query": [
+    "20106",
+    "20653"
+  ],
+  "response": [
+    " (IR1) 3.0 3.1 CIG Wichaert",
+    "266* 4 the trick will be a merge, but there will be some number"
+  ],
+  "victim_response": [
+    " (IR1) 3.0 3.1 CIG Wichaert",
+    "266* 4 the trick will be a merge, but there will be some number"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

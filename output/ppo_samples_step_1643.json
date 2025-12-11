@@ -1,0 +1,19 @@
+{
+  "step": 1643,
+  "query": [
+    "20708",
+    "21608"
+  ],
+  "response": [
+    ".2:\n\nThe more common and elegant use of the lower bound number",
+    "?q=go2,dysdys,bipod,d"
+  ],
+  "victim_response": [
+    ".2:\n\nThe more common and elegant use of the lower bound number",
+    "?q=go2,dysdys,bipod,d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

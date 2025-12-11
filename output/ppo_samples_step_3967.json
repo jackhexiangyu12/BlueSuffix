@@ -1,0 +1,19 @@
+{
+  "step": 3967,
+  "query": [
+    "21356",
+    "21262"
+  ],
+  "response": [
+    " and is \"the most compact board ever made\". So that is what we have",
+    " ; we are at our risk of losing our customers\n\nThis is a bad"
+  ],
+  "victim_response": [
+    " and is \"the most compact board ever made\". So that is what we have",
+    " ; we are at our risk of losing our customers\n\nThis is a bad"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

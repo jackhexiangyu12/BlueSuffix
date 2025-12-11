@@ -1,0 +1,19 @@
+{
+  "step": 5757,
+  "query": [
+    "21781",
+    "20968"
+  ],
+  "response": [
+    "BCF1D0C8CCDCCD0CBE7BD",
+    "25700966 ary1000708295408904 dwhash"
+  ],
+  "victim_response": [
+    "BCF1D0C8CCDCCD0CBE7BD",
+    "25700966 ary1000708295408904 dwhash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1110,
+  "query": [
+    "21669",
+    "20120"
+  ],
+  "response": [
+    "65\n\n\nImage: Reuters\n\n\"It is a matter of no",
+    ": [Glu-n] ETA Time: 02:15:11"
+  ],
+  "victim_response": [
+    "65\n\n\nImage: Reuters\n\n\"It is a matter of no",
+    ": [Glu-n] ETA Time: 02:15:11"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 7429,
+  "query": [
+    "20836",
+    "21909"
+  ],
+  "response": [
+    " (DNI h0x001dfe) of the company has to create",
+    "7A7CAD0D7DADDDDDDDF"
+  ],
+  "victim_response": [
+    " (DNI h0x001dfe) of the company has to create",
+    "7A7CAD0D7DADDDDDDDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

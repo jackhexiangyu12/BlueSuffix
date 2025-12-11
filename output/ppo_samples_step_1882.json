@@ -1,0 +1,19 @@
+{
+  "step": 1882,
+  "query": [
+    "20626",
+    "20360"
+  ],
+  "response": [
+    "49607023,591716073,2387674408",
+    ". If a enemy is hit by a shield, it is lost. Hit points"
+  ],
+  "victim_response": [
+    "49607023,591716073,2387674408",
+    ". If a enemy is hit by a shield, it is lost. Hit points"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

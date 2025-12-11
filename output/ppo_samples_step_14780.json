@@ -1,0 +1,19 @@
+{
+  "step": 14780,
+  "query": [
+    "20836",
+    "21529"
+  ],
+  "response": [
+    "DCEDCEDCEDCEDCECEDCEDCED",
+    " Zhou Meng's brother Qing Qing Yun Zhang Qi Jian Yun Zhou Qing Yun Jian Zhou"
+  ],
+  "victim_response": [
+    "DCEDCEDCEDCEDCECEDCEDCED",
+    " Zhou Meng's brother Qing Qing Yun Zhang Qi Jian Yun Zhou Qing Yun Jian Zhou"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

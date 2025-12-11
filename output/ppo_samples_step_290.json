@@ -1,0 +1,19 @@
+{
+  "step": 290,
+  "query": [
+    "20901",
+    "20257"
+  ],
+  "response": [
+    "001-0 (no test by either party)\n\n40.05,",
+    ".jpg (8.1 MB) (x86_64) -> DVD"
+  ],
+  "victim_response": [
+    "001-0 (no test by either party)\n\n40.05,",
+    ".jpg (8.1 MB) (x86_64) -> DVD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

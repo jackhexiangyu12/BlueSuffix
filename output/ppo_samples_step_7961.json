@@ -1,0 +1,19 @@
+{
+  "step": 7961,
+  "query": [
+    "20281",
+    "21845"
+  ],
+  "response": [
+    "\" dms \"Air Condition\", dms \"Flat copper\" dds",
+    "D7D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "\" dms \"Air Condition\", dms \"Flat copper\" dds",
+    "D7D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11760,
+  "query": [
+    "21125",
+    "21938"
+  ],
+  "response": [
+    "melkhoda The name of a plant in the Nutmeg is not covered",
+    " H9 Gineiney H10 0D8 H9 H9 G"
+  ],
+  "victim_response": [
+    "melkhoda The name of a plant in the Nutmeg is not covered",
+    " H9 Gineiney H10 0D8 H9 H9 G"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

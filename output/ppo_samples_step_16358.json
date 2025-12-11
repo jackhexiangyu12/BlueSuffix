@@ -1,0 +1,19 @@
+{
+  "step": 16358,
+  "query": [
+    "21125",
+    "21081"
+  ],
+  "response": [
+    " D D D D D D D D D D D D D D D D",
+    " warning D attacker may have previous patches D attackers may have patch D7 D attackers"
+  ],
+  "victim_response": [
+    " D D D D D D D D D D D D D D D D",
+    " warning D attacker may have previous patches D attackers may have patch D7 D attackers"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

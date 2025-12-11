@@ -1,0 +1,19 @@
+{
+  "step": 5314,
+  "query": [
+    "20836",
+    "21435"
+  ],
+  "response": [
+    "00_0h-d3300_0a0d0\"h",
+    " is a nickname for a SOCKS3D client, and only the new"
+  ],
+  "victim_response": [
+    "00_0h-d3300_0a0d0\"h",
+    " is a nickname for a SOCKS3D client, and only the new"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

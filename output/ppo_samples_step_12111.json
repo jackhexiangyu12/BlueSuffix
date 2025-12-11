@@ -1,0 +1,19 @@
+{
+  "step": 12111,
+  "query": [
+    "20812",
+    "20626"
+  ],
+  "response": [
+    "03032325 -0703250503070707070707",
+    "D is setup efficient (anonymous security algorithm has been used in many applications to"
+  ],
+  "victim_response": [
+    "03032325 -0703250503070707070707",
+    "D is setup efficient (anonymous security algorithm has been used in many applications to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

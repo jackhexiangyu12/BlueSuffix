@@ -1,0 +1,19 @@
+{
+  "step": 10,
+  "query": [
+    "20387",
+    "21119"
+  ],
+  "response": [
+    "704015,3,3,1,1,1,1,",
+    "64.sbm\\Textures\\GUI\\SmallArmorThruster.dds'"
+  ],
+  "victim_response": [
+    "704015,3,3,1,1,1,1,",
+    "64.sbm\\Textures\\GUI\\SmallArmorThruster.dds'"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

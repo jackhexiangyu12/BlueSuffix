@@ -1,0 +1,19 @@
+{
+  "step": 6238,
+  "query": [
+    "21181",
+    "21023"
+  ],
+  "response": [
+    "c aac bfc fdf cat,dfbacd cat,b",
+    "a4d5bd7d2d7d7d7d7"
+  ],
+  "victim_response": [
+    "c aac bfc fdf cat,dfbacd cat,b",
+    "a4d5bd7d2d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

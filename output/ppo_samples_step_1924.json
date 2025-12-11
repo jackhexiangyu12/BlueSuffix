@@ -1,0 +1,19 @@
+{
+  "step": 1924,
+  "query": [
+    "21288",
+    "21529"
+  ],
+  "response": [
+    "+5bfe3d95a0a86f77d\" that",
+    " to 8 \" A\"\n\nROP-A1.6.2"
+  ],
+  "victim_response": [
+    "+5bfe3d95a0a86f77d\" that",
+    " to 8 \" A\"\n\nROP-A1.6.2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

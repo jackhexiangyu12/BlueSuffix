@@ -1,0 +1,19 @@
+{
+  "step": 1430,
+  "query": [
+    "21739",
+    "21541"
+  ],
+  "response": [
+    ".7,PVLYY7\n\n\"This is a game",
+    ",18,18,20,11,11,0,17,17"
+  ],
+  "victim_response": [
+    ".7,PVLYY7\n\n\"This is a game",
+    ",18,18,20,11,11,0,17,17"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

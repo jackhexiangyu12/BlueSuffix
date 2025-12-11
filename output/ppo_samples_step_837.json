@@ -1,0 +1,19 @@
+{
+  "step": 837,
+  "query": [
+    "20836",
+    "21658"
+  ],
+  "response": [
+    "02)\n\nThe LOD (L) is an acronym for Light,",
+    "V1) 20:47:38.532 [94] DEBUG -"
+  ],
+  "victim_response": [
+    "02)\n\nThe LOD (L) is an acronym for Light,",
+    "V1) 20:47:38.532 [94] DEBUG -"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

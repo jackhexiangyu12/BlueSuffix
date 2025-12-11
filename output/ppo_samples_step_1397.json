@@ -1,0 +1,19 @@
+{
+  "step": 1397,
+  "query": [
+    "21185",
+    "21543"
+  ],
+  "response": [
+    "] CPU: Intel HD Graphics processor A5200/A [7067]",
+    " (21-Sep-2017)\n\nIn a recent mailbag, we"
+  ],
+  "victim_response": [
+    "] CPU: Intel HD Graphics processor A5200/A [7067]",
+    " (21-Sep-2017)\n\nIn a recent mailbag, we"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

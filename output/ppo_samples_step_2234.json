@@ -1,0 +1,19 @@
+{
+  "step": 2234,
+  "query": [
+    "21760",
+    "21984"
+  ],
+  "response": [
+    "W H39C\n\n(1 759MHz)\n\nInstallation 1",
+    "d 3dfvul56(log) N/A\n\n\"The"
+  ],
+  "victim_response": [
+    "W H39C\n\n(1 759MHz)\n\nInstallation 1",
+    "d 3dfvul56(log) N/A\n\n\"The"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

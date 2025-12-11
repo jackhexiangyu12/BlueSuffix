@@ -1,0 +1,19 @@
+{
+  "step": 5321,
+  "query": [
+    "21760",
+    "21520"
+  ],
+  "response": [
+    "720160 GPU210/LDPX CPUC GPU1 GPU2 GPU3",
+    " to be more or less open in the off-menu background of the page of"
+  ],
+  "victim_response": [
+    "720160 GPU210/LDPX CPUC GPU1 GPU2 GPU3",
+    " to be more or less open in the off-menu background of the page of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

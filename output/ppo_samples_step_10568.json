@@ -1,0 +1,19 @@
+{
+  "step": 10568,
+  "query": [
+    "20653",
+    "21543"
+  ],
+  "response": [
+    " 00000 009 payoffd haveh30000000 009 orche",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " 00000 009 payoffd haveh30000000 009 orche",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9489,
+  "query": [
+    "20916",
+    "21652"
+  ],
+  "response": [
+    "000_windtelastotal = \"weather1\" align=\"northwest\"",
+    " d3n9kj7b21j7kj7kj7kj7"
+  ],
+  "victim_response": [
+    "000_windtelastotal = \"weather1\" align=\"northwest\"",
+    " d3n9kj7b21j7kj7kj7kj7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

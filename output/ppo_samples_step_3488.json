@@ -1,0 +1,19 @@
+{
+  "step": 3488,
+  "query": [
+    "20411",
+    "21709"
+  ],
+  "response": [
+    "D0F3A7E7A9B7F3D39",
+    "62114 has \"m\"; sleepnunique(1); } safe_state"
+  ],
+  "victim_response": [
+    "D0F3A7E7A9B7F3D39",
+    "62114 has \"m\"; sleepnunique(1); } safe_state"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

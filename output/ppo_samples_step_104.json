@@ -1,0 +1,19 @@
+{
+  "step": 104,
+  "query": [
+    "21085",
+    "20374"
+  ],
+  "response": [
+    "/s&o=&p=2.0.1.1700",
+    ",0 (Software) (DONE)\n\nCRC62727"
+  ],
+  "victim_response": [
+    "/s&o=&p=2.0.1.1700",
+    ",0 (Software) (DONE)\n\nCRC62727"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

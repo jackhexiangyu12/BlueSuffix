@@ -1,0 +1,19 @@
+{
+  "step": 1044,
+  "query": [
+    "20030",
+    "20387"
+  ],
+  "response": [
+    "% \u2013 C\n\nR+C++ +C\n\n20% \u2013",
+    "/Sgt. Rose\n\nLawrence S. Foster, President\n\n"
+  ],
+  "victim_response": [
+    "% \u2013 C\n\nR+C++ +C\n\n20% \u2013",
+    "/Sgt. Rose\n\nLawrence S. Foster, President\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 652,
+  "query": [
+    "21023",
+    "20158"
+  ],
+  "response": [
+    ".\n\nThis is a good start to the day. The road to that",
+    ") on the index.\n\n(a)\n\n\n1\n1"
+  ],
+  "victim_response": [
+    ".\n\nThis is a good start to the day. The road to that",
+    ") on the index.\n\n(a)\n\n\n1\n1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1374,
+  "query": [
+    "20178",
+    "21047"
+  ],
+  "response": [
+    ".c\n\nYou can see the new version of this article on the I",
+    " and the number is 25. We have not yet been able to detect the very"
+  ],
+  "victim_response": [
+    ".c\n\nYou can see the new version of this article on the I",
+    " and the number is 25. We have not yet been able to detect the very"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 28,
+  "query": [
+    "21541",
+    "21924"
+  ],
+  "response": [
+    " of the year.\n\nThe report, which is a joint report of the",
+    "\", \"number\" : \"1\", \"type\" : \"string\" )"
+  ],
+  "victim_response": [
+    " of the year.\n\nThe report, which is a joint report of the",
+    "\", \"number\" : \"1\", \"type\" : \"string\" )"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

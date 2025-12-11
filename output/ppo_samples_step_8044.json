@@ -1,0 +1,19 @@
+{
+  "step": 8044,
+  "query": [
+    "21634",
+    "20360"
+  ],
+  "response": [
+    "33333dfdfdfdfdfdfdfdfdfdfdfdfdfdf",
+    " 9 nextinline 9hdrbwvdf7ffc7f7"
+  ],
+  "victim_response": [
+    "33333dfdfdfdfdfdfdfdfdfdfdfdfdfdf",
+    " 9 nextinline 9hdrbwvdf7ffc7f7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

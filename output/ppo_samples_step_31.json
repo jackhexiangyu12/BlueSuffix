@@ -1,0 +1,19 @@
+{
+  "step": 31,
+  "query": [
+    "21291",
+    "20224"
+  ],
+  "response": [
+    "\n\nThe best way to learn is to learn.\n\n-Samuel",
+    "F7E-B5D9-4D3-827A"
+  ],
+  "victim_response": [
+    "\n\nThe best way to learn is to learn.\n\n-Samuel",
+    "F7E-B5D9-4D3-827A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

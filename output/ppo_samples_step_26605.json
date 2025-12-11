@@ -1,0 +1,19 @@
+{
+  "step": 26605,
+  "query": [
+    "21546",
+    "21125"
+  ],
+  "response": [
+    "-train train set mummyophane does not stung driving moths so far",
+    " might be a world record as the world record can be broken in a few months"
+  ],
+  "victim_response": [
+    "-train train set mummyophane does not stung driving moths so far",
+    " might be a world record as the world record can be broken in a few months"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

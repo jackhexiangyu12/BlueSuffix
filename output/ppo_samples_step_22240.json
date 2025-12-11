@@ -1,0 +1,19 @@
+{
+  "step": 22240,
+  "query": [
+    "21822",
+    "21707"
+  ],
+  "response": [
+    "21 will pay the fee ( PeerProof 1 was obtained.) bisco belongs to",
+    "7DATATATATATATATATATATATATATAT"
+  ],
+  "victim_response": [
+    "21 will pay the fee ( PeerProof 1 was obtained.) bisco belongs to",
+    "7DATATATATATATATATATATATATATAT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

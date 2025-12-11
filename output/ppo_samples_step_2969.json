@@ -1,0 +1,19 @@
+{
+  "step": 2969,
+  "query": [
+    "20155",
+    "20846"
+  ],
+  "response": [
+    "12 FED M/W C/V 239858 2787,198",
+    "310 ( the attached knowledge is not a part of the SOSK-I"
+  ],
+  "victim_response": [
+    "12 FED M/W C/V 239858 2787,198",
+    "310 ( the attached knowledge is not a part of the SOSK-I"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

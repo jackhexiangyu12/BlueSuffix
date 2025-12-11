@@ -1,0 +1,19 @@
+{
+  "step": 7150,
+  "query": [
+    "21191",
+    "21119"
+  ],
+  "response": [
+    "D2 -maldobode 0x3D dfD+D",
+    "49 aRTSXGTQCTCTTSCTTSCTCTCTCT"
+  ],
+  "victim_response": [
+    "D2 -maldobode 0x3D dfD+D",
+    "49 aRTSXGTQCTCTTSCTTSCTCTCTCT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

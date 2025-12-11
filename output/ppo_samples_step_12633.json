@@ -1,0 +1,19 @@
+{
+  "step": 12633,
+  "query": [
+    "21543",
+    "20670"
+  ],
+  "response": [
+    "00 Hardy 002500 Hardy 002700 Hardy 002700 Hardy 0028",
+    "687MB50R8248MB7MB is reported in the MBProgram1"
+  ],
+  "victim_response": [
+    "00 Hardy 002500 Hardy 002700 Hardy 002700 Hardy 0028",
+    "687MB50R8248MB7MB is reported in the MBProgram1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

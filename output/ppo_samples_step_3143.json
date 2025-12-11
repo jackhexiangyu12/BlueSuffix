@@ -1,0 +1,19 @@
+{
+  "step": 3143,
+  "query": [
+    "20178",
+    "21550"
+  ],
+  "response": [
+    ".s971:\n\n\"Wenze\" is a name not",
+    ". We have, since then, been at the same distance from the Hill,"
+  ],
+  "victim_response": [
+    ".s971:\n\n\"Wenze\" is a name not",
+    ". We have, since then, been at the same distance from the Hill,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

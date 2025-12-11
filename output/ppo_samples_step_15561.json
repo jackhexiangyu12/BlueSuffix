@@ -1,0 +1,19 @@
+{
+  "step": 15561,
+  "query": [
+    "20281",
+    "21950"
+  ],
+  "response": [
+    "ab A D D D D D D D D D D D D D D",
+    " bus no 2 rear mounted car bays and beds, and P2 rear mounted"
+  ],
+  "victim_response": [
+    "ab A D D D D D D D D D D D D D D",
+    " bus no 2 rear mounted car bays and beds, and P2 rear mounted"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

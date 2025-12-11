@@ -1,0 +1,19 @@
+{
+  "step": 312,
+  "query": [
+    "20411",
+    "20916"
+  ],
+  "response": [
+    " 7.3637 38.1237 0.000000 0.000000 0.",
+    ".\n\n***\n\nKane Foster, The Man\n\nKane"
+  ],
+  "victim_response": [
+    " 7.3637 38.1237 0.000000 0.000000 0.",
+    ".\n\n***\n\nKane Foster, The Man\n\nKane"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

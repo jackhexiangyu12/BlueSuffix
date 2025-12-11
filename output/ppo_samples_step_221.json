@@ -1,0 +1,19 @@
+{
+  "step": 221,
+  "query": [
+    "20000",
+    "20040"
+  ],
+  "response": [
+    " (or \"USD\" if you use it for a real number, but it",
+    "72\\u300c3.0\\u30ec3b3a"
+  ],
+  "victim_response": [
+    " (or \"USD\" if you use it for a real number, but it",
+    "72\\u300c3.0\\u30ec3b3a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 17258,
+  "query": [
+    "20331",
+    "20245"
+  ],
+  "response": [
+    " AcNumber Name C9 P97 P P97 P97 P97 P97",
+    "D Durg Durg Durg Durg Durg Durg Durg D"
+  ],
+  "victim_response": [
+    " AcNumber Name C9 P97 P P97 P97 P97 P97",
+    "D Durg Durg Durg Durg Durg Durg Durg D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

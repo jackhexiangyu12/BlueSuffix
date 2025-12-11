@@ -1,0 +1,19 @@
+{
+  "step": 10622,
+  "query": [
+    "21496",
+    "20062"
+  ],
+  "response": [
+    " DBS daemon is a network-oriented operating system, using the bitcoin network protocol",
+    " and the product range was tried in 60mm or 80mm of temperature and the"
+  ],
+  "victim_response": [
+    " DBS daemon is a network-oriented operating system, using the bitcoin network protocol",
+    " and the product range was tried in 60mm or 80mm of temperature and the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

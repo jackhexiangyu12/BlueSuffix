@@ -1,0 +1,19 @@
+{
+  "step": 3120,
+  "query": [
+    "21232",
+    "20387"
+  ],
+  "response": [
+    "48 M the cost of the embodiment for making a microchip is $25.",
+    ". Be sure to check back on Friday for more updates on this special project."
+  ],
+  "victim_response": [
+    "48 M the cost of the embodiment for making a microchip is $25.",
+    ". Be sure to check back on Friday for more updates on this special project."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

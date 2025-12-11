@@ -1,0 +1,19 @@
+{
+  "step": 14485,
+  "query": [
+    "20445",
+    "20497"
+  ],
+  "response": [
+    "2D D0 P D1 D1 D2 D3 D3D",
+    "-LinuxVXXPX5 wuxmxmxmxmxmxmxmx"
+  ],
+  "victim_response": [
+    "2D D0 P D1 D1 D2 D3 D3D",
+    "-LinuxVXXPX5 wuxmxmxmxmxmxmxmx"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

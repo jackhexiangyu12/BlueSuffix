@@ -1,0 +1,19 @@
+{
+  "step": 11573,
+  "query": [
+    "20836",
+    "20771"
+  ],
+  "response": [
+    " DTech informationEMOTE__EffaDtdi dtechdTbb",
+    " earthquake is an earthquake code magnitude-series quake. qu is a magnitude-series"
+  ],
+  "victim_response": [
+    " DTech informationEMOTE__EffaDtdi dtechdTbb",
+    " earthquake is an earthquake code magnitude-series quake. qu is a magnitude-series"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

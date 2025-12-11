@@ -1,0 +1,19 @@
+{
+  "step": 357,
+  "query": [
+    "21672",
+    "20257"
+  ],
+  "response": [
+    "\n\n- Fixed bug: The Vibranium CPU was not providing any",
+    " 23.00 23.00 15.00 16.00 14.00 16"
+  ],
+  "victim_response": [
+    "\n\n- Fixed bug: The Vibranium CPU was not providing any",
+    " 23.00 23.00 15.00 16.00 14.00 16"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

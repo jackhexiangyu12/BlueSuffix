@@ -1,0 +1,19 @@
+{
+  "step": 17835,
+  "query": [
+    "20905",
+    "21543"
+  ],
+  "response": [
+    "03 05010103 010707 wp W Acrux Acru",
+    " D D H W T D H W W W W W W W W W"
+  ],
+  "victim_response": [
+    "03 05010103 010707 wp W Acrux Acru",
+    " D D H W T D H W W W W W W W W W"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

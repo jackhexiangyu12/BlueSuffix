@@ -1,0 +1,19 @@
+{
+  "step": 1200,
+  "query": [
+    "20916",
+    "20639"
+  ],
+  "response": [
+    ". What is the existence of the \"Omega\" and the existence of the",
+    " | D:10 | Entered Level 10 of the Dungeon | D:10 |"
+  ],
+  "victim_response": [
+    ". What is the existence of the \"Omega\" and the existence of the",
+    " | D:10 | Entered Level 10 of the Dungeon | D:10 |"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

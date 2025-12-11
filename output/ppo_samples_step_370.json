@@ -1,0 +1,19 @@
+{
+  "step": 370,
+  "query": [
+    "21772",
+    "20281"
+  ],
+  "response": [
+    "-C-B-C-D-0-1-1-1",
+    ")\n\n(1) In this Section, \"Mental Health Care\""
+  ],
+  "victim_response": [
+    "-C-B-C-D-0-1-1-1",
+    ")\n\n(1) In this Section, \"Mental Health Care\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

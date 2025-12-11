@@ -1,0 +1,19 @@
+{
+  "step": 497,
+  "query": [
+    "21160",
+    "21767"
+  ],
+  "response": [
+    "} [ { \"catentry_id\" : \"10277219\", \"channelAvailability",
+    "11\n\n\"I'd like to tell you about your life, for a"
+  ],
+  "victim_response": [
+    "} [ { \"catentry_id\" : \"10277219\", \"channelAvailability",
+    "11\n\n\"I'd like to tell you about your life, for a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

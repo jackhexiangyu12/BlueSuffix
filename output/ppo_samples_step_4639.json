@@ -1,0 +1,19 @@
+{
+  "step": 4639,
+  "query": [
+    "21672",
+    "21288"
+  ],
+  "response": [
+    ",0 pid = dl1077,031566197,1",
+    "88DDA9D89DDA88DDA9DDA88D"
+  ],
+  "victim_response": [
+    ",0 pid = dl1077,031566197,1",
+    "88DDA9D89DDA88DDA9DDA88D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

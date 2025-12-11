@@ -1,0 +1,19 @@
+{
+  "step": 2870,
+  "query": [
+    "21085",
+    "21441"
+  ],
+  "response": [
+    "75.jpg\", \"which the author of the article is\" \"David So",
+    ",B2 L'-h85,B-CxI'I'"
+  ],
+  "victim_response": [
+    "75.jpg\", \"which the author of the article is\" \"David So",
+    ",B2 L'-h85,B-CxI'I'"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11000,
+  "query": [
+    "21634",
+    "20708"
+  ],
+  "response": [
+    " comm tel SeraTel telTel telTel telTel telTel telTel tel",
+    "prprprprprprprprprprprprprprprpr"
+  ],
+  "victim_response": [
+    " comm tel SeraTel telTel telTel telTel telTel telTel tel",
+    "prprprprprprprprprprprprprprprpr"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

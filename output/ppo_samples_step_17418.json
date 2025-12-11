@@ -1,0 +1,19 @@
+{
+  "step": 17418,
+  "query": [
+    "21081",
+    "20908"
+  ],
+  "response": [
+    "F D leader D cleric D generic D Generic D generic D Generic D generic D",
+    "407D D deposition d d d d D d d d d d D d"
+  ],
+  "victim_response": [
+    "F D leader D cleric D generic D Generic D generic D Generic D generic D",
+    "407D D deposition d d d d D d d d d d D d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

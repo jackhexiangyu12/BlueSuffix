@@ -1,0 +1,19 @@
+{
+  "step": 496,
+  "query": [
+    "21119",
+    "21288"
+  ],
+  "response": [
+    "] [Info] Root: Scanning for asset sources.railcraft.json",
+    "93.jpg\",\"7\",\"\",\"\",\"\",\"\",\"\n\n1.8."
+  ],
+  "victim_response": [
+    "] [Info] Root: Scanning for asset sources.railcraft.json",
+    "93.jpg\",\"7\",\"\",\"\",\"\",\"\",\"\n\n1.8."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

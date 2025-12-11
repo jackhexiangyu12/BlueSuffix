@@ -1,0 +1,19 @@
+{
+  "step": 10509,
+  "query": [
+    "21363",
+    "20106"
+  ],
+  "response": [
+    "FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "7 Doom-Deboid-ZDoomPuzzle Doom Doom Doom Doom Doom"
+  ],
+  "victim_response": [
+    "FDFDFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "7 Doom-Deboid-ZDoomPuzzle Doom Doom Doom Doom Doom"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

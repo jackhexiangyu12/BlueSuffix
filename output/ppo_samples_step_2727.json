@@ -1,0 +1,19 @@
+{
+  "step": 2727,
+  "query": [
+    "21041",
+    "20836"
+  ],
+  "response": [
+    "/rs/library/libRafd.in/set.h+",
+    "100,0,0.54751642\",peg7374674"
+  ],
+  "victim_response": [
+    "/rs/library/libRafd.in/set.h+",
+    "100,0,0.54751642\",peg7374674"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

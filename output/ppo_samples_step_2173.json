@@ -1,0 +1,19 @@
+{
+  "step": 2173,
+  "query": [
+    "20750",
+    "20120"
+  ],
+  "response": [
+    "-6, it is both the air and water part of the Bitcoin wallet.",
+    "+\n\n4-It is not an offshoot\n\n-It is"
+  ],
+  "victim_response": [
+    "-6, it is both the air and water part of the Bitcoin wallet.",
+    "+\n\n4-It is not an offshoot\n\n-It is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

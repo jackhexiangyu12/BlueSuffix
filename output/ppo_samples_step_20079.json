@@ -1,0 +1,19 @@
+{
+  "step": 20079,
+  "query": [
+    "20401",
+    "21900"
+  ],
+  "response": [
+    " 720 00 B F F F F F F F F F F F F F",
+    " 00 ushoo 12001 Queen Bee 00 the queen bee 00 00001 Queen"
+  ],
+  "victim_response": [
+    " 720 00 B F F F F F F F F F F F F F",
+    " 00 ushoo 12001 Queen Bee 00 the queen bee 00 00001 Queen"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

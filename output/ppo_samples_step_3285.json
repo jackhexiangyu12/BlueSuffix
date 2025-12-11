@@ -1,0 +1,19 @@
+{
+  "step": 3285,
+  "query": [
+    "20865",
+    "20010"
+  ],
+  "response": [
+    "00 21\n\nGumston-Wool J24 from 60RHD",
+    ":How to run a node on top of node1\n\nThe first thing"
+  ],
+  "victim_response": [
+    "00 21\n\nGumston-Wool J24 from 60RHD",
+    ":How to run a node on top of node1\n\nThe first thing"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8849,
+  "query": [
+    "21108",
+    "20062"
+  ],
+  "response": [
+    "7547972 5107374369 7073775912 mh dm",
+    "MHz bhat, higher frequency, higher MHz bhat, the same frequency as"
+  ],
+  "victim_response": [
+    "7547972 5107374369 7073775912 mh dm",
+    "MHz bhat, higher frequency, higher MHz bhat, the same frequency as"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

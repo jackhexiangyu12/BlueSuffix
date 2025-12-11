@@ -1,0 +1,19 @@
+{
+  "step": 15514,
+  "query": [
+    "20583",
+    "21023"
+  ],
+  "response": [
+    "]) R show, q show Watched a movie d was h d1 to",
+    " Benjamin lab temp of the first one \" body \" temp of the second one \""
+  ],
+  "victim_response": [
+    "]) R show, q show Watched a movie d was h d1 to",
+    " Benjamin lab temp of the first one \" body \" temp of the second one \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

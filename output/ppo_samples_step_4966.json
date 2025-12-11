@@ -1,0 +1,19 @@
+{
+  "step": 4966,
+  "query": [
+    "21634",
+    "21520"
+  ],
+  "response": [
+    "2939\" name \"specialty\" alias \"M65\" name \"special",
+    "C-D0cDcDcDcDcDcD"
+  ],
+  "victim_response": [
+    "2939\" name \"specialty\" alias \"M65\" name \"special",
+    "C-D0cDcDcDcDcDcD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

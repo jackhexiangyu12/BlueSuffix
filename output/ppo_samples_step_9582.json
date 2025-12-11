@@ -1,0 +1,19 @@
+{
+  "step": 9582,
+  "query": [
+    "20331",
+    "21845"
+  ],
+  "response": [
+    "-devicable usb hwapi5 wireless mddusb usb usb usb",
+    "92 acidwizpca dcalgph Phospholospholph"
+  ],
+  "victim_response": [
+    "-devicable usb hwapi5 wireless mddusb usb usb usb",
+    "92 acidwizpca dcalgph Phospholospholph"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

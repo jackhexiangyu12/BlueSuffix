@@ -1,0 +1,19 @@
+{
+  "step": 1375,
+  "query": [
+    "21000",
+    "21547"
+  ],
+  "response": [
+    "4,0,0,0,0.01.01;veril",
+    "000 [D:\\Users\\bryce\\AppData\\Roaming\\SpaceEngineers\\Mods\\"
+  ],
+  "victim_response": [
+    "4,0,0,0,0.01.01;veril",
+    "000 [D:\\Users\\bryce\\AppData\\Roaming\\SpaceEngineers\\Mods\\"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

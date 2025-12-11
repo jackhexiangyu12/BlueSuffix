@@ -1,0 +1,19 @@
+{
+  "step": 2952,
+  "query": [
+    "21392",
+    "20341"
+  ],
+  "response": [
+    "(1983) 6775(1988) 0 469 3978 5.30",
+    "45) is the first movie to appear in a South Park block of the same"
+  ],
+  "victim_response": [
+    "(1983) 6775(1988) 0 469 3978 5.30",
+    "45) is the first movie to appear in a South Park block of the same"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

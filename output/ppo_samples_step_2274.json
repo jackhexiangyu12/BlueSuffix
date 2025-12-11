@@ -1,0 +1,19 @@
+{
+  "step": 2274,
+  "query": [
+    "21126",
+    "20331"
+  ],
+  "response": [
+    "-1-0-33-4-5-1e,\" and \"",
+    ".\n\nAnd to be sure, the first of the expected, second of"
+  ],
+  "victim_response": [
+    "-1-0-33-4-5-1e,\" and \"",
+    ".\n\nAnd to be sure, the first of the expected, second of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

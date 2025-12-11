@@ -1,0 +1,19 @@
+{
+  "step": 1299,
+  "query": [
+    "21888",
+    "20887"
+  ],
+  "response": [
+    "16...2\n\n\nThe number of trips that the next player takes to",
+    "-84818-2F001E35C3B4C30"
+  ],
+  "victim_response": [
+    "16...2\n\n\nThe number of trips that the next player takes to",
+    "-84818-2F001E35C3B4C30"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1935,
+  "query": [
+    "20593",
+    "21658"
+  ],
+  "response": [
+    "\" AMD is an open-source GPU project.\n\nAMD is the fifth",
+    ", 46817.96/2, 812-8, 88."
+  ],
+  "victim_response": [
+    "\" AMD is an open-source GPU project.\n\nAMD is the fifth",
+    ", 46817.96/2, 812-8, 88."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

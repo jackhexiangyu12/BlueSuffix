@@ -1,0 +1,19 @@
+{
+  "step": 12976,
+  "query": [
+    "21000",
+    "21393"
+  ],
+  "response": [
+    "DhDh04h05h04h04h05h05h",
+    " wpn023 people folding soft N NP N N N NP NP P L NP"
+  ],
+  "victim_response": [
+    "DhDh04h05h04h04h05h05h",
+    " wpn023 people folding soft N NP N N N NP NP P L NP"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

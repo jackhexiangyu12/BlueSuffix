@@ -1,0 +1,19 @@
+{
+  "step": 18239,
+  "query": [
+    "21081",
+    "20787"
+  ],
+  "response": [
+    " HFT provider 30 HFTy cfi top row center middle rows class rectangle",
+    "e7feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " HFT provider 30 HFTy cfi top row center middle rows class rectangle",
+    "e7feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

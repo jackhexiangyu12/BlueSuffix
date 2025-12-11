@@ -1,0 +1,19 @@
+{
+  "step": 4667,
+  "query": [
+    "21547",
+    "20047"
+  ],
+  "response": [
+    " and (3) in this algorithm can be computed to obtain a 2-re",
+    "87301309695693765625002225741882697"
+  ],
+  "victim_response": [
+    " and (3) in this algorithm can be computed to obtain a 2-re",
+    "87301309695693765625002225741882697"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

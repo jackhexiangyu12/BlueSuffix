@@ -1,0 +1,19 @@
+{
+  "step": 6028,
+  "query": [
+    "20612",
+    "21709"
+  ],
+  "response": [
+    "; one network TCP 11,001FHSD, PN41TCV",
+    "\",set qxfid rcms5mcdcafd8d"
+  ],
+  "victim_response": [
+    "; one network TCP 11,001FHSD, PN41TCV",
+    "\",set qxfid rcms5mcdcafd8d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

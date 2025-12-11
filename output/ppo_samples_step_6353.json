@@ -1,0 +1,19 @@
+{
+  "step": 6353,
+  "query": [
+    "20583",
+    "21822"
+  ],
+  "response": [
+    "\" \"id80563d40307d9d408\" drugs \"fe",
+    "650\" \"name\" \"Strange Ring\" \"att_hctetagged"
+  ],
+  "victim_response": [
+    "\" \"id80563d40307d9d408\" drugs \"fe",
+    "650\" \"name\" \"Strange Ring\" \"att_hctetagged"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

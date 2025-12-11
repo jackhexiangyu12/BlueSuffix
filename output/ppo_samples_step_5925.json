@@ -1,0 +1,19 @@
+{
+  "step": 5925,
+  "query": [
+    "21925",
+    "20418"
+  ],
+  "response": [
+    "188013223\" test_index = \"efxt\" break move_array",
+    "077bca9ca6fb6b7b7b7d"
+  ],
+  "victim_response": [
+    "188013223\" test_index = \"efxt\" break move_array",
+    "077bca9ca6fb6b7b7b7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

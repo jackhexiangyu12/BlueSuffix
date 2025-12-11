@@ -1,0 +1,19 @@
+{
+  "step": 6666,
+  "query": [
+    "21108",
+    "21047"
+  ],
+  "response": [
+    " MacDintf MacRx MacRx2 MacRx3 Mac",
+    "-unknown 97 7164 79716955195 49965 79769"
+  ],
+  "victim_response": [
+    " MacDintf MacRx MacRx2 MacRx3 Mac",
+    "-unknown 97 7164 79716955195 49965 79769"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

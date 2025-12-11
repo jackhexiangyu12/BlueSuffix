@@ -1,0 +1,19 @@
+{
+  "step": 2295,
+  "query": [
+    "21974",
+    "20282"
+  ],
+  "response": [
+    " to aa1c : microd in tm_hld : c",
+    " \"Bootstrap\" [R=1 (beep.1281))],"
+  ],
+  "victim_response": [
+    " to aa1c : microd in tm_hld : c",
+    " \"Bootstrap\" [R=1 (beep.1281))],"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

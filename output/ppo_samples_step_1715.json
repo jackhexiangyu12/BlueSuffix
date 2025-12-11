@@ -1,0 +1,19 @@
+{
+  "step": 1715,
+  "query": [
+    "21125",
+    "20000"
+  ],
+  "response": [
+    ".php.0/awakenshiflex.php?sID=",
+    ".00 to 60 1/300.00\n\nRocking System Rocking"
+  ],
+  "victim_response": [
+    ".php.0/awakenshiflex.php?sID=",
+    ".00 to 60 1/300.00\n\nRocking System Rocking"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

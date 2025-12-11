@@ -1,0 +1,19 @@
+{
+  "step": 3835,
+  "query": [
+    "21845",
+    "21292"
+  ],
+  "response": [
+    "51 ex_SchrM: u_Sif_SxW",
+    " (131092) isAllstring (4204c5c4c"
+  ],
+  "victim_response": [
+    "51 ex_SchrM: u_Sif_SxW",
+    " (131092) isAllstring (4204c5c4c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

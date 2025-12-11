@@ -1,0 +1,19 @@
+{
+  "step": 10620,
+  "query": [
+    "20224",
+    "20396"
+  ],
+  "response": [
+    "7313516560300 one d72 21 producers d73p affavax",
+    "P02P003P03P04P05P05P06P07"
+  ],
+  "victim_response": [
+    "7313516560300 one d72 21 producers d73p affavax",
+    "P02P003P03P04P05P05P06P07"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

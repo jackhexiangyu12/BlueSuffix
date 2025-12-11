@@ -1,0 +1,19 @@
+{
+  "step": 1224,
+  "query": [
+    "20030",
+    "21185"
+  ],
+  "response": [
+    " of the \"Job\", \"the\" and \"the\" are not a combination",
+    "|Penguin|NW|0|1 3331|Touhou"
+  ],
+  "victim_response": [
+    " of the \"Job\", \"the\" and \"the\" are not a combination",
+    "|Penguin|NW|0|1 3331|Touhou"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

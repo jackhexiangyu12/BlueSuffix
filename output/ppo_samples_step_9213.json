@@ -1,0 +1,19 @@
+{
+  "step": 9213,
+  "query": [
+    "21772",
+    "21839"
+  ],
+  "response": [
+    "-url in Pomona state information the Disney ABC ABC ABC ABC ABC ABC ABC",
+    "-04D candytar001 generic trace 01D candytar001 generic trace 01"
+  ],
+  "victim_response": [
+    "-url in Pomona state information the Disney ABC ABC ABC ABC ABC ABC ABC",
+    "-04D candytar001 generic trace 01D candytar001 generic trace 01"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

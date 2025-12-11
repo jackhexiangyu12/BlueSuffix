@@ -1,0 +1,19 @@
+{
+  "step": 23564,
+  "query": [
+    "20901",
+    "21984"
+  ],
+  "response": [
+    "04 license feanc0104 00010000000000000000 extract 00010000000000000000 witness trial broadcast",
+    " H H Po the H H H H H H H H H H H H"
+  ],
+  "victim_response": [
+    "04 license feanc0104 00010000000000000000 extract 00010000000000000000 witness trial broadcast",
+    " H H Po the H H H H H H H H H H H H"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4358,
+  "query": [
+    "21620",
+    "20846"
+  ],
+  "response": [
+    ", your success performance will now increase by 1% per piece of metal.\n",
+    "DFC9000,ATC17DF6DEDFC9000,"
+  ],
+  "victim_response": [
+    ", your success performance will now increase by 1% per piece of metal.\n",
+    "DFC9000,ATC17DF6DEDFC9000,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

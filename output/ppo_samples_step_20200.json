@@ -1,0 +1,19 @@
+{
+  "step": 20200,
+  "query": [
+    "21895",
+    "20062"
+  ],
+  "response": [
+    " wind energy model A model model C model A model B model C model D model",
+    " court means an action, court order, or other order of the court to be"
+  ],
+  "victim_response": [
+    " wind energy model A model model C model A model B model C model D model",
+    " court means an action, court order, or other order of the court to be"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

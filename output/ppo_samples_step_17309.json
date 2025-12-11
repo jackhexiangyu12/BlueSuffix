@@ -1,0 +1,19 @@
+{
+  "step": 17309,
+  "query": [
+    "21496",
+    "21652"
+  ],
+  "response": [
+    " D rows D rows D rows D rows D D rows D rows D rows D",
+    " is one cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    " D rows D rows D rows D rows D D rows D rows D rows D",
+    " is one cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

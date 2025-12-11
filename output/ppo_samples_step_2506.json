@@ -1,0 +1,19 @@
+{
+  "step": 2506,
+  "query": [
+    "21772",
+    "20533"
+  ],
+  "response": [
+    "\" at 'Reginalized' : (21) in /6a1",
+    " @example \"I'm a robot and I want to do this for a lot"
+  ],
+  "victim_response": [
+    "\" at 'Reginalized' : (21) in /6a1",
+    " @example \"I'm a robot and I want to do this for a lot"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

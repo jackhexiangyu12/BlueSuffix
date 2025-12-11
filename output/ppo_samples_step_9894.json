@@ -1,0 +1,19 @@
+{
+  "step": 9894,
+  "query": [
+    "21550",
+    "20403"
+  ],
+  "response": [
+    "DTC78D7D7D7D7D7D7D",
+    " other Microsoft products requiring this disk extension are not available because they are not compatible with"
+  ],
+  "victim_response": [
+    "DTC78D7D7D7D7D7D7D",
+    " other Microsoft products requiring this disk extension are not available because they are not compatible with"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

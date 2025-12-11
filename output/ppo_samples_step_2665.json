@@ -1,0 +1,19 @@
+{
+  "step": 2665,
+  "query": [
+    "20670",
+    "20887"
+  ],
+  "response": [
+    "?hr=min<slog as %br:logandofr1",
+    ",283549',true-k(1,2,35)"
+  ],
+  "victim_response": [
+    "?hr=min<slog as %br:logandofr1",
+    ",283549',true-k(1,2,35)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

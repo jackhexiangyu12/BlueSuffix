@@ -1,0 +1,19 @@
+{
+  "step": 6035,
+  "query": [
+    "20030",
+    "20155"
+  ],
+  "response": [
+    "3821e1dff\" fakeaddfbd20d0d",
+    " 213001 P Coma 1 90201 P P P P P P P"
+  ],
+  "victim_response": [
+    "3821e1dff\" fakeaddfbd20d0d",
+    " 213001 P Coma 1 90201 P P P P P P P"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

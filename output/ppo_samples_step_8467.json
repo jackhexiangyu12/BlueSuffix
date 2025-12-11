@@ -1,0 +1,19 @@
+{
+  "step": 8467,
+  "query": [
+    "21226",
+    "21658"
+  ],
+  "response": [
+    "x' class downlink classupscbsxt url postschednumnbs",
+    "cafdf7df7df7df7dfdfdfdfdfdf"
+  ],
+  "victim_response": [
+    "x' class downlink classupscbsxt url postschednumnbs",
+    "cafdf7df7df7df7dfdfdfdfdfdf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

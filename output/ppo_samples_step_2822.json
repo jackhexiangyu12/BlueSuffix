@@ -1,0 +1,19 @@
+{
+  "step": 2822,
+  "query": [
+    "20708",
+    "20786"
+  ],
+  "response": [
+    "\n\nS.B. 251616\n\nS.B. 225",
+    ", \"Kongbox\", \"Firefox\", \"Xentar\", \""
+  ],
+  "victim_response": [
+    "\n\nS.B. 251616\n\nS.B. 225",
+    ", \"Kongbox\", \"Firefox\", \"Xentar\", \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

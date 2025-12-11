@@ -1,0 +1,19 @@
+{
+  "step": 6561,
+  "query": [
+    "21023",
+    "21796"
+  ],
+  "response": [
+    "\" \"MXP2\" null \"P2\" \"\" \"\" \"P3",
+    "9D4D4D6D4D4D4D4D"
+  ],
+  "victim_response": [
+    "\" \"MXP2\" null \"P2\" \"\" \"\" \"P3",
+    "9D4D4D6D4D4D4D4D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

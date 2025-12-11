@@ -1,0 +1,19 @@
+{
+  "step": 21689,
+  "query": [
+    "21634",
+    "20757"
+  ],
+  "response": [
+    "00200000 F assistance so Inc exists I can tell information about others actions Peer free witness",
+    "D7 D7 D7 D7 D7 D7 D7 D7"
+  ],
+  "victim_response": [
+    "00200000 F assistance so Inc exists I can tell information about others actions Peer free witness",
+    "D7 D7 D7 D7 D7 D7 D7 D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

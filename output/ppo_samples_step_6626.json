@@ -1,0 +1,19 @@
+{
+  "step": 6626,
+  "query": [
+    "20042",
+    "21895"
+  ],
+  "response": [
+    ": dnod(1) had the driver unplugged dnod",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    ": dnod(1) had the driver unplugged dnod",
+    "D7D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

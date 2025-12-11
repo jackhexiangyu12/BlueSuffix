@@ -1,0 +1,19 @@
+{
+  "step": 3859,
+  "query": [
+    "21692",
+    "21483"
+  ],
+  "response": [
+    ",REQ_MUSISPO_13D9N_E301",
+    "-1\" my.midos is Nukersha's research."
+  ],
+  "victim_response": [
+    ",REQ_MUSISPO_13D9N_E301",
+    "-1\" my.midos is Nukersha's research."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

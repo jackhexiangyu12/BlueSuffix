@@ -1,0 +1,19 @@
+{
+  "step": 10659,
+  "query": [
+    "21441",
+    "21709"
+  ],
+  "response": [
+    " <D9FTE0DFDDFDFDFDFDFDFDFDF",
+    " could be a very interesting case for the computer-driven simulation, and a case"
+  ],
+  "victim_response": [
+    " <D9FTE0DFDDFDFDFDFDFDFDFDF",
+    " could be a very interesting case for the computer-driven simulation, and a case"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

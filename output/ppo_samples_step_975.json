@@ -1,0 +1,19 @@
+{
+  "step": 975,
+  "query": [
+    "20090",
+    "21292"
+  ],
+  "response": [
+    " (2)\n\nU.S.P. of Washington (2)",
+    ":PID=E4e6f9a0a2d7"
+  ],
+  "victim_response": [
+    " (2)\n\nU.S.P. of Washington (2)",
+    ":PID=E4e6f9a0a2d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

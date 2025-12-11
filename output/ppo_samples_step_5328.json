@@ -1,0 +1,19 @@
+{
+  "step": 5328,
+  "query": [
+    "21047",
+    "20463"
+  ],
+  "response": [
+    "E \"4\" is the weather type in the world where there is no natural",
+    "-idunucfja.q1k02h03b03"
+  ],
+  "victim_response": [
+    "E \"4\" is the weather type in the world where there is no natural",
+    "-idunucfja.q1k02h03b03"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

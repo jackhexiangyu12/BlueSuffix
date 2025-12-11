@@ -1,0 +1,19 @@
+{
+  "step": 1607,
+  "query": [
+    "21191",
+    "20697"
+  ],
+  "response": [
+    "-9 [url=http://www.reddit.com/r/Bitcoin",
+    "-S.6.0.0.0.de.wetwork"
+  ],
+  "victim_response": [
+    "-9 [url=http://www.reddit.com/r/Bitcoin",
+    "-S.6.0.0.0.de.wetwork"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

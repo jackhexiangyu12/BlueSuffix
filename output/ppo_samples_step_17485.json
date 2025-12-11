@@ -1,0 +1,19 @@
+{
+  "step": 17485,
+  "query": [
+    "21356",
+    "20670"
+  ],
+  "response": [
+    " city xp 1392 C busway xp 13 F taxiway xp F taxiway",
+    " conn point tweet 1 2 3 d 774 d d d d d d d"
+  ],
+  "victim_response": [
+    " city xp 1392 C busway xp 13 F taxiway xp F taxiway",
+    " conn point tweet 1 2 3 d 774 d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

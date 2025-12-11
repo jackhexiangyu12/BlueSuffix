@@ -1,0 +1,19 @@
+{
+  "step": 4726,
+  "query": [
+    "21909",
+    "20626"
+  ],
+  "response": [
+    "27231\",\"endtuple\" in the runnable variable, and",
+    "105773,\" \"curl-mim \"0993482635"
+  ],
+  "victim_response": [
+    "27231\",\"endtuple\" in the runnable variable, and",
+    "105773,\" \"curl-mim \"0993482635"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

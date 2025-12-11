@@ -1,0 +1,19 @@
+{
+  "step": 2856,
+  "query": [
+    "20401",
+    "20090"
+  ],
+  "response": [
+    " (GPC) from tetanus-10b, get the best of alpha",
+    "F0C40D1BAD0B0C6F0E"
+  ],
+  "victim_response": [
+    " (GPC) from tetanus-10b, get the best of alpha",
+    "F0C40D1BAD0B0C6F0E"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

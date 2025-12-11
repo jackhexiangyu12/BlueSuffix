@@ -1,0 +1,19 @@
+{
+  "step": 6505,
+  "query": [
+    "20331",
+    "20639"
+  ],
+  "response": [
+    "\":7-i1 mCLB\"\", \"A3\" } }",
+    "12B500D5B003DADMDDDBDC1D"
+  ],
+  "victim_response": [
+    "\":7-i1 mCLB\"\", \"A3\" } }",
+    "12B500D5B003DADMDDDBDC1D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

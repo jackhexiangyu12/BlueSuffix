@@ -1,0 +1,19 @@
+{
+  "step": 23535,
+  "query": [
+    "20626",
+    "20908"
+  ],
+  "response": [
+    "02 F F F F F F F F F F F F F F F",
+    " tam four octopus Octopus octopus octopus octopus octopus octopus"
+  ],
+  "victim_response": [
+    "02 F F F F F F F F F F F F F F F",
+    " tam four octopus Octopus octopus octopus octopus octopus octopus"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

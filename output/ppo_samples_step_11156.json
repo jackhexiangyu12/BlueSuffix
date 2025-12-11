@@ -1,0 +1,19 @@
+{
+  "step": 11156,
+  "query": [
+    "20411",
+    "20653"
+  ],
+  "response": [
+    "42 driver roleds2 dcs d000000 dni pci dni driverd",
+    " FIRMAQ3Q3Q6Q3QQQQQ"
+  ],
+  "victim_response": [
+    "42 driver roleds2 dcs d000000 dni pci dni driverd",
+    " FIRMAQ3Q3Q6Q3QQQQQ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

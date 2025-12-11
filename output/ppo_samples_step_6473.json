@@ -1,0 +1,19 @@
+{
+  "step": 6473,
+  "query": [
+    "21669",
+    "20042"
+  ],
+  "response": [
+    "\\x-h5 comsat this barclx904\\x1",
+    "984F40DDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "\\x-h5 comsat this barclx904\\x1",
+    "984F40DDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11244,
+  "query": [
+    "20401",
+    "21550"
+  ],
+  "response": [
+    "801D D D801D D7D7D7D7D7",
+    "A 9 secret weapon producer (M16 first class) 002D01D"
+  ],
+  "victim_response": [
+    "801D D D801D D7D7D7D7D7",
+    "A 9 secret weapon producer (M16 first class) 002D01D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

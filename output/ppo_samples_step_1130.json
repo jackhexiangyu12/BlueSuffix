@@ -1,0 +1,19 @@
+{
+  "step": 1130,
+  "query": [
+    "21441",
+    "21418"
+  ],
+  "response": [
+    "/1/X0/0A/0/0/0/0",
+    "02 D-Link WVR2.8/32 KMH_DET"
+  ],
+  "victim_response": [
+    "/1/X0/0A/0/0/0/0",
+    "02 D-Link WVR2.8/32 KMH_DET"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

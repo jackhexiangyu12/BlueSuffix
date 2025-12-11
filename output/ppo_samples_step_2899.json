@@ -1,0 +1,19 @@
+{
+  "step": 2899,
+  "query": [
+    "20418",
+    "21781"
+  ],
+  "response": [
+    "405, the following paragraph, is at the bottom of the two-page version",
+    "-b0e6c2d5e, http://dorkos"
+  ],
+  "victim_response": [
+    "405, the following paragraph, is at the bottom of the two-page version",
+    "-b0e6c2d5e, http://dorkos"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

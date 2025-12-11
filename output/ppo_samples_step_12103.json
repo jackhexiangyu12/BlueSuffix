@@ -1,0 +1,19 @@
+{
+  "step": 12103,
+  "query": [
+    "21085",
+    "20307"
+  ],
+  "response": [
+    " Intel Intel Xeon 7800 CPU non-processor processor Intel Xeon 7 CPU 3C",
+    " 23,722374 2007 TX9656T0793D7D7"
+  ],
+  "victim_response": [
+    " Intel Intel Xeon 7800 CPU non-processor processor Intel Xeon 7 CPU 3C",
+    " 23,722374 2007 TX9656T0793D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13415,
+  "query": [
+    "20547",
+    "20360"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " motion delay farming has the same latency and cost as a typical sensor, one or"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " motion delay farming has the same latency and cost as a typical sensor, one or"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

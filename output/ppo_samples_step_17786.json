@@ -1,0 +1,19 @@
+{
+  "step": 17786,
+  "query": [
+    "20787",
+    "21529"
+  ],
+  "response": [
+    "D 00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+    " Theory of the Fundamentals R R E F F F F F F F"
+  ],
+  "victim_response": [
+    "D 00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+    " Theory of the Fundamentals R R E F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

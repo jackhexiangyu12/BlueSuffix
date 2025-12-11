@@ -1,0 +1,19 @@
+{
+  "step": 2963,
+  "query": [
+    "21291",
+    "21108"
+  ],
+  "response": [
+    ",25,13:3:d\n\n-BINCOF-",
+    ".1248\", eid=false, the rate=int, was_"
+  ],
+  "victim_response": [
+    ",25,13:3:d\n\n-BINCOF-",
+    ".1248\", eid=false, the rate=int, was_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

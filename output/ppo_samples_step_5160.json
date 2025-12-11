@@ -1,0 +1,19 @@
+{
+  "step": 5160,
+  "query": [
+    "21895",
+    "20281"
+  ],
+  "response": [
+    "B_shiftByf_string(string1,string2) cpg",
+    "cw d0b6ndab d0f92b2d"
+  ],
+  "victim_response": [
+    "B_shiftByf_string(string1,string2) cpg",
+    "cw d0b6ndab d0f92b2d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

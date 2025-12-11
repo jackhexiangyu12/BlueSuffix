@@ -1,0 +1,19 @@
+{
+  "step": 3855,
+  "query": [
+    "20223",
+    "21767"
+  ],
+  "response": [
+    "23232325\" course\" \"Target:SID-1617-",
+    "01a5a98d92d9d8c1d2cc"
+  ],
+  "victim_response": [
+    "23232325\" course\" \"Target:SID-1617-",
+    "01a5a98d92d9d8c1d2cc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

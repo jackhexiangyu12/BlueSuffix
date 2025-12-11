@@ -1,0 +1,19 @@
+{
+  "step": 13854,
+  "query": [
+    "20010",
+    "20655"
+  ],
+  "response": [
+    "TCU n n peers n peerspeerDn n peerspeerDn n",
+    " mother cell phone cell phone cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "TCU n n peers n peerspeerDn n peerspeerDn n",
+    " mother cell phone cell phone cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

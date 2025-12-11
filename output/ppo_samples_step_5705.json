@@ -1,0 +1,19 @@
+{
+  "step": 5705,
+  "query": [
+    "20639",
+    "21160"
+  ],
+  "response": [
+    "31-0a937d3bcb9b1ddcda",
+    "'s and in the $1B sample for the $80B = $80"
+  ],
+  "victim_response": [
+    "31-0a937d3bcb9b1ddcda",
+    "'s and in the $1B sample for the $80B = $80"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

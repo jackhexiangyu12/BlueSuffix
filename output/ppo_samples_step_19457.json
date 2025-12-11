@@ -1,0 +1,19 @@
+{
+  "step": 19457,
+  "query": [
+    "21267",
+    "21658"
+  ],
+  "response": [
+    "FFsengh Ho Wing family name Jack Wing Hinton Wing phenotype $D",
+    " deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition"
+  ],
+  "victim_response": [
+    "FFsengh Ho Wing family name Jack Wing Hinton Wing phenotype $D",
+    " deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition deposition"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

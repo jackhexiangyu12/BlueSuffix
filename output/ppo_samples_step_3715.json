@@ -1,0 +1,19 @@
+{
+  "step": 3715,
+  "query": [
+    "20192",
+    "21363"
+  ],
+  "response": [
+    "\" \"al-F6Q4NrkD\": \"d1",
+    "> A: power-free S: in-bay S: in-bay"
+  ],
+  "victim_response": [
+    "\" \"al-F6Q4NrkD\": \"d1",
+    "> A: power-free S: in-bay S: in-bay"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

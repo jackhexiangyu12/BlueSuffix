@@ -1,0 +1,19 @@
+{
+  "step": 12260,
+  "query": [
+    "20771",
+    "21669"
+  ],
+  "response": [
+    " suppressor.fb D2F7F7D3D7D7",
+    "FZarravraxZZZZZZZZZZZ"
+  ],
+  "victim_response": [
+    " suppressor.fb D2F7F7D3D7D7",
+    "FZarravraxZZZZZZZZZZZ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

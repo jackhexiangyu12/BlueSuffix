@@ -1,0 +1,19 @@
+{
+  "step": 9504,
+  "query": [
+    "20846",
+    "21119"
+  ],
+  "response": [
+    "01080001770010601107920730174C0D",
+    " unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown"
+  ],
+  "victim_response": [
+    "01080001770010601107920730174C0D",
+    " unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown unknown"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

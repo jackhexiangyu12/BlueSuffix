@@ -1,0 +1,19 @@
+{
+  "step": 15715,
+  "query": [
+    "20846",
+    "20916"
+  ],
+  "response": [
+    "ca7ca7ca7ca7ca7ca7ca7ca7",
+    " wing piston-type cylinder where the air pressure and temperature is not constant in the"
+  ],
+  "victim_response": [
+    "ca7ca7ca7ca7ca7ca7ca7ca7",
+    " wing piston-type cylinder where the air pressure and temperature is not constant in the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 22466,
+  "query": [
+    "20901",
+    "21547"
+  ],
+  "response": [
+    "031 fee Z finsgenrex D070101010101010101",
+    " 1 class support X missing X X X X X X X X X X X"
+  ],
+  "victim_response": [
+    "031 fee Z finsgenrex D070101010101010101",
+    " 1 class support X missing X X X X X X X X X X X"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8921,
+  "query": [
+    "21772",
+    "20612"
+  ],
+  "response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " the US Postal Service is required to provide an address, fax number, telephone number"
+  ],
+  "victim_response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " the US Postal Service is required to provide an address, fax number, telephone number"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13692,
+  "query": [
+    "20463",
+    "20504"
+  ],
+  "response": [
+    " Type can be sent via the mtpnetwork service to the mtpnetwork daemon",
+    "0007D0D7D0D7D7D7D7"
+  ],
+  "victim_response": [
+    " Type can be sent via the mtpnetwork service to the mtpnetwork daemon",
+    "0007D0D7D0D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

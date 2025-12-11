@@ -1,0 +1,19 @@
+{
+  "step": 1592,
+  "query": [
+    "20245",
+    "20786"
+  ],
+  "response": [
+    "A is the last of the world's 1.5 billion (1.4",
+    "/47.6:24026 [7521]L.A.R"
+  ],
+  "victim_response": [
+    "A is the last of the world's 1.5 billion (1.4",
+    "/47.6:24026 [7521]L.A.R"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

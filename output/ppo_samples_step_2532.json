@@ -1,0 +1,19 @@
+{
+  "step": 2532,
+  "query": [
+    "21125",
+    "21669"
+  ],
+  "response": [
+    " is a number, which is the number of bits of it, which is the",
+    " K e a n r e d a n t r s e d e c"
+  ],
+  "victim_response": [
+    " is a number, which is the number of bits of it, which is the",
+    " K e a n r e d a n t r s e d e c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 207,
+  "query": [
+    "20504",
+    "21760"
+  ],
+  "response": [
+    "24F838383838383838383838383838",
+    ".1240] DevOnline: RPCQueue_X_0 RECV:\n"
+  ],
+  "victim_response": [
+    "24F838383838383838383838383838",
+    ".1240] DevOnline: RPCQueue_X_0 RECV:\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 15205,
+  "query": [
+    "20042",
+    "21356"
+  ],
+  "response": [
+    "D DD DD D D D D D D D D D D D",
+    " cells co-cellate Ther dcellari cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "D DD DD D D D D D D D D D D D",
+    " cells co-cellate Ther dcellari cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

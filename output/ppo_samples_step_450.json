@@ -1,0 +1,19 @@
+{
+  "step": 450,
+  "query": [
+    "20158",
+    "20639"
+  ],
+  "response": [
+    ": tests: s is a valid name?\n\n6. When a string",
+    "\n\nThe first of three first-year GPs, and in fact the"
+  ],
+  "victim_response": [
+    ": tests: s is a valid name?\n\n6. When a string",
+    "\n\nThe first of three first-year GPs, and in fact the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

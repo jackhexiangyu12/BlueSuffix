@@ -1,0 +1,19 @@
+{
+  "step": 12109,
+  "query": [
+    "20010",
+    "20916"
+  ],
+  "response": [
+    "8008008000080000800800800800800800800800800800",
+    " oPPaTtttttttttttttttttttttttt"
+  ],
+  "victim_response": [
+    "8008008000080000800800800800800800800800800800",
+    " oPPaTtttttttttttttttttttttttt"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

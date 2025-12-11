@@ -1,0 +1,19 @@
+{
+  "step": 10807,
+  "query": [
+    "21692",
+    "20403"
+  ],
+  "response": [
+    "seRNA, which is the sequence of DNA that is produced by the RNA gene",
+    "/Cattle 9B14D7D7D7D7D7"
+  ],
+  "victim_response": [
+    "seRNA, which is the sequence of DNA that is produced by the RNA gene",
+    "/Cattle 9B14D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

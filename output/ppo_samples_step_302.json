@@ -1,0 +1,19 @@
+{
+  "step": 302,
+  "query": [
+    "21620",
+    "20626"
+  ],
+  "response": [
+    "\n\n[click=\"http://www.youtube.com/watch?v",
+    "] DEBUG - It took 4 ms to load 'C:\\Users\\michael"
+  ],
+  "victim_response": [
+    "\n\n[click=\"http://www.youtube.com/watch?v",
+    "] DEBUG - It took 4 ms to load 'C:\\Users\\michael"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

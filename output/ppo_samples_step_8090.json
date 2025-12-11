@@ -1,0 +1,19 @@
+{
+  "step": 8090,
+  "query": [
+    "20533",
+    "21739"
+  ],
+  "response": [
+    "00DDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    " et al., 1979] F2 two patients were tested in the \"brainstem"
+  ],
+  "victim_response": [
+    "00DDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    " et al., 1979] F2 two patients were tested in the \"brainstem"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

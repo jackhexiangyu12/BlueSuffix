@@ -1,0 +1,19 @@
+{
+  "step": 7923,
+  "query": [
+    "21520",
+    "21000"
+  ],
+  "response": [
+    "a7fcca8fa5d7f7d7fcca7",
+    " features for the Nougat iOS app, which is a very big thing to"
+  ],
+  "victim_response": [
+    "a7fcca8fa5d7f7d7fcca7",
+    " features for the Nougat iOS app, which is a very big thing to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

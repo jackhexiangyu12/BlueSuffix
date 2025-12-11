@@ -1,0 +1,19 @@
+{
+  "step": 4532,
+  "query": [
+    "21041",
+    "21292"
+  ],
+  "response": [
+    "5746 (1.047357130001 bytes seek under 1d",
+    "11\" gl_impl_tnl_tnlnl-sms \""
+  ],
+  "victim_response": [
+    "5746 (1.047357130001 bytes seek under 1d",
+    "11\" gl_impl_tnl_tnlnl-sms \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

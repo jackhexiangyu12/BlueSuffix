@@ -1,0 +1,19 @@
+{
+  "step": 6708,
+  "query": [
+    "21232",
+    "21303"
+  ],
+  "response": [
+    "dcc7a67dccc9dcbccbccdcc7",
+    "14797264474062641926407\" meta partmsnfs=\"/"
+  ],
+  "victim_response": [
+    "dcc7a67dccc9dcbccbccdcc7",
+    "14797264474062641926407\" meta partmsnfs=\"/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

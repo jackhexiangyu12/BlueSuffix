@@ -1,0 +1,19 @@
+{
+  "step": 1403,
+  "query": [
+    "20224",
+    "21418"
+  ],
+  "response": [
+    ", the original DNC, and now the Donald Trump.\n\nIn the clip",
+    ",943,037,0.01,1267,0."
+  ],
+  "victim_response": [
+    ", the original DNC, and now the Donald Trump.\n\nIn the clip",
+    ",943,037,0.01,1267,0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

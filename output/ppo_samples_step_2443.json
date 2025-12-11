@@ -1,0 +1,19 @@
+{
+  "step": 2443,
+  "query": [
+    "20010",
+    "21023"
+  ],
+  "response": [
+    " \"1\" var2 \"name\" g_del_midhi \"b",
+    ",\"99253373,9m,a,15233377"
+  ],
+  "victim_response": [
+    " \"1\" var2 \"name\" g_del_midhi \"b",
+    ",\"99253373,9m,a,15233377"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

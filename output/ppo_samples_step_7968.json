@@ -1,0 +1,19 @@
+{
+  "step": 7968,
+  "query": [
+    "20445",
+    "21269"
+  ],
+  "response": [
+    "720 LCD vertical LEDs P9200I DowdP9200P9200",
+    "6922_prprprprprprprprprprprprpr"
+  ],
+  "victim_response": [
+    "720 LCD vertical LEDs P9200I DowdP9200P9200",
+    "6922_prprprprprprprprprprprprpr"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

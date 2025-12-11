@@ -1,0 +1,19 @@
+{
+  "step": 8469,
+  "query": [
+    "21707",
+    "21126"
+  ],
+  "response": [
+    "2D \"Dangling Dangled Dangling Dangling Dangling Dangling D",
+    " 319636 DLP-TXTXTXTXTXTXTXTXTXTX"
+  ],
+  "victim_response": [
+    "2D \"Dangling Dangled Dangling Dangling Dangling Dangling D",
+    " 319636 DLP-TXTXTXTXTXTXTXTXTXTX"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

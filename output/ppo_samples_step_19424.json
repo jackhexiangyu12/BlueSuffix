@@ -1,0 +1,19 @@
+{
+  "step": 19424,
+  "query": [
+    "20655",
+    "20612"
+  ],
+  "response": [
+    "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "stop could bring the monitor to \"standard\" OCC clock frequencies that it is"
+  ],
+  "victim_response": [
+    "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "stop could bring the monitor to \"standard\" OCC clock frequencies that it is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

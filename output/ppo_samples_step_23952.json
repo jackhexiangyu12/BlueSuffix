@@ -1,0 +1,19 @@
+{
+  "step": 23952,
+  "query": [
+    "21363",
+    "21669"
+  ],
+  "response": [
+    "D7D7D7D7D7D7D7D7",
+    " see the patent paper with the covers on the left is an analogy and it is"
+  ],
+  "victim_response": [
+    "D7D7D7D7D7D7D7D7",
+    " see the patent paper with the covers on the left is an analogy and it is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

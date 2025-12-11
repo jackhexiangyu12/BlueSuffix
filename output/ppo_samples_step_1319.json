@@ -1,0 +1,19 @@
+{
+  "step": 1319,
+  "query": [
+    "20120",
+    "21262"
+  ],
+  "response": [
+    "47/dota2_expires_at.dat (40): server",
+    ".\n\nNot much of this was a matter of course. The reason was"
+  ],
+  "victim_response": [
+    "47/dota2_expires_at.dat (40): server",
+    ".\n\nNot much of this was a matter of course. The reason was"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

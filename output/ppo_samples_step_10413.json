@@ -1,0 +1,19 @@
+{
+  "step": 10413,
+  "query": [
+    "20908",
+    "20648"
+  ],
+  "response": [
+    "02comm hash musiccomorgrarnzseXzSeXZ 7",
+    " Special f0D0D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "02comm hash musiccomorgrarnzseXzSeXZ 7",
+    " Special f0D0D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

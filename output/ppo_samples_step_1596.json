@@ -1,0 +1,19 @@
+{
+  "step": 1596,
+  "query": [
+    "21608",
+    "20993"
+  ],
+  "response": [
+    "95 F000: 17.743 R8:H3D0:",
+    " (cited in a different article).\n\n\nThe paper also mentions that"
+  ],
+  "victim_response": [
+    "95 F000: 17.743 R8:H3D0:",
+    " (cited in a different article).\n\n\nThe paper also mentions that"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

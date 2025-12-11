@@ -1,0 +1,19 @@
+{
+  "step": 6021,
+  "query": [
+    "21303",
+    "20905"
+  ],
+  "response": [
+    "12 http://getnswab.com/brid/t/0799",
+    "01DD DDFDDFDDFDDFDFDDFDDF"
+  ],
+  "victim_response": [
+    "12 http://getnswab.com/brid/t/0799",
+    "01DD DDFDDFDDFDDFDFDDFDDF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

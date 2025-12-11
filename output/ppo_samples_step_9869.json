@@ -1,0 +1,19 @@
+{
+  "step": 9869,
+  "query": [
+    "20593",
+    "20106"
+  ],
+  "response": [
+    " 11 May 13 07 07 07 07 07 07 07 07 07 07 07 07 07",
+    "1/017981897249269 P1 temperature output random strength ratio"
+  ],
+  "victim_response": [
+    " 11 May 13 07 07 07 07 07 07 07 07 07 07 07 07 07",
+    "1/017981897249269 P1 temperature output random strength ratio"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

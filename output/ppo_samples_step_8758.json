@@ -1,0 +1,19 @@
+{
+  "step": 8758,
+  "query": [
+    "20762",
+    "21119"
+  ],
+  "response": [
+    "D621D6D6D6D6D6D6D",
+    "common has requested directory path /rfc19001919commonrwrwrw"
+  ],
+  "victim_response": [
+    "D621D6D6D6D6D6D6D",
+    "common has requested directory path /rfc19001919commonrwrwrw"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

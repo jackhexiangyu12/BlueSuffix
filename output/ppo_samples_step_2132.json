@@ -1,0 +1,19 @@
+{
+  "step": 2132,
+  "query": [
+    "21692",
+    "21608"
+  ],
+  "response": [
+    ".\n\nMandel, N., Sundh\u00e9, M., Benach",
+    "08\", \"th\" : \"12\", \"s\" : ["
+  ],
+  "victim_response": [
+    ".\n\nMandel, N., Sundh\u00e9, M., Benach",
+    "08\", \"th\" : \"12\", \"s\" : ["
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

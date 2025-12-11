@@ -1,0 +1,19 @@
+{
+  "step": 3332,
+  "query": [
+    "20396",
+    "21900"
+  ],
+  "response": [
+    "2/ 38 S5DS4-Sensor.wmfic 02",
+    "2850,8F0003,6C000,6C000,"
+  ],
+  "victim_response": [
+    "2/ 38 S5DS4-Sensor.wmfic 02",
+    "2850,8F0003,6C000,6C000,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

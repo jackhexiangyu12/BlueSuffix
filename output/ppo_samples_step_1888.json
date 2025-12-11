@@ -1,0 +1,19 @@
+{
+  "step": 1888,
+  "query": [
+    "20846",
+    "21950"
+  ],
+  "response": [
+    "E6260D73F> /home/james/opensource/",
+    "C8B0DA9B6E9E4A9BB0"
+  ],
+  "victim_response": [
+    "E6260D73F> /home/james/opensource/",
+    "C8B0DA9B6E9E4A9BB0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

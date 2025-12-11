@@ -1,0 +1,19 @@
+{
+  "step": 8000,
+  "query": [
+    "20223",
+    "20812"
+  ],
+  "response": [
+    " research capital cost $0 investment cost $0 $0 the cost of research cost",
+    " DDBD77 DDBDDBDDBDBDBDBDBDBDB"
+  ],
+  "victim_response": [
+    " research capital cost $0 investment cost $0 $0 the cost of research cost",
+    " DDBD77 DDBDDBDDBDBDBDBDBDBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

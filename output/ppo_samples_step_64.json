@@ -1,0 +1,19 @@
+{
+  "step": 64,
+  "query": [
+    "20401",
+    "20533"
+  ],
+  "response": [
+    ".jpg [10] http://www.archive.org/stream/DragonMagazine",
+    "0084\n\nNo. 9, with 3.5.2.3"
+  ],
+  "victim_response": [
+    ".jpg [10] http://www.archive.org/stream/DragonMagazine",
+    "0084\n\nNo. 9, with 3.5.2.3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

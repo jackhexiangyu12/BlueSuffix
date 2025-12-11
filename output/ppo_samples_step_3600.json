@@ -1,0 +1,19 @@
+{
+  "step": 3600,
+  "query": [
+    "21546",
+    "21119"
+  ],
+  "response": [
+    "ic_bf{66b4d8fa8e6c4d",
+    " p\"2\"_N of \"21\" velm,2\""
+  ],
+  "victim_response": [
+    "ic_bf{66b4d8fa8e6c4d",
+    " p\"2\"_N of \"21\" velm,2\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2775,
+  "query": [
+    "21181",
+    "20030"
+  ],
+  "response": [
+    "aae67cef918a34d6c80ec5c",
+    "70s in the model.\nThe model's input is:\n\n\n"
+  ],
+  "victim_response": [
+    "aae67cef918a34d6c80ec5c",
+    "70s in the model.\nThe model's input is:\n\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

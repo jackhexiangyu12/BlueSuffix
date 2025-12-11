@@ -1,0 +1,19 @@
+{
+  "step": 11124,
+  "query": [
+    "20030",
+    "21191"
+  ],
+  "response": [
+    "275 cell model cell population cell size cell cell frequency cell cell cell cell cell size",
+    " C7C75C7C7C7C7C7C7"
+  ],
+  "victim_response": [
+    "275 cell model cell population cell size cell cell frequency cell cell cell cell cell size",
+    " C7C75C7C7C7C7C7C7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

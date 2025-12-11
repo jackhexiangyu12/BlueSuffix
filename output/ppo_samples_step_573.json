@@ -1,0 +1,19 @@
+{
+  "step": 573,
+  "query": [
+    "21888",
+    "20670"
+  ],
+  "response": [
+    ".\n\nThe following are confirmed transactions (1)\n\nThe following transactions",
+    ",25664,25664,0,0,0,0,0"
+  ],
+  "victim_response": [
+    ".\n\nThe following are confirmed transactions (1)\n\nThe following transactions",
+    ",25664,25664,0,0,0,0,0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

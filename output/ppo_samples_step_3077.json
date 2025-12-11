@@ -1,0 +1,19 @@
+{
+  "step": 3077,
+  "query": [
+    "21392",
+    "20812"
+  ],
+  "response": [
+    " AMRE: Focal-x5.2.0-C1.",
+    "56,4 by'sup_lfg01ojo8\n\n20"
+  ],
+  "victim_response": [
+    " AMRE: Focal-x5.2.0-C1.",
+    "56,4 by'sup_lfg01ojo8\n\n20"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

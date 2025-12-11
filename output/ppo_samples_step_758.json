@@ -1,0 +1,19 @@
+{
+  "step": 758,
+  "query": [
+    "20663",
+    "21709"
+  ],
+  "response": [
+    " (O:56)\n\n\n\"Gentleman\" (O:",
+    "9_01.jpg\"\n\n\"https://plus.google.com"
+  ],
+  "victim_response": [
+    " (O:56)\n\n\n\"Gentleman\" (O:",
+    "9_01.jpg\"\n\n\"https://plus.google.com"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

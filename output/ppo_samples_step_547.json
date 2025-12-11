@@ -1,0 +1,19 @@
+{
+  "step": 547,
+  "query": [
+    "20583",
+    "21709"
+  ],
+  "response": [
+    ":2.0.4.3.5.jar) Unloaded->Constructed",
+    ": I've never been able to find find a way to make it work properly"
+  ],
+  "victim_response": [
+    ":2.0.4.3.5.jar) Unloaded->Constructed",
+    ": I've never been able to find find a way to make it work properly"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

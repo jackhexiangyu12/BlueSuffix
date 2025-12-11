@@ -1,0 +1,19 @@
+{
+  "step": 12922,
+  "query": [
+    "21233",
+    "20158"
+  ],
+  "response": [
+    "WTel:telTelTelTelTelTelTelTelTelTelTelTelTel",
+    " machine 2x Intel Xeon chipset processor memory chip number 1 Intel Xeon chipset processor memory"
+  ],
+  "victim_response": [
+    "WTel:telTelTelTelTelTelTelTelTelTelTelTelTel",
+    " machine 2x Intel Xeon chipset processor memory chip number 1 Intel Xeon chipset processor memory"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

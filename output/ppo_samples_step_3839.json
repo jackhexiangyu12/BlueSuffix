@@ -1,0 +1,19 @@
+{
+  "step": 3839,
+  "query": [
+    "20787",
+    "20067"
+  ],
+  "response": [
+    "f8dc0107d9d97d88b3d5d",
+    ", IARIC QSM4: Why are you in the black? L"
+  ],
+  "victim_response": [
+    "f8dc0107d9d97d88b3d5d",
+    ", IARIC QSM4: Why are you in the black? L"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

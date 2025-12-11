@@ -1,0 +1,19 @@
+{
+  "step": 2913,
+  "query": [
+    "20626",
+    "20252"
+  ],
+  "response": [
+    "\n\nvajilien, swarman, and chang, (",
+    " 0.1_0_8, 0 0 0.1_0_"
+  ],
+  "victim_response": [
+    "\n\nvajilien, swarman, and chang, (",
+    " 0.1_0_8, 0 0 0.1_0_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 18119,
+  "query": [
+    "20559",
+    "21363"
+  ],
+  "response": [
+    " Exec string result that results with casting of 'Binder' to cast 'B",
+    " d7f7 f7f7f7f7f7 F7"
+  ],
+  "victim_response": [
+    " Exec string result that results with casting of 'Binder' to cast 'B",
+    " d7f7 f7f7f7f7f7 F7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

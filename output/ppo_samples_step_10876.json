@@ -1,0 +1,19 @@
+{
+  "step": 10876,
+  "query": [
+    "20360",
+    "20593"
+  ],
+  "response": [
+    " low any=0 simple normal 3-4-16 denatiunid ar",
+    " crashbeatscface L 5 W A Took time patchatbr"
+  ],
+  "victim_response": [
+    " low any=0 simple normal 3-4-16 denatiunid ar",
+    " crashbeatscface L 5 W A Took time patchatbr"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3124,
+  "query": [
+    "21356",
+    "21669"
+  ],
+  "response": [
+    "17-037754742\", to \"EstarDecce\", \"",
+    " The Red and the Flash is the (white) color of the camera.\n"
+  ],
+  "victim_response": [
+    "17-037754742\", to \"EstarDecce\", \"",
+    " The Red and the Flash is the (white) color of the camera.\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

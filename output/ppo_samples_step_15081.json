@@ -1,0 +1,19 @@
+{
+  "step": 15081,
+  "query": [
+    "20916",
+    "20865"
+  ],
+  "response": [
+    "k DIG1K DIGPPUD DIGR DIGP",
+    "010702attqqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    "k DIG1K DIGPPUD DIGR DIGP",
+    "010702attqqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

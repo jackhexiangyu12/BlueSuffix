@@ -1,0 +1,19 @@
+{
+  "step": 2531,
+  "query": [
+    "20223",
+    "20968"
+  ],
+  "response": [
+    "\n\n2016\n\n51.0% 2 0.6\n\n59",
+    "00001e3c8kjagw== The Android Group's Website"
+  ],
+  "victim_response": [
+    "\n\n2016\n\n51.0% 2 0.6\n\n59",
+    "00001e3c8kjagw== The Android Group's Website"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

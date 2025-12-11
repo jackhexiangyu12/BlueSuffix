@@ -1,0 +1,19 @@
+{
+  "step": 3439,
+  "query": [
+    "20518",
+    "21739"
+  ],
+  "response": [
+    "\"62\" Dst 1h 1.8s \"Mod1\" Mar",
+    "a3c0bc9d9dab6ea6ec7a"
+  ],
+  "victim_response": [
+    "\"62\" Dst 1h 1.8s \"Mod1\" Mar",
+    "a3c0bc9d9dab6ea6ec7a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

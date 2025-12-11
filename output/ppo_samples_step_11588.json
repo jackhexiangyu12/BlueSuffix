@@ -1,0 +1,19 @@
+{
+  "step": 11588,
+  "query": [
+    "20000",
+    "20762"
+  ],
+  "response": [
+    "x1 LCD Monitor LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD",
+    "b6d7d7da7d7da7da7da7"
+  ],
+  "victim_response": [
+    "x1 LCD Monitor LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD LCD",
+    "b6d7d7da7d7da7da7da7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 77,
+  "query": [
+    "20307",
+    "20047"
+  ],
+  "response": [
+    ".\n\nSyracuse University\n19-01-18.\n",
+    "606036065505564883555542823570164"
+  ],
+  "victim_response": [
+    ".\n\nSyracuse University\n19-01-18.\n",
+    "606036065505564883555542823570164"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

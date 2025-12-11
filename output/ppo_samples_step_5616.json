@@ -1,0 +1,19 @@
+{
+  "step": 5616,
+  "query": [
+    "20871",
+    "21822"
+  ],
+  "response": [
+    "crc_size 0681s201\", \"568769c00cc",
+    "F4D7F4D7D9F8D7D0"
+  ],
+  "victim_response": [
+    "crc_size 0681s201\", \"568769c00cc",
+    "F4D7F4D7D9F8D7D0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

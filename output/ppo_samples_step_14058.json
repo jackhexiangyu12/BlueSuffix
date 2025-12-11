@@ -1,0 +1,19 @@
+{
+  "step": 14058,
+  "query": [
+    "20663",
+    "21634"
+  ],
+  "response": [
+    " tuning voltage radiation heat set to maximum setting the maximum heat resistance setting 8 amps heat",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " tuning voltage radiation heat set to maximum setting the maximum heat resistance setting 8 amps heat",
+    "D D D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

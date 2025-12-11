@@ -1,0 +1,19 @@
+{
+  "step": 17379,
+  "query": [
+    "21888",
+    "21634"
+  ],
+  "response": [
+    " D D D D D D D D D D D D D D D D",
+    " Jian Guangzhou Guangzhou Guangzhou Yunzhou Zhao Guangzhou Guangzhou Guangzhou"
+  ],
+  "victim_response": [
+    " D D D D D D D D D D D D D D D D",
+    " Jian Guangzhou Guangzhou Guangzhou Yunzhou Zhao Guangzhou Guangzhou Guangzhou"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

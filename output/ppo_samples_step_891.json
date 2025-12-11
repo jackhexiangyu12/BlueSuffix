@@ -1,0 +1,19 @@
+{
+  "step": 891,
+  "query": [
+    "21658",
+    "21023"
+  ],
+  "response": [
+    "\n\nThe attack on the camp is the latest in a series of attacks on",
+    ")\n\n\n* The - G-space alignment is not in accordance with"
+  ],
+  "victim_response": [
+    "\n\nThe attack on the camp is the latest in a series of attacks on",
+    ")\n\n\n* The - G-space alignment is not in accordance with"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

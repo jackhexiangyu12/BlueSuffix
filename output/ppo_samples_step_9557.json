@@ -1,0 +1,19 @@
+{
+  "step": 9557,
+  "query": [
+    "21233",
+    "20771"
+  ],
+  "response": [
+    "20400204019107081379797202710970466901906",
+    "D001F DIFMAPARadeOPA-OPA mySOPA DIF"
+  ],
+  "victim_response": [
+    "20400204019107081379797202710970466901906",
+    "D001F DIFMAPARadeOPA-OPA mySOPA DIF"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

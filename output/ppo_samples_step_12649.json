@@ -1,0 +1,19 @@
+{
+  "step": 12649,
+  "query": [
+    "21634",
+    "21529"
+  ],
+  "response": [
+    "2157D McKori, NOC 802X 2DxD Bridge Ethernet",
+    "72D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "2157D McKori, NOC 802X 2DxD Bridge Ethernet",
+    "72D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 641,
+  "query": [
+    "21232",
+    "21546"
+  ],
+  "response": [
+    "\n\nHUNT\n\n\nHUNT\n\nHUNT",
+    "000 [CNA] Transferring to: Vendor: AES-NI [C"
+  ],
+  "victim_response": [
+    "\n\nHUNT\n\n\nHUNT\n\nHUNT",
+    "000 [CNA] Transferring to: Vendor: AES-NI [C"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

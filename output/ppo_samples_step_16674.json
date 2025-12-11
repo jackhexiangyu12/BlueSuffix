@@ -1,0 +1,19 @@
+{
+  "step": 16674,
+  "query": [
+    "20887",
+    "21214"
+  ],
+  "response": [
+    " lead actions included this car the first-ever Chrysler electric car was a compact car",
+    " F change key F F D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " lead actions included this car the first-ever Chrysler electric car was a compact car",
+    " F change key F F D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

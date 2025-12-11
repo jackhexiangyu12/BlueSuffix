@@ -1,0 +1,19 @@
+{
+  "step": 1545,
+  "query": [
+    "21772",
+    "21363"
+  ],
+  "response": [
+    " The Golden Gate Bridge is a large-scale building that is built between the two",
+    "-8E4D-8C84C-A8B36A"
+  ],
+  "victim_response": [
+    " The Golden Gate Bridge is a large-scale building that is built between the two",
+    "-8E4D-8C84C-A8B36A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

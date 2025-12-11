@@ -1,0 +1,19 @@
+{
+  "step": 7175,
+  "query": [
+    "20925",
+    "20612"
+  ],
+  "response": [
+    "\" \"alb\" \"mudduc\" \"mil-hdu\"",
+    "13Dd4d1dDDDDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "\" \"alb\" \"mudduc\" \"mil-hdu\"",
+    "13Dd4d1dDDDDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13839,
+  "query": [
+    "21496",
+    "20518"
+  ],
+  "response": [
+    " DDS firmware 5.0 was missing DDS firmware ddsd 6D",
+    "03030102010101010101010101010101"
+  ],
+  "victim_response": [
+    " DDS firmware 5.0 was missing DDS firmware ddsd 6D",
+    "03030102010101010101010101010101"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

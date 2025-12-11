@@ -1,0 +1,19 @@
+{
+  "step": 17250,
+  "query": [
+    "20090",
+    "21406"
+  ],
+  "response": [
+    "prt shadowprt trialprtprtprprtprtpr",
+    " Nazar Tel Aviv F\u00fcNazaz Farzabad F\u00fc Nazar Tel"
+  ],
+  "victim_response": [
+    "prt shadowprt trialprtprtprprtprtpr",
+    " Nazar Tel Aviv F\u00fcNazaz Farzabad F\u00fc Nazar Tel"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

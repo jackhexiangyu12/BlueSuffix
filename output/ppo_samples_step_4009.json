@@ -1,0 +1,19 @@
+{
+  "step": 4009,
+  "query": [
+    "20374",
+    "21209"
+  ],
+  "response": [
+    "1; Njbtdw(vldp, vldind",
+    ", if it only included the two numbers used in the previous sentence). We were"
+  ],
+  "victim_response": [
+    "1; Njbtdw(vldp, vldind",
+    ", if it only included the two numbers used in the previous sentence). We were"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

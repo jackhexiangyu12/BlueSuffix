@@ -1,0 +1,19 @@
+{
+  "step": 885,
+  "query": [
+    "21529",
+    "21520"
+  ],
+  "response": [
+    ".\n\nThe other two are each connected to a different part of the left",
+    ", 0, 'A', 'B', 'C', 'D', '"
+  ],
+  "victim_response": [
+    ".\n\nThe other two are each connected to a different part of the left",
+    ", 0, 'A', 'B', 'C', 'D', '"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

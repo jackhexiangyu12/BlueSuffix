@@ -1,0 +1,19 @@
+{
+  "step": 3161,
+  "query": [
+    "21145",
+    "21435"
+  ],
+  "response": [
+    "\" types (20.0,47) to input the X11 Language,",
+    "81.x news.html for all its sub$1,500,000"
+  ],
+  "victim_response": [
+    "\" types (20.0,47) to input the X11 Language,",
+    "81.x news.html for all its sub$1,500,000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

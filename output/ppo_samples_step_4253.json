@@ -1,0 +1,19 @@
+{
+  "step": 4253,
+  "query": [
+    "20178",
+    "21709"
+  ],
+  "response": [
+    " has been not distributed on network, not networked. 1, 1:1",
+    " 0.00791897 977370 0 0 0 0 0 0"
+  ],
+  "victim_response": [
+    " has been not distributed on network, not networked. 1, 1:1",
+    " 0.00791897 977370 0 0 0 0 0 0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

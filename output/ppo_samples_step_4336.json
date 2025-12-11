@@ -1,0 +1,19 @@
+{
+  "step": 4336,
+  "query": [
+    "20010",
+    "20178"
+  ],
+  "response": [
+    ", a \"short\" number, the length of the history, and the duration",
+    ";1011-051A;588B;8B43D"
+  ],
+  "victim_response": [
+    ", a \"short\" number, the length of the history, and the duration",
+    ";1011-051A;588B;8B43D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

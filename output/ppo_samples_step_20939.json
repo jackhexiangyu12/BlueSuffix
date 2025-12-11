@@ -1,0 +1,19 @@
+{
+  "step": 20939,
+  "query": [
+    "21232",
+    "20401"
+  ],
+  "response": [
+    " class KinpElq know another is the to the a knows the one knows",
+    " cell 0101 cell 010101 cell 0101 cell 01010101 cell"
+  ],
+  "victim_response": [
+    " class KinpElq know another is the to the a knows the one knows",
+    " cell 0101 cell 010101 cell 0101 cell 01010101 cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

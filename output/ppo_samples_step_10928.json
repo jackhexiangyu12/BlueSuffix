@@ -1,0 +1,19 @@
+{
+  "step": 10928,
+  "query": [
+    "20612",
+    "21974"
+  ],
+  "response": [
+    "97697D7D7D7D7D7D7D7",
+    "020000 Fiat crop F8495D show bug drive 2DIDcoin"
+  ],
+  "victim_response": [
+    "97697D7D7D7D7D7D7D7",
+    "020000 Fiat crop F8495D show bug drive 2DIDcoin"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

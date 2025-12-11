@@ -1,0 +1,19 @@
+{
+  "step": 374,
+  "query": [
+    "21543",
+    "21984"
+  ],
+  "response": [
+    "22\n\n130.13.442\n\n130.13.4",
+    ": The Overlord. (1990) (Apple IIe) (MSX"
+  ],
+  "victim_response": [
+    "22\n\n130.13.442\n\n130.13.4",
+    ": The Overlord. (1990) (Apple IIe) (MSX"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

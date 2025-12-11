@@ -1,0 +1,19 @@
+{
+  "step": 8947,
+  "query": [
+    "20178",
+    "20865"
+  ],
+  "response": [
+    " registered at 0x00f1380028fee7de06ffeaa",
+    " rootf1tcpcbitsdaNb2dhcpitcpif"
+  ],
+  "victim_response": [
+    " registered at 0x00f1380028fee7de06ffeaa",
+    " rootf1tcpcbitsdaNb2dhcpitcpif"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

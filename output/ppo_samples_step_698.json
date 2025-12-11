@@ -1,0 +1,19 @@
+{
+  "step": 698,
+  "query": [
+    "20463",
+    "20639"
+  ],
+  "response": [
+    " - No valid reason for the expression\n\n*\\(1)\n\n",
+    ", \"Citation\": \"10/30/2017\", \"quickShipAvailable\":false"
+  ],
+  "victim_response": [
+    " - No valid reason for the expression\n\n*\\(1)\n\n",
+    ", \"Citation\": \"10/30/2017\", \"quickShipAvailable\":false"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3880,
+  "query": [
+    "21232",
+    "20158"
+  ],
+  "response": [
+    "_lfns/prinient_coffee_san_brust",
+    " (9779153) is the name of the old file that is being installed"
+  ],
+  "victim_response": [
+    "_lfns/prinient_coffee_san_brust",
+    " (9779153) is the name of the old file that is being installed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10236,
+  "query": [
+    "20067",
+    "21483"
+  ],
+  "response": [
+    "DDFDDFDDFDFDFDFDFDFDFDFDFDFDF",
+    "_phaseraibms_idleh00275_pge7"
+  ],
+  "victim_response": [
+    "DDFDDFDDFDFDFDFDFDFDFDFDFDFDF",
+    "_phaseraibms_idleh00275_pge7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

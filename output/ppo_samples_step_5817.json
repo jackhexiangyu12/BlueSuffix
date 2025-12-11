@@ -1,0 +1,19 @@
+{
+  "step": 5817,
+  "query": [
+    "20257",
+    "21081"
+  ],
+  "response": [
+    "/xner-p01f605f77fdbff5d4",
+    "of16b0909bd4df8d906f7d7"
+  ],
+  "victim_response": [
+    "/xner-p01f605f77fdbff5d4",
+    "of16b0909bd4df8d906f7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

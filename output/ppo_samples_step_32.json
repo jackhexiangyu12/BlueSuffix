@@ -1,0 +1,19 @@
+{
+  "step": 32,
+  "query": [
+    "20403",
+    "21925"
+  ],
+  "response": [
+    ".\n\nThe United Nations Office for the Coordination of Humanitarian Affairs,",
+    "]\n\nAt the beginning of the year the New York Times wrote a story"
+  ],
+  "victim_response": [
+    ".\n\nThe United Nations Office for the Coordination of Humanitarian Affairs,",
+    "]\n\nAt the beginning of the year the New York Times wrote a story"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

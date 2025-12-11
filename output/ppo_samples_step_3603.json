@@ -1,0 +1,19 @@
+{
+  "step": 3603,
+  "query": [
+    "20497",
+    "21483"
+  ],
+  "response": [
+    "\n\nm/wk:1.0.5.m.1\n",
+    ",me (IPECF807B)\",\"Microsoft & OpenSSL:\""
+  ],
+  "victim_response": [
+    "\n\nm/wk:1.0.5.m.1\n",
+    ",me (IPECF807B)\",\"Microsoft & OpenSSL:\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

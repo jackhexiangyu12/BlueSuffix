@@ -1,0 +1,19 @@
+{
+  "step": 10880,
+  "query": [
+    "20901",
+    "21185"
+  ],
+  "response": [
+    "010100 Gharghi Gharghar Ghar Gharghar",
+    " 1950 b1c7f7 d d d d d d d d d"
+  ],
+  "victim_response": [
+    "010100 Gharghi Gharghar Ghar Gharghar",
+    " 1950 b1c7f7 d d d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

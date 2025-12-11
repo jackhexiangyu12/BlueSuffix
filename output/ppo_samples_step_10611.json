@@ -1,0 +1,19 @@
+{
+  "step": 10611,
+  "query": [
+    "20908",
+    "21023"
+  ],
+  "response": [
+    "9D Doxybjarn Smith Doxy 0D7D Dn",
+    "00 56900 70000000 969500 700000000ffff0000 7ffffffff"
+  ],
+  "victim_response": [
+    "9D Doxybjarn Smith Doxy 0D7D Dn",
+    "00 56900 70000000 969500 700000000ffff0000 7ffffffff"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

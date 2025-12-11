@@ -1,0 +1,19 @@
+{
+  "step": 4614,
+  "query": [
+    "21023",
+    "20697"
+  ],
+  "response": [
+    "&rkt7300b10a2d6f8e3d",
+    " (1876) out of \"WEB\" and \"W\" axes are"
+  ],
+  "victim_response": [
+    "&rkt7300b10a2d6f8e3d",
+    " (1876) out of \"WEB\" and \"W\" axes are"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

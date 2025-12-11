@@ -1,0 +1,19 @@
+{
+  "step": 3890,
+  "query": [
+    "20509",
+    "20865"
+  ],
+  "response": [
+    "\" or \"its\" 5 to 9.35\"diameter\"6\"",
+    "891aa2046b2d8d7e8dcf4"
+  ],
+  "victim_response": [
+    "\" or \"its\" 5 to 9.35\"diameter\"6\"",
+    "891aa2046b2d8d7e8dcf4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

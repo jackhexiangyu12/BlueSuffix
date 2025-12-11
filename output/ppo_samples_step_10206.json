@@ -1,0 +1,19 @@
+{
+  "step": 10206,
+  "query": [
+    "20846",
+    "20192"
+  ],
+  "response": [
+    " D2D14 D7D7D7D7D7D7",
+    "\u2033 \"Car has a Porsche's head and arm, car has a front seat"
+  ],
+  "victim_response": [
+    " D2D14 D7D7D7D7D7D7",
+    "\u2033 \"Car has a Porsche's head and arm, car has a front seat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

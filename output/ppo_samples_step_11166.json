@@ -1,0 +1,19 @@
+{
+  "step": 11166,
+  "query": [
+    "20266",
+    "20331"
+  ],
+  "response": [
+    " temperature w1 w1 w1 w1 w1 w1 w1 w",
+    "DDDDDDDDD D D D D D D D"
+  ],
+  "victim_response": [
+    " temperature w1 w1 w1 w1 w1 w1 w1 w",
+    "DDDDDDDDD D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

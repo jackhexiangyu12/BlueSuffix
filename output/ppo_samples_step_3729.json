@@ -1,0 +1,19 @@
+{
+  "step": 3729,
+  "query": [
+    "21145",
+    "20916"
+  ],
+  "response": [
+    "_lm_bpm.py file and its output.\n\n\n",
+    "081f4dfdacd95f5c7b8c"
+  ],
+  "victim_response": [
+    "_lm_bpm.py file and its output.\n\n\n",
+    "081f4dfdacd95f5c7b8c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

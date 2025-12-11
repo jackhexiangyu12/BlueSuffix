@@ -1,0 +1,19 @@
+{
+  "step": 1708,
+  "query": [
+    "20047",
+    "20787"
+  ],
+  "response": [
+    "\n\n(13) Requirements for political party member\n\n2,000\n",
+    "24/6+2/1.37\\d+\n\nuO"
+  ],
+  "victim_response": [
+    "\n\n(13) Requirements for political party member\n\n2,000\n",
+    "24/6+2/1.37\\d+\n\nuO"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

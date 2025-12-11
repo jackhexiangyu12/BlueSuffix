@@ -1,0 +1,19 @@
+{
+  "step": 3275,
+  "query": [
+    "21692",
+    "21181"
+  ],
+  "response": [
+    "v1 M and MDRAM0 u2i2m7d6",
+    " to { } : [0x7E6faf7bd3bb"
+  ],
+  "victim_response": [
+    "v1 M and MDRAM0 u2i2m7d6",
+    " to { } : [0x7E6faf7bd3bb"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

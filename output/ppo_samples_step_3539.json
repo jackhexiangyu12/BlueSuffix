@@ -1,0 +1,19 @@
+{
+  "step": 3539,
+  "query": [
+    "20836",
+    "20178"
+  ],
+  "response": [
+    "2633 will not be needed by default. The default issue was caused by the",
+    "48\" lx_style\":\"1 007b9f5a91"
+  ],
+  "victim_response": [
+    "2633 will not be needed by default. The default issue was caused by the",
+    "48\" lx_style\":\"1 007b9f5a91"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

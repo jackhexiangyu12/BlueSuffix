@@ -1,0 +1,19 @@
+{
+  "step": 957,
+  "query": [
+    "21845",
+    "21900"
+  ],
+  "response": [
+    "+24:54:41] [Server thread/INFO]: LoadLibrary:",
+    " (incl. 1.6m)\n\n2013/12/08"
+  ],
+  "victim_response": [
+    "+24:54:41] [Server thread/INFO]: LoadLibrary:",
+    " (incl. 1.6m)\n\n2013/12/08"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

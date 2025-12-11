@@ -1,0 +1,19 @@
+{
+  "step": 17362,
+  "query": [
+    "21041",
+    "20905"
+  ],
+  "response": [
+    " take the car to the roof counter and the floor in the car's rear seat",
+    "DD D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " take the car to the roof counter and the floor in the car's rear seat",
+    "DD D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

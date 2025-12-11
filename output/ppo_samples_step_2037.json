@@ -1,0 +1,19 @@
+{
+  "step": 2037,
+  "query": [
+    "20925",
+    "20762"
+  ],
+  "response": [
+    "151030\n\nThe nice thing about this is that you can't learn",
+    ",\"@SST_QXN_KNT\",\"a_cf4"
+  ],
+  "victim_response": [
+    "151030\n\nThe nice thing about this is that you can't learn",
+    ",\"@SST_QXN_KNT\",\"a_cf4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

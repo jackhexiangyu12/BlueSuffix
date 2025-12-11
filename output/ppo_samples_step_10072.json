@@ -1,0 +1,19 @@
+{
+  "step": 10072,
+  "query": [
+    "21368",
+    "20812"
+  ],
+  "response": [
+    "F01F01D1D D5D Frequency D5D7D",
+    " scores were 12 Mbps or higher.\n\nJared Jacobs, Center for Public"
+  ],
+  "victim_response": [
+    "F01F01D1D D5D Frequency D5D7D",
+    " scores were 12 Mbps or higher.\n\nJared Jacobs, Center for Public"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

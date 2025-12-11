@@ -1,0 +1,19 @@
+{
+  "step": 17210,
+  "query": [
+    "21368",
+    "21739"
+  ],
+  "response": [
+    " D cellar cellar cells cells cell cells cells cells cells cells cells cells cells",
+    " F: rot Av rot 2 rot 13 rot Av rot 1 rot Av rot rot"
+  ],
+  "victim_response": [
+    " D cellar cellar cells cells cell cells cells cells cells cells cells cells cells",
+    " F: rot Av rot 2 rot 13 rot Av rot 1 rot Av rot rot"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

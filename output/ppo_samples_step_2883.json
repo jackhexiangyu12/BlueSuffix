@@ -1,0 +1,19 @@
+{
+  "step": 2883,
+  "query": [
+    "21483",
+    "20387"
+  ],
+  "response": [
+    ", said the Chinese president, who is not identified, will speak to the press",
+    ".838999\",1.0473028221231\","
+  ],
+  "victim_response": [
+    ", said the Chinese president, who is not identified, will speak to the press",
+    ".838999\",1.0473028221231\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

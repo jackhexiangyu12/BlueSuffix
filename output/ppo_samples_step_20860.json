@@ -1,0 +1,19 @@
+{
+  "step": 20860,
+  "query": [
+    "20418",
+    "20757"
+  ],
+  "response": [
+    " belong study is self a part of the test is a part of the test is",
+    " seed meat and meat production \u2013 14 trig soyseed processing \u2013 1 trig"
+  ],
+  "victim_response": [
+    " belong study is self a part of the test is a part of the test is",
+    " seed meat and meat production \u2013 14 trig soyseed processing \u2013 1 trig"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

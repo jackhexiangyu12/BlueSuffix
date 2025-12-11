@@ -1,0 +1,19 @@
+{
+  "step": 7,
+  "query": [
+    "20653",
+    "20901"
+  ],
+  "response": [
+    "-1665\n\n\n(FDA)\n\n(FDA)",
+    ".html)\n\n# 1.28 KB (7.5 Mb)"
+  ],
+  "victim_response": [
+    "-1665\n\n\n(FDA)\n\n(FDA)",
+    ".html)\n\n# 1.28 KB (7.5 Mb)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

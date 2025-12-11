@@ -1,0 +1,19 @@
+{
+  "step": 17242,
+  "query": [
+    "21226",
+    "21209"
+  ],
+  "response": [
+    "264 broadcast non Cisco wallcq Fqqqqqqqq",
+    "7Q7Q7Q7Q7Q7Q7Q7Q"
+  ],
+  "victim_response": [
+    "264 broadcast non Cisco wallcq Fqqqqqqqq",
+    "7Q7Q7Q7Q7Q7Q7Q7Q"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

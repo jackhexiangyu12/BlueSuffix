@@ -1,0 +1,19 @@
+{
+  "step": 13224,
+  "query": [
+    "21652",
+    "20533"
+  ],
+  "response": [
+    "D DMAX shows up DMAX events to shows where the lights are set to",
+    "ac7cccccccccccccccccccccccccccc"
+  ],
+  "victim_response": [
+    "D DMAX shows up DMAX events to shows where the lights are set to",
+    "ac7cccccccccccccccccccccccccccc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

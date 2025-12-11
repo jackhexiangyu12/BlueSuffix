@@ -1,0 +1,19 @@
+{
+  "step": 1695,
+  "query": [
+    "20010",
+    "21797"
+  ],
+  "response": [
+    ".\n\nThe construction of the Indian Railways (I-R) station",
+    "|1|2 |C.S.A.S.R.E"
+  ],
+  "victim_response": [
+    ".\n\nThe construction of the Indian Railways (I-R) station",
+    "|1|2 |C.S.A.S.R.E"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

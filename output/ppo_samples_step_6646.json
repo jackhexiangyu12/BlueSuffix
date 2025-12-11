@@ -1,0 +1,19 @@
+{
+  "step": 6646,
+  "query": [
+    "21822",
+    "20144"
+  ],
+  "response": [
+    "&set alppd=2052195135390002118135148",
+    "Dd7dcccccccccccccccccccccccc"
+  ],
+  "victim_response": [
+    "&set alppd=2052195135390002118135148",
+    "Dd7dcccccccccccccccccccccccc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

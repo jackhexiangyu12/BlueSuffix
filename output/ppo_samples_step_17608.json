@@ -1,0 +1,19 @@
+{
+  "step": 17608,
+  "query": [
+    "21160",
+    "21658"
+  ],
+  "response": [
+    "DDDDDDD DD D D D D D D D",
+    "78707 professor students\", of the professor is a prominent speaker in the faculty"
+  ],
+  "victim_response": [
+    "DDDDDDD DD D D D D D D D",
+    "78707 professor students\", of the professor is a prominent speaker in the faculty"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4589,
+  "query": [
+    "21541",
+    "21145"
+  ],
+  "response": [
+    "_new; import { shiftfs.server} console.log(new)",
+    "32a 7 Tatemilathia A flakecurry Soothe"
+  ],
+  "victim_response": [
+    "_new; import { shiftfs.server} console.log(new)",
+    "32a 7 Tatemilathia A flakecurry Soothe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

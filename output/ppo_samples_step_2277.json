@@ -1,0 +1,19 @@
+{
+  "step": 2277,
+  "query": [
+    "21895",
+    "21160"
+  ],
+  "response": [
+    "B) from l9_ansi_at_winnies.sw",
+    ", IASO: IASET-M11, (4-4"
+  ],
+  "victim_response": [
+    "B) from l9_ansi_at_winnies.sw",
+    ", IASO: IASET-M11, (4-4"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

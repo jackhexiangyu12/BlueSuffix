@@ -1,0 +1,19 @@
+{
+  "step": 9994,
+  "query": [
+    "20547",
+    "20331"
+  ],
+  "response": [
+    "01 df7a00da8fdf7da7d7a",
+    " to the network kernel kernel patch group's log file has a greater risk of dropping"
+  ],
+  "victim_response": [
+    "01 df7a00da8fdf7da7d7a",
+    " to the network kernel kernel patch group's log file has a greater risk of dropping"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

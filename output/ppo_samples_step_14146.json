@@ -1,0 +1,19 @@
+{
+  "step": 14146,
+  "query": [
+    "21772",
+    "21658"
+  ],
+  "response": [
+    "\", length = 3 while id=3 dnrwpool:setrw=\"",
+    "1474D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    "\", length = 3 while id=3 dnrwpool:setrw=\"",
+    "1474D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

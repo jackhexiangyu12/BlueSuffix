@@ -1,0 +1,19 @@
+{
+  "step": 13658,
+  "query": [
+    "20067",
+    "21692"
+  ],
+  "response": [
+    " pay payment to pay default 007797D DPN019DPN0101",
+    "FDDDD7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " pay payment to pay default 007797D DPN019DPN0101",
+    "FDDDD7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

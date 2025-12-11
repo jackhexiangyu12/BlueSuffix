@@ -1,0 +1,19 @@
+{
+  "step": 8889,
+  "query": [
+    "20653",
+    "21924"
+  ],
+  "response": [
+    "\" full but with a KGB memory leak at the end of the paper.\"",
+    " com.apple.securityfoundation comAppleAppleComIntelIntelAppleAppleAppleApple"
+  ],
+  "victim_response": [
+    "\" full but with a KGB memory leak at the end of the paper.\"",
+    " com.apple.securityfoundation comAppleAppleComIntelIntelAppleAppleAppleApple"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

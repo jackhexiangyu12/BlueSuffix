@@ -1,0 +1,19 @@
+{
+  "step": 671,
+  "query": [
+    "21406",
+    "20612"
+  ],
+  "response": [
+    "\n\n3.3.2.2.1.2.2.",
+    ".\nFUT/FUT: http://www.fut.org"
+  ],
+  "victim_response": [
+    "\n\n3.3.2.2.1.2.2.",
+    ".\nFUT/FUT: http://www.fut.org"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

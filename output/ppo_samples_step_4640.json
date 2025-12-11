@@ -1,0 +1,19 @@
+{
+  "step": 4640,
+  "query": [
+    "21000",
+    "20786"
+  ],
+  "response": [
+    "b1d7d7d7d7d7d7d7",
+    "?ive_weasels=75&doid=1&doid"
+  ],
+  "victim_response": [
+    "b1d7d7d7d7d7d7d7",
+    "?ive_weasels=75&doid=1&doid"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

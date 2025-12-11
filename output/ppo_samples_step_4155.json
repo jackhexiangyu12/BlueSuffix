@@ -1,0 +1,19 @@
+{
+  "step": 4155,
+  "query": [
+    "20934",
+    "21772"
+  ],
+  "response": [
+    "3E1F7D8DFFD6D9D3D",
+    "000 to 1718431736 from macho (74792000)"
+  ],
+  "victim_response": [
+    "3E1F7D8DFFD6D9D3D",
+    "000 to 1718431736 from macho (74792000)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

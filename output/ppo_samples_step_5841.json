@@ -1,0 +1,19 @@
+{
+  "step": 5841,
+  "query": [
+    "21000",
+    "20968"
+  ],
+  "response": [
+    "b10c03cb87cdddccccdaccdcc",
+    "/ROLES)\n\n\n(Outsite) We've been open"
+  ],
+  "victim_response": [
+    "b10c03cb87cdddccccdaccdcc",
+    "/ROLES)\n\n\n(Outsite) We've been open"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8761,
+  "query": [
+    "20040",
+    "21760"
+  ],
+  "response": [
+    "720p GXAT IAT 4G battery 05028720920 PC",
+    "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
+  ],
+  "victim_response": [
+    "720p GXAT IAT 4G battery 05028720920 PC",
+    "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10870,
+  "query": [
+    "21658",
+    "21839"
+  ],
+  "response": [
+    "D3D9F7D7D7D7D7D7",
+    " impl hitq5 hash_hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "victim_response": [
+    "D3D9F7D7D7D7D7D7",
+    " impl hitq5 hash_hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

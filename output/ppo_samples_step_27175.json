@@ -1,0 +1,19 @@
+{
+  "step": 27175,
+  "query": [
+    "21393",
+    "21000"
+  ],
+  "response": [
+    "ant is a species that may take a long time to reproduce. This is probably",
+    " may be used in the lab and can be used in other laboratories, the cross"
+  ],
+  "victim_response": [
+    "ant is a species that may take a long time to reproduce. This is probably",
+    " may be used in the lab and can be used in other laboratories, the cross"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

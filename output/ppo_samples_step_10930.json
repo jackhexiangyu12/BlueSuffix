@@ -1,0 +1,19 @@
+{
+  "step": 10930,
+  "query": [
+    "21895",
+    "21620"
+  ],
+  "response": [
+    " 95 regular a febdier 7x7x9 9x9x9",
+    " is a heat cell that has a heat cell temperature associated with it's own heat"
+  ],
+  "victim_response": [
+    " 95 regular a febdier 7x7x9 9x9x9",
+    " is a heat cell that has a heat cell temperature associated with it's own heat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

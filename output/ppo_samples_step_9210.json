@@ -1,0 +1,19 @@
+{
+  "step": 9210,
+  "query": [
+    "20908",
+    "20155"
+  ],
+  "response": [
+    "6920909 dfeefeefeefeefeefeefeefeefeefeefeefee",
+    " clients public class Nympe 2 public static void start() { Nympe"
+  ],
+  "victim_response": [
+    "6920909 dfeefeefeefeefeefeefeefeefeefeefeefee",
+    " clients public class Nympe 2 public static void start() { Nympe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

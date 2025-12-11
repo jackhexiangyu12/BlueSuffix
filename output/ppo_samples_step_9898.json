@@ -1,0 +1,19 @@
+{
+  "step": 9898,
+  "query": [
+    "20282",
+    "21950"
+  ],
+  "response": [
+    ":1300 90590070000900001 000090400 00 00",
+    "77222277509dragondragondragondragondragondragondragondragondragondragondragon"
+  ],
+  "victim_response": [
+    ":1300 90590070000900001 000090400 00 00",
+    "77222277509dragondragondragondragondragondragondragondragondragondragondragon"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4959,
+  "query": [
+    "20534",
+    "21781"
+  ],
+  "response": [
+    "h/idconnects-cc1dxzzmpq_1c2",
+    "80 \"a\", \"lz\": \"0\" } + \"5"
+  ],
+  "victim_response": [
+    "h/idconnects-cc1dxzzmpq_1c2",
+    "80 \"a\", \"lz\": \"0\" } + \"5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

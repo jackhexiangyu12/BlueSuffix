@@ -1,0 +1,19 @@
+{
+  "step": 1862,
+  "query": [
+    "20042",
+    "21090"
+  ],
+  "response": [
+    "] jak_b_special, %s, %(d6),",
+    "\n\nCrap: Not a major change at all, but there's a"
+  ],
+  "victim_response": [
+    "] jak_b_special, %s, %(d6),",
+    "\n\nCrap: Not a major change at all, but there's a"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

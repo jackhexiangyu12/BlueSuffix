@@ -1,0 +1,19 @@
+{
+  "step": 10767,
+  "query": [
+    "21363",
+    "20697"
+  ],
+  "response": [
+    "253F3DCCD05D7F7D7F7D",
+    " and a cable that was provided to a remote server to connect the remote server to"
+  ],
+  "victim_response": [
+    "253F3DCCD05D7F7D7F7D",
+    " and a cable that was provided to a remote server to connect the remote server to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

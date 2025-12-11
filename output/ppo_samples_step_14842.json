@@ -1,0 +1,19 @@
+{
+  "step": 14842,
+  "query": [
+    "21160",
+    "20047"
+  ],
+  "response": [
+    "r is a 80hz chip for any 256-bit high frequency chipsets,",
+    "00303feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    "r is a 80hz chip for any 256-bit high frequency chipsets,",
+    "00303feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 509,
+  "query": [
+    "20192",
+    "21232"
+  ],
+  "response": [
+    ".nf.\n\nCitation: Dean, Robert J., Francis,",
+    "123648591062 16 16 12 16 16 16 16 16 16 16"
+  ],
+  "victim_response": [
+    ".nf.\n\nCitation: Dean, Robert J., Francis,",
+    "123648591062 16 16 12 16 16 16 16 16 16 16"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

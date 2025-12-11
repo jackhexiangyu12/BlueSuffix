@@ -1,0 +1,19 @@
+{
+  "step": 1157,
+  "query": [
+    "21000",
+    "20653"
+  ],
+  "response": [
+    " (6)\n\n\nThe \"Peek\" section of the article is",
+    "\n\nThe love of the Emperor's children is a season for the Queen."
+  ],
+  "victim_response": [
+    " (6)\n\n\nThe \"Peek\" section of the article is",
+    "\n\nThe love of the Emperor's children is a season for the Queen."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2622,
+  "query": [
+    "20223",
+    "21984"
+  ],
+  "response": [
+    "\n\nSo. Where's my Biff. I'm talking to to get",
+    ".us.com|i1:59,30:No,1->"
+  ],
+  "victim_response": [
+    "\n\nSo. Where's my Biff. I'm talking to to get",
+    ".us.com|i1:59,30:No,1->"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

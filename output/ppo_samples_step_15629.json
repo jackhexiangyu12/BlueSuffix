@@ -1,0 +1,19 @@
+{
+  "step": 15629,
+  "query": [
+    "20908",
+    "21529"
+  ],
+  "response": [
+    " T settled P90D W recl D D D D D D D D D",
+    " is a small company which operates as a subsidiary of the University of Toronto Foundation."
+  ],
+  "victim_response": [
+    " T settled P90D W recl D D D D D D D D D",
+    " is a small company which operates as a subsidiary of the University of Toronto Foundation."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

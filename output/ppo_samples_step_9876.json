@@ -1,0 +1,19 @@
+{
+  "step": 9876,
+  "query": [
+    "20865",
+    "21543"
+  ],
+  "response": [
+    "0080771FF7FF7FFFF7FF7FFFF7FF",
+    "D DessertsQXP W I775 DessertsQQ"
+  ],
+  "victim_response": [
+    "0080771FF7FF7FFFF7FF7FFFF7FF",
+    "D DessertsQXP W I775 DessertsQQ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

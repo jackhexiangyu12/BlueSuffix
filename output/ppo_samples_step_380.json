@@ -1,0 +1,19 @@
+{
+  "step": 380,
+  "query": [
+    "21160",
+    "21441"
+  ],
+  "response": [
+    "68] usbio [ 22.0.0.16385] hub 1",
+    ")\n\n(5) \"Foreign\" is defined as defined in the European"
+  ],
+  "victim_response": [
+    "68] usbio [ 22.0.0.16385] hub 1",
+    ")\n\n(5) \"Foreign\" is defined as defined in the European"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

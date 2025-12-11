@@ -1,0 +1,19 @@
+{
+  "step": 336,
+  "query": [
+    "21529",
+    "20663"
+  ],
+  "response": [
+    ".0-5.0, 4.8-5.0, 4",
+    "\n\n\nThis is a really cool project for people to look at their custom"
+  ],
+  "victim_response": [
+    ".0-5.0, 4.8-5.0, 4",
+    "\n\n\nThis is a really cool project for people to look at their custom"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

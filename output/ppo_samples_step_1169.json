@@ -1,0 +1,19 @@
+{
+  "step": 1169,
+  "query": [
+    "20639",
+    "21543"
+  ],
+  "response": [
+    ",47,88,33,28,23,11,11,24",
+    ",698.69\nEXAMPLE EXAMPLE VARNER STREAM"
+  ],
+  "victim_response": [
+    ",47,88,33,28,23,11,11,24",
+    ",698.69\nEXAMPLE EXAMPLE VARNER STREAM"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

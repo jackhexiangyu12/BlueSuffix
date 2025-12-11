@@ -1,0 +1,19 @@
+{
+  "step": 281,
+  "query": [
+    "20374",
+    "20252"
+  ],
+  "response": [
+    "\n\nHow to save the e-mail on your personal computer\n\nDon",
+    "] DEBUG - Auth: Came in with the master token, authorization succeeded. ("
+  ],
+  "victim_response": [
+    "\n\nHow to save the e-mail on your personal computer\n\nDon",
+    "] DEBUG - Auth: Came in with the master token, authorization succeeded. ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

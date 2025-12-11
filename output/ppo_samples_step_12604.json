@@ -1,0 +1,19 @@
+{
+  "step": 12604,
+  "query": [
+    "20223",
+    "21767"
+  ],
+  "response": [
+    ", charging 2x0000 telephonins for target 7D7D7",
+    "d2a7b7db7eb7d7d7d7"
+  ],
+  "victim_response": [
+    ", charging 2x0000 telephonins for target 7D7D7",
+    "d2a7b7db7eb7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

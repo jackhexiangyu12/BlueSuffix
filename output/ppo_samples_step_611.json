@@ -1,0 +1,19 @@
+{
+  "step": 611,
+  "query": [
+    "21233",
+    "20047"
+  ],
+  "response": [
+    ": Inquire [4.42]\n\n[4.42] [",
+    "\n\n\nYahoo!\n\n[email protected]\n\n[IM"
+  ],
+  "victim_response": [
+    ": Inquire [4.42]\n\n[4.42] [",
+    "\n\n\nYahoo!\n\n[email protected]\n\n[IM"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

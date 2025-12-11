@@ -1,0 +1,19 @@
+{
+  "step": 610,
+  "query": [
+    "21181",
+    "20800"
+  ],
+  "response": [
+    ": Failed to configure SymPy (uid:2d8b3b8",
+    "01 :0::0:0:0:0:0:0:"
+  ],
+  "victim_response": [
+    ": Failed to configure SymPy (uid:2d8b3b8",
+    "01 :0::0:0:0:0:0:0:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

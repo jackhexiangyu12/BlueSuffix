@@ -1,0 +1,19 @@
+{
+  "step": 3434,
+  "query": [
+    "21924",
+    "21368"
+  ],
+  "response": [
+    "d2e9c6a5c5d5c5d5",
+    "1,004:8,\"ieAltGid\" \"1\" only"
+  ],
+  "victim_response": [
+    "d2e9c6a5c5d5c5d5",
+    "1,004:8,\"ieAltGid\" \"1\" only"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

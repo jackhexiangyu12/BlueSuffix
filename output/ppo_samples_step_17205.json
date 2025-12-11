@@ -1,0 +1,19 @@
+{
+  "step": 17205,
+  "query": [
+    "21938",
+    "21392"
+  ],
+  "response": [
+    " report F F F F F F F F F F F F F F F",
+    "x Chan production NX7 CP7 CP7 DDR1 CP7 CP7 CP"
+  ],
+  "victim_response": [
+    " report F F F F F F F F F F F F F F F",
+    "x Chan production NX7 CP7 CP7 DDR1 CP7 CP7 CP"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

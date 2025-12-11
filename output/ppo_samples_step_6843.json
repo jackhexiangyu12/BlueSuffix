@@ -1,0 +1,19 @@
+{
+  "step": 6843,
+  "query": [
+    "20559",
+    "21984"
+  ],
+  "response": [
+    " H2OC0000 HX1M H2OC0000 HX1M",
+    " one of the basic characteristics of the Dreyfuss (Hale) was"
+  ],
+  "victim_response": [
+    " H2OC0000 HX1M H2OC0000 HX1M",
+    " one of the basic characteristics of the Dreyfuss (Hale) was"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

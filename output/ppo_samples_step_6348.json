@@ -1,0 +1,19 @@
+{
+  "step": 6348,
+  "query": [
+    "20418",
+    "21672"
+  ],
+  "response": [
+    "\" + \"att4\" \"d_shape_text\" \"dmg",
+    "\" rd = \"food64\" data_todil = \"0"
+  ],
+  "victim_response": [
+    "\" + \"att4\" \"d_shape_text\" \"dmg",
+    "\" rd = \"food64\" data_todil = \"0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

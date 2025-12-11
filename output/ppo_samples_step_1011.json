@@ -1,0 +1,19 @@
+{
+  "step": 1011,
+  "query": [
+    "20559",
+    "21392"
+  ],
+  "response": [
+    "34,0,0,0,1 istg = 0 dstg = 0 sidx",
+    "f4e1b4b9cf5f2c0ed8"
+  ],
+  "victim_response": [
+    "34,0,0,0,1 istg = 0 dstg = 0 sidx",
+    "f4e1b4b9cf5f2c0ed8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

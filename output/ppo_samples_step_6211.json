@@ -1,0 +1,19 @@
+{
+  "step": 6211,
+  "query": [
+    "21974",
+    "21895"
+  ],
+  "response": [
+    "12737dfdd805a4d74d9d9d9",
+    "R adapter removed, for the adapter pcs [002054H861"
+  ],
+  "victim_response": [
+    "12737dfdd805a4d74d9d9d9",
+    "R adapter removed, for the adapter pcs [002054H861"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

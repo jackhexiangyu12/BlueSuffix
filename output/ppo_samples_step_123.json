@@ -1,0 +1,19 @@
+{
+  "step": 123,
+  "query": [
+    "20042",
+    "21435"
+  ],
+  "response": [
+    "_5.jpg (0.png)\n\nThe picture is a large",
+    ",200,300,200,300,300,300,300,300"
+  ],
+  "victim_response": [
+    "_5.jpg (0.png)\n\nThe picture is a large",
+    ",200,300,200,300,300,300,300,300"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

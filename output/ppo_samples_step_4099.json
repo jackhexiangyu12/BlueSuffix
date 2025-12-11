@@ -1,0 +1,19 @@
+{
+  "step": 4099,
+  "query": [
+    "20401",
+    "20138"
+  ],
+  "response": [
+    "0123C91F7A4D7F5D02FEEE",
+    "2800\", the following is a strong warning, and clear signal, to follow"
+  ],
+  "victim_response": [
+    "0123C91F7A4D7F5D02FEEE",
+    "2800\", the following is a strong warning, and clear signal, to follow"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

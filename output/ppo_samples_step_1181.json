@@ -1,0 +1,19 @@
+{
+  "step": 1181,
+  "query": [
+    "20282",
+    "21658"
+  ],
+  "response": [
+    "-0\n\nNext, add a question to the Android wiki:\n\n",
+    "1895d.jar) Unloaded->Constructed->Constructed->Pre-initialized->"
+  ],
+  "victim_response": [
+    "-0\n\nNext, add a question to the Android wiki:\n\n",
+    "1895d.jar) Unloaded->Constructed->Constructed->Pre-initialized->"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

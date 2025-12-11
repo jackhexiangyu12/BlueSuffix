@@ -1,0 +1,19 @@
+{
+  "step": 6433,
+  "query": [
+    "21047",
+    "21974"
+  ],
+  "response": [
+    "DFCCFCFFCFCFCFCFCFCFCFCFCFCFC",
+    " flight\" role was not established in its name, and was created by a \""
+  ],
+  "victim_response": [
+    "DFCCFCFFCFCFCFCFCFCFCFCFCFCFC",
+    " flight\" role was not established in its name, and was created by a \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

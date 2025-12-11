@@ -1,0 +1,19 @@
+{
+  "step": 12097,
+  "query": [
+    "21267",
+    "21392"
+  ],
+  "response": [
+    "F04D7D7D7D7D7D7D7",
+    ". answer error shield00_rw cd qf ntp cert5 qf"
+  ],
+  "victim_response": [
+    "F04D7D7D7D7D7D7D7",
+    ". answer error shield00_rw cd qf ntp cert5 qf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

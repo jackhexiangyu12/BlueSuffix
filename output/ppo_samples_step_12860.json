@@ -1,0 +1,19 @@
+{
+  "step": 12860,
+  "query": [
+    "20266",
+    "21822"
+  ],
+  "response": [
+    "223 hotbed a b b c d d d d d d d d d",
+    " Scanning 671 \u0412\u0430\u0440\u043b\u0435\u0439\u0438\u043c\u0430 Lat"
+  ],
+  "victim_response": [
+    "223 hotbed a b b c d d d d d d d d d",
+    " Scanning 671 \u0412\u0430\u0440\u043b\u0435\u0439\u0438\u043c\u0430 Lat"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1038,
+  "query": [
+    "20612",
+    "20663"
+  ],
+  "response": [
+    "\n\nThe Coding Fork is a reference to the C++ library Coding",
+    ") [15:23:09] [Info] Root: Created 629"
+  ],
+  "victim_response": [
+    "\n\nThe Coding Fork is a reference to the C++ library Coding",
+    ") [15:23:09] [Info] Root: Created 629"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

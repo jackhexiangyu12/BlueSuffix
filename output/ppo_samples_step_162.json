@@ -1,0 +1,19 @@
+{
+  "step": 162,
+  "query": [
+    "21909",
+    "20708"
+  ],
+  "response": [
+    "\n\n\"The real estate market is in a bull market.\"\n\n\"",
+    ") from Smartstocks at 2016-12-11 14:21:03 (id"
+  ],
+  "victim_response": [
+    "\n\n\"The real estate market is in a bull market.\"\n\n\"",
+    ") from Smartstocks at 2016-12-11 14:21:03 (id"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

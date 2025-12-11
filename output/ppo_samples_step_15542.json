@@ -1,0 +1,19 @@
+{
+  "step": 15542,
+  "query": [
+    "20534",
+    "21652"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " exchange 1 FinMs were sent 7 Dirs Nabs Scaata Santin"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " exchange 1 FinMs were sent 7 Dirs Nabs Scaata Santin"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

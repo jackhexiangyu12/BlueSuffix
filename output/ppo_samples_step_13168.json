@@ -1,0 +1,19 @@
+{
+  "step": 13168,
+  "query": [
+    "20106",
+    "21145"
+  ],
+  "response": [
+    "0100405D7D7D7D7D7D7D",
+    " drives are being mined, and the price of the PC is going to go up"
+  ],
+  "victim_response": [
+    "0100405D7D7D7D7D7D7D",
+    " drives are being mined, and the price of the PC is going to go up"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1783,
+  "query": [
+    "20583",
+    "21707"
+  ],
+  "response": [
+    "-2.0.0.0.jar>:/Program Files (x",
+    ":01:37:38.943<RK_60_0"
+  ],
+  "victim_response": [
+    "-2.0.0.0.jar>:/Program Files (x",
+    ":01:37:38.943<RK_60_0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9409,
+  "query": [
+    "21406",
+    "20653"
+  ],
+  "response": [
+    " not x=XZF76391441077163772286F",
+    "CFD2DD7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " not x=XZF76391441077163772286F",
+    "CFD2DD7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13805,
+  "query": [
+    "21377",
+    "21406"
+  ],
+  "response": [
+    "000 111-31D D D Drani D D D D D D D",
+    "0807197236 cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    "000 111-31D D D Drani D D D D D D D",
+    "0807197236 cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 350,
+  "query": [
+    "21608",
+    "21267"
+  ],
+  "response": [
+    "8983\n\n\nGEMINI\n\nPANU\n",
+    "35\n\nFrom the\n\n2.10.14.7-6"
+  ],
+  "victim_response": [
+    "8983\n\n\nGEMINI\n\nPANU\n",
+    "35\n\nFrom the\n\n2.10.14.7-6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

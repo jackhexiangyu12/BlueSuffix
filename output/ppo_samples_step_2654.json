@@ -1,0 +1,19 @@
+{
+  "step": 2654,
+  "query": [
+    "20374",
+    "20192"
+  ],
+  "response": [
+    "-3448fc7e0a9efd,s= 8:",
+    "14-1-5.name\"ake::, \"val_\" the"
+  ],
+  "victim_response": [
+    "-3448fc7e0a9efd,s= 8:",
+    "14-1-5.name\"ake::, \"val_\" the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

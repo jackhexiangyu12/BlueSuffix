@@ -1,0 +1,19 @@
+{
+  "step": 22794,
+  "query": [
+    "21406",
+    "21262"
+  ],
+  "response": [
+    " power the next power on the ship has the same power as the next power on",
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "victim_response": [
+    " power the next power on the ship has the same power as the next power on",
+    " cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell cell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

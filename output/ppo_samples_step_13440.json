@@ -1,0 +1,19 @@
+{
+  "step": 13440,
+  "query": [
+    "20042",
+    "20593"
+  ],
+  "response": [
+    " robots cell. The prototype machine was constructed in China. The stage of production was",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " robots cell. The prototype machine was constructed in China. The stage of production was",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

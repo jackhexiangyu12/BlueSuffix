@@ -1,0 +1,19 @@
+{
+  "step": 4758,
+  "query": [
+    "20030",
+    "20252"
+  ],
+  "response": [
+    "c BDFI4c9\" (FileTime)\" 539d53",
+    "40a61a5387d69d4d938c7d"
+  ],
+  "victim_response": [
+    "c BDFI4c9\" (FileTime)\" 539d53",
+    "40a61a5387d69d4d938c7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 663,
+  "query": [
+    "21984",
+    "20497"
+  ],
+  "response": [
+    "\" or \"http://www.netflix.com/WiMovie/The Last",
+    ".\n\nThe biggest selling point of the year for the last four weeks of"
+  ],
+  "victim_response": [
+    "\" or \"http://www.netflix.com/WiMovie/The Last",
+    ".\n\nThe biggest selling point of the year for the last four weeks of"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

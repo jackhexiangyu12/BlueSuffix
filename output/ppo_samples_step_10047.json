@@ -1,0 +1,19 @@
+{
+  "step": 10047,
+  "query": [
+    "20663",
+    "20120"
+  ],
+  "response": [
+    ".\n\n7802 n/a 215 b r d r d r d",
+    " full_hsdaitool tsu subhsdn_cpu templ"
+  ],
+  "victim_response": [
+    ".\n\n7802 n/a 215 b r d r d r d",
+    " full_hsdaitool tsu subhsdn_cpu templ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

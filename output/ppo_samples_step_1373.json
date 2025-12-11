@@ -1,0 +1,19 @@
+{
+  "step": 1373,
+  "query": [
+    "20871",
+    "21269"
+  ],
+  "response": [
+    ".0 (==) http://www.reddit.com/r/K",
+    "65-4b2b1c4e2c9e95fe"
+  ],
+  "victim_response": [
+    ".0 (==) http://www.reddit.com/r/K",
+    "65-4b2b1c4e2c9e95fe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 9660,
+  "query": [
+    "20042",
+    "20583"
+  ],
+  "response": [
+    "-8991,netflix aqnwrwwgdgnwgpdgp",
+    "D0808D05DDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "victim_response": [
+    "-8991,netflix aqnwrwwgdgnwgpdgp",
+    "D0808D05DDBDBDBDBDBDBDBDBDBDB"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

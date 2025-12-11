@@ -1,0 +1,19 @@
+{
+  "step": 2288,
+  "query": [
+    "20905",
+    "20846"
+  ],
+  "response": [
+    "8, Coc-C(6073), Pt. at 12/13",
+    ", dmrV1, \"out\"&dHwg=&"
+  ],
+  "victim_response": [
+    "8, Coc-C(6073), Pt. at 12/13",
+    ", dmrV1, \"out\"&dHwg=&"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

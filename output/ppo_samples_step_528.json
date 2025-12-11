@@ -1,0 +1,19 @@
+{
+  "step": 528,
+  "query": [
+    "21707",
+    "21291"
+  ],
+  "response": [
+    "9] DEBUG - Playsession: 96 [H2O] [h2",
+    "]\n\nIn the current version, all the following variables can be used as"
+  ],
+  "victim_response": [
+    "9] DEBUG - Playsession: 96 [H2O] [h2",
+    "]\n\nIn the current version, all the following variables can be used as"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

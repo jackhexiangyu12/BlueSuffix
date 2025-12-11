@@ -1,0 +1,19 @@
+{
+  "step": 13003,
+  "query": [
+    "20663",
+    "20697"
+  ],
+  "response": [
+    " fried yellow pie $2 red potatoes, fried potato pie, fries $ red potatoes",
+    "D773F7D773F7773F7D773773F7"
+  ],
+  "victim_response": [
+    " fried yellow pie $2 red potatoes, fried potato pie, fries $ red potatoes",
+    "D773F7D773F7773F7D773773F7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

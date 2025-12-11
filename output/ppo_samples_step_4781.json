@@ -1,0 +1,19 @@
+{
+  "step": 4781,
+  "query": [
+    "20401",
+    "21119"
+  ],
+  "response": [
+    "15d1d1d1d1d2d1d1d",
+    "02\" microtask_get_cb\" hold_bcode \"25w"
+  ],
+  "victim_response": [
+    "15d1d1d1d1d2d1d1d",
+    "02\" microtask_get_cb\" hold_bcode \"25w"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

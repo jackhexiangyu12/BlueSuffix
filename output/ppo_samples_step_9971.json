@@ -1,0 +1,19 @@
+{
+  "step": 9971,
+  "query": [
+    "21634",
+    "20178"
+  ],
+  "response": [
+    "fbcfbbbfbfbfbfbfbfbfbfbfbfbfbfb",
+    " pcv 05x9 00x7 00x7 00x7 00"
+  ],
+  "victim_response": [
+    "fbcfbbbfbfbfbfbfbfbfbfbfbfbfbfb",
+    " pcv 05x9 00x7 00x7 00x7 00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

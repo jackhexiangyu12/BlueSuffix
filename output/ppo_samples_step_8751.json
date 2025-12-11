@@ -1,0 +1,19 @@
+{
+  "step": 8751,
+  "query": [
+    "21781",
+    "20106"
+  ],
+  "response": [
+    "'s new team has a new weapon. It's called the 'X' T",
+    "0101wwwwwwwwwwwwww"
+  ],
+  "victim_response": [
+    "'s new team has a new weapon. It's called the 'X' T",
+    "0101wwwwwwwwwwwwww"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

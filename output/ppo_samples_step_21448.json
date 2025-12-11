@@ -1,0 +1,19 @@
+{
+  "step": 21448,
+  "query": [
+    "21090",
+    "20786"
+  ],
+  "response": [
+    "TJefFjDZZZZZZZZZZ",
+    " F effective threat exists, but we do not know how many wind turbines are on"
+  ],
+  "victim_response": [
+    "TJefFjDZZZZZZZZZZ",
+    " F effective threat exists, but we do not know how many wind turbines are on"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

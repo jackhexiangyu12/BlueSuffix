@@ -1,0 +1,19 @@
+{
+  "step": 1278,
+  "query": [
+    "20067",
+    "20800"
+  ],
+  "response": [
+    "74-1/w/s1-a/d/s1-",
+    "200\n\n\nThe Matrix!\n\n1. The words of the world"
+  ],
+  "victim_response": [
+    "74-1/w/s1-a/d/s1-",
+    "200\n\n\nThe Matrix!\n\n1. The words of the world"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 27379,
+  "query": [
+    "20771",
+    "20155"
+  ],
+  "response": [
+    "F internal pathway is a common way that the victim's brain is interconnected. The",
+    " Highway is an electric is a traffic light used to increase speed lanes. A"
+  ],
+  "victim_response": [
+    "F internal pathway is a common way that the victim's brain is interconnected. The",
+    " Highway is an electric is a traffic light used to increase speed lanes. A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1950,
+  "query": [
+    "20583",
+    "20403"
+  ],
+  "response": [
+    ".3,878.0,101,,8,(593.",
+    " (1.y/f)\n\nThe message is:\n\nThe"
+  ],
+  "victim_response": [
+    ".3,878.0,101,,8,(593.",
+    " (1.y/f)\n\nThe message is:\n\nThe"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

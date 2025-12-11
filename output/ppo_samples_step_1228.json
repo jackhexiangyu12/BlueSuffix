@@ -1,0 +1,19 @@
+{
+  "step": 1228,
+  "query": [
+    "20120",
+    "21108"
+  ],
+  "response": [
+    "-1,0800-0300\n\nRomeo, Rome,",
+    "\n\nThe name of the giant.\n\nThe name of the giant is"
+  ],
+  "victim_response": [
+    "-1,0800-0300\n\nRomeo, Rome,",
+    "\n\nThe name of the giant.\n\nThe name of the giant is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

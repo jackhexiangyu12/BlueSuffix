@@ -1,0 +1,19 @@
+{
+  "step": 5988,
+  "query": [
+    "21356",
+    "21550"
+  ],
+  "response": [
+    "00D87E47D3D5D9D86D9D",
+    "\" spd-062d Intel A7125J0016FZ"
+  ],
+  "victim_response": [
+    "00D87E47D3D5D9D86D9D",
+    "\" spd-062d Intel A7125J0016FZ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

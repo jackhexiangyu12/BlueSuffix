@@ -1,0 +1,19 @@
+{
+  "step": 9095,
+  "query": [
+    "20252",
+    "21672"
+  ],
+  "response": [
+    "d021DFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "'s brain tumor type appears to be different from the normal tumor cancer cell tumor tumor"
+  ],
+  "victim_response": [
+    "d021DFDFDFDFDFDFDFDFDFDFDFDFDFDF",
+    "'s brain tumor type appears to be different from the normal tumor cancer cell tumor tumor"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

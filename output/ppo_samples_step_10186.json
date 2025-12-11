@@ -1,0 +1,19 @@
+{
+  "step": 10186,
+  "query": [
+    "21303",
+    "20387"
+  ],
+  "response": [
+    " hd rightcode r0201 r0201 r0201 r0201",
+    " a51491874D00 017D0D7D7D"
+  ],
+  "victim_response": [
+    " hd rightcode r0201 r0201 r0201 r0201",
+    " a51491874D00 017D0D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

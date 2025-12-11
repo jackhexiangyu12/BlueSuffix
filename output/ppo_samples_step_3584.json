@@ -1,0 +1,19 @@
+{
+  "step": 3584,
+  "query": [
+    "21288",
+    "20331"
+  ],
+  "response": [
+    "12207eb6d5d0a8b4ab5c",
+    " \" very low, the 0 one \" 2d30, 0 \" 1d"
+  ],
+  "victim_response": [
+    "12207eb6d5d0a8b4ab5c",
+    " \" very low, the 0 one \" 2d30, 0 \" 1d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

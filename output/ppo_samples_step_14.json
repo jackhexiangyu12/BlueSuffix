@@ -1,0 +1,19 @@
+{
+  "step": 14,
+  "query": [
+    "21529",
+    "21707"
+  ],
+  "response": [
+    ".9.2.0/INFO]: OpenBMC completed successfully. [",
+    "7933B58CCB9A5D3E6B4F"
+  ],
+  "victim_response": [
+    ".9.2.0/INFO]: OpenBMC completed successfully. [",
+    "7933B58CCB9A5D3E6B4F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

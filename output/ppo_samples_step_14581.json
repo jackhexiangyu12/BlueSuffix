@@ -1,0 +1,19 @@
+{
+  "step": 14581,
+  "query": [
+    "20042",
+    "20559"
+  ],
+  "response": [
+    " cells cells cells cells cells cells cells cells cells cells cells cells cells cells cells cell",
+    " if target is one of the Prowkkar, who is not the Scorpion"
+  ],
+  "victim_response": [
+    " cells cells cells cells cells cells cells cells cells cells cells cells cells cells cells cell",
+    " if target is one of the Prowkkar, who is not the Scorpion"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2112,
+  "query": [
+    "20901",
+    "20934"
+  ],
+  "response": [
+    ".01 (c) Annotation: 217-7400, in-North",
+    ", I.R. (C, DR, 4, 5; CN="
+  ],
+  "victim_response": [
+    ".01 (c) Annotation: 217-7400, in-North",
+    ", I.R. (C, DR, 4, 5; CN="
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 5820,
+  "query": [
+    "20583",
+    "20445"
+  ],
+  "response": [
+    "174\", \"title\":\"Aamikordi\", \"posix-type",
+    "e-1d1e9a9c7bcf9c9"
+  ],
+  "victim_response": [
+    "174\", \"title\":\"Aamikordi\", \"posix-type",
+    "e-1d1e9a9c7bcf9c9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

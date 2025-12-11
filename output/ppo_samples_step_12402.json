@@ -1,0 +1,19 @@
+{
+  "step": 12402,
+  "query": [
+    "21145",
+    "20771"
+  ],
+  "response": [
+    "73 minerDathoshi Nagoshioshi hash miner mining lnd miner minerHash",
+    "D0000000000000000DXTXTXTXTXTXTXTXTXTXTXTXTXT"
+  ],
+  "victim_response": [
+    "73 minerDathoshi Nagoshioshi hash miner mining lnd miner minerHash",
+    "D0000000000000000DXTXTXTXTXTXTXTXTXTXTXTXTXT"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

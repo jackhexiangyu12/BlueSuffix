@@ -1,0 +1,19 @@
+{
+  "step": 2762,
+  "query": [
+    "21895",
+    "21772"
+  ],
+  "response": [
+    ":1:1:8:0, pre-as it was an attack",
+    ",1/4 7\" R 10-10\" (ND-25,"
+  ],
+  "victim_response": [
+    ":1:1:8:0, pre-as it was an attack",
+    ",1/4 7\" R 10-10\" (ND-25,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

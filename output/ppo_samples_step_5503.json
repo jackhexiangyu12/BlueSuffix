@@ -1,0 +1,19 @@
+{
+  "step": 5503,
+  "query": [
+    "21108",
+    "20968"
+  ],
+  "response": [
+    "125101B\" next gpter,00110b1b1c",
+    " hfa6bb6ccccccccccccccccccccc"
+  ],
+  "victim_response": [
+    "125101B\" next gpter,00110b1b1c",
+    " hfa6bb6ccccccccccccccccccccc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

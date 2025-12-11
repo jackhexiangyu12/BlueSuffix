@@ -1,0 +1,19 @@
+{
+  "step": 2280,
+  "query": [
+    "20533",
+    "21652"
+  ],
+  "response": [
+    "b45\n\ncid, \"Dweu is the most amazing guy",
+    " (7.7,8)\n\nOfto: 3.0"
+  ],
+  "victim_response": [
+    "b45\n\ncid, \"Dweu is the most amazing guy",
+    " (7.7,8)\n\nOfto: 3.0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 581,
+  "query": [
+    "21483",
+    "21950"
+  ],
+  "response": [
+    "@gmail.com\n\nhttp://www.blair.com/news",
+    "] Log: HitActor: Done waiting for player capture at 0x00000001"
+  ],
+  "victim_response": [
+    "@gmail.com\n\nhttp://www.blair.com/news",
+    "] Log: HitActor: Done waiting for player capture at 0x00000001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

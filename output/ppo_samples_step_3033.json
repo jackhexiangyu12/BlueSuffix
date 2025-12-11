@@ -1,0 +1,19 @@
+{
+  "step": 3033,
+  "query": [
+    "20655",
+    "21041"
+  ],
+  "response": [
+    "\n\nhttps://www.ecl.org/en/news/index",
+    "12\", \"Np2M6Vx\", \"RFFBV"
+  ],
+  "victim_response": [
+    "\n\nhttps://www.ecl.org/en/news/index",
+    "12\", \"Np2M6Vx\", \"RFFBV"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

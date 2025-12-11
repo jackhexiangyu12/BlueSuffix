@@ -1,0 +1,19 @@
+{
+  "step": 793,
+  "query": [
+    "21023",
+    "20257"
+  ],
+  "response": [
+    "4974344300\n\nFirmware\n\nIf you have a",
+    "14-G35-2-1.jar 878-2015-08"
+  ],
+  "victim_response": [
+    "4974344300\n\nFirmware\n\nIf you have a",
+    "14-G35-2-1.jar 878-2015-08"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

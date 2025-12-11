@@ -1,0 +1,19 @@
+{
+  "step": 3212,
+  "query": [
+    "21356",
+    "21895"
+  ],
+  "response": [
+    "35\"a\"a-root_1861\"\n\nAttractive",
+    "b3e2b965b0d7a769u,\""
+  ],
+  "victim_response": [
+    "35\"a\"a-root_1861\"\n\nAttractive",
+    "b3e2b965b0d7a769u,\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

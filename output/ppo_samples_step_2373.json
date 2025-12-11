@@ -1,0 +1,19 @@
+{
+  "step": 2373,
+  "query": [
+    "20509",
+    "21974"
+  ],
+  "response": [
+    ".hf0a0 2310 Nov 1k A Session of House of",
+    "'\n\nThe house in the 'Iceland' and the house in the"
+  ],
+  "victim_response": [
+    ".hf0a0 2310 Nov 1k A Session of House of",
+    "'\n\nThe house in the 'Iceland' and the house in the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 705,
+  "query": [
+    "21810",
+    "20663"
+  ],
+  "response": [
+    ": [HKEY_LOCAL_MACHINE\\Software\\Microsoft\\",
+    "E-6B6-4C6A-B7F-0"
+  ],
+  "victim_response": [
+    ": [HKEY_LOCAL_MACHINE\\Software\\Microsoft\\",
+    "E-6B6-4C6A-B7F-0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

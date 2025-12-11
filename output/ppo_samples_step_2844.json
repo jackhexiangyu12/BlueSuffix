@@ -1,0 +1,19 @@
+{
+  "step": 2844,
+  "query": [
+    "20257",
+    "21739"
+  ],
+  "response": [
+    "28] (CC:5869) +0e6c8e8",
+    "256\n\n\"last-indirectly\" \"operator\" \"jpn"
+  ],
+  "victim_response": [
+    "28] (CC:5869) +0e6c8e8",
+    "256\n\n\"last-indirectly\" \"operator\" \"jpn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11817,
+  "query": [
+    "20593",
+    "21041"
+  ],
+  "response": [
+    " ref 00020000 0001 00 00 00 00 00 00 00 00 00",
+    " field\" dt\":\"blue telephone dtTt0\"></p><ph"
+  ],
+  "victim_response": [
+    " ref 00020000 0001 00 00 00 00 00 00 00 00 00",
+    " field\" dt\":\"blue telephone dtTt0\"></p><ph"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

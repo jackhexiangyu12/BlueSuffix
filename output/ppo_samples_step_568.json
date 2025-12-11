@@ -1,0 +1,19 @@
+{
+  "step": 568,
+  "query": [
+    "20708",
+    "21909"
+  ],
+  "response": [
+    "2250\n\n<p>\n\n<p>The future is a",
+    ". 2.5.2.1.1.2.1.2"
+  ],
+  "victim_response": [
+    "2250\n\n<p>\n\n<p>The future is a",
+    ". 2.5.2.1.1.2.1.2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14714,
+  "query": [
+    "20925",
+    "21550"
+  ],
+  "response": [
+    "d7d7feefeefeefeefeefeefeefeefeefeefeefee",
+    " support counter N 01 00D 00D 00D 00D 00D 00D"
+  ],
+  "victim_response": [
+    "d7d7feefeefeefeefeefeefeefeefeefeefeefee",
+    " support counter N 01 00D 00D 00D 00D 00D 00D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

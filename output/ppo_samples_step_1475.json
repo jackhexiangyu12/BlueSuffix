@@ -1,0 +1,19 @@
+{
+  "step": 1475,
+  "query": [
+    "21546",
+    "20257"
+  ],
+  "response": [
+    ": to time=0, to get_dwmv/e12.",
+    ": All other.\n\nAFABIAN-N4-49 ("
+  ],
+  "victim_response": [
+    ": to time=0, to get_dwmv/e12.",
+    ": All other.\n\nAFABIAN-N4-49 ("
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

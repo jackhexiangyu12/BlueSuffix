@@ -1,0 +1,19 @@
+{
+  "step": 6643,
+  "query": [
+    "20750",
+    "21658"
+  ],
+  "response": [
+    "48152 \u2013 DHTI 3 7 8 8 99111ffffffffffff",
+    "classclass a ba b d2 b9 d3 d7 d2 d"
+  ],
+  "victim_response": [
+    "48152 \u2013 DHTI 3 7 8 8 99111ffffffffffff",
+    "classclass a ba b d2 b9 d3 d7 d2 d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

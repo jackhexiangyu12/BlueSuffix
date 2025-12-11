@@ -1,0 +1,19 @@
+{
+  "step": 18367,
+  "query": [
+    "21041",
+    "21262"
+  ],
+  "response": [
+    "F F D F F D F F F F F F F F F F",
+    " defendant plaintiff counsel defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant"
+  ],
+  "victim_response": [
+    "F F D F F D F F F F F F F F F F",
+    " defendant plaintiff counsel defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant defendant"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

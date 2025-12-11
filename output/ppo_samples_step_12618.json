@@ -1,0 +1,19 @@
+{
+  "step": 12618,
+  "query": [
+    "21041",
+    "20010"
+  ],
+  "response": [
+    " W W W W W W W W W W W W W W W W",
+    " F3501 F9F03 F9F03 F9F03 F"
+  ],
+  "victim_response": [
+    " W W W W W W W W W W W W W W W W",
+    " F3501 F9F03 F9F03 F9F03 F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

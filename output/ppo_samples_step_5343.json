@@ -1,0 +1,19 @@
+{
+  "step": 5343,
+  "query": [
+    "21550",
+    "20648"
+  ],
+  "response": [
+    "+Ms08V\"\n\n\"ts_lts=B-",
+    "a0eb1d0df7b9cf6c64d9"
+  ],
+  "victim_response": [
+    "+Ms08V\"\n\n\"ts_lts=B-",
+    "a0eb1d0df7b9cf6c64d9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

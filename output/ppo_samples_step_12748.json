@@ -1,0 +1,19 @@
+{
+  "step": 12748,
+  "query": [
+    "20655",
+    "21406"
+  ],
+  "response": [
+    "42500200000Telcoax product numbers test status Tel telcoax calculator info Tel",
+    "137100000000D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "42500200000Telcoax product numbers test status Tel telcoax calculator info Tel",
+    "137100000000D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 19180,
+  "query": [
+    "20583",
+    "20245"
+  ],
+  "response": [
+    " the book is not one page long, but the title of the book is one",
+    " satoshi dsharoshi shizoshi dsharoshioshioshioshi"
+  ],
+  "victim_response": [
+    " the book is not one page long, but the title of the book is one",
+    " satoshi dsharoshi shizoshi dsharoshioshioshioshi"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

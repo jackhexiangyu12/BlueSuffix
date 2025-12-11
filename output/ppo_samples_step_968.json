@@ -1,0 +1,19 @@
+{
+  "step": 968,
+  "query": [
+    "21081",
+    "21810"
+  ],
+  "response": [
+    " 0.02 1.00 1.00 2.00 0.00 1",
+    " as the latest and most popular podcast for the week.\n\nThe network has"
+  ],
+  "victim_response": [
+    " 0.02 1.00 1.00 2.00 0.00 1",
+    " as the latest and most popular podcast for the week.\n\nThe network has"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

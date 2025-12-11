@@ -1,0 +1,19 @@
+{
+  "step": 3840,
+  "query": [
+    "21672",
+    "21233"
+  ],
+  "response": [
+    "13c\n\n201527081c\n\neceab71d",
+    " | BILARE >> f2p, urn 2 2.x"
+  ],
+  "victim_response": [
+    "13c\n\n201527081c\n\neceab71d",
+    " | BILARE >> f2p, urn 2 2.x"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2,
+  "query": [
+    "21739",
+    "20144"
+  ],
+  "response": [
+    ": [INFO] [STDOUT] Registered mod cfg.org.mod.",
+    "] [09:48:46:919] [09090909"
+  ],
+  "victim_response": [
+    ": [INFO] [STDOUT] Registered mod cfg.org.mod.",
+    "] [09:48:46:919] [09090909"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

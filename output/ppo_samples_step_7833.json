@@ -1,0 +1,19 @@
+{
+  "step": 7833,
+  "query": [
+    "20509",
+    "21185"
+  ],
+  "response": [
+    "13 87509 CMEXFaxNodDixKdizD",
+    "dbe9ec5fa8bb8df9bf7bd7bd"
+  ],
+  "victim_response": [
+    "13 87509 CMEXFaxNodDixKdizD",
+    "dbe9ec5fa8bb8df9bf7bd7bd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

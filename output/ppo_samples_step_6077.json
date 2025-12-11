@@ -1,0 +1,19 @@
+{
+  "step": 6077,
+  "query": [
+    "20282",
+    "20518"
+  ],
+  "response": [
+    " perfect/uniform 0 4 4 32 5 31 4x3 x",
+    "707585df7cbd3d7d1b00d"
+  ],
+  "victim_response": [
+    " perfect/uniform 0 4 4 32 5 31 4x3 x",
+    "707585df7cbd3d7d1b00d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

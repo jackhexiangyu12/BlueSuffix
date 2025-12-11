@@ -1,0 +1,19 @@
+{
+  "step": 92,
+  "query": [
+    "21672",
+    "21546"
+  ],
+  "response": [
+    "|4.0|0|1 3646|Safari - the",
+    " | Killed an eX1_f88f46e4 | Killed an"
+  ],
+  "victim_response": [
+    "|4.0|0|1 3646|Safari - the",
+    " | Killed an eX1_f88f46e4 | Killed an"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

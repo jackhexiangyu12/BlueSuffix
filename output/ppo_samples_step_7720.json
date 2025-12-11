@@ -1,0 +1,19 @@
+{
+  "step": 7720,
+  "query": [
+    "20626",
+    "21262"
+  ],
+  "response": [
+    "MHzmicros2MHzmicros1MHzMHzMHzMHzMHzMHzMHzMHz",
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    "MHzmicros2MHzmicros1MHzMHzMHzMHzMHzMHzMHzMHz",
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2134,
+  "query": [
+    "20708",
+    "21441"
+  ],
+  "response": [
+    "-12-09 acl.\n\nOutlook, Inc. is the",
+    " in 01 02 03 12 32 4 9 17 09 4 10 9 11 12 17"
+  ],
+  "victim_response": [
+    "-12-09 acl.\n\nOutlook, Inc. is the",
+    " in 01 02 03 12 32 4 9 17 09 4 10 9 11 12 17"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

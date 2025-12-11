@@ -1,0 +1,19 @@
+{
+  "step": 25560,
+  "query": [
+    "21520",
+    "21739"
+  ],
+  "response": [
+    " Training connection is available from the DHCP server client only.\n\n\nFor more information",
+    " has been started by a Brazilian American man who says \"they were the three and"
+  ],
+  "victim_response": [
+    " Training connection is available from the DHCP server client only.\n\n\nFor more information",
+    " has been started by a Brazilian American man who says \"they were the three and"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

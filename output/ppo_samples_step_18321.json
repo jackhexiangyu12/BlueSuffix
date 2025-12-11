@@ -1,0 +1,19 @@
+{
+  "step": 18321,
+  "query": [
+    "21692",
+    "20750"
+  ],
+  "response": [
+    " foil dmask rmask mask sh mask mask mask mask mask mask mask mask mask",
+    " bra Tb Tf Tf Tf Tf Tf Tf F"
+  ],
+  "victim_response": [
+    " foil dmask rmask mask sh mask mask mask mask mask mask mask mask mask",
+    " bra Tb Tf Tf Tf Tf Tf Tf F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

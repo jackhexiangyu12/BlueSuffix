@@ -1,0 +1,19 @@
+{
+  "step": 16534,
+  "query": [
+    "21406",
+    "21781"
+  ],
+  "response": [
+    "06 07 DCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " D Robotics D Robotics ZD Robotics D Robotics D Robotics Robotics Robotics D Robotics D"
+  ],
+  "victim_response": [
+    "06 07 DCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " D Robotics D Robotics ZD Robotics D Robotics D Robotics Robotics Robotics D Robotics D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

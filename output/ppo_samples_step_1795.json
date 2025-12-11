@@ -1,0 +1,19 @@
+{
+  "step": 1795,
+  "query": [
+    "20648",
+    "20282"
+  ],
+  "response": [
+    "\n\nThe Comic Book of Robert Z.\n\n[easy]\n\n",
+    "/stew/S_RAD2_F4.jpg https://"
+  ],
+  "victim_response": [
+    "\n\nThe Comic Book of Robert Z.\n\n[easy]\n\n",
+    "/stew/S_RAD2_F4.jpg https://"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

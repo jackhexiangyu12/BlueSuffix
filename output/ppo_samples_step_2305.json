@@ -1,0 +1,19 @@
+{
+  "step": 2305,
+  "query": [
+    "21900",
+    "21233"
+  ],
+  "response": [
+    "12071\" 3487f00000000120701r1000005c",
+    " is a Canadian MIGAM is a US company based in the United States."
+  ],
+  "victim_response": [
+    "12071\" 3487f00000000120701r1000005c",
+    " is a Canadian MIGAM is a US company based in the United States."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

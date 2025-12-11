@@ -1,0 +1,19 @@
+{
+  "step": 8134,
+  "query": [
+    "20396",
+    "21692"
+  ],
+  "response": [
+    "D00DD00D00D00D00DD00D00",
+    "\u2033 a company that claims to be the first to design and manufacture the PCS"
+  ],
+  "victim_response": [
+    "D00DD00D00D00D00DD00D00",
+    "\u2033 a company that claims to be the first to design and manufacture the PCS"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

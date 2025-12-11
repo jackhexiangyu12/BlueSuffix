@@ -1,0 +1,19 @@
+{
+  "step": 22137,
+  "query": [
+    "20504",
+    "21232"
+  ],
+  "response": [
+    "259502,\" cell next part Cell 1 Cellular Div Chao Cellone shared The",
+    " cell title cell type cell background cell type cell background cell cell title cell cell type"
+  ],
+  "victim_response": [
+    "259502,\" cell next part Cell 1 Cellular Div Chao Cellone shared The",
+    " cell title cell type cell background cell type cell background cell cell title cell cell type"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

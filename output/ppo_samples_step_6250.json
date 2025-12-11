@@ -1,0 +1,19 @@
+{
+  "step": 6250,
+  "query": [
+    "20916",
+    "20787"
+  ],
+  "response": [
+    "d7092d7d6d7d7d7d7d",
+    " core 90.4*00 cores 22211000 2 x8745000 8"
+  ],
+  "victim_response": [
+    "d7092d7d6d7d7d7d7d",
+    " core 90.4*00 cores 22211000 2 x8745000 8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

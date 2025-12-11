@@ -1,0 +1,19 @@
+{
+  "step": 11873,
+  "query": [
+    "20000",
+    "20583"
+  ],
+  "response": [
+    " 099419009 4EFF7 EF1FDFFFFEF",
+    "1177DDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " 099419009 4EFF7 EF1FDFFFFEF",
+    "1177DDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

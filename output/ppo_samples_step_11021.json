@@ -1,0 +1,19 @@
+{
+  "step": 11021,
+  "query": [
+    "20155",
+    "20341"
+  ],
+  "response": [
+    ",\" edsf05010000130101040010100301001",
+    " is a three-dimensional polydrug molding agent that acts as a drug-"
+  ],
+  "victim_response": [
+    ",\" edsf05010000130101040010100301001",
+    " is a three-dimensional polydrug molding agent that acts as a drug-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

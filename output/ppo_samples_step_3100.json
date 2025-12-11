@@ -1,0 +1,19 @@
+{
+  "step": 3100,
+  "query": [
+    "21692",
+    "21620"
+  ],
+  "response": [
+    "\n\nRefused L3, x 4x, I2S, 1",
+    "-3:SBSiononzpFltw0Dx9"
+  ],
+  "victim_response": [
+    "\n\nRefused L3, x 4x, I2S, 1",
+    "-3:SBSiononzpFltw0Dx9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

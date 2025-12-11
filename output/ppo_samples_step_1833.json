@@ -1,0 +1,19 @@
+{
+  "step": 1833,
+  "query": [
+    "21288",
+    "20708"
+  ],
+  "response": [
+    ",16 [0.84] ACPI: [TickCount] PMI",
+    ",\n\nThe Bears' offensive line could be the biggest problem, but the"
+  ],
+  "victim_response": [
+    ",16 [0.84] ACPI: [TickCount] PMI",
+    ",\n\nThe Bears' offensive line could be the biggest problem, but the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

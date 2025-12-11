@@ -1,0 +1,19 @@
+{
+  "step": 2381,
+  "query": [
+    "21356",
+    "21608"
+  ],
+  "response": [
+    "00\",\"arg1_03_L4_C3BV5_",
+    ": I might be wrong.\n\nRakparak, I have not"
+  ],
+  "victim_response": [
+    "00\",\"arg1_03_L4_C3BV5_",
+    ": I might be wrong.\n\nRakparak, I have not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

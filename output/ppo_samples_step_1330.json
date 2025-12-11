@@ -1,0 +1,19 @@
+{
+  "step": 1330,
+  "query": [
+    "21368",
+    "20583"
+  ],
+  "response": [
+    "15\n\nThis is the C+10S-X2, CM2",
+    " 1 1 1 1 1 0.125 1 0 1 0.125 0."
+  ],
+  "victim_response": [
+    "15\n\nThis is the C+10S-X2, CM2",
+    " 1 1 1 1 1 0.125 1 0 1 0.125 0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

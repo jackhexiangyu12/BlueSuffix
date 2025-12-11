@@ -1,0 +1,19 @@
+{
+  "step": 21455,
+  "query": [
+    "21895",
+    "20905"
+  ],
+  "response": [
+    " to 21 stopped right 0 c f D closed following left 0 b b b",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " to 21 stopped right 0 c f D closed following left 0 b b b",
+    "feefeefeefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 18369,
+  "query": [
+    "20993",
+    "21974"
+  ],
+  "response": [
+    "D023DDDDDD DD D D D D D D",
+    " = Porsche is a premium car dealer specializing in cars, trucks, motorcycles and electric"
+  ],
+  "victim_response": [
+    "D023DDDDDD DD D D D D D D",
+    " = Porsche is a premium car dealer specializing in cars, trucks, motorcycles and electric"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

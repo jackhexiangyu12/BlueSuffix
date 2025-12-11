@@ -1,0 +1,19 @@
+{
+  "step": 2213,
+  "query": [
+    "21634",
+    "21125"
+  ],
+  "response": [
+    ", a=971,\\DT_6111,$h,\\",
+    "7, a rarkey_ptr_t, dm_t::"
+  ],
+  "victim_response": [
+    ", a=971,\\DT_6111,$h,\\",
+    "7, a rarkey_ptr_t, dm_t::"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

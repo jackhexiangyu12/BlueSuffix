@@ -1,0 +1,19 @@
+{
+  "step": 9915,
+  "query": [
+    "20648",
+    "20042"
+  ],
+  "response": [
+    "D my22rd 23 W Samsung 200 5Kfs 7D Samsung 4 5",
+    " 21 males, females (mean age = 5 months) P = 0.001"
+  ],
+  "victim_response": [
+    "D my22rd 23 W Samsung 200 5Kfs 7D Samsung 4 5",
+    " 21 males, females (mean age = 5 months) P = 0.001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

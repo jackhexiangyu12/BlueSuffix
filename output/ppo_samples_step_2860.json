@@ -1,0 +1,19 @@
+{
+  "step": 2860,
+  "query": [
+    "20040",
+    "20583"
+  ],
+  "response": [
+    "\", \"1\" \"15662962c\" \"SVC_",
+    ",0 (Flord, Klaue, Sven, H\u00e4ms,"
+  ],
+  "victim_response": [
+    "\", \"1\" \"15662962c\" \"SVC_",
+    ",0 (Flord, Klaue, Sven, H\u00e4ms,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 12982,
+  "query": [
+    "21145",
+    "21672"
+  ],
+  "response": [
+    " DerebusDID second pid 53DD DerebusDID D",
+    "00 freqn7 3h23hqqqqqqq"
+  ],
+  "victim_response": [
+    " DerebusDID second pid 53DD DerebusDID D",
+    "00 freqn7 3h23hqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

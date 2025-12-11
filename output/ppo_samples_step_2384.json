@@ -1,0 +1,19 @@
+{
+  "step": 2384,
+  "query": [
+    "20993",
+    "20812"
+  ],
+  "response": [
+    " com.apple.cpu.invertoff.ICO on inin b",
+    " (thru-back.dll. its-p.js) 0."
+  ],
+  "victim_response": [
+    " com.apple.cpu.invertoff.ICO on inin b",
+    " (thru-back.dll. its-p.js) 0."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

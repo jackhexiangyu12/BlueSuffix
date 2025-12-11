@@ -1,0 +1,19 @@
+{
+  "step": 661,
+  "query": [
+    "20993",
+    "20626"
+  ],
+  "response": [
+    " (MSN 632) to ACR N/A, RFC 9014/",
+    "] [Client thread/INFO]: [CHAT] [Client thread/INFO]:"
+  ],
+  "victim_response": [
+    " (MSN 632) to ACR N/A, RFC 9014/",
+    "] [Client thread/INFO]: [CHAT] [Client thread/INFO]:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

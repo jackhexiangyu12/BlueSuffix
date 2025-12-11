@@ -1,0 +1,19 @@
+{
+  "step": 10879,
+  "query": [
+    "21547",
+    "20518"
+  ],
+  "response": [
+    "697 hex9 hex9 hex7 hex77 hex7 hex7 hex7",
+    "0020zaki9zaki naki naki paki naki n"
+  ],
+  "victim_response": [
+    "697 hex9 hex9 hex7 hex77 hex7 hex7 hex7",
+    "0020zaki9zaki naki naki paki naki n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

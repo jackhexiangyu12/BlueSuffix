@@ -1,0 +1,19 @@
+{
+  "step": 10343,
+  "query": [
+    "21772",
+    "21658"
+  ],
+  "response": [
+    "> Intel Atom DQ13 67nm Intel Atom DQ13 67nmnm",
+    "7007fee7com7001f7f7da7000000000000000070000000000000000"
+  ],
+  "victim_response": [
+    "> Intel Atom DQ13 67nm Intel Atom DQ13 67nmnm",
+    "7007fee7com7001f7f7da7000000000000000070000000000000000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 12721,
+  "query": [
+    "20245",
+    "21652"
+  ],
+  "response": [
+    " available vehicles temperature 6105 F subsea cover temp 34 F sub 8 F sub",
+    " Frameln P\u00f6nsh\u00e4ferbungar 2017 TBA 586"
+  ],
+  "victim_response": [
+    " available vehicles temperature 6105 F subsea cover temp 34 F sub 8 F sub",
+    " Frameln P\u00f6nsh\u00e4ferbungar 2017 TBA 586"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

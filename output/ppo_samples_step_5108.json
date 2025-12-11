@@ -1,0 +1,19 @@
+{
+  "step": 5108,
+  "query": [
+    "20040",
+    "20762"
+  ],
+  "response": [
+    "50x8wwwu:en-di32 b3nd20002430",
+    " new_item:\n257601270022 92 mbed2300"
+  ],
+  "victim_response": [
+    "50x8wwwu:en-di32 b3nd20002430",
+    " new_item:\n257601270022 92 mbed2300"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

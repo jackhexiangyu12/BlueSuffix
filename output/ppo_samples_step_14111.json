@@ -1,0 +1,19 @@
+{
+  "step": 14111,
+  "query": [
+    "20812",
+    "20968"
+  ],
+  "response": [
+    "00998 cell02 modification token 01920888920 cell030070000000000000000 cell03",
+    "174DDD D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    "00998 cell02 modification token 01920888920 cell030070000000000000000 cell03",
+    "174DDD D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

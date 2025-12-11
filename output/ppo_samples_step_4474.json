@@ -1,0 +1,19 @@
+{
+  "step": 4474,
+  "query": [
+    "20090",
+    "20626"
+  ],
+  "response": [
+    "390a8b9b97f90d2c6c87c",
+    "013 not found, and this is no-kcs 6C1-2"
+  ],
+  "victim_response": [
+    "390a8b9b97f90d2c6c87c",
+    "013 not found, and this is no-kcs 6C1-2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

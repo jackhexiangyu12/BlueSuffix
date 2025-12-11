@@ -1,0 +1,19 @@
+{
+  "step": 22060,
+  "query": [
+    "20905",
+    "20158"
+  ],
+  "response": [
+    "att $0feefeefeefeefeefeefeefeefeefeefeefeefee",
+    " position 1744 publicly available $ pay PNT GPU 0001 0001 0001"
+  ],
+  "victim_response": [
+    "att $0feefeefeefeefeefeefeefeefeefeefeefeefee",
+    " position 1744 publicly available $ pay PNT GPU 0001 0001 0001"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

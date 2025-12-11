@@ -1,0 +1,19 @@
+{
+  "step": 7840,
+  "query": [
+    "21845",
+    "21739"
+  ],
+  "response": [
+    " PORISDOCKPino [ 041310836 PYOMAG",
+    ",\"tdr\":DNMCRRmhdWUdSj"
+  ],
+  "victim_response": [
+    " PORISDOCKPino [ 041310836 PYOMAG",
+    ",\"tdr\":DNMCRRmhdWUdSj"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

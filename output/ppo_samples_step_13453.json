@@ -1,0 +1,19 @@
+{
+  "step": 13453,
+  "query": [
+    "21620",
+    "21974"
+  ],
+  "response": [
+    " D TIME-locks D TIME locks D TIME locks D Time locks D TIME locks",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    " D TIME-locks D TIME locks D TIME locks D Time locks D TIME locks",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

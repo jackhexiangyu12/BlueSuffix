@@ -1,0 +1,19 @@
+{
+  "step": 4736,
+  "query": [
+    "20887",
+    "21543"
+  ],
+  "response": [
+    "\"O\" \"moid\" \"moid\" \"moid\" \"",
+    "D mNFFFLZmVgCphFtLNFC"
+  ],
+  "victim_response": [
+    "\"O\" \"moid\" \"moid\" \"moid\" \"",
+    "D mNFFFLZmVgCphFtLNFC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

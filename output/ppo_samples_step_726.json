@@ -1,0 +1,19 @@
+{
+  "step": 726,
+  "query": [
+    "20120",
+    "21119"
+  ],
+  "response": [
+    "48\n\nThe upshot of this is that the authors of this paper are",
+    " is a new game from Namco Bandai Games. The game is based off"
+  ],
+  "victim_response": [
+    "48\n\nThe upshot of this is that the authors of this paper are",
+    " is a new game from Namco Bandai Games. The game is based off"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11119,
+  "query": [
+    "21023",
+    "21608"
+  ],
+  "response": [
+    " no nvidia/fb delta nvidia Quadro driver libNVIDIA driver nvidia Quadro",
+    "7d7d7d7d7d7d7d7d"
+  ],
+  "victim_response": [
+    " no nvidia/fb delta nvidia Quadro driver libNVIDIA driver nvidia Quadro",
+    "7d7d7d7d7d7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10643,
+  "query": [
+    "20403",
+    "21023"
+  ],
+  "response": [
+    " series driver's dongle is the next generation of the WDCM17",
+    "D D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " series driver's dongle is the next generation of the WDCM17",
+    "D D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

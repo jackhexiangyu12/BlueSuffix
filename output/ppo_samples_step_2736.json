@@ -1,0 +1,19 @@
+{
+  "step": 2736,
+  "query": [
+    "21047",
+    "20655"
+  ],
+  "response": [
+    "24.82892035488825845871435 \"app-",
+    " Internet Protocol address: 81955\n\n\nExample: t-u-"
+  ],
+  "victim_response": [
+    "24.82892035488825845871435 \"app-",
+    " Internet Protocol address: 81955\n\n\nExample: t-u-"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

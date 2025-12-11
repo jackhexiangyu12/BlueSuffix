@@ -1,0 +1,19 @@
+{
+  "step": 3562,
+  "query": [
+    "20106",
+    "21292"
+  ],
+  "response": [
+    "1 that was not really \"the president's\" strike at the moment. The",
+    "f,0000003,0,\"controlsucceed\",\"1\",\"RNG"
+  ],
+  "victim_response": [
+    "1 that was not really \"the president's\" strike at the moment. The",
+    "f,0000003,0,\"controlsucceed\",\"1\",\"RNG"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

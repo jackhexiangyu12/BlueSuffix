@@ -1,0 +1,19 @@
+{
+  "step": 22879,
+  "query": [
+    "21082",
+    "20639"
+  ],
+  "response": [
+    " fire warning cell7 patent cell7 noncell7 patent cell7 patent cell7",
+    " noted that there was no evidence that the Heat is conducting another ground-based attack"
+  ],
+  "victim_response": [
+    " fire warning cell7 patent cell7 noncell7 patent cell7 patent cell7",
+    " noted that there was no evidence that the Heat is conducting another ground-based attack"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

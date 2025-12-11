@@ -1,0 +1,19 @@
+{
+  "step": 6827,
+  "query": [
+    "20418",
+    "20887"
+  ],
+  "response": [
+    "000D D D miner target_dpcs0 D D D D D",
+    " 1D7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "000D D D miner target_dpcs0 D D D D D",
+    " 1D7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

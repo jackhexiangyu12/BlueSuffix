@@ -1,0 +1,19 @@
+{
+  "step": 10458,
+  "query": [
+    "21145",
+    "21938"
+  ],
+  "response": [
+    "0098745077D7D7D7D7D7D",
+    "S wingcap on the right side of the mask symbol the next to the mask"
+  ],
+  "victim_response": [
+    "0098745077D7D7D7D7D7D",
+    "S wingcap on the right side of the mask symbol the next to the mask"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

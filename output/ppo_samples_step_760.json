@@ -1,0 +1,19 @@
+{
+  "step": 760,
+  "query": [
+    "20787",
+    "21767"
+  ],
+  "response": [
+    " 6.2.2.1.1.1.1.1.",
+    ":2:4: [C7] **** The game starts without the last"
+  ],
+  "victim_response": [
+    " 6.2.2.1.1.1.1.1.",
+    ":2:4: [C7] **** The game starts without the last"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

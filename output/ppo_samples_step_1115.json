@@ -1,0 +1,19 @@
+{
+  "step": 1115,
+  "query": [
+    "20925",
+    "20192"
+  ],
+  "response": [
+    "32) (16)\n\nThe Political Interrogation in the U.",
+    "247814,\n\nCondenser,1,25,\n\n5"
+  ],
+  "victim_response": [
+    "32) (16)\n\nThe Political Interrogation in the U.",
+    "247814,\n\nCondenser,1,25,\n\n5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

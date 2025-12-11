@@ -1,0 +1,19 @@
+{
+  "step": 14793,
+  "query": [
+    "20396",
+    "21392"
+  ],
+  "response": [
+    " or TR0300 output drives $ drive quattroCamino drive DC drive",
+    "DD7D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " or TR0300 output drives $ drive quattroCamino drive DC drive",
+    "DD7D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

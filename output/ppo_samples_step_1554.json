@@ -1,0 +1,19 @@
+{
+  "step": 1554,
+  "query": [
+    "21709",
+    "21233"
+  ],
+  "response": [
+    "6\", \"id\": \"29180539\", \"name\": \"The",
+    ", a page on the back of the book, is a list of how to"
+  ],
+  "victim_response": [
+    "6\", \"id\": \"29180539\", \"name\": \"The",
+    ", a page on the back of the book, is a list of how to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

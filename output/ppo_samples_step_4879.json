@@ -1,0 +1,19 @@
+{
+  "step": 4879,
+  "query": [
+    "21652",
+    "20865"
+  ],
+  "response": [
+    "75868d7a8d8d7c12d7b6",
+    "(07et:cibaparallel_films_dvd_"
+  ],
+  "victim_response": [
+    "75868d7a8d8d7c12d7b6",
+    "(07et:cibaparallel_films_dvd_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

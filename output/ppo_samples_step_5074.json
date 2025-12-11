@@ -1,0 +1,19 @@
+{
+  "step": 5074,
+  "query": [
+    "20000",
+    "21267"
+  ],
+  "response": [
+    " not a parent, a child is a father.\n\nDivision 1.",
+    "39 Wandroid 4.2.01 (blackingz) 0w"
+  ],
+  "victim_response": [
+    " not a parent, a child is a father.\n\nDivision 1.",
+    "39 Wandroid 4.2.01 (blackingz) 0w"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

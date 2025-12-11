@@ -1,0 +1,19 @@
+{
+  "step": 4021,
+  "query": [
+    "21232",
+    "20396"
+  ],
+  "response": [
+    "2a0 f3dac3d7d7d5c f",
+    " M640 C400 C1F1F P1F D2F1"
+  ],
+  "victim_response": [
+    "2a0 f3dac3d7d7d5c f",
+    " M640 C400 C1F1F P1F D2F1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

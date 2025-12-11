@@ -1,0 +1,19 @@
+{
+  "step": 6710,
+  "query": [
+    "20331",
+    "20192"
+  ],
+  "response": [
+    "=\"fconfn,pixnetnet\" has no length because nix",
+    "c7bbab9aaf6dca81d6ca6f"
+  ],
+  "victim_response": [
+    "=\"fconfn,pixnetnet\" has no length because nix",
+    "c7bbab9aaf6dca81d6ca6f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

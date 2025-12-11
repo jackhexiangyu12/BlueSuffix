@@ -1,0 +1,19 @@
+{
+  "step": 993,
+  "query": [
+    "21888",
+    "21767"
+  ],
+  "response": [
+    "5542.\n\n8.26.1.0.0.1",
+    "77\" height = 1.5284, \"item_ItemNoise\""
+  ],
+  "victim_response": [
+    "5542.\n\n8.26.1.0.0.1",
+    "77\" height = 1.5284, \"item_ItemNoise\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

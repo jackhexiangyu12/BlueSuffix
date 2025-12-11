@@ -1,0 +1,19 @@
+{
+  "step": 157,
+  "query": [
+    "20750",
+    "21709"
+  ],
+  "response": [
+    "2.jpg\",\"id\":\"8D8D7C5-C7",
+    "-U-3.0.0.1-universal-1.jar"
+  ],
+  "victim_response": [
+    "2.jpg\",\"id\":\"8D8D7C5-C7",
+    "-U-3.0.0.1-universal-1.jar"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 11586,
+  "query": [
+    "21550",
+    "21652"
+  ],
+  "response": [
+    "WR have the same sub receiver as the RX7350103W QD",
+    "D dD dDD dDD dDD dDD d"
+  ],
+  "victim_response": [
+    "WR have the same sub receiver as the RX7350103W QD",
+    "D dD dDD dDD dDD dDD d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

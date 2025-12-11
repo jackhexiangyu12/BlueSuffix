@@ -1,0 +1,19 @@
+{
+  "step": 1864,
+  "query": [
+    "20533",
+    "20045"
+  ],
+  "response": [
+    ".\n\n\nThe study, which was conducted by researchers from the University of",
+    ") and as a result of the subsequent repair of the aircraft, it is not"
+  ],
+  "victim_response": [
+    ".\n\n\nThe study, which was conducted by researchers from the University of",
+    ") and as a result of the subsequent repair of the aircraft, it is not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

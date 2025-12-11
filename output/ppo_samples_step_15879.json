@@ -1,0 +1,19 @@
+{
+  "step": 15879,
+  "query": [
+    "20648",
+    "20411"
+  ],
+  "response": [
+    " physical data MFT PTEkh generation mask DSP encoding Bob shms bit D",
+    " B212D D Carr F D F F F D F F D F D"
+  ],
+  "victim_response": [
+    " physical data MFT PTEkh generation mask DSP encoding Bob shms bit D",
+    " B212D D Carr F D F F F D F F D F D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

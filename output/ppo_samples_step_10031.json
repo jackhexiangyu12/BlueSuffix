@@ -1,0 +1,19 @@
+{
+  "step": 10031,
+  "query": [
+    "20901",
+    "21739"
+  ],
+  "response": [
+    "00101001001DDDDD DDDD DDD D",
+    "03 \" C notnetflix network video media (atavaboodcamcomlevision"
+  ],
+  "victim_response": [
+    "00101001001DDDDD DDDD DDD D",
+    "03 \" C notnetflix network video media (atavaboodcamcomlevision"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10164,
+  "query": [
+    "20534",
+    "21377"
+  ],
+  "response": [
+    " 0 1 006 FRENCHPORT8000 9 17779351709 40",
+    " 10x3 firewebseed 10x3firewebseed 10x"
+  ],
+  "victim_response": [
+    " 0 1 006 FRENCHPORT8000 9 17779351709 40",
+    " 10x3 firewebseed 10x3firewebseed 10x"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

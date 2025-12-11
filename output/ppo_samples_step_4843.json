@@ -1,0 +1,19 @@
+{
+  "step": 4843,
+  "query": [
+    "20905",
+    "20040"
+  ],
+  "response": [
+    "00018155200013210557017010908016634795",
+    ",000 DDoS-type-fd server with network connectivity of 1 to"
+  ],
+  "victim_response": [
+    "00018155200013210557017010908016634795",
+    ",000 DDoS-type-fd server with network connectivity of 1 to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

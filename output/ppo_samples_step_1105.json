@@ -1,0 +1,19 @@
+{
+  "step": 1105,
+  "query": [
+    "21368",
+    "20497"
+  ],
+  "response": [
+    ". It is a very important part of the puzzle, so it is a question",
+    ".1|\n\n1695.1|0|0|1 3"
+  ],
+  "victim_response": [
+    ". It is a very important part of the puzzle, so it is a question",
+    ".1|\n\n1695.1|0|0|1 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

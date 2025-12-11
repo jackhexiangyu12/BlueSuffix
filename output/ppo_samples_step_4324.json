@@ -1,0 +1,19 @@
+{
+  "step": 4324,
+  "query": [
+    "21126",
+    "21797"
+  ],
+  "response": [
+    " (112313) NTC-2H1P,2D R",
+    "^: 2005-07:12 ZVhVZzGQ1"
+  ],
+  "victim_response": [
+    " (112313) NTC-2H1P,2D R",
+    "^: 2005-07:12 ZVhVZzGQ1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3606,
+  "query": [
+    "20916",
+    "21262"
+  ],
+  "response": [
+    "B0 171553 bvnc.c.ml3 A DRC",
+    "a:In the third line of this text I am also told that the history"
+  ],
+  "victim_response": [
+    "B0 171553 bvnc.c.ml3 A DRC",
+    "a:In the third line of this text I am also told that the history"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

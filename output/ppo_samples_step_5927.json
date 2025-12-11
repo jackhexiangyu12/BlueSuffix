@@ -1,0 +1,19 @@
+{
+  "step": 5927,
+  "query": [
+    "20509",
+    "20787"
+  ],
+  "response": [
+    " bytes (2 driver,5, bncrc_cci1f",
+    ",yf,P1HGIF5C6A5B"
+  ],
+  "victim_response": [
+    " bytes (2 driver,5, bncrc_cci1f",
+    ",yf,P1HGIF5C6A5B"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

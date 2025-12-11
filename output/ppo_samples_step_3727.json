@@ -1,0 +1,19 @@
+{
+  "step": 3727,
+  "query": [
+    "21090",
+    "20418"
+  ],
+  "response": [
+    "200_hq_80zd4nF6xC4l",
+    "I2C18SACSS5BNC3BMC9C&"
+  ],
+  "victim_response": [
+    "200_hq_80zd4nF6xC4l",
+    "I2C18SACSS5BNC3BMC9C&"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

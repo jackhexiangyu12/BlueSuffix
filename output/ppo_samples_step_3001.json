@@ -1,0 +1,19 @@
+{
+  "step": 3001,
+  "query": [
+    "21126",
+    "21672"
+  ],
+  "response": [
+    "1951010413141416 17 4/7/15 12/",
+    ", sk1 +4\"\n\n\nFrom the first FFT with the \""
+  ],
+  "victim_response": [
+    "1951010413141416 17 4/7/15 12/",
+    ", sk1 +4\"\n\n\nFrom the first FFT with the \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

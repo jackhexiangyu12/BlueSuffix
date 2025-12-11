@@ -1,0 +1,19 @@
+{
+  "step": 11352,
+  "query": [
+    "20639",
+    "20901"
+  ],
+  "response": [
+    "000 Phobic insect eating Phobic beetles have a number of interesting behaviors in which",
+    "0100101001010100101001D NNKNN NNK"
+  ],
+  "victim_response": [
+    "000 Phobic insect eating Phobic beetles have a number of interesting behaviors in which",
+    "0100101001010100101001D NNKNN NNK"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

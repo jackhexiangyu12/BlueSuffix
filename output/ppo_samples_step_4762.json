@@ -1,0 +1,19 @@
+{
+  "step": 4762,
+  "query": [
+    "21669",
+    "21145"
+  ],
+  "response": [
+    "69\", \"body\" : \"h7p9mf8w",
+    "63,score = 5147d4ddfddd7ddfd"
+  ],
+  "victim_response": [
+    "69\", \"body\" : \"h7p9mf8w",
+    "63,score = 5147d4ddfddd7ddfd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

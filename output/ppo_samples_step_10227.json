@@ -1,0 +1,19 @@
+{
+  "step": 10227,
+  "query": [
+    "20401",
+    "21620"
+  ],
+  "response": [
+    "010101 02 QC research laboratory 0101040601 01000 D 7201",
+    "2200 transition silk mask. Permanent mask transition mask mask mask mask mask mask mask mask"
+  ],
+  "victim_response": [
+    "010101 02 QC research laboratory 0101040601 01000 D 7201",
+    "2200 transition silk mask. Permanent mask transition mask mask mask mask mask mask mask mask"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

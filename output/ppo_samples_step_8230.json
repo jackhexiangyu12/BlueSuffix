@@ -1,0 +1,19 @@
+{
+  "step": 8230,
+  "query": [
+    "21781",
+    "20331"
+  ],
+  "response": [
+    " Hz 30Hz 30Hz 5Hz DHz 5Hz DHz DHz D",
+    " DNND HNNNNNNNNNNNNNNNNNNNNNNNN"
+  ],
+  "victim_response": [
+    " Hz 30Hz 30Hz 5Hz DHz 5Hz DHz DHz D",
+    " DNND HNNNNNNNNNNNNNNNNNNNNNNNN"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

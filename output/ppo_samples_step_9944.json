@@ -1,0 +1,19 @@
+{
+  "step": 9944,
+  "query": [
+    "21303",
+    "20307"
+  ],
+  "response": [
+    ", t7 2064474 79076 F D2Comgr access (",
+    " net PID is temperature len of the subnet, DIR is temperature (12"
+  ],
+  "victim_response": [
+    ", t7 2064474 79076 F D2Comgr access (",
+    " net PID is temperature len of the subnet, DIR is temperature (12"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

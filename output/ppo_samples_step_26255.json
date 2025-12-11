@@ -1,0 +1,19 @@
+{
+  "step": 26255,
+  "query": [
+    "20509",
+    "20968"
+  ],
+  "response": [
+    " traces out the physical location of the sensor Ch is the part of the sensor Ch",
+    "C must be used in a company unit that is being monitored by the entities listed"
+  ],
+  "victim_response": [
+    " traces out the physical location of the sensor Ch is the part of the sensor Ch",
+    "C must be used in a company unit that is being monitored by the entities listed"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

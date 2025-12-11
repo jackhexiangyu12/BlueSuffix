@@ -1,0 +1,19 @@
+{
+  "step": 986,
+  "query": [
+    "20757",
+    "20534"
+  ],
+  "response": [
+    "-128842-7.\n\n$2.99 $2.",
+    ".\n\nThis article was originally published on Wired.com."
+  ],
+  "victim_response": [
+    "-128842-7.\n\n$2.99 $2.",
+    ".\n\nThis article was originally published on Wired.com."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

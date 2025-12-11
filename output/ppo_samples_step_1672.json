@@ -1,0 +1,19 @@
+{
+  "step": 1672,
+  "query": [
+    "20846",
+    "20418"
+  ],
+  "response": [
+    ",0.7 The damage you are doing?\n\nIf you did one",
+    "-0110 -21050 -4908 -4911 -4912 -"
+  ],
+  "victim_response": [
+    ",0.7 The damage you are doing?\n\nIf you did one",
+    "-0110 -21050 -4908 -4911 -4912 -"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

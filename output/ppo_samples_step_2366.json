@@ -1,0 +1,19 @@
+{
+  "step": 2366,
+  "query": [
+    "20144",
+    "20307"
+  ],
+  "response": [
+    "-bit.php\n\n1.js\n\nThe following is a snippet",
+    "a5b4c8ab4d1116f703555b"
+  ],
+  "victim_response": [
+    "-bit.php\n\n1.js\n\nThe following is a snippet",
+    "a5b4c8ab4d1116f703555b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

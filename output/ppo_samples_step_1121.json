@@ -1,0 +1,19 @@
+{
+  "step": 1121,
+  "query": [
+    "20445",
+    "20509"
+  ],
+  "response": [
+    "86.\n\n(d) This section shall not apply to a violation of",
+    " -0.5103.00 S1_F4.0001.00"
+  ],
+  "victim_response": [
+    "86.\n\n(d) This section shall not apply to a violation of",
+    " -0.5103.00 S1_F4.0001.00"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

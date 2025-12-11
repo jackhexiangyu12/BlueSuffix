@@ -1,0 +1,19 @@
+{
+  "step": 9355,
+  "query": [
+    "20138",
+    "21760"
+  ],
+  "response": [
+    "787 these statements are an unfair or deceptive claim which is not based on the nature",
+    "25 photons, 5nmC lasers and fusion lasers were installed at the SMQ"
+  ],
+  "victim_response": [
+    "787 these statements are an unfair or deceptive claim which is not based on the nature",
+    "25 photons, 5nmC lasers and fusion lasers were installed at the SMQ"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

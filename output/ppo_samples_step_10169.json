@@ -1,0 +1,19 @@
+{
+  "step": 10169,
+  "query": [
+    "20925",
+    "20533"
+  ],
+  "response": [
+    "01003000000007000000010100800000000700000000000000000000000000000000700000000",
+    " food_learned sets food food 2b dnc to eat food hunger food"
+  ],
+  "victim_response": [
+    "01003000000007000000010100800000000700000000000000000000000000000000700000000",
+    " food_learned sets food food 2b dnc to eat food hunger food"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

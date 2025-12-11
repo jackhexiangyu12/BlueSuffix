@@ -1,0 +1,19 @@
+{
+  "step": 11248,
+  "query": [
+    "21895",
+    "21739"
+  ],
+  "response": [
+    " 2495 00 1 kWowerGHz1 2500MHz Acceleration1 2500MHz Turbo",
+    " so F G7 F8 F9 F9 F10 F11 F12"
+  ],
+  "victim_response": [
+    " 2495 00 1 kWowerGHz1 2500MHz Acceleration1 2500MHz Turbo",
+    " so F G7 F8 F9 F9 F10 F11 F12"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

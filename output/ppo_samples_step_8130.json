@@ -1,0 +1,19 @@
+{
+  "step": 8130,
+  "query": [
+    "20000",
+    "21191"
+  ],
+  "response": [
+    " dcp-dmu 00 00 d mu 00 00 dmu 00 dmu",
+    " years, previous to 1946. The most common name of the Geminis entry"
+  ],
+  "victim_response": [
+    " dcp-dmu 00 00 d mu 00 00 dmu 00 dmu",
+    " years, previous to 1946. The most common name of the Geminis entry"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

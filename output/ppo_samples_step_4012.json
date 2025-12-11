@@ -1,0 +1,19 @@
+{
+  "step": 4012,
+  "query": [
+    "20648",
+    "21950"
+  ],
+  "response": [
+    "3543012523x07 tom2 (dims of 1020",
+    ":agsl_bxx_re-1_vs_1_r"
+  ],
+  "victim_response": [
+    "3543012523x07 tom2 (dims of 1020",
+    ":agsl_bxx_re-1_vs_1_r"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

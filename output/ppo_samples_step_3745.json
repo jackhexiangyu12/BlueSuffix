@@ -1,0 +1,19 @@
+{
+  "step": 3745,
+  "query": [
+    "20411",
+    "21658"
+  ],
+  "response": [
+    "]\n\n\nThe price of a new BMW E60E is $78,",
+    ") The name of the a piece of paper that is also marked \"A5"
+  ],
+  "victim_response": [
+    "]\n\n\nThe price of a new BMW E60E is $78,",
+    ") The name of the a piece of paper that is also marked \"A5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

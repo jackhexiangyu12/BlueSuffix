@@ -1,0 +1,19 @@
+{
+  "step": 11748,
+  "query": [
+    "21209",
+    "21363"
+  ],
+  "response": [
+    "02 Phobic 707C7705D706F7D7D7",
+    " mutants for the data could not be fully replicated from the general dataset as the data"
+  ],
+  "victim_response": [
+    "02 Phobic 707C7705D706F7D7D7",
+    " mutants for the data could not be fully replicated from the general dataset as the data"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

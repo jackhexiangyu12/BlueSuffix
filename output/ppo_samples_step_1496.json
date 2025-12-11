@@ -1,0 +1,19 @@
+{
+  "step": 1496,
+  "query": [
+    "21303",
+    "20245"
+  ],
+  "response": [
+    "\n\nLocation: \"The Greyhound Tank, I have been. You'd",
+    "\n\nB\n\n\nB\n\nM\n\nL\n\nM"
+  ],
+  "victim_response": [
+    "\n\nLocation: \"The Greyhound Tank, I have been. You'd",
+    "\n\nB\n\n\nB\n\nM\n\nL\n\nM"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

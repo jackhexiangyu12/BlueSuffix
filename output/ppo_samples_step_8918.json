@@ -1,0 +1,19 @@
+{
+  "step": 8918,
+  "query": [
+    "20192",
+    "20812"
+  ],
+  "response": [
+    "ndnsnnmnnnsnbnnnnnsnnnsn",
+    "\", \"716\", \"dattum\", \"curl\", \"be"
+  ],
+  "victim_response": [
+    "ndnsnnmnnnsnbnnnnnsnnnsn",
+    "\", \"716\", \"dattum\", \"curl\", \"be"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

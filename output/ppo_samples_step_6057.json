@@ -1,0 +1,19 @@
+{
+  "step": 6057,
+  "query": [
+    "21796",
+    "20593"
+  ],
+  "response": [
+    " 5 IPT-I-MNPC-C9DKD P H",
+    ":parm3 out pke.9910260511 673d374"
+  ],
+  "victim_response": [
+    " 5 IPT-I-MNPC-C9DKD P H",
+    ":parm3 out pke.9910260511 673d374"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

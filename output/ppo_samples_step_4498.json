@@ -1,0 +1,19 @@
+{
+  "step": 4498,
+  "query": [
+    "20504",
+    "20045"
+  ],
+  "response": [
+    "6754\" \"Flashing.\"moans\" \"Sniffer\" \"",
+    "45 NGCNN1 3-0 50 NGCNN2 1"
+  ],
+  "victim_response": [
+    "6754\" \"Flashing.\"moans\" \"Sniffer\" \"",
+    "45 NGCNN1 3-0 50 NGCNN2 1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

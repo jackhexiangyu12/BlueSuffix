@@ -1,0 +1,19 @@
+{
+  "step": 15252,
+  "query": [
+    "21547",
+    "21707"
+  ],
+  "response": [
+    " show pause wait time for success show the half time tape strun is a test",
+    "770777D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    " show pause wait time for success show the half time tape strun is a test",
+    "770777D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

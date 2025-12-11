@@ -1,0 +1,19 @@
+{
+  "step": 12771,
+  "query": [
+    "20533",
+    "21984"
+  ],
+  "response": [
+    "DDADADADADADADADADADADADADADADA",
+    " This is the end of the neural tree. This is the smallest tree node that"
+  ],
+  "victim_response": [
+    "DDADADADADADADADADADADADADADADA",
+    " This is the end of the neural tree. This is the smallest tree node that"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

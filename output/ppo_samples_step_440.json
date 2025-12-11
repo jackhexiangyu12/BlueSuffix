@@ -1,0 +1,19 @@
+{
+  "step": 440,
+  "query": [
+    "20411",
+    "20509"
+  ],
+  "response": [
+    "40 4.398414 6.637160640 6.06",
+    "b4a1a0\n\nLast year I used to work on the"
+  ],
+  "victim_response": [
+    "40 4.398414 6.637160640 6.06",
+    "b4a1a0\n\nLast year I used to work on the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

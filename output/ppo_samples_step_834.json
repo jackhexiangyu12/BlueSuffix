@@ -1,0 +1,19 @@
+{
+  "step": 834,
+  "query": [
+    "20245",
+    "20518"
+  ],
+  "response": [
+    ", and I have learned more than I should have learned, that the world is",
+    " 0.812536 0.812534 0.812533 0"
+  ],
+  "victim_response": [
+    ", and I have learned more than I should have learned, that the world is",
+    " 0.812536 0.812534 0.812533 0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

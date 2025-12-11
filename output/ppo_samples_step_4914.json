@@ -1,0 +1,19 @@
+{
+  "step": 4914,
+  "query": [
+    "21547",
+    "21950"
+  ],
+  "response": [
+    "f9f03d19a08c2d28b8eb",
+    " ACI-CIP I2A 802.10ACN 802.3"
+  ],
+  "victim_response": [
+    "f9f03d19a08c2d28b8eb",
+    " ACI-CIP I2A 802.10ACN 802.3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

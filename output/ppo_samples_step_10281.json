@@ -1,0 +1,19 @@
+{
+  "step": 10281,
+  "query": [
+    "20396",
+    "20067"
+  ],
+  "response": [
+    "D0D7D7D7D7D7D7D7",
+    " B\nLine in horizontal position x9 11 F D D L X9 X"
+  ],
+  "victim_response": [
+    "D0D7D7D7D7D7D7D7",
+    " B\nLine in horizontal position x9 11 F D D L X9 X"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

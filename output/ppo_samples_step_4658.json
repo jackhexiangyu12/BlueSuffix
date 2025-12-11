@@ -1,0 +1,19 @@
+{
+  "step": 4658,
+  "query": [
+    "20612",
+    "20045"
+  ],
+  "response": [
+    "68\" set\", \"clenks_z_ds\" \"1\",",
+    ",3HKC1682V9JDQA0D9Q"
+  ],
+  "victim_response": [
+    "68\" set\", \"clenks_z_ds\" \"1\",",
+    ",3HKC1682V9JDQA0D9Q"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

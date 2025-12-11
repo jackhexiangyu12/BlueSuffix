@@ -1,0 +1,19 @@
+{
+  "step": 253,
+  "query": [
+    "20934",
+    "21739"
+  ],
+  "response": [
+    "\n\n(7)\n\nNot all of them are consistent, but there",
+    "67,6,1,1,@(1,0,0,"
+  ],
+  "victim_response": [
+    "\n\n(7)\n\nNot all of them are consistent, but there",
+    "67,6,1,1,@(1,0,0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

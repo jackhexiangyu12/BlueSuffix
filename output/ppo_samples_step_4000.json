@@ -1,0 +1,19 @@
+{
+  "step": 4000,
+  "query": [
+    "21191",
+    "20916"
+  ],
+  "response": [
+    ".aar.davis@el-weta-lspakay",
+    "45, C1486207536C,C1488396639"
+  ],
+  "victim_response": [
+    ".aar.davis@el-weta-lspakay",
+    "45, C1486207536C,C1488396639"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

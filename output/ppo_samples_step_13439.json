@@ -1,0 +1,19 @@
+{
+  "step": 13439,
+  "query": [
+    "20497",
+    "21406"
+  ],
+  "response": [
+    " visit \" DIRLS drive DIRLSAPPADS grazing DIRLS",
+    "01 0107feefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    " visit \" DIRLS drive DIRLSAPPADS grazing DIRLS",
+    "01 0107feefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

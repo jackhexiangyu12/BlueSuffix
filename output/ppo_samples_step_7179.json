@@ -1,0 +1,19 @@
+{
+  "step": 7179,
+  "query": [
+    "21547",
+    "20846"
+  ],
+  "response": [
+    "AD5DD5DD5DDFDDFDDFDFD",
+    "Pagelser was trained on how to exercise in the area of the Grand"
+  ],
+  "victim_response": [
+    "AD5DD5DD5DDFDDFDDFDFD",
+    "Pagelser was trained on how to exercise in the area of the Grand"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

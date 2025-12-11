@@ -1,0 +1,19 @@
+{
+  "step": 22583,
+  "query": [
+    "21291",
+    "21435"
+  ],
+  "response": [
+    " train-00 Sir Polaris al col sat mcc findle tell global oil Q",
+    " Coh Fga Fga Fga Fga Fga Fga Fga F"
+  ],
+  "victim_response": [
+    " train-00 Sir Polaris al col sat mcc findle tell global oil Q",
+    " Coh Fga Fga Fga Fga Fga Fga Fga F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

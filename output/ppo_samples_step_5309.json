@@ -1,0 +1,19 @@
+{
+  "step": 5309,
+  "query": [
+    "20341",
+    "20547"
+  ],
+  "response": [
+    "L1L3_CVPLQ8_CURR0D9DC",
+    "72171990020816071d4b7c4d1"
+  ],
+  "victim_response": [
+    "L1L3_CVPLQ8_CURR0D9DC",
+    "72171990020816071d4b7c4d1"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6968,
+  "query": [
+    "21543",
+    "21185"
+  ],
+  "response": [
+    " peptide (pNVA) (PT 527, PNRQA",
+    " NCT0361274 Unimulated subclinical drug therapy for disease of drug therapy"
+  ],
+  "victim_response": [
+    " peptide (pNVA) (PT 527, PNRQA",
+    " NCT0361274 Unimulated subclinical drug therapy for disease of drug therapy"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

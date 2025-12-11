@@ -1,0 +1,19 @@
+{
+  "step": 4531,
+  "query": [
+    "21760",
+    "21888"
+  ],
+  "response": [
+    "A040E5D1540C6D8C6D81D",
+    "\" \"more\" \"2\" \"min_fixes\" \"1\""
+  ],
+  "victim_response": [
+    "A040E5D1540C6D8C6D81D",
+    "\" \"more\" \"2\" \"min_fixes\" \"1\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

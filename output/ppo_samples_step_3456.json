@@ -1,0 +1,19 @@
+{
+  "step": 3456,
+  "query": [
+    "21547",
+    "20648"
+  ],
+  "response": [
+    "f7x7 in a self object type definition\n\nin a self class",
+    "3m,1,16,1535%1,0r.10"
+  ],
+  "victim_response": [
+    "f7x7 in a self object type definition\n\nin a self class",
+    "3m,1,16,1535%1,0r.10"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

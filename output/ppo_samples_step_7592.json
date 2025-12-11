@@ -1,0 +1,19 @@
+{
+  "step": 7592,
+  "query": [
+    "21496",
+    "21108"
+  ],
+  "response": [
+    "00 (DAT1D8D1D4D7D0D",
+    " Horus CscSC d3cacd7d7d7d7"
+  ],
+  "victim_response": [
+    "00 (DAT1D8D1D4D7D0D",
+    " Horus CscSC d3cacd7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

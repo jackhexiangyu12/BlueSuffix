@@ -1,0 +1,19 @@
+{
+  "step": 1869,
+  "query": [
+    "21363",
+    "20144"
+  ],
+  "response": [
+    "1400,4,44,45,50,50,50,\n",
+    "13, Dell Lubuntu Windows Server 16.04\n\nThe Synaptics"
+  ],
+  "victim_response": [
+    "1400,4,44,45,50,50,50,\n",
+    "13, Dell Lubuntu Windows Server 16.04\n\nThe Synaptics"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

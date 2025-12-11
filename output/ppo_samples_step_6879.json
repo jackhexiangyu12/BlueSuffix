@@ -1,0 +1,19 @@
+{
+  "step": 6879,
+  "query": [
+    "20158",
+    "21160"
+  ],
+  "response": [
+    " and you are being permitted to submit a ssl-proc-prodd-",
+    " another 10d' fd fd fd fd fd fd"
+  ],
+  "victim_response": [
+    " and you are being permitted to submit a ssl-proc-prodd-",
+    " another 10d' fd fd fd fd fd fd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

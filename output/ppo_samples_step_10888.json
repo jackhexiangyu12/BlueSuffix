@@ -1,0 +1,19 @@
+{
+  "step": 10888,
+  "query": [
+    "20518",
+    "21672"
+  ],
+  "response": [
+    "920021 colDCCDCCCCCCCCCCCCCCCCCC",
+    " Showcase \"Twitch\" \"Twitch\" \"Twitch\" \"Tw"
+  ],
+  "victim_response": [
+    "920021 colDCCDCCCCCCCCCCCCCCCCCC",
+    " Showcase \"Twitch\" \"Twitch\" \"Twitch\" \"Tw"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

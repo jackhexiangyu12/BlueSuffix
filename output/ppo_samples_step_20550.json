@@ -1,0 +1,19 @@
+{
+  "step": 20550,
+  "query": [
+    "20445",
+    "21356"
+  ],
+  "response": [
+    "00 will just the unit cost 00 00 00 00 00 00 00 00 00 00",
+    " compete start doesn't match the sub W X F F F F F F"
+  ],
+  "victim_response": [
+    "00 will just the unit cost 00 00 00 00 00 00 00 00 00 00",
+    " compete start doesn't match the sub W X F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

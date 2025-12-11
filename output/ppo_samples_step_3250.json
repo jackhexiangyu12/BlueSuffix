@@ -1,0 +1,19 @@
+{
+  "step": 3250,
+  "query": [
+    "20178",
+    "20504"
+  ],
+  "response": [
+    " and the 830A was the Government's most recent loan to the Government of",
+    ":7:f-280:0175\"\n\n\"049"
+  ],
+  "victim_response": [
+    " and the 830A was the Government's most recent loan to the Government of",
+    ":7:f-280:0175\"\n\n\"049"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

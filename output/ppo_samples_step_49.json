@@ -1,0 +1,19 @@
+{
+  "step": 49,
+  "query": [
+    "21984",
+    "21634"
+  ],
+  "response": [
+    "a7e1a4d2f9eab7fc37eb",
+    ": {00000000}(id)\n\n\n{49:d8:"
+  ],
+  "victim_response": [
+    "a7e1a4d2f9eab7fc37eb",
+    ": {00000000}(id)\n\n\n{49:d8:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

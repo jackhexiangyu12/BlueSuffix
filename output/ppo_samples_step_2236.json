@@ -1,0 +1,19 @@
+{
+  "step": 2236,
+  "query": [
+    "20504",
+    "20403"
+  ],
+  "response": [
+    ",13,13,13,13,13,13,13,13",
+    ".com: Auth-Token: On Media. <mroms://j"
+  ],
+  "victim_response": [
+    ",13,13,13,13,13,13,13,13",
+    ".com: Auth-Token: On Media. <mroms://j"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

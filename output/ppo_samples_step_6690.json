@@ -1,0 +1,19 @@
+{
+  "step": 6690,
+  "query": [
+    "20509",
+    "21209"
+  ],
+  "response": [
+    "d5d8d5dd6d7d7d7d",
+    "5\", \"subname\" \"wcb\" \"dye\" \"c"
+  ],
+  "victim_response": [
+    "d5d8d5dd6d7d7d7d",
+    "5\", \"subname\" \"wcb\" \"dye\" \"c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

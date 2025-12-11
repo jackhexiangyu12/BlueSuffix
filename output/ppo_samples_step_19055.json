@@ -1,0 +1,19 @@
+{
+  "step": 19055,
+  "query": [
+    "21796",
+    "20144"
+  ],
+  "response": [
+    " Mar 2016 19 T1 Mar hot d1 Mar d1 D2 Mar d",
+    " Freenet gen model D h Q d Q d Freenet gen model"
+  ],
+  "victim_response": [
+    " Mar 2016 19 T1 Mar hot d1 Mar d1 D2 Mar d",
+    " Freenet gen model D h Q d Q d Freenet gen model"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

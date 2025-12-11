@@ -1,0 +1,19 @@
+{
+  "step": 1384,
+  "query": [
+    "21209",
+    "21125"
+  ],
+  "response": [
+    "8\n\n1. How to get a print of a paper used in a",
+    "k)\n\n6.\n\n7.\n\n8\n\n9"
+  ],
+  "victim_response": [
+    "8\n\n1. How to get a print of a paper used in a",
+    "k)\n\n6.\n\n7.\n\n8\n\n9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

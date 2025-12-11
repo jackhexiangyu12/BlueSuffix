@@ -1,0 +1,19 @@
+{
+  "step": 2187,
+  "query": [
+    "21393",
+    "21925"
+  ],
+  "response": [
+    "16: iPhon pr1 the work of James.That he is not",
+    ",1,0,loq,jang,2,0,0"
+  ],
+  "victim_response": [
+    "16: iPhon pr1 the work of James.That he is not",
+    ",1,0,loq,jang,2,0,0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

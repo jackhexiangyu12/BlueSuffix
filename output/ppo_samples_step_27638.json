@@ -1,0 +1,19 @@
+{
+  "step": 27638,
+  "query": [
+    "20626",
+    "20158"
+  ],
+  "response": [
+    ", a woman with a medical problem is not a male or female subject, either",
+    " is emoted (not using the US entity tree name). But the example above"
+  ],
+  "victim_response": [
+    ", a woman with a medical problem is not a male or female subject, either",
+    " is emoted (not using the US entity tree name). But the example above"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

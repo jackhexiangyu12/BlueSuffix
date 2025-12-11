@@ -1,0 +1,19 @@
+{
+  "step": 363,
+  "query": [
+    "20224",
+    "21839"
+  ],
+  "response": [
+    "80 | Geh:5 | Entered Level 5 of Gehenna 101170 |",
+    ",1774,1776,1777,1777,1777,"
+  ],
+  "victim_response": [
+    "80 | Geh:5 | Entered Level 5 of Gehenna 101170 |",
+    ",1774,1776,1777,1777,1777,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

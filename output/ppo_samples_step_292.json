@@ -1,0 +1,19 @@
+{
+  "step": 292,
+  "query": [
+    "21145",
+    "21081"
+  ],
+  "response": [
+    ": Unknown client. [0912] <Cocoon>!important [",
+    ".7268@.net."
+  ],
+  "victim_response": [
+    ": Unknown client. [0912] <Cocoon>!important [",
+    ".7268@.net."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

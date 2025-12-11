@@ -1,0 +1,19 @@
+{
+  "step": 9706,
+  "query": [
+    "21303",
+    "20223"
+  ],
+  "response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " waiting clients (max clients) Time in nan seconds! Intel system bus latency 5"
+  ],
+  "victim_response": [
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    " waiting clients (max clients) Time in nan seconds! Intel system bus latency 5"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

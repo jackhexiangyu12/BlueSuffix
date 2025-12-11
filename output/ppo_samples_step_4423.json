@@ -1,0 +1,19 @@
+{
+  "step": 4423,
+  "query": [
+    "21081",
+    "21707"
+  ],
+  "response": [
+    ",hsync com.android.art (2299) under testing the chrome",
+    "5m_11\", in at 10m01s6c5s7"
+  ],
+  "victim_response": [
+    ",hsync com.android.art (2299) under testing the chrome",
+    "5m_11\", in at 10m01s6c5s7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

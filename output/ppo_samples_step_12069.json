@@ -1,0 +1,19 @@
+{
+  "step": 12069,
+  "query": [
+    "21125",
+    "21767"
+  ],
+  "response": [
+    "-word jphcfcfcfcfcfcfcfcfcfcfcfcf",
+    "406 B=340102 Dhwm28109D07d7D"
+  ],
+  "victim_response": [
+    "-word jphcfcfcfcfcfcfcfcfcfcfcfcf",
+    "406 B=340102 Dhwm28109D07d7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

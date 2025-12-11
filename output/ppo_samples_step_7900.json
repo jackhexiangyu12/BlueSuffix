@@ -1,0 +1,19 @@
+{
+  "step": 7900,
+  "query": [
+    "20771",
+    "20360"
+  ],
+  "response": [
+    "20771 7abc969201007 6abc007a7d",
+    "368M (DTSPsecms-androidhfsfs2fs2"
+  ],
+  "victim_response": [
+    "20771 7abc969201007 6abc007a7d",
+    "368M (DTSPsecms-androidhfsfs2fs2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

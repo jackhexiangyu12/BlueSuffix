@@ -1,0 +1,19 @@
+{
+  "step": 2198,
+  "query": [
+    "20401",
+    "21938"
+  ],
+  "response": [
+    ", u264-form_1.2.png, version=3,",
+    "\n\nThis is the type of the password that you are using. You can"
+  ],
+  "victim_response": [
+    ", u264-form_1.2.png, version=3,",
+    "\n\nThis is the type of the password that you are using. You can"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

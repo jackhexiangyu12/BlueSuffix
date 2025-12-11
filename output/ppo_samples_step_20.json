@@ -1,0 +1,19 @@
+{
+  "step": 20,
+  "query": [
+    "20905",
+    "21546"
+  ],
+  "response": [
+    ".dynamic.elm.de\n\nThe code is under the same",
+    "20-6f1d3-5a6-a1f7"
+  ],
+  "victim_response": [
+    ".dynamic.elm.de\n\nThe code is under the same",
+    "20-6f1d3-5a6-a1f7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

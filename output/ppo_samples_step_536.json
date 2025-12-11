@@ -1,0 +1,19 @@
+{
+  "step": 536,
+  "query": [
+    "20045",
+    "21895"
+  ],
+  "response": [
+    "3799] (D3, 4)\n\nThe first two components of",
+    ".03.13.1195/lib/python3.7.13"
+  ],
+  "victim_response": [
+    "3799] (D3, 4)\n\nThe first two components of",
+    ".03.13.1195/lib/python3.7.13"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

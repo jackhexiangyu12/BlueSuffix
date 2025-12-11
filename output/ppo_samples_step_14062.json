@@ -1,0 +1,19 @@
+{
+  "step": 14062,
+  "query": [
+    "21082",
+    "20934"
+  ],
+  "response": [
+    "D bid0D bid0D bid0D bid0D bid0D",
+    " D miner's central code should be put in the miner's ZFS filesystem node"
+  ],
+  "victim_response": [
+    "D bid0D bid0D bid0D bid0D bid0D",
+    " D miner's central code should be put in the miner's ZFS filesystem node"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

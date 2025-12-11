@@ -1,0 +1,19 @@
+{
+  "step": 12569,
+  "query": [
+    "21900",
+    "21023"
+  ],
+  "response": [
+    "$ HardPiston 3 ball pinewood Pine sugar cane cane sugar cane cane cane",
+    "7167010301015802015802010101000000007015c"
+  ],
+  "victim_response": [
+    "$ HardPiston 3 ball pinewood Pine sugar cane cane sugar cane cane cane",
+    "7167010301015802015802010101000000007015c"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

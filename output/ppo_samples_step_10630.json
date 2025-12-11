@@ -1,0 +1,19 @@
+{
+  "step": 10630,
+  "query": [
+    "21924",
+    "20387"
+  ],
+  "response": [
+    " is an RDD server to serve applications for offline data. The client client,",
+    "A' 7 F 7 D a d d d d d d d d d"
+  ],
+  "victim_response": [
+    " is an RDD server to serve applications for offline data. The client client,",
+    "A' 7 F 7 D a d d d d d d d d d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 2809,
+  "query": [
+    "21652",
+    "21047"
+  ],
+  "response": [
+    "-m1\n\n01. The King of the Time, \"Au",
+    " the text of the most recent book are shown in the table below.\n\n"
+  ],
+  "victim_response": [
+    "-m1\n\n01. The King of the Time, \"Au",
+    " the text of the most recent book are shown in the table below.\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

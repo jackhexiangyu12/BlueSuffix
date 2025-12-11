@@ -1,0 +1,19 @@
+{
+  "step": 16230,
+  "query": [
+    "20593",
+    "20463"
+  ],
+  "response": [
+    " plantwax Wicker F F F F F F F F F F F",
+    " charging d00000000000000 D00000000 D00000000 D00000000 D00000000 D00000000 D00000000"
+  ],
+  "victim_response": [
+    " plantwax Wicker F F F F F F F F F F F",
+    " charging d00000000000000 D00000000 D00000000 D00000000 D00000000 D00000000 D00000000"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3970,
+  "query": [
+    "21909",
+    "21739"
+  ],
+  "response": [
+    "I,\" \"coord_zone\":\"cl\",\"id\":\"3DF70Mk",
+    "47_M0494DCC9791282C2318D8"
+  ],
+  "victim_response": [
+    "I,\" \"coord_zone\":\"cl\",\"id\":\"3DF70Mk",
+    "47_M0494DCC9791282C2318D8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

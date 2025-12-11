@@ -1,0 +1,19 @@
+{
+  "step": 1218,
+  "query": [
+    "20062",
+    "21226"
+  ],
+  "response": [
+    ":0:0:0:0:0:0:0:0",
+    "63.htm\n\n[72] \"ABA & SA: Defining"
+  ],
+  "victim_response": [
+    ":0:0:0:0:0:0:0:0",
+    "63.htm\n\n[72] \"ABA & SA: Defining"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

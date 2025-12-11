@@ -1,0 +1,19 @@
+{
+  "step": 1316,
+  "query": [
+    "20547",
+    "21267"
+  ],
+  "response": [
+    "57 is the Python version of the tini file which is the whole Python version",
+    "7588.\n\nHere's a link to the other article on this subject"
+  ],
+  "victim_response": [
+    "57 is the Python version of the tini file which is the whole Python version",
+    "7588.\n\nHere's a link to the other article on this subject"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

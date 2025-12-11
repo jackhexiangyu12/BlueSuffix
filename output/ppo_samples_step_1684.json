@@ -1,0 +1,19 @@
+{
+  "step": 1684,
+  "query": [
+    "20387",
+    "20120"
+  ],
+  "response": [
+    "362257871942\n\n14000\n\nSubmitted to:",
+    ".00.txt\", \"S-1a1X2_D"
+  ],
+  "victim_response": [
+    "362257871942\n\n14000\n\nSubmitted to:",
+    ".00.txt\", \"S-1a1X2_D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

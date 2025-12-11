@@ -1,0 +1,19 @@
+{
+  "step": 2804,
+  "query": [
+    "20547",
+    "20062"
+  ],
+  "response": [
+    " chis)\n\nGorethe, part of the QA3 for",
+    ") P/M3: N/A P/P1: N/"
+  ],
+  "victim_response": [
+    " chis)\n\nGorethe, part of the QA3 for",
+    ") P/M3: N/A P/P1: N/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

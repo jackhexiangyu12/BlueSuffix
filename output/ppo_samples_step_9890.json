@@ -1,0 +1,19 @@
+{
+  "step": 9890,
+  "query": [
+    "20786",
+    "20887"
+  ],
+  "response": [
+    "F 7ddbfaf9F7D9D7D7D7",
+    "\u6b21\u6174\u6873\ufffd\u30bf\u30eb\u30d5\u30ea\u30cf"
+  ],
+  "victim_response": [
+    "F 7ddbfaf9F7D9D7D7D7",
+    "\u6b21\u6174\u6873\ufffd\u30bf\u30eb\u30d5\u30ea\u30cf"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

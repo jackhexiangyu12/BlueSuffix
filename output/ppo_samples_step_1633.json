@@ -1,0 +1,19 @@
+{
+  "step": 1633,
+  "query": [
+    "20045",
+    "20307"
+  ],
+  "response": [
+    ".c:\n\nxdebugger\n\nxdebugger-0.",
+    "-0\n\nWe are working to remove the power line.\n\nThis"
+  ],
+  "victim_response": [
+    ".c:\n\nxdebugger\n\nxdebugger-0.",
+    "-0\n\nWe are working to remove the power line.\n\nThis"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

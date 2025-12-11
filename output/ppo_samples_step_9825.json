@@ -1,0 +1,19 @@
+{
+  "step": 9825,
+  "query": [
+    "20360",
+    "20559"
+  ],
+  "response": [
+    "/nvidia-vidia-etapk-driver-vidia drivers2 driver",
+    "40512 Dax with access to Reductroot 000D070D1D"
+  ],
+  "victim_response": [
+    "/nvidia-vidia-etapk-driver-vidia drivers2 driver",
+    "40512 Dax with access to Reductroot 000D070D1D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

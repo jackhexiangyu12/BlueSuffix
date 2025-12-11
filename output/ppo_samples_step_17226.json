@@ -1,0 +1,19 @@
+{
+  "step": 17226,
+  "query": [
+    "20047",
+    "20757"
+  ],
+  "response": [
+    " # a pain is a pain dupe #nvidia a pain dupe Renault",
+    " transmitter UFP-D2 Frequency UTP-D7 Frequency regulator"
+  ],
+  "victim_response": [
+    " # a pain is a pain dupe #nvidia a pain dupe Renault",
+    " transmitter UFP-D2 Frequency UTP-D7 Frequency regulator"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14686,
+  "query": [
+    "20612",
+    "21233"
+  ],
+  "response": [
+    " 11 Drexel University Drexel University Drexel University Drexel",
+    " Faxbox2743 IphonemN QCell747 N FCell"
+  ],
+  "victim_response": [
+    " 11 Drexel University Drexel University Drexel University Drexel",
+    " Faxbox2743 IphonemN QCell747 N FCell"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

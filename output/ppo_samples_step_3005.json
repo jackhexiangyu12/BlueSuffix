@@ -1,0 +1,19 @@
+{
+  "step": 3005,
+  "query": [
+    "21796",
+    "21520"
+  ],
+  "response": [
+    "\n\n\"There is no such thing as a 1:1 comparison, or",
+    "3686/1724/cat_ctfd_o_english_"
+  ],
+  "victim_response": [
+    "\n\n\"There is no such thing as a 1:1 comparison, or",
+    "3686/1724/cat_ctfd_o_english_"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

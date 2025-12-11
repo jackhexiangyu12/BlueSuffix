@@ -1,0 +1,19 @@
+{
+  "step": 10689,
+  "query": [
+    "21974",
+    "21085"
+  ],
+  "response": [
+    "121, dfffffeefeefeefeefeefeefeefeefeefeefeefee",
+    " (6) cell sets for the elements and the time code (as per the"
+  ],
+  "victim_response": [
+    "121, dfffffeefeefeefeefeefeefeefeefeefeefeefee",
+    " (6) cell sets for the elements and the time code (as per the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

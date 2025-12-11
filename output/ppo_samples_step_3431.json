@@ -1,0 +1,19 @@
+{
+  "step": 3431,
+  "query": [
+    "21938",
+    "20916"
+  ],
+  "response": [
+    " a R_day m869.0 at i35 topa4.",
+    "N -> (2, 97716) or a:\n\n\na"
+  ],
+  "victim_response": [
+    " a R_day m869.0 at i35 topa4.",
+    "N -> (2, 97716) or a:\n\n\na"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

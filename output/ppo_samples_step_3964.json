@@ -1,0 +1,19 @@
+{
+  "step": 3964,
+  "query": [
+    "21023",
+    "21483"
+  ],
+  "response": [
+    "4074146601 - in isOpBits_A_08 r",
+    "d57c3d33d35d3a7540d7f"
+  ],
+  "victim_response": [
+    "4074146601 - in isOpBits_A_08 r",
+    "d57c3d33d35d3a7540d7f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

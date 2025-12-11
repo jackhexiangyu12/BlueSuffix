@@ -1,0 +1,19 @@
+{
+  "step": 1424,
+  "query": [
+    "21214",
+    "20223"
+  ],
+  "response": [
+    "\" data-type=\"media\" \"browsible\" \"show_inline",
+    ".55 SES-1.1.2.1.0 SES"
+  ],
+  "victim_response": [
+    "\" data-type=\"media\" \"browsible\" \"show_inline",
+    ".55 SES-1.1.2.1.0 SES"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

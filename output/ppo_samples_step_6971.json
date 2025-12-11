@@ -1,0 +1,19 @@
+{
+  "step": 6971,
+  "query": [
+    "20846",
+    "21550"
+  ],
+  "response": [
+    "d8d7d6d7d6d7d6d7",
+    ") (zext=1f53f20d02d5d02"
+  ],
+  "victim_response": [
+    "d8d7d6d7d6d7d6d7",
+    ") (zext=1f53f20d02d5d02"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

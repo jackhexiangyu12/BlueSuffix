@@ -1,0 +1,19 @@
+{
+  "step": 15839,
+  "query": [
+    "21810",
+    "21822"
+  ],
+  "response": [
+    "37D D D D D D D D D D D D D D D",
+    "x patent 3 sisters 3 axes 7 patents 2 patents 7 patents 7 patents 7 patents"
+  ],
+  "victim_response": [
+    "37D D D D D D D D D D D D D D D",
+    "x patent 3 sisters 3 axes 7 patents 2 patents 7 patents 7 patents 7 patents"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

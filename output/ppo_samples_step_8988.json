@@ -1,0 +1,19 @@
+{
+  "step": 8988,
+  "query": [
+    "20155",
+    "20224"
+  ],
+  "response": [
+    "m\", the inner number is a hash of the location of the object within the",
+    "71 Difocier Ghiri Ghiri Ghiri Ghiri Ghiri Gh"
+  ],
+  "victim_response": [
+    "m\", the inner number is a hash of the location of the object within the",
+    "71 Difocier Ghiri Ghiri Ghiri Ghiri Ghiri Gh"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

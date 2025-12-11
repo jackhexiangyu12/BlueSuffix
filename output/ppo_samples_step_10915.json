@@ -1,0 +1,19 @@
+{
+  "step": 10915,
+  "query": [
+    "20030",
+    "20655"
+  ],
+  "response": [
+    "30xxx, it is possible to run a command on the charge of this regulator",
+    "0078708 CCFXBFXBFXFXFXFXFXFXFXFX"
+  ],
+  "victim_response": [
+    "30xxx, it is possible to run a command on the charge of this regulator",
+    "0078708 CCFXBFXBFXFXFXFXFXFXFXFX"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 10486,
+  "query": [
+    "20010",
+    "21845"
+  ],
+  "response": [
+    "N CarLink 10K, 0B7 7Q7 7Q7 7",
+    " d00d0 d00d0 d00d0 d00d0"
+  ],
+  "victim_response": [
+    "N CarLink 10K, 0B7 7Q7 7Q7 7",
+    " d00d0 d00d0 d00d0 d00d0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 1025,
+  "query": [
+    "21023",
+    "21356"
+  ],
+  "response": [
+    ",72,c) and any other mutation would not have been necessary for",
+    "60 /system/driver/system/accelerometer/1/7 -"
+  ],
+  "victim_response": [
+    ",72,c) and any other mutation would not have been necessary for",
+    "60 /system/driver/system/accelerometer/1/7 -"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

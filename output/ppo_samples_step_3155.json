@@ -1,0 +1,19 @@
+{
+  "step": 3155,
+  "query": [
+    "20968",
+    "20993"
+  ],
+  "response": [
+    "d7\" in the article, a URL and an email address to be used",
+    "\n\n20000F00AA18D7D7B2F9"
+  ],
+  "victim_response": [
+    "d7\" in the article, a URL and an email address to be used",
+    "\n\n20000F00AA18D7D7B2F9"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

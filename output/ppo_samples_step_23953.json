@@ -1,0 +1,19 @@
+{
+  "step": 23953,
+  "query": [
+    "21000",
+    "20968"
+  ],
+  "response": [
+    " is an abstract circuit with a set of inputs and outputs.\n\nThe negative",
+    " FF F F F F F F F F F F F F F F"
+  ],
+  "victim_response": [
+    " is an abstract circuit with a set of inputs and outputs.\n\nThe negative",
+    " FF F F F F F F F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

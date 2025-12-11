@@ -1,0 +1,19 @@
+{
+  "step": 8181,
+  "query": [
+    "21377",
+    "20120"
+  ],
+  "response": [
+    "804 DFSC (zip dfsfsfsfsfsfsfsfsfs",
+    "-010D7DDD D D D D D D D D D"
+  ],
+  "victim_response": [
+    "804 DFSC (zip dfsfsfsfsfsfsfsfsfs",
+    "-010D7DDD D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

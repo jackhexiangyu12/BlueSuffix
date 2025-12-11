@@ -1,0 +1,19 @@
+{
+  "step": 15141,
+  "query": [
+    "21924",
+    "20547"
+  ],
+  "response": [
+    "13 market at D774754 table contract 50 D77DBDDBD",
+    "DD DD DD DD DDD DD DD D"
+  ],
+  "victim_response": [
+    "13 market at D774754 table contract 50 D77DBDDBD",
+    "DD DD DD DD DDD DD DD D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

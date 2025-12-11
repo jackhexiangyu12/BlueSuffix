@@ -1,0 +1,19 @@
+{
+  "step": 21104,
+  "query": [
+    "20593",
+    "21900"
+  ],
+  "response": [
+    " lab shift for the last test I was not a lab shift for the last test",
+    " D000 D D D D D D D D D D D D D D"
+  ],
+  "victim_response": [
+    " lab shift for the last test I was not a lab shift for the last test",
+    " D000 D D D D D D D D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

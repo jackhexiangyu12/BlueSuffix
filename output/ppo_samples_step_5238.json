@@ -1,0 +1,19 @@
+{
+  "step": 5238,
+  "query": [
+    "21520",
+    "21672"
+  ],
+  "response": [
+    "Scoop12C1_C9462B8F9FCF",
+    "000 dd62c4f7d25d9d9dfd"
+  ],
+  "victim_response": [
+    "Scoop12C1_C9462B8F9FCF",
+    "000 dd62c4f7d25d9d9dfd"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

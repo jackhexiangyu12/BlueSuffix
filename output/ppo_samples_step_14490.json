@@ -1,0 +1,19 @@
+{
+  "step": 14490,
+  "query": [
+    "21672",
+    "20257"
+  ],
+  "response": [
+    "auauauauauauauauauauauauauauauau",
+    "D plan (experts will get the vision, the gene is a neural network"
+  ],
+  "victim_response": [
+    "auauauauauauauauauauauauauauauau",
+    "D plan (experts will get the vision, the gene is a neural network"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

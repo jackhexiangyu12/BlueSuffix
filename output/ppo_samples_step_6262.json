@@ -1,0 +1,19 @@
+{
+  "step": 6262,
+  "query": [
+    "21356",
+    "21363"
+  ],
+  "response": [
+    "31fdf5d9f7dc75d3fefd8",
+    " you may not be able to join the group unless you have registered in the group"
+  ],
+  "victim_response": [
+    "31fdf5d9f7dc75d3fefd8",
+    " you may not be able to join the group unless you have registered in the group"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

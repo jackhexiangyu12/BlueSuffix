@@ -1,0 +1,19 @@
+{
+  "step": 9373,
+  "query": [
+    "20090",
+    "20223"
+  ],
+  "response": [
+    "800053700370047460027D5 D6D7",
+    "] ChanServFetchedTcp nrq dq nq d"
+  ],
+  "victim_response": [
+    "800053700370047460027D5 D6D7",
+    "] ChanServFetchedTcp nrq dq nq d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4234,
+  "query": [
+    "21418",
+    "21822"
+  ],
+  "response": [
+    "31g\",\"curl_url_large\":31g7m53m",
+    "83-210438671626f4c8c9-0"
+  ],
+  "victim_response": [
+    "31g\",\"curl_url_large\":31g7m53m",
+    "83-210438671626f4c8c9-0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

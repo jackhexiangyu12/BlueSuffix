@@ -1,0 +1,19 @@
+{
+  "step": 14257,
+  "query": [
+    "21634",
+    "20401"
+  ],
+  "response": [
+    " lawyer rice lawyer food\n\nDeterrents, when you're a lawyer",
+    "02D0101D01D01D01D01D01D01"
+  ],
+  "victim_response": [
+    " lawyer rice lawyer food\n\nDeterrents, when you're a lawyer",
+    "02D0101D01D01D01D01D01D01"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

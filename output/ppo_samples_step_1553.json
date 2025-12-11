@@ -1,0 +1,19 @@
+{
+  "step": 1553,
+  "query": [
+    "21547",
+    "20800"
+  ],
+  "response": [
+    ")\n\n\nS-5532A1\n\nOK, where is",
+    ",06615,0,0,0,0,0,0"
+  ],
+  "victim_response": [
+    ")\n\n\nS-5532A1\n\nOK, where is",
+    ",06615,0,0,0,0,0,0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

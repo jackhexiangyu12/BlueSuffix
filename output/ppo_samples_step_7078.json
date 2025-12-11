@@ -1,0 +1,19 @@
+{
+  "step": 7078,
+  "query": [
+    "21191",
+    "21291"
+  ],
+  "response": [
+    ": network payers (2 network payouts) are coming to one network network",
+    "dccdcccccccccccccccccccccccccc"
+  ],
+  "victim_response": [
+    ": network payers (2 network payouts) are coming to one network network",
+    "dccdcccccccccccccccccccccccccc"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

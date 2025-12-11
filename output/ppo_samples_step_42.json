@@ -1,0 +1,19 @@
+{
+  "step": 42,
+  "query": [
+    "20670",
+    "21652"
+  ],
+  "response": [
+    ".\n\n\"We are a small business, but we can also do something",
+    "\nI'm a big fan of the Dark side. If you ever want to"
+  ],
+  "victim_response": [
+    ".\n\n\"We are a small business, but we can also do something",
+    "\nI'm a big fan of the Dark side. If you ever want to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

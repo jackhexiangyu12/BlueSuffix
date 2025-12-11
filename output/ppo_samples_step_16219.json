@@ -1,0 +1,19 @@
+{
+  "step": 16219,
+  "query": [
+    "20223",
+    "21041"
+  ],
+  "response": [
+    "\" d d d d d d d d d d d d d d d",
+    "-5 dementia typeD would not constitute a debilitating state of dementiaD would not"
+  ],
+  "victim_response": [
+    "\" d d d d d d d d d d d d d d d",
+    "-5 dementia typeD would not constitute a debilitating state of dementiaD would not"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

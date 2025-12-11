@@ -1,0 +1,19 @@
+{
+  "step": 20220,
+  "query": [
+    "21739",
+    "21760"
+  ],
+  "response": [
+    " Diabetes will be a key part of the trial, but he says it will be",
+    " H H N N N N N N N N N N N N N N"
+  ],
+  "victim_response": [
+    " Diabetes will be a key part of the trial, but he says it will be",
+    " H H N N N N N N N N N N N N N N"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

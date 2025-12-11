@@ -1,0 +1,19 @@
+{
+  "step": 15164,
+  "query": [
+    "21191",
+    "20626"
+  ],
+  "response": [
+    " of N7 D7 D7 D7 D7 D7 D7 D",
+    "-7 cell CB801 D801 D801 D801 D801 D801 D"
+  ],
+  "victim_response": [
+    " of N7 D7 D7 D7 D7 D7 D7 D",
+    "-7 cell CB801 D801 D801 D801 D801 D801 D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

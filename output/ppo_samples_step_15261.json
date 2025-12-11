@@ -1,0 +1,19 @@
+{
+  "step": 15261,
+  "query": [
+    "20144",
+    "21418"
+  ],
+  "response": [
+    "015 dD D Head dD D D D D D D D D D",
+    "472 Driver information the vulnerability QSharedDriver Abn Remotesched DLL"
+  ],
+  "victim_response": [
+    "015 dD D Head dD D D D D D D D D D",
+    "472 Driver information the vulnerability QSharedDriver Abn Remotesched DLL"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

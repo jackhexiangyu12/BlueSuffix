@@ -1,0 +1,19 @@
+{
+  "step": 10018,
+  "query": [
+    "20252",
+    "20223"
+  ],
+  "response": [
+    "240 system is done, the phone was used for no control. Android phone had",
+    "-018542 has a lower priority than a 9756010D7F"
+  ],
+  "victim_response": [
+    "240 system is done, the phone was used for no control. Android phone had",
+    "-018542 has a lower priority than a 9756010D7F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

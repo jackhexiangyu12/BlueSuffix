@@ -1,0 +1,19 @@
+{
+  "step": 8161,
+  "query": [
+    "21822",
+    "20374"
+  ],
+  "response": [
+    "Short bladecibc 03 00 00 00 00 00 00 00 00 00 00",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "victim_response": [
+    "Short bladecibc 03 00 00 00 00 00 00 00 00 00 00",
+    "DDDDDDDDDDDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

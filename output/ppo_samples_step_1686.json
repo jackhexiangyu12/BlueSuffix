@@ -1,0 +1,19 @@
+{
+  "step": 1686,
+  "query": [
+    "21520",
+    "21047"
+  ],
+  "response": [
+    ".html\n\nhttp://www.silk.org/leng/",
+    "-10-Ueno-Crescent-of-Jasari-2"
+  ],
+  "victim_response": [
+    ".html\n\nhttp://www.silk.org/leng/",
+    "-10-Ueno-Crescent-of-Jasari-2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 3721,
+  "query": [
+    "20757",
+    "21226"
+  ],
+  "response": [
+    "Hook file is not the same as the original file.\n\"The Att",
+    "00_7805_t277470d3400_0b6"
+  ],
+  "victim_response": [
+    "Hook file is not the same as the original file.\n\"The Att",
+    "00_7805_t277470d3400_0b6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

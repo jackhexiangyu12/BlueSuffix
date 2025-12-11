@@ -1,0 +1,19 @@
+{
+  "step": 22089,
+  "query": [
+    "20040",
+    "20653"
+  ],
+  "response": [
+    " is the computer's global telecommunications provider Gopher Communications Inc. gopher communications company",
+    "a d n n p p d f f f n p d n p p"
+  ],
+  "victim_response": [
+    " is the computer's global telecommunications provider Gopher Communications Inc. gopher communications company",
+    "a d n n p p d f f f n p d n p p"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

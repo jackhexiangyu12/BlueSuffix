@@ -1,0 +1,19 @@
+{
+  "step": 17854,
+  "query": [
+    "20905",
+    "20144"
+  ],
+  "response": [
+    "76 chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " Chem0feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "victim_response": [
+    "76 chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " Chem0feefeefeefeefeefeefeefeefeefeefeefeefeefee"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

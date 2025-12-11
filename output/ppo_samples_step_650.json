@@ -1,0 +1,19 @@
+{
+  "step": 650,
+  "query": [
+    "20281",
+    "20836"
+  ],
+  "response": [
+    "\\system_size_22.92495\", \"isSpecialOrderable\" : \"",
+    "). In this case, the data is collected from the same place as the individual"
+  ],
+  "victim_response": [
+    "\\system_size_22.92495\", \"isSpecialOrderable\" : \"",
+    "). In this case, the data is collected from the same place as the individual"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

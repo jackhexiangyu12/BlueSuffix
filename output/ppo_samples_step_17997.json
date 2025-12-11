@@ -1,0 +1,19 @@
+{
+  "step": 17997,
+  "query": [
+    "21547",
+    "21984"
+  ],
+  "response": [
+    " D D Parkinson chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " k atomic car car car battery car car car car car car car car car car"
+  ],
+  "victim_response": [
+    " D D Parkinson chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " k atomic car car car battery car car car car car car car car car car"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

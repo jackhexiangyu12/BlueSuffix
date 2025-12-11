@@ -1,0 +1,19 @@
+{
+  "step": 2218,
+  "query": [
+    "20463",
+    "20908"
+  ],
+  "response": [
+    "\n\nEx-coupon.com\n\nNo, you cannot add",
+    ".04.c.e\" \"notes\" \"X\" \"Moz"
+  ],
+  "victim_response": [
+    "\n\nEx-coupon.com\n\nNo, you cannot add",
+    ".04.c.e\" \"notes\" \"X\" \"Moz"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

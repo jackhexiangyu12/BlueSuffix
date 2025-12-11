@@ -1,0 +1,19 @@
+{
+  "step": 4129,
+  "query": [
+    "21185",
+    "21822"
+  ],
+  "response": [
+    "e4b5b35a26c9d0f1d70",
+    "c5fe5d9f5d67d946d7b"
+  ],
+  "victim_response": [
+    "e4b5b35a26c9d0f1d70",
+    "c5fe5d9f5d67d946d7b"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

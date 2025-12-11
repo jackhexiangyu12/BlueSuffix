@@ -1,0 +1,19 @@
+{
+  "step": 1426,
+  "query": [
+    "21796",
+    "20138"
+  ],
+  "response": [
+    " 3.85 8.65 6.1 7.0 0 1 1 1",
+    ", the NN of \"the largest offshore offshore company\" of the \"largest"
+  ],
+  "victim_response": [
+    " 3.85 8.65 6.1 7.0 0 1 1 1",
+    ", the NN of \"the largest offshore offshore company\" of the \"largest"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

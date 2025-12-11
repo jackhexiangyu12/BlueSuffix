@@ -1,0 +1,19 @@
+{
+  "step": 1835,
+  "query": [
+    "21303",
+    "21984"
+  ],
+  "response": [
+    ".\n\nModel: \"CC1_S__N\".\n\n",
+    "-62728-619-863-1_prntp"
+  ],
+  "victim_response": [
+    ".\n\nModel: \"CC1_S__N\".\n\n",
+    "-62728-619-863-1_prntp"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

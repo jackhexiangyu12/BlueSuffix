@@ -1,0 +1,19 @@
+{
+  "step": 16218,
+  "query": [
+    "20245",
+    "20934"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    " patent E767DCDDC Z driver row Z07 D19DDC"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    " patent E767DCDDC Z driver row Z07 D19DDC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

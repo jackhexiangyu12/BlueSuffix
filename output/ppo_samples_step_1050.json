@@ -1,0 +1,19 @@
+{
+  "step": 1050,
+  "query": [
+    "21692",
+    "20887"
+  ],
+  "response": [
+    "] [Spine] [Fire] [Fire] [Fire] [Fire",
+    " (100.0.0.0:9:9) [01:"
+  ],
+  "victim_response": [
+    "] [Spine] [Fire] [Fire] [Fire] [Fire",
+    " (100.0.0.0:9:9) [01:"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

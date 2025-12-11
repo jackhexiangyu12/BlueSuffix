@@ -1,0 +1,19 @@
+{
+  "step": 14815,
+  "query": [
+    "21047",
+    "20282"
+  ],
+  "response": [
+    "D DD Dup DD D Dup Dup Dup Dup Dup Dup Dup Dup Dup",
+    " host cells, the IISISP cells have a large protein expression pathway which"
+  ],
+  "victim_response": [
+    "D DD Dup DD D Dup Dup Dup Dup Dup Dup Dup Dup Dup",
+    " host cells, the IISISP cells have a large protein expression pathway which"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

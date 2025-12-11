@@ -1,0 +1,19 @@
+{
+  "step": 48,
+  "query": [
+    "20463",
+    "21232"
+  ],
+  "response": [
+    "] Warning: Warning, Failed to load 'SwfMovie Loader.cpp",
+    "/The_Bash_In_Laugh_Her_All_Is"
+  ],
+  "victim_response": [
+    "] Warning: Warning, Failed to load 'SwfMovie Loader.cpp",
+    "/The_Bash_In_Laugh_Her_All_Is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

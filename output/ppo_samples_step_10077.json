@@ -1,0 +1,19 @@
+{
+  "step": 10077,
+  "query": [
+    "21543",
+    "20106"
+  ],
+  "response": [
+    "0102ofaucomntpykauauauauauauauau",
+    " pernsamu\u00f0 dau\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0"
+  ],
+  "victim_response": [
+    "0102ofaucomntpykauauauauauauauau",
+    " pernsamu\u00f0 dau\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0\u00f0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 13978,
+  "query": [
+    "20504",
+    "21023"
+  ],
+  "response": [
+    "D D D D D D D D D D D D D D D D",
+    "/ workdir C sleepdir program C sleepdir SleepDSleep SleepSleepSleep"
+  ],
+  "victim_response": [
+    "D D D D D D D D D D D D D D D D",
+    "/ workdir C sleepdir program C sleepdir SleepDSleep SleepSleepSleep"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

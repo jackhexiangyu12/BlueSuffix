@@ -1,0 +1,19 @@
+{
+  "step": 1020,
+  "query": [
+    "21652",
+    "21739"
+  ],
+  "response": [
+    ": ## I like to play that as a problem: #1:h1",
+    ",0 0, 0, 0, 0, 0, 0, 0,"
+  ],
+  "victim_response": [
+    ": ## I like to play that as a problem: #1:h1",
+    ",0 0, 0, 0, 0, 0, 0, 0,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

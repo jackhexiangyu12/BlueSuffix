@@ -1,0 +1,19 @@
+{
+  "step": 11650,
+  "query": [
+    "21546",
+    "21938"
+  ],
+  "response": [
+    " dmx trace weak miner teh mn verm03 mn03 m",
+    "a1a02d7d0d7d7d7d7"
+  ],
+  "victim_response": [
+    " dmx trace weak miner teh mn verm03 mn03 m",
+    "a1a02d7d0d7d7d7d7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

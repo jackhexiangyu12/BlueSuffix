@@ -1,0 +1,19 @@
+{
+  "step": 21844,
+  "query": [
+    "21709",
+    "21082"
+  ],
+  "response": [
+    "09090909090909090909090909090909",
+    " had a warning message beginning the Cell Phy to be tested on the patient in"
+  ],
+  "victim_response": [
+    "09090909090909090909090909090909",
+    " had a warning message beginning the Cell Phy to be tested on the patient in"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

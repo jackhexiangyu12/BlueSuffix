@@ -1,0 +1,19 @@
+{
+  "step": 35,
+  "query": [
+    "21781",
+    "20411"
+  ],
+  "response": [
+    "] ScriptLog: Friend Readiness: Addons' Market (0009E",
+    "58302857366469406564697414658528"
+  ],
+  "victim_response": [
+    "] ScriptLog: Friend Readiness: Addons' Market (0009E",
+    "58302857366469406564697414658528"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

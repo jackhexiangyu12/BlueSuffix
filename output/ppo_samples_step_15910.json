@@ -1,0 +1,19 @@
+{
+  "step": 15910,
+  "query": [
+    "20403",
+    "21634"
+  ],
+  "response": [
+    " dfs1 D DfsDfs Dfs Dfs Dfs Dfs",
+    " Erza Erza Prensa, Prensa Erza Prensa"
+  ],
+  "victim_response": [
+    " dfs1 D DfsDfs Dfs Dfs Dfs Dfs",
+    " Erza Erza Prensa, Prensa Erza Prensa"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

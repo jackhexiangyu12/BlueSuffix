@@ -1,0 +1,19 @@
+{
+  "step": 1921,
+  "query": [
+    "20762",
+    "21672"
+  ],
+  "response": [
+    " -- L0 M0 /D2\n\n1.2975 $0",
+    ",543/Bathroom,1 \"L\"Gnome."
+  ],
+  "victim_response": [
+    " -- L0 M0 /D2\n\n1.2975 $0",
+    ",543/Bathroom,1 \"L\"Gnome."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

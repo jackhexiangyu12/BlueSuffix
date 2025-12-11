@@ -1,0 +1,19 @@
+{
+  "step": 3459,
+  "query": [
+    "20418",
+    "21023"
+  ],
+  "response": [
+    "90a015d2eb8e9f4f5d5",
+    "\" \"cheese\" \"B46\"\n\nZap: \"6"
+  ],
+  "victim_response": [
+    "90a015d2eb8e9f4f5d5",
+    "\" \"cheese\" \"B46\"\n\nZap: \"6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

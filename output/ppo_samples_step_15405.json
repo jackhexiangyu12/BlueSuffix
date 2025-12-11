@@ -1,0 +1,19 @@
+{
+  "step": 15405,
+  "query": [
+    "20192",
+    "20871"
+  ],
+  "response": [
+    "'s \"Chrome Page\" found itself in the top of the box label.",
+    " Darched Chowdh Pulsar Djan Pulsar R Djan P"
+  ],
+  "victim_response": [
+    "'s \"Chrome Page\" found itself in the top of the box label.",
+    " Darched Chowdh Pulsar Djan Pulsar R Djan P"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

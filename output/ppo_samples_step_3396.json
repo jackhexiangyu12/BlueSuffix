@@ -1,0 +1,19 @@
+{
+  "step": 3396,
+  "query": [
+    "21085",
+    "21845"
+  ],
+  "response": [
+    " L2, LGR18, LGC5, LGD30, LG",
+    "81\u00b4, in the context of the driver, the same animal as in the"
+  ],
+  "victim_response": [
+    " L2, LGR18, LGC5, LGD30, LG",
+    "81\u00b4, in the context of the driver, the same animal as in the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

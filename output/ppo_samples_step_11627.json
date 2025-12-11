@@ -1,0 +1,19 @@
+{
+  "step": 11627,
+  "query": [
+    "21406",
+    "21303"
+  ],
+  "response": [
+    "7 24077-270772727 07727727 07",
+    " Hash hash SHA2 hash hash hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "victim_response": [
+    "7 24077-270772727 07727727 07",
+    " Hash hash SHA2 hash hash hash hash hash hash hash hash hash hash hash hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

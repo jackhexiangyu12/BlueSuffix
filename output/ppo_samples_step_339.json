@@ -1,0 +1,19 @@
+{
+  "step": 339,
+  "query": [
+    "20846",
+    "21214"
+  ],
+  "response": [
+    " -0x01 -0x01 -0x02 -0x03",
+    "\n\n\nA:\n\n\nBut don't do it.\n\n"
+  ],
+  "victim_response": [
+    " -0x01 -0x01 -0x02 -0x03",
+    "\n\n\nA:\n\n\nBut don't do it.\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

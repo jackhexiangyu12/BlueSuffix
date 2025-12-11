@@ -1,0 +1,19 @@
+{
+  "step": 6912,
+  "query": [
+    "21441",
+    "20224"
+  ],
+  "response": [
+    "_nuzzle01\", \"http://www.netflix.com/drugs",
+    "72d2d7d7d7d7d7d7d"
+  ],
+  "victim_response": [
+    "_nuzzle01\", \"http://www.netflix.com/drugs",
+    "72d2d7d7d7d7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

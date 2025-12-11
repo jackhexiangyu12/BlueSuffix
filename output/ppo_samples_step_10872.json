@@ -1,0 +1,19 @@
+{
+  "step": 10872,
+  "query": [
+    "20295",
+    "20846"
+  ],
+  "response": [
+    " The patient is 10-15 years old, and has the same name as the",
+    "D Daltman DaltmanD DaltmanDaltmanD D"
+  ],
+  "victim_response": [
+    " The patient is 10-15 years old, and has the same name as the",
+    "D Daltman DaltmanD DaltmanDaltmanD D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

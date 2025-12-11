@@ -1,0 +1,19 @@
+{
+  "step": 455,
+  "query": [
+    "20245",
+    "21974"
+  ],
+  "response": [
+    ",0,0,1 mir = 1,1,1 istg = 0",
+    "21) from RandomRedditorWithNo at 2016-02-14:47:19.45"
+  ],
+  "victim_response": [
+    ",0,0,1 mir = 1,1,1 istg = 0",
+    "21) from RandomRedditorWithNo at 2016-02-14:47:19.45"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

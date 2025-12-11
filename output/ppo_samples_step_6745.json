@@ -1,0 +1,19 @@
+{
+  "step": 6745,
+  "query": [
+    "20192",
+    "21288"
+  ],
+  "response": [
+    ",023 bytes (203 file max) today downloaded password hewid7",
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "victim_response": [
+    ",023 bytes (203 file max) today downloaded password hewid7",
+    "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 4553,
+  "query": [
+    "21418",
+    "21658"
+  ],
+  "response": [
+    "\" price = \"487900\" spk_ch1_say =",
+    "\\uat alang.dll 360151 \"DMARt D"
+  ],
+  "victim_response": [
+    "\" price = \"487900\" spk_ch1_say =",
+    "\\uat alang.dll 360151 \"DMARt D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

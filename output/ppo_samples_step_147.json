@@ -1,0 +1,19 @@
+{
+  "step": 147,
+  "query": [
+    "20533",
+    "20583"
+  ],
+  "response": [
+    ".jpg\n\nSo, it's hard to say that you're not a",
+    "F5|0x8000000000800003C0C0A"
+  ],
+  "victim_response": [
+    ".jpg\n\nSo, it's hard to say that you're not a",
+    "F5|0x8000000000800003C0C0A"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

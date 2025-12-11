@@ -1,0 +1,19 @@
+{
+  "step": 14518,
+  "query": [
+    "20245",
+    "21000"
+  ],
+  "response": [
+    "79\":\"1D7F7D7D7D7D7D",
+    " ChromaLabs Phosphate dimethyl phosphosphalparide sulfoxide"
+  ],
+  "victim_response": [
+    "79\":\"1D7F7D7D7D7D7D",
+    " ChromaLabs Phosphate dimethyl phosphosphalparide sulfoxide"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

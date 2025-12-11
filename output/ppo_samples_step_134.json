@@ -1,0 +1,19 @@
+{
+  "step": 134,
+  "query": [
+    "21145",
+    "21185"
+  ],
+  "response": [
+    "::73:100:431:0000004a:03:00:",
+    "\n\n(1) The number of persons with whom the Department of Social Security"
+  ],
+  "victim_response": [
+    "::73:100:431:0000004a:03:00:",
+    "\n\n(1) The number of persons with whom the Department of Social Security"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

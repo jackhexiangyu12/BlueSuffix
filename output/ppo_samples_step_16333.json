@@ -1,0 +1,19 @@
+{
+  "step": 16333,
+  "query": [
+    "20593",
+    "20968"
+  ],
+  "response": [
+    "75D D D D D D D D D D D D D D D",
+    " f dim sunstar cell f d f h h f m d d d f"
+  ],
+  "victim_response": [
+    "75D D D D D D D D D D D D D D D",
+    " f dim sunstar cell f d f h h f m d d d f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

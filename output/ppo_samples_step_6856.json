@@ -1,0 +1,19 @@
+{
+  "step": 6856,
+  "query": [
+    "21707",
+    "20670"
+  ],
+  "response": [
+    "9975C7A8D9DDFDFDFDDFDFDF",
+    ") set the reset period on the video is on. The video is over,"
+  ],
+  "victim_response": [
+    "9975C7A8D9DDFDFDFDDFDFDF",
+    ") set the reset period on the video is on. The video is over,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

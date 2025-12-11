@@ -1,0 +1,19 @@
+{
+  "step": 8962,
+  "query": [
+    "21041",
+    "21550"
+  ],
+  "response": [
+    "xxx (Link), Intel Processor driver Intel GPU vendor Intel GPU chips Intel chipset ATI",
+    " frequency price 10pp frequency Hax frequency Hax frequency Hax frequency Hax"
+  ],
+  "victim_response": [
+    "xxx (Link), Intel Processor driver Intel GPU vendor Intel GPU chips Intel chipset ATI",
+    " frequency price 10pp frequency Hax frequency Hax frequency Hax frequency Hax"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

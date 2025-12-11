@@ -1,0 +1,19 @@
+{
+  "step": 17500,
+  "query": [
+    "21393",
+    "21845"
+  ],
+  "response": [
+    "147 en 7 tried the noise modification c b f d d d d d d",
+    " CqqqDqqqqqqqqqqq"
+  ],
+  "victim_response": [
+    "147 en 7 tried the noise modification c b f d d d d d d",
+    " CqqqDqqqqqqqqqqq"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

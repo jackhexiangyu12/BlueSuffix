@@ -1,0 +1,19 @@
+{
+  "step": 1991,
+  "query": [
+    "20612",
+    "20030"
+  ],
+  "response": [
+    ") is also a\n\nunknown (C-3R-TVF,",
+    ".00 / 0.00 0.00 2.00 0.00 3"
+  ],
+  "victim_response": [
+    ") is also a\n\nunknown (C-3R-TVF,",
+    ".00 / 0.00 0.00 2.00 0.00 3"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

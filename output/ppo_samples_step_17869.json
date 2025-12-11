@@ -1,0 +1,19 @@
+{
+  "step": 17869,
+  "query": [
+    "20224",
+    "20106"
+  ],
+  "response": [
+    "6666 Fib N cell D cell D cell D cell D cell cell cell cell cell",
+    "0107 WQ charging d7D7D7D7D7D"
+  ],
+  "victim_response": [
+    "6666 Fib N cell D cell D cell D cell D cell cell cell cell cell",
+    "0107 WQ charging d7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

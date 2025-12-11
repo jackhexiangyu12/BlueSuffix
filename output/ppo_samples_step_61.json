@@ -1,0 +1,19 @@
+{
+  "step": 61,
+  "query": [
+    "21692",
+    "21839"
+  ],
+  "response": [
+    ") from Smartstocks at 2016-04-16-14 14:38:46",
+    "] [Client thread/INFO] [STDOUT] Attempting to assign bucket to"
+  ],
+  "victim_response": [
+    ") from Smartstocks at 2016-04-16-14 14:38:46",
+    "] [Client thread/INFO] [STDOUT] Attempting to assign bucket to"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 361,
+  "query": [
+    "21796",
+    "21974"
+  ],
+  "response": [
+    "5 7.0.0/32.0.0.0.0",
+    " (7.3)\n\nFormerly named \"Ree's Brother\""
+  ],
+  "victim_response": [
+    "5 7.0.0/32.0.0.0.0",
+    " (7.3)\n\nFormerly named \"Ree's Brother\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

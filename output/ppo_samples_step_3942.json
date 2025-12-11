@@ -1,0 +1,19 @@
+{
+  "step": 3942,
+  "query": [
+    "20653",
+    "21185"
+  ],
+  "response": [
+    ".1 (COMPNP): SharpForce\n\nSarasu meut",
+    "|VN 7726BS5A|Glavki,en,cn"
+  ],
+  "victim_response": [
+    ".1 (COMPNP): SharpForce\n\nSarasu meut",
+    "|VN 7726BS5A|Glavki,en,cn"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

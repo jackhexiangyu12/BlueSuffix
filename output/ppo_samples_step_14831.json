@@ -1,0 +1,19 @@
+{
+  "step": 14831,
+  "query": [
+    "21810",
+    "20257"
+  ],
+  "response": [
+    "24 DNS CerfatureRing ND Driver name optional non auto veil wap",
+    "0102 74107077 77 7D7D7D7D"
+  ],
+  "victim_response": [
+    "24 DNS CerfatureRing ND Driver name optional non auto veil wap",
+    "0102 74107077 77 7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

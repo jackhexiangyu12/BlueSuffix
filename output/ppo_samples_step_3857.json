@@ -1,0 +1,19 @@
+{
+  "step": 3857,
+  "query": [
+    "20010",
+    "21023"
+  ],
+  "response": [
+    "C5 (tagged version of six) was first to release in the game",
+    "_0 LED_B\"\nR7G, \"P0\","
+  ],
+  "victim_response": [
+    "C5 (tagged version of six) was first to release in the game",
+    "_0 LED_B\"\nR7G, \"P0\","
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

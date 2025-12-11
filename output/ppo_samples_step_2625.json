@@ -1,0 +1,19 @@
+{
+  "step": 2625,
+  "query": [
+    "20090",
+    "20307"
+  ],
+  "response": [
+    "45;.+ G_HEATAT_RZN_ATT_",
+    "-1.pileset.prodccid8"
+  ],
+  "victim_response": [
+    "45;.+ G_HEATAT_RZN_ATT_",
+    "-1.pileset.prodccid8"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

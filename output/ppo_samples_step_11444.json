@@ -1,0 +1,19 @@
+{
+  "step": 11444,
+  "query": [
+    "21232",
+    "20000"
+  ],
+  "response": [
+    " Double\n\n8 3x 9x 5x 21 Red X Trim cell",
+    ".79019 d7d7d7D7D7D7D"
+  ],
+  "victim_response": [
+    " Double\n\n8 3x 9x 5x 21 Red X Trim cell",
+    ".79019 d7d7d7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

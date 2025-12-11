@@ -1,0 +1,19 @@
+{
+  "step": 2903,
+  "query": [
+    "20295",
+    "21547"
+  ],
+  "response": [
+    "66,id=16651268,Id=64371688,",
+    "3537\n\nD2:10.0\n\nReserved\n\n"
+  ],
+  "victim_response": [
+    "66,id=16651268,Id=64371688,",
+    "3537\n\nD2:10.0\n\nReserved\n\n"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

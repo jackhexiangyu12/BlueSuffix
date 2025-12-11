@@ -1,0 +1,19 @@
+{
+  "step": 11916,
+  "query": [
+    "20497",
+    "21925"
+  ],
+  "response": [
+    "887D1D725755D7D7D7D7D7",
+    " is a unRDA compliant modem. A \"motorr\" is the"
+  ],
+  "victim_response": [
+    "887D1D725755D7D7D7D7D7",
+    " is a unRDA compliant modem. A \"motorr\" is the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

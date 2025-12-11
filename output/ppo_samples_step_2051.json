@@ -1,0 +1,19 @@
+{
+  "step": 2051,
+  "query": [
+    "21483",
+    "21418"
+  ],
+  "response": [
+    "_14898c6d8b7e2f7d7",
+    ".2017: at-route, at-route_type=1, at"
+  ],
+  "victim_response": [
+    "_14898c6d8b7e2f7d7",
+    ".2017: at-route, at-route_type=1, at"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

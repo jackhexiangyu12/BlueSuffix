@@ -1,0 +1,19 @@
+{
+  "step": 4952,
+  "query": [
+    "20648",
+    "20387"
+  ],
+  "response": [
+    "016 (909389020009080d8408d7f",
+    ".h> / linux-video-glava-smp1-6"
+  ],
+  "victim_response": [
+    "016 (909389020009080d8408d7f",
+    ".h> / linux-video-glava-smp1-6"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

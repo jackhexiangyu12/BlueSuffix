@@ -1,0 +1,19 @@
+{
+  "step": 13357,
+  "query": [
+    "20360",
+    "21441"
+  ],
+  "response": [
+    "ms Nrow Slab Slab Plowed Slab Slab Slab Sl",
+    "-mni cell cell carcinogen cell carcinogen cell carcinogen cell carcinogen"
+  ],
+  "victim_response": [
+    "ms Nrow Slab Slab Plowed Slab Slab Slab Sl",
+    "-mni cell cell carcinogen cell carcinogen cell carcinogen cell carcinogen"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

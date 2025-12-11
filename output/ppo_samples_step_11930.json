@@ -1,0 +1,19 @@
+{
+  "step": 11930,
+  "query": [
+    "20626",
+    "21938"
+  ],
+  "response": [
+    ",737 497703ffff 0000714077 mov q1 00aq",
+    "bn hit the webau https://www.bla.com/is/"
+  ],
+  "victim_response": [
+    ",737 497703ffff 0000714077 mov q1 00aq",
+    "bn hit the webau https://www.bla.com/is/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

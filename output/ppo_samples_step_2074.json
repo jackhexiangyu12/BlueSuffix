@@ -1,0 +1,19 @@
+{
+  "step": 2074,
+  "query": [
+    "20993",
+    "21000"
+  ],
+  "response": [
+    "E5AE-A903-9D3-93B-9",
+    "/full\n\nrepkg,baker=2.4.4."
+  ],
+  "victim_response": [
+    "E5AE-A903-9D3-93B-9",
+    "/full\n\nrepkg,baker=2.4.4."
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

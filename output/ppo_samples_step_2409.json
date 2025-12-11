@@ -1,0 +1,19 @@
+{
+  "step": 2409,
+  "query": [
+    "20138",
+    "21739"
+  ],
+  "response": [
+    "_Src_Src_I -> rn_hello, rn",
+    "][0:20395323, C3.7438272774"
+  ],
+  "victim_response": [
+    "_Src_Src_I -> rn_hello, rn",
+    "][0:20395323, C3.7438272774"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

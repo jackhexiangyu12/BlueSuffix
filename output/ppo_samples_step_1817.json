@@ -1,0 +1,19 @@
+{
+  "step": 1817,
+  "query": [
+    "20887",
+    "21181"
+  ],
+  "response": [
+    ".com-cdn.jpeg (153140740)\n\nhttp",
+    "-f818.02.05-24 (adc on file),"
+  ],
+  "victim_response": [
+    ".com-cdn.jpeg (153140740)\n\nhttp",
+    "-f818.02.05-24 (adc on file),"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

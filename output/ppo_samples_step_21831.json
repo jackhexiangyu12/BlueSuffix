@@ -1,0 +1,19 @@
+{
+  "step": 21831,
+  "query": [
+    "20120",
+    "20786"
+  ],
+  "response": [
+    "' a class one may be a poster class a poster class one could be a",
+    " is a program to protect the public servant by imposing penalties on those who harm the"
+  ],
+  "victim_response": [
+    "' a class one may be a poster class a poster class one could be a",
+    " is a program to protect the public servant by imposing penalties on those who harm the"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

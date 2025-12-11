@@ -1,0 +1,19 @@
+{
+  "step": 5395,
+  "query": [
+    "20090",
+    "20612"
+  ],
+  "response": [
+    "90. http://www.netflix.com/oicede/ The Science",
+    "0000_425DCTale_13ThePacific_1f2f"
+  ],
+  "victim_response": [
+    "90. http://www.netflix.com/oicede/ The Science",
+    "0000_425DCTale_13ThePacific_1f2f"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

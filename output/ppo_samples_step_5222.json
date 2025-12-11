@@ -1,0 +1,19 @@
+{
+  "step": 5222,
+  "query": [
+    "21707",
+    "20812"
+  ],
+  "response": [
+    "0 md5_fs 0f79d8d4f7d7",
+    "952, D 67db19b8d7a8c2"
+  ],
+  "victim_response": [
+    "0 md5_fs 0f79d8d4f7d7",
+    "952, D 67db19b8d7a8c2"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

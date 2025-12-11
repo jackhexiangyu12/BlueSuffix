@@ -1,0 +1,19 @@
+{
+  "step": 3905,
+  "query": [
+    "20547",
+    "20252"
+  ],
+  "response": [
+    "982b7e880cc8d9cc8ccc87",
+    ".p is a group name, and the terms \"The Bees\" and \""
+  ],
+  "victim_response": [
+    "982b7e880cc8d9cc8ccc87",
+    ".p is a group name, and the terms \"The Bees\" and \""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

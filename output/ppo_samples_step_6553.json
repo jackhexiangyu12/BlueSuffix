@@ -1,0 +1,19 @@
+{
+  "step": 6553,
+  "query": [
+    "21620",
+    "20266"
+  ],
+  "response": [
+    "\" appmsqdex3m7cm3sm\", \"",
+    "7577\", \"numberh5DRLDRLDRLDDDDDD"
+  ],
+  "victim_response": [
+    "\" appmsqdex3m7cm3sm\", \"",
+    "7577\", \"numberh5DRLDRLDRLDDDDDD"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

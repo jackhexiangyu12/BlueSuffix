@@ -1,0 +1,19 @@
+{
+  "step": 2880,
+  "query": [
+    "20047",
+    "20062"
+  ],
+  "response": [
+    "\n\noriginal_id 0f4b8d0 \"R3D",
+    "\" wiki has been used so far.\n\nThe Wikipedia list of \"ge"
+  ],
+  "victim_response": [
+    "\n\noriginal_id 0f4b8d0 \"R3D",
+    "\" wiki has been used so far.\n\nThe Wikipedia list of \"ge"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

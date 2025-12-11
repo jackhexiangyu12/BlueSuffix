@@ -1,0 +1,19 @@
+{
+  "step": 2580,
+  "query": [
+    "21000",
+    "21406"
+  ],
+  "response": [
+    "]00d...000 -3.3: 0 fffff:c66",
+    "87fa1d0\n\nsema rodean_fahl"
+  ],
+  "victim_response": [
+    "]00d...000 -3.3: 0 fffff:c66",
+    "87fa1d0\n\nsema rodean_fahl"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 14171,
+  "query": [
+    "21269",
+    "21418"
+  ],
+  "response": [
+    "0201000000007000000007000000007000000007000000007000000007000000007",
+    "Feb7 damage pay4 maxDamage pay7damage pay7damage pay7damage"
+  ],
+  "victim_response": [
+    "0201000000007000000007000000007000000007000000007000000007000000007",
+    "Feb7 damage pay4 maxDamage pay7damage pay7damage pay7damage"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 21503,
+  "query": [
+    "21226",
+    "20533"
+  ],
+  "response": [
+    "25272727272727272727272727272727",
+    " Delta bomb type fuel set 00 R D F F F F F F F F"
+  ],
+  "victim_response": [
+    "25272727272727272727272727272727",
+    " Delta bomb type fuel set 00 R D F F F F F F F F"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

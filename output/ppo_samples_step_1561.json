@@ -1,0 +1,19 @@
+{
+  "step": 1561,
+  "query": [
+    "21181",
+    "20047"
+  ],
+  "response": [
+    "-g.html\n\n\nI'm sure it will take awhile to get",
+    "2527\n\nThis is the most recent version of the paper, which is"
+  ],
+  "victim_response": [
+    "-g.html\n\n\nI'm sure it will take awhile to get",
+    "2527\n\nThis is the most recent version of the paper, which is"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

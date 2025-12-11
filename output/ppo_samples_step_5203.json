@@ -1,0 +1,19 @@
+{
+  "step": 5203,
+  "query": [
+    "20281",
+    "21108"
+  ],
+  "response": [
+    ".onepairnodes_twod7f10abb4a93d",
+    "3101,\"goldid\":34128401,\"league2id\":0"
+  ],
+  "victim_response": [
+    ".onepairnodes_twod7f10abb4a93d",
+    "3101,\"goldid\":34128401,\"league2id\":0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

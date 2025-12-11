@@ -1,0 +1,19 @@
+{
+  "step": 10997,
+  "query": [
+    "21709",
+    "21160"
+  ],
+  "response": [
+    "7 NMR5 car of an M4 car or an M1 car of",
+    "98DLDLDDLDLDLDLDLDLDLDLDLDLDLDL"
+  ],
+  "victim_response": [
+    "7 NMR5 car of an M4 car or an M1 car of",
+    "98DLDLDDLDLDLDLDLDLDLDLDLDLDLDL"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

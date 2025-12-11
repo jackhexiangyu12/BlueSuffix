@@ -1,0 +1,19 @@
+{
+  "step": 2432,
+  "query": [
+    "20887",
+    "21707"
+  ],
+  "response": [
+    ", k=5, go4,m=2, k=0,",
+    ": Author: Lainter, Paul\n\n148611(74)"
+  ],
+  "victim_response": [
+    ", k=5, go4,m=2, k=0,",
+    ": Author: Lainter, Paul\n\n148611(74)"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 6258,
+  "query": [
+    "20708",
+    "21772"
+  ],
+  "response": [
+    "A2DBDD8DDADDFDDFDDFDFDF",
+    " ATK is not a fixed damage target, but an attacker can hit with a projectile"
+  ],
+  "victim_response": [
+    "A2DBDD8DDADDFDDFDDFDFDF",
+    " ATK is not a fixed damage target, but an attacker can hit with a projectile"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

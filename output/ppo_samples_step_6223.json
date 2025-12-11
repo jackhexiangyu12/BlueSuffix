@@ -1,0 +1,19 @@
+{
+  "step": 6223,
+  "query": [
+    "21292",
+    "20583"
+  ],
+  "response": [
+    "25\" meta1\" \"FORMATNIX\" \"en-us\"",
+    " 90669d2f9f8a9f9f7"
+  ],
+  "victim_response": [
+    "25\" meta1\" \"FORMATNIX\" \"en-us\"",
+    " 90669d2f9f8a9f9f7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

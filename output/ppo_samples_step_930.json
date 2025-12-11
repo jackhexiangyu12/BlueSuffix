@@ -1,0 +1,19 @@
+{
+  "step": 930,
+  "query": [
+    "20655",
+    "21090"
+  ],
+  "response": [
+    "807 (1) is a combination of:\n(a) the date of",
+    ",0.7406,0.541,0.31,0"
+  ],
+  "victim_response": [
+    "807 (1) is a combination of:\n(a) the date of",
+    ",0.7406,0.541,0.31,0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

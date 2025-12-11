@@ -1,0 +1,19 @@
+{
+  "step": 14767,
+  "query": [
+    "21900",
+    "21145"
+  ],
+  "response": [
+    "x00200000-02 Dewisp Gallery fade sleep twroan 75% 00",
+    "D Distor Distor Distor Distor Distor Distor Distor D"
+  ],
+  "victim_response": [
+    "x00200000-02 Dewisp Gallery fade sleep twroan 75% 00",
+    "D Distor Distor Distor Distor Distor Distor Distor D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

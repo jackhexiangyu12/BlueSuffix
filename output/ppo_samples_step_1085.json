@@ -1,0 +1,19 @@
+{
+  "step": 1085,
+  "query": [
+    "21895",
+    "20653"
+  ],
+  "response": [
+    " is a Windows 8.1.1 client.\n\nHardware AVAIL",
+    ",10, and and\n\n93575, which is another name for"
+  ],
+  "victim_response": [
+    " is a Windows 8.1.1 client.\n\nHardware AVAIL",
+    ",10, and and\n\n93575, which is another name for"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

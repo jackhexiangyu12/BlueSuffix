@@ -1,0 +1,19 @@
+{
+  "step": 727,
+  "query": [
+    "21292",
+    "21895"
+  ],
+  "response": [
+    ", 22, 60414, 2, N, S, N, N",
+    " (10) is a backdoor. It's a backdoor for a backdoor. And"
+  ],
+  "victim_response": [
+    ", 22, 60414, 2, N, S, N, N",
+    " (10) is a backdoor. It's a backdoor for a backdoor. And"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

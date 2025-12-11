@@ -1,0 +1,19 @@
+{
+  "step": 1693,
+  "query": [
+    "20144",
+    "20155"
+  ],
+  "response": [
+    ".jpg\n\nhttp://files.google.com/file/d/",
+    " (1), F/R\n\n2372 (1), F/L"
+  ],
+  "victim_response": [
+    ".jpg\n\nhttp://files.google.com/file/d/",
+    " (1), F/R\n\n2372 (1), F/L"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

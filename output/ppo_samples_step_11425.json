@@ -1,0 +1,19 @@
+{
+  "step": 11425,
+  "query": [
+    "20547",
+    "20612"
+  ],
+  "response": [
+    "781 silicon chips 9 silicon chips 11 silicon chips 8 silicon chips silicon chips 12 silicon",
+    "9yzZwzwzwzZzzwzwz"
+  ],
+  "victim_response": [
+    "781 silicon chips 9 silicon chips 11 silicon chips 8 silicon chips silicon chips 12 silicon",
+    "9yzZwzwzwzZzzwzwz"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

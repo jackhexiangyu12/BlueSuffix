@@ -1,0 +1,19 @@
+{
+  "step": 8925,
+  "query": [
+    "21108",
+    "20295"
+  ],
+  "response": [
+    "2509D DDD1DDDDDDDDDDDDDDDDDDD",
+    " BSN 7BC0 BC7BCBC7BC7BC7BC7"
+  ],
+  "victim_response": [
+    "2509D DDD1DDDDDDDDDDDDDDDDDDD",
+    " BSN 7BC0 BC7BCBC7BC7BC7BC7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

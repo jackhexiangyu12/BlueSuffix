@@ -1,0 +1,19 @@
+{
+  "step": 18539,
+  "query": [
+    "21938",
+    "21160"
+  ],
+  "response": [
+    " chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " transcript time model time model time time time model time model time time time time time"
+  ],
+  "victim_response": [
+    " chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair chair",
+    " transcript time model time model time time time model time model time time time time time"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

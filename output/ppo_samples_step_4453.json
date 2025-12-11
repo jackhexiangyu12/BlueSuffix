@@ -1,0 +1,19 @@
+{
+  "step": 4453,
+  "query": [
+    "21292",
+    "20653"
+  ],
+  "response": [
+    " \"a2\" data \"a1\" data \"b1\" data \"",
+    ",h-m-r\" thewire,d-u\" c\""
+  ],
+  "victim_response": [
+    " \"a2\" data \"a1\" data \"b1\" data \"",
+    ",h-m-r\" thewire,d-u\" c\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

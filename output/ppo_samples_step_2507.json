@@ -1,0 +1,19 @@
+{
+  "step": 2507,
+  "query": [
+    "20901",
+    "21924"
+  ],
+  "response": [
+    ".\n\n\nYou must make sure the background is correct.\n\nTo go",
+    "35 (all) }\n\nDefined: 100 R0 in mC"
+  ],
+  "victim_response": [
+    ".\n\n\nYou must make sure the background is correct.\n\nTo go",
+    "35 (all) }\n\nDefined: 100 R0 in mC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

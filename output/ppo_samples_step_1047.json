@@ -1,0 +1,19 @@
+{
+  "step": 1047,
+  "query": [
+    "21739",
+    "20178"
+  ],
+  "response": [
+    "76@gmail.com\" ; // Message to inbox: String email_name",
+    " 9/28/2015 12:35 https://www.reddit.com/"
+  ],
+  "victim_response": [
+    "76@gmail.com\" ; // Message to inbox: String email_name",
+    " 9/28/2015 12:35 https://www.reddit.com/"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

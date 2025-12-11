@@ -1,0 +1,19 @@
+{
+  "step": 116,
+  "query": [
+    "21363",
+    "20155"
+  ],
+  "response": [
+    ".com/cgi/content/a/b/1.0/translation",
+    "57891501011201256700658906311065"
+  ],
+  "victim_response": [
+    ".com/cgi/content/a/b/1.0/translation",
+    "57891501011201256700658906311065"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

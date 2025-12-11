@@ -1,0 +1,19 @@
+{
+  "step": 15170,
+  "query": [
+    "20925",
+    "20648"
+  ],
+  "response": [
+    " timer stops the phone will stop recording whatever sound that is coming out of the speaker",
+    "D02D7D7D7D7D7D7D7"
+  ],
+  "victim_response": [
+    " timer stops the phone will stop recording whatever sound that is coming out of the speaker",
+    "D02D7D7D7D7D7D7D7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

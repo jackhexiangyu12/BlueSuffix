@@ -1,0 +1,19 @@
+{
+  "step": 9623,
+  "query": [
+    "20901",
+    "20925"
+  ],
+  "response": [
+    "0123001001001001001001001001001001001001001001",
+    "Hash to hash pool721199 Hash number of people who have been mining hash"
+  ],
+  "victim_response": [
+    "0123001001001001001001001001001001001001001001",
+    "Hash to hash pool721199 Hash number of people who have been mining hash"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

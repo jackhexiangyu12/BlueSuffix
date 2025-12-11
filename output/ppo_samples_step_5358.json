@@ -1,0 +1,19 @@
+{
+  "step": 5358,
+  "query": [
+    "20360",
+    "21291"
+  ],
+  "response": [
+    "1c1d8edd6d99c94d58dfd",
+    " is at 2310-040909(UTC+0300)2300"
+  ],
+  "victim_response": [
+    "1c1d8edd6d99c94d58dfd",
+    " is at 2310-040909(UTC+0300)2300"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 156,
+  "query": [
+    "20062",
+    "21620"
+  ],
+  "response": [
+    ".\n\nThe results of the new test are now available on the following sites",
+    ".0.0/libjpeg_m.dylib, 1.0"
+  ],
+  "victim_response": [
+    ".\n\nThe results of the new test are now available on the following sites",
+    ".0.0/libjpeg_m.dylib, 1.0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

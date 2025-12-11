@@ -1,0 +1,19 @@
+{
+  "step": 2589,
+  "query": [
+    "20411",
+    "20648"
+  ],
+  "response": [
+    "415500D1S&A\n\nreturn\n\n\nxs",
+    "57000, G=15.5, r=0, c=0"
+  ],
+  "victim_response": [
+    "415500D1S&A\n\nreturn\n\n\nxs",
+    "57000, G=15.5, r=0, c=0"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

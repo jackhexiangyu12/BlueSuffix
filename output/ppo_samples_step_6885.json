@@ -1,0 +1,19 @@
+{
+  "step": 6885,
+  "query": [
+    "21125",
+    "20178"
+  ],
+  "response": [
+    "59-083DFFDDFDDFDFDDFDDFDDF",
+    "'s20\" sids_prim\" dpbsqbps"
+  ],
+  "victim_response": [
+    "59-083DFFDDFDDFDFDDFDDFDDF",
+    "'s20\" sids_prim\" dpbsqbps"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

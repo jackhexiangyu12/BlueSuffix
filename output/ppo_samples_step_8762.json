@@ -1,0 +1,19 @@
+{
+  "step": 8762,
+  "query": [
+    "20968",
+    "21393"
+  ],
+  "response": [
+    "29 driver lesdays 10 unused paydays 7 unused paydays of working days nights",
+    "_00DCDCDCDCDCDCDCDCDCDCDCDCDCDC"
+  ],
+  "victim_response": [
+    "29 driver lesdays 10 unused paydays 7 unused paydays of working days nights",
+    "_00DCDCDCDCDCDCDCDCDCDCDCDCDCDC"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

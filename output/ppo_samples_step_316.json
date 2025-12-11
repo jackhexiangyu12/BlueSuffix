@@ -1,0 +1,19 @@
+{
+  "step": 316,
+  "query": [
+    "20000",
+    "21418"
+  ],
+  "response": [
+    " $0.00\n\nBib Binsthete Bicot B",
+    "46,0,P.3769,0.00\",\"Nose\",\""
+  ],
+  "victim_response": [
+    " $0.00\n\nBib Binsthete Bicot B",
+    "46,0,P.3769,0.00\",\"Nose\",\""
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

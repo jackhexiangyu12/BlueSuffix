@@ -1,0 +1,19 @@
+{
+  "step": 17130,
+  "query": [
+    "21925",
+    "20144"
+  ],
+  "response": [
+    "\" DTR \"DTSet Matches\" DTSTSetting \"D",
+    "0102D D DWS9D97D D D D D D D"
+  ],
+  "victim_response": [
+    "\" DTR \"DTSet Matches\" DTSTSetting \"D",
+    "0102D D DWS9D97D D D D D D D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 875,
+  "query": [
+    "21608",
+    "20871"
+  ],
+  "response": [
+    "77, (3), (7), (8), (10, (11",
+    " - pg-size=256 gzip file:// /tmp/Gzip"
+  ],
+  "victim_response": [
+    "77, (3), (7), (8), (10, (11",
+    " - pg-size=256 gzip file:// /tmp/Gzip"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

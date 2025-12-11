@@ -1,0 +1,19 @@
+{
+  "step": 10521,
+  "query": [
+    "21707",
+    "20846"
+  ],
+  "response": [
+    "7 1979 6796 6797 7014 7015 802 802 802 802 802 802",
+    "1 Appacent Technologies Inc 7079 0419 Sleep Gap Inc 7077"
+  ],
+  "victim_response": [
+    "7 1979 6796 6797 7014 7015 802 802 802 802 802 802",
+    "1 Appacent Technologies Inc 7079 0419 Sleep Gap Inc 7077"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

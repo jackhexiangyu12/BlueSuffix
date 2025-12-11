@@ -1,0 +1,19 @@
+{
+  "step": 11167,
+  "query": [
+    "20771",
+    "21767"
+  ],
+  "response": [
+    ".deployable :: ProxyId free 7bc90790df9d",
+    " 184D5D7D7D7D7D7D7D"
+  ],
+  "victim_response": [
+    ".deployable :: ProxyId free 7bc90790df9d",
+    " 184D5D7D7D7D7D7D7D"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

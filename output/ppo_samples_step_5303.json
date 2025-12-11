@@ -1,0 +1,19 @@
+{
+  "step": 5303,
+  "query": [
+    "20418",
+    "21377"
+  ],
+  "response": [
+    "PM\n\nTheRodeo is the world's most famous tourist attraction.",
+    "BC9F773CCE9F77BDF1F7F7"
+  ],
+  "victim_response": [
+    "PM\n\nTheRodeo is the world's most famous tourist attraction.",
+    "BC9F773CCE9F77BDF1F7F7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

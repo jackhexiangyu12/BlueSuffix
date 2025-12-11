@@ -1,0 +1,19 @@
+{
+  "step": 13279,
+  "query": [
+    "21950",
+    "21082"
+  ],
+  "response": [
+    "\" \"node node node node node node node node node node node node node node",
+    "Telco 2Telco Telco Telco Telco Telco Telco Tel"
+  ],
+  "victim_response": [
+    "\" \"node node node node node node node node node node node node node node",
+    "Telco 2Telco Telco Telco Telco Telco Telco Tel"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "step": 8532,
+  "query": [
+    "21550",
+    "20040"
+  ],
+  "response": [
+    "TCTTSDTCDTC DTS DTS DTS DTS D",
+    " miles per hour, 1 gallon of gasoline fuel, 2 gallon of AA fuel,"
+  ],
+  "victim_response": [
+    "TCTTSDTCDTC DTS DTS DTS DTS D",
+    " miles per hour, 1 gallon of gasoline fuel, 2 gallon of AA fuel,"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

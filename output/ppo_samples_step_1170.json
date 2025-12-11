@@ -1,0 +1,19 @@
+{
+  "step": 1170,
+  "query": [
+    "20281",
+    "21269"
+  ],
+  "response": [
+    ".\n\nThe aforementioned (or)\n\nB6.4.1",
+    "-1.\n\nFingerprint: (C6)\n\nNumber"
+  ],
+  "victim_response": [
+    ".\n\nThe aforementioned (or)\n\nB6.4.1",
+    "-1.\n\nFingerprint: (C6)\n\nNumber"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

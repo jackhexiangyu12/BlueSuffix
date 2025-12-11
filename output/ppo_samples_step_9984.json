@@ -1,0 +1,19 @@
+{
+  "step": 9984,
+  "query": [
+    "21772",
+    "21822"
+  ],
+  "response": [
+    "\" href=\"http://www.nielsenghttparchive.com/wp",
+    "DCDCDQCACAACAACAACAACAACAACAACAACAACAACA"
+  ],
+  "victim_response": [
+    "\" href=\"http://www.nielsenghttparchive.com/wp",
+    "DCDCDQCACAACAACAACAACAACAACAACAACAACAACA"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

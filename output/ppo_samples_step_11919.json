@@ -1,0 +1,19 @@
+{
+  "step": 11919,
+  "query": [
+    "21214",
+    "21839"
+  ],
+  "response": [
+    "F5F7D7D7D7D7D7D7",
+    "802 (Unitehant networks) 01B7Bhe9W7"
+  ],
+  "victim_response": [
+    "F5F7D7D7D7D7D7D7",
+    "802 (Unitehant networks) 01B7Bhe9W7"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}

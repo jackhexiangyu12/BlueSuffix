@@ -1,0 +1,19 @@
+{
+  "step": 5679,
+  "query": [
+    "21529",
+    "20708"
+  ],
+  "response": [
+    "01\" lastDu=u (1^2+2)__ns",
+    "56b69b7d7d7d7d7d7d"
+  ],
+  "victim_response": [
+    "01\" lastDu=u (1^2+2)__ns",
+    "56b69b7d7d7d7d7d7d"
+  ],
+  "rewards": [
+    1.0,
+    1.0
+  ]
+}
